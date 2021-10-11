@@ -1,0 +1,60 @@
+ADVANCED SEARCH
+HOME
+NEWS RELEASES
+MULTIMEDIA
+MEETINGS
+LOGIN
+REGISTER
+NEWS RELEASE 16-JUN-2021
+Semiconductor technology mitigates fire risk in electric vehicle batteries
+Convergence of semiconductor physics and electrochemistry leads to effective inhibition of dendrite formation using semiconducting passivation layers
+Peer-Reviewed Publication
+NATIONAL RESEARCH COUNCIL OF SCIENCE & TECHNOLOGY
+Print
+Email App
+IMAGE: TOP-VIEW SEM IMAGES AND PHOTOGRAPHS (INSET) OF PLAIN-LI, AND LI@P-PCL ELECTRODES AFTER CYCLING TESTS WITH LI|LI SYMMETRICAL CELLS AT 1.0 MA CM-2 AND 1.0 MAH CM-2 view more 
+CREDIT: KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY(KIST)
+Despite rapid development of electric vehicles (EVs), the safety of the lithium-ion (Li-ion) batteries remains a concern as they are as a fire and explosion risk. Among the various approaches to tackle this issue, Korean researchers have used semiconductor technology to improve the safety of Li-ion batteries. A research team from the Korea Institute of Science and Technology (KIST) led by Dr. Joong Kee Lee of the Center for Energy Storage Research has succeeded in inhibiting the growth of dendrites, crystals with multiple branches that cause EV battery fires by forming protective semiconducting passivation layers on the surface of Li electrodes.
+When Li-ion batteries are charged, Li ions are transported to the anode (the negative electrode) and are deposited on the surface as Li metal; at this point, tree-like dendrites are formed. These Li dendrites are responsible for the uncontrollable volumetric fluctuations and leads to reactions between the solid electrode and the liquid electrolyte, which causes a fire. Unsurprisingly, this severely degrades battery performance.
+To prevent dendrite formation, the research team exposed fullerene (C60), a highly electronic conductive semiconductor material, to plasma, resulting in the formation of semiconducting passivation carbonaceous layers between the Li electrode and the electrolyte. The semiconducting passivation carbonaceous layers allow Li-ions to pass through while blocking electrons due to generation of Schottky barrier, and by preventing electrons and ions from interacting on the electrode surface and inside, they stops the formation of Li crystals and the consequent growth of dendrites.
+*fullerene : a particular physical form of carbon in which 60 carbon atoms are connected by single and double bonds in a pentagonal shape to form a soccer ball-like shape
+The stability of the electrodes with the semiconducting passivation carbonaceous layers was tested using Li/Li symmetric cells in extreme electrochemical environments where typical Li electrodes remain stable for up to 20 charge/discharge cycles. The newly developed electrodes showed significantly enhanced stability, with Li dendrite growth suppressed for up to 1,200 cycles. Moreover, using a lithium cobalt oxide (LiCoO2) cathode in addition to the developed electrode, approximately 81% of the initial battery capacity was maintained after 500 cycles, representing an improvement of approximately 60% over conventional Li electrodes.
+Lead researcher Dr. Joong Kee Lee said, "The effective suppression of dendrite growth on Li electrodes is instrumental for improving battery safety. The technology for developing highly safe Li-metal electrodes proposed in this study provides a blueprint for the development of next-generation batteries that do not pose a fire risk." As Dr. Lee explains, his team's next goal is improving the commercial viability of this technology, "We aim to make the fabrication of the semiconducting passivation carbonaceous layers more cost-effective by substituting fullerene with less expensive materials."
+###
+This research was carried out as part of a KIST's institutional R&D project and a mid-career researcher project. It also received funding as an outstanding new overseas research project from the National Research Foundation of Korea with the support of the Ministry of Science and ICT (MSIT). The results of this study are published in the latest issue of 'ACS Energy Letters' (IF: 19.003, Top 1.852% in JCR), a highly respected international journal in the field of materials science.
+JOURNAL
+ACS Energy Letters
+DOI
+10.1021/acsenergylett.1c00150
+Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.
+Print
+Email App
+Media Contact
+Do-Hyun Kim
+
+ddd@kist.re.kr
+Office: 82-295-86344
+More on this News Release
+Semiconductor technology mitigates fire risk in electric vehicle batteries
+NATIONAL RESEARCH COUNCIL OF SCIENCE & TECHNOLOGY
+JOURNAL
+ACS Energy Letters
+FUNDER
+DOI
+10.1021/acsenergylett.1c00150
+KEYWORDS
+BATTERIES
+FIRE
+CARBON CYCLE
+ADDITIONAL MULTIMEDIA
+Copyright © 2021 by the American Association for the Advancement of Science (AAAS)
+facebook.com/EurekAlert
+@EurekAlert
+youtube.com/EurekAlert
+Help / FAQ
+Services
+Eligibility Guidelines
+Contact EurekAlert!
+Terms & Conditions
+Privacy Policy
+Disclaimer

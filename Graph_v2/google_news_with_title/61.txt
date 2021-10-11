@@ -1,0 +1,114 @@
+MARKETS
+BUSINESS
+INVESTING
+TECH
+POLITICS
+CNBC TV
+WATCHLIST
+PRO
+MAKE IT
+USA
+INTL
+Search quotes, news & videos
+SIGN IN
+To join the CNBC Technology Executive Council, go to cnbccouncils.com/tec
+COUNCIL MEMBERS
+FOUNDING MEMBERS
+ADVISORY BOARD
+TECHNOLOGY EXECUTIVE COUNCIL
+Semiconductor chip shortage could extend through 2022, Marvell CEO says
+PUBLISHED SUN, OCT 3 202110:18 AM EDT
+Ian Thomas
+SHARE
+Share Article via Facebook
+Share Article via Twitter
+Share Article via LinkedIn
+Share Article via Email
+KEY POINTS
+The “painful period” of the semiconductor chip shortage could extend beyond 2022, Marvell Technology CEO Matt Murphy said during a CNBC Technology Executive Council event on Thursday.
+Other chip industry executives, such as AMD CEO Lisa Su, have signaled that additional manufacturing capacity will begin addressing those issues next year.
+The shortage has harmed several sectors, but perhaps no more than the automotive industry where production has been slowed due to a lack of chips, leading to drops in sales.
+In this article
+MRVL
+Narumon Bowonkitwanchai | Moment | Getty Images
+The semiconductor chip shortage that is hamstringing the production of products ranging from cars and computers to appliances and toothbrushes will extend into 2022 and potentially beyond that, the CEO of semiconductor company Marvell Technology said.
+“Right now, every single end market for semiconductors is up simultaneously; I’ve been in this industry 27 years, I’ve never seen that happen,” said Marvell CEO Matt Murphy during a CNBC Technology Executive Council event on Thursday. “If it stays business as usual, and everything’s up and to the right, this is going to be a very painful period, including in 2022 for the duration of the year.”
+While several chip producers have announced plans to expand factory capacity, Murphy, who noted his firm is fabless and works with contract manufacturers on its designs, said “that’s not going to kick in until 2023 and 2024 — so there’s this painful period.”
+That is a more pessimistic view than some of Murphy’s chip industry peers, who have recently said they expect the shortage to wane next year as new factories open.
+“We’ve always gone through cycles of ups and downs, where demand has exceeded supply or vice versa,” AMD CEO Lisa Su said Monday at the Code Conference in Beverly Hills, California. “This time, it’s different.”
+Su said that while she expects the first half of 2022 to be “likely tight,” the second half will be less severe as manufacturing capacity opens.
+“It might take, you know, 18 to 24 months to put on a new plant, and in some cases even longer than that,” Su said. “These investments were started perhaps a year ago.”
+AMD rival Intel is one of the companies that has looked to double down on manufacturing, announcing in March that it would invest $20 billion in two new chip factories in Arizona.
+TSMC, which is the biggest manufacturer of semiconductors on contract and works with companies including Marvell, is also building a $12 billion factory in Arizona. The company announced in April that it would invest $100 billion over the next three years to increase factory capacity.
+VIDEO03:05
+No one knows for sure when ‘painful period’ of chip shortages will end: Marvell Technology CEO
+“Massive pockets of inventory”
+Murphy said the shortage may be addressed as the demand for certain chip-using products finally falls.
+“I think there’s no way, from my point of view, that every segment of the electronics industry stays up and to the right, ripping demand for another 12 months; it doesn’t make any sense,” Murphy said. “I think something’s got to give. And when it gives that should free up the capacity in aggregate for the rest of the industry to go consume and ultimately align it with the true demand.”
+Slowing of demand could come from areas such as the personal computer market, Murphy said, citing Micron Technology’s lower-than-expected sales guidance for its upcoming quarter.
+Micron Technology CEO Sanjay Mehrotra said on CNBC’s “Mad Money” on Wednesday that while PC end user demand is strong, “some of the PC customers are not able to fulfill their demand because they’re not getting sufficient all components that are needed to build the PCs.”
+More than 300 million personal computers were sold in 2020, according to market intelligence firm IDC, up from 268 million in 2019.
+That led some analysts to project upwards of 400 million PC sales in the coming years, but it is a sales trajectory which Murphy expressed doubts about during the CNBC TEC event.
+Eventually, Murphy said he expects there to be “massive pockets of over inventory when this is all done.”
+“If you look at how many masks or hand sanitizers or toilet paper that is flowing around, there was a panic, and there’s a panic buy on semiconductors right now,” he said. “At some point, you order an order and it goes the other way.”
+Auto industry still being hit hard
+Any chip inventory relief would be welcomed by the automotive industry, which has perhaps been the hardest hit by the lack of semiconductors.
+General Motors said Friday that U.S. vehicle sales during the third quarter fell by more than 30% year-over-year as the chip shortage interrupted production and reduced available inventory at dealerships.
+Last month, the automaker shut down production at most of its North American plants again as it dealt with a lack of semiconductor chips. That short supply has forced General Motors to shift its available chips to only its most popular and profitable vehicles, such as pickup trucks.
+Overall, U.S. auto sales are expected to drop at least 13% in the third quarter due to disrupted production tied back to the chip shortage, according to industry estimates.
+Still, several automakers suggested those issues could be absolved soon.
+“The semiconductor supply disruptions that impacted our third-quarter wholesale and customer deliveries are improving,” Steve Carlisle, GM president of North America, said in a statement. “As we look to the fourth quarter, a steady flow of vehicles held at plants will continue to be released to dealers, we are restarting production at key crossover and car plants, and we look forward to a more stable operating environment through the fall.”
+Tesla CEO Elon Musk recently called the semiconductor chip shortage a “short-term” problem, saying that “there’s a lot of chip fabrication plants that are being built and I think we will have good capacity by next year.”
+Refocusing the supply chain
+Murphy said the shortage of semiconductors has shifted some of the thinking as it relates to the supply chain.
+“Even before the pandemic hit there was tightening that was going on,” he said. “The chip companies actually have to take a different view now of supply entry, it’s a strategic imperative in terms of how you plan your capacity, your relationships with your suppliers.”
+There is more willingness from buyers to pay for capacity in advance or to sign up for take-or-pay agreements, which would mean the company would take the product from the supplier or pay a penalty, Murphy said.
+“We’re viewing this as a strategic shift to capacity being strategic, not just an afterthought,” he said.
+VIDEO04:55
+Here’s the best way to solve the chip shortage crisis
+MORE IN TECHNOLOGY EXECUTIVE COUNCIL
+WATCH NOW
+VIDEO03:05
+No one knows for sure when ‘painful period’ of chip shortages will end: Marvell Technology CEO
+WATCH NOW
+VIDEO01:05
+Every end market for semiconductors is up, Marvell CEO says
+Lack of workers is further fueling supply chain woes
+Susan Caminiti
+READ MORE
+Subscribe to CNBC PRO
+Licensing & Reprints
+CNBC Councils
+Supply Chain Values
+CNBC on Peacock
+Advertise With Us
+Join the CNBC Panel
+Digital Products
+News Releases
+Closed Captioning
+Corrections
+About CNBC
+Internships
+Site Map
+Ad Choices
+Careers
+Help
+Contact
+News Tips
+Got a confidential news tip? We want to hear from you.
+GET IN TOUCH
+CNBC Newsletters
+Sign up for free newsletters and get more CNBC delivered to your inbox
+SIGN UP NOW
+Get this delivered to your inbox, and more info about our products and services. 
+Privacy Policy
+|
+Do Not Sell My Personal Information
+|
+CA Notice
+|
+Terms of Service
+© 2021 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+Market Data Terms of Use and Disclaimers
+Data also provided by

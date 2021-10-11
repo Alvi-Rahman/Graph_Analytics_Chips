@@ -1,0 +1,178 @@
+Europe plans a Chips Act to boost semiconductor sovereignty
+Natasha Lomas@riptari / 5:09 PM GMT+6•September 15, 2021
+comment Comment
+cameraImage Credits: Torsak Thammachote
+(opens in a new window)
+/ Shutterstock
+(opens in a new window)
+The EU will use legislation to push for greater resilience and sovereignty in regional semiconductor supply chains.
+The bloc’s president trailed a forthcoming “European Chips Act” in a state of the union speech today. Ursula von der Leyen suggested that gaining greater autonomy in chipmaking is now a key component of the EU’s overarching digital strategy.
+She flagged the global shortage of semiconductors, which has led to slowdowns in production for a range of products that rely on chips to drive data processing — from cars and trains to smartphones and other consumer electronics — as driving EU lawmakers’ concern about European capacity in this area.
+“There is no digital without chips,” said von der Leyen. “While we speak, whole production lines are already working at reduced speed — despite growing demand — because of a shortage of semi-conductors.
+“But while global demand has exploded, Europe’s share across the entire value chain, from design to manufacturing capacity has shrunk. We depend on state-of-the-art chips manufactured in Asia. So this is not just a matter of our competitiveness. This is also a matter of tech sovereignty. So let’s put all of our focus on it.”
+The Chips Act will aim to link together the EU’s semiconductor research, design and testing capacities, she said, calling for “coordination” between EU and national investments in this area to help boost the bloc’s self-sufficiency.
+“The aim is to jointly create a state-of-the-art European chip ecosystem, including production. That ensures our security of supply and will develop new markets for ground-breaking European tech,” she added.
+The EU president couched the ambition for bolstering European chip capacity as a “daunting task” but likened the mission to what the bloc did with its Galileo satellite navigation system two decades ago.
+“Today European satellites provide the navigation system for more than 2 billion smartphones worldwide. We are world leaders. So let’s be bold again, this time with semi-conductors.”
+In follow-up remarks, the EU’s internal market commissioner, Thierry Breton, put a little more meat on the bones of the legislative plan — saying the Commission wants to integrate Member State efforts into a “coherent” pan-EU semiconductor strategy and also create a framework “to avoid a race to national public subsidies fragmenting the single market”.
+The aim will be to “set conditions to protect European interests and place Europe firmly in the global geopolitical landscape”, he added.
+Per Breton, the Chip Act will comprise three elements: Firstly, a semiconductor research strategy that will aim to build on work being done by institutions such as IMEC in Belgium, LETI/CEA in France and Fraunhofer in Germany.
+“Building on the existing research partnership (the KDT Joint Undertaking), we need to up our game, and design a strategy to push the research ambitions of Europe to the next level while preserving our strategic interests,” he noted.
+The second component will consist of a collective plan to boost European chipmaking capacity.
+He said the planned legislation will aim to support chip supply chain monitoring and resilience across design, production, packaging, equipment and suppliers (e.g. producers of wafers).
+The goal will be to support the development of European “mega fabs” that are able to produce high volumes of the most advanced (towards 2nm and below) and energy-efficient semiconductors.
+However, the EU isn’t planning for a future when it can make all the chips it needs itself.
+The last plank of the European Chip Act will set out a framework for international co-operation and partnership.
+“The idea is not to produce everything on our own here in Europe. In addition to making our local production more resilient, we need to design a strategy to diversify our supply chains in order to decrease over-dependence on a single country or region,” Breton went on. “And while the EU aims to remain the top global destination of foreign investment and we welcome foreign investment to help increase our production capacity especially in high-end technology, through the European Chips Act we will also put the right conditions in place to preserve Europe’s security of supply.”
+“The US are now discussing a massive investment under the American Chips Act designed to finance the creation of an American research centre and to help open up advanced production factories. The objective is clear: to increase the resilience of US semiconductor supply chains,” he added.
+“Taiwan is positioning itself to ensure its primacy on semiconductor manufacturing. China, too, is trying to close the technological gap as it is constrained by export control rules to avoid technological transfers. Europe cannot and will not lag behind.”
+In additional documentation released today, the EU said the Chips Act will build on other digital initiatives already presented by the von der Leyen Commission — such as moves to contain the power of “gatekeeper” internet giants and increase platforms’ accountability (the Digital Markets Act and Digital Services Act); regulate high-risk applications of AI (the Artificial Intelligence Act); tackle online disinformation (via a beefed up code of practice); and boost investment in regional digital infrastructure and skills.
+More TechCrunch
+Hacker leaks Twitch source code and creator payout data
+Coinbase to propose a federal regulatory framework for crypto to U.S. officials within the next month
+Tracking CO2 emissions for supply chains leads Normative to a €10M fund raise
+6 tips for establishing your startup's global supply chain
+Sign up for Newsletters
+See all newsletters
+(opens in a new window)
+Daily
+Week in Review
+Startups Weekly
+Event Updates
+Advertising Updates
+TechCrunch+ Announcements
+TechCrunch+ Events
+TechCrunch+ Roundup
+Email
+Subscribe
+facebook
+(opens in a new window)
+twitter
+(opens in a new window)
+linkedin
+(opens in a new window)
+mail
+(opens in a new window)
+Copy Share Link
+Copy
+Tags
+Europe
+Hardware
+consumer electronics
+Digital Markets Act
+Digital Services Act
+Europe
+European Chips Act
+european commission
+european union
+fraunhofer
+semiconductor
+semiconductors
+‘Fantasy equity’ NFT game wants you to spend real money buying fake shares of real startups
+Lucas Matney
+1:12 AM GMT+6•October 7, 2021
+The meme-ification of ownership and the wild acceleration of private startup valuations have led us to this moment where a former VC firm associate has built a crypto marketplace designed for ̶...
+Pinterest rolls out new shopping features for advertisers
+Aisha Malik
+12:56 AM GMT+6•October 7, 2021
+Pinterest is rolling out new features for advertisers and brands to promote their products to users on its site. The launch marks the company’s latest initiative to grow online shopping and adverti...
+OpenStack gains new momentum, as deployments increase during the pandemic
+Frederic Lardinois
+12:51 AM GMT+6•October 7, 2021
+OpenStack, the open-source project that gives large enterprises and public cloud providers the tools to run their own AWS-like private clouds in their data centers, today announced the release of O...
+Driving AI innovation in tandem with regulation
+Will Uppington
+12:47 AM GMT+6•October 7, 2021
+Is the combination of regulation and pro-innovation policies enough to spur accelerating AI leadership?
+With return of ‘Report a Problem’ on App Store, Apple invites public to help fight fraud
+Sarah Perez
+12:43 AM GMT+6•October 7, 2021
+Apple is making a change to its App Store by returning the “Report a Problem” link to App Store product pages across iOS 15, iPadOS 15 and macOS Monterey devices. The link offers an eas...
+Why emerging technology founders should tackle the hardest problems first
+Rebecca Bellan
+12:11 AM GMT+6•October 7, 2021
+We caught up with Sila co-founder and CEO Gene Berdichevsky to explore how founders should think about scaling, how they should approach funding and why they should tackle the hardest problem first...
+TC Sessions: SaaS 2021
+Announcing the final agenda for TechCrunch Sessions: SaaS 2021
+Ron Miller, Richard Smith, Alex Wilhelm
+11:27 PM GMT+6•October 6, 2021
+TechCrunch Sessions is back! On October 27, we’re taking on the ferociously competitive field of software as a service (SaaS), and we’re thrilled to announce our final packed agenda, overflowing wi...
+GM to introduce new hands-free driver assistance system in 2023, starting with Cadillac
+Kirsten Korosec
+11:20 PM GMT+6•October 6, 2021
+GM plans to roll out a new, more capable hands-free driving assistance system in 2023 that will be able to handle 95% of all driving scenarios and eventually be used on every paved road in the U.S....
+UK publishes safety-focused rules for video sharing platforms like TikTok
+Natasha Lomas
+11:06 PM GMT+6•October 6, 2021
+Video sharing platforms that offer a service in the UK have to comply with new regulations intended to protect users and under 18s from harmful content such as hate speech and videos/ads likely to ...
+BeeHero’s precision pollination platform wings its way to $19M in new funding
+Devin Coldewey
+11:01 PM GMT+6•October 6, 2021
+Move over, precision agriculture — precision apiculture is what’s on the minds of all future-focused farmers. BeeHero has been growing fast since its debut and seed round last year, and $19M ...
+Facebook should cancel Instagram Kids, not put it on ‘pause’
+Sean Herman
+10:54 PM GMT+6•October 6, 2021
+A junior version of Instagram won’t make the internet a better place for kids or parents. It’ll just hook ’em young — which is something Facebook is clearly motivated to do.
+A new US bill would force companies to disclose ransomware payments
+Carly Page
+10:52 PM GMT+6•October 6, 2021
+A new proposed law would compel businesses in the U.S. to disclose any ransomware payments within 48 hours of the transaction. The bicameral Ransom Disclosure Act, drafted by Sen. Elizabeth Warren ...
+VCs say there are more startup opportunities to chase in Latin America
+Alex Wilhelm, Anna Heim
+10:36 PM GMT+6•October 6, 2021
+There are still founders in Latin America that are not benefiting from the funding boom, which implies that there is more capacity to absorb capital there than is currently being taken advantage of...
+GM says it will double revenue by 2030, take EV market share from Tesla
+Kirsten Korosec
+10:02 PM GMT+6•October 6, 2021
+GM said Wednesday it will double its revenues by the end of the decade and take over the market share of EVs — a spot that Tesla currently enjoys — all while increasing profit margins for its inter...
+GM takes aim at Tesla’s market share with growing portfolio of ‘really affordable EVs for people’
+Aria Alamalhodaei
+10:00 PM GMT+6•October 6, 2021
+General Motors laid out its forthcoming EV portfolio at its investor event Wednesday, with the full-size electric pickup Chevrolet Silverado as the centerpiece, as the company seeks to gain market ...
+YouTube removes R. Kelly’s official channels
+Kris Holt
+9:48 PM GMT+6•October 6, 2021
+YouTube has taken down R. Kelly’s official channels after the singer was convicted of sex trafficking, and Kelly will not be allowed to create or own any other channel on the platform.
+Snapchat revamps creator payouts by offering chance to win prizes with Spotlight Challenges
+Sarah Perez
+9:26 PM GMT+6•October 6, 2021
+As competition for creator talent heats up, Snap today introduced a series of new tools, programs, and features that will enable creators on its platform to generate revenue. These include the expa...
+Y Combinator-backed CostCertified lands $8.45M to build the ‘Amazon for construction’
+Mary Ann Azevedo
+9:00 PM GMT+6•October 6, 2021
+CostCertified, a Canadian startup which provides real-time, interactive residential construction estimates, raised $8.45 million in a seed round of funding. FUSE, a Pacific Northwest venture firm w...
+Getting the details right in your pitch deck
+Danny Crichton
+8:50 PM GMT+6•October 6, 2021
+This year’s Pitch Deck Teardown at TechCrunch Disrupt was full of invaluable advice from an exceptional VC panel about how to capture investors’ attention.
+Vlad Novakovski and Nicole Quinn to elucidate Series A fundraising
+Matt Burns
+8:50 PM GMT+6•October 6, 2021
+Vlad Novakovski co-founded Lunchclub in 2017 as a way to improve professional networking. In 2020, the company made a large push toward videos (thanks, COVID) and eventually saw enough traction to ...
+About
+TechCrunch
+Staff
+Contact Us
+Advertise
+Legal
+Privacy Policy
+Terms of Service
+TechCrunch+ Terms
+Code of Conduct
+International
+Japan
+FacebookFacebook
+(opens in a new window)
+TwitterTwitter
+(opens in a new window)
+YouTubeYouTube
+(opens in a new window)
+InstagramInstagram
+(opens in a new window)
+LinkedInLinkedIn
+(opens in a new window)
+© 2013-2021 Verizon Media.
+All rights reserved.
+Powered by WordPress VIP
+(opens in a new window)
+.

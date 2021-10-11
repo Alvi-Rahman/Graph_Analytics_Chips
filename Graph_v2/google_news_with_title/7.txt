@@ -1,0 +1,138 @@
+THE GLOBAL AUTHORITY ON PC GAMES
+SUBSCRIBE
+US Edition
+News
+Reviews
+Hardware
+Indie
+Best Of
+Magazine
+Forum
+More
+POPULAR
+Windows 11
+New World
+Halo Infinite
+Diablo 2 Resurrected
+Top 100
+Squid Game
+Deathloop
+PC Gamer is supported by its audience. When you buy through links on our site, we may earn an affiliate commission. Learn more
+Home News
+The chip shortage could turn into a chip oversupply by 2023 states analyst firm
+By Jacob Ridley 16 days ago
+Well that would be quite the change of pace.
+COMMENTS
+(Image credit: Intel)
+The chip shortage could turn into a chip oversupply by 2023, according to analyst firm IDC. That's perhaps not a fix-all solution for those desperate for new graphics silicon today, but, hey, at least it offers some hope that this isn't going to last forever, right?
+The IDC report (via The Register) notes that it expects the semiconductor industry to see "normalisation and balance by the middle of 2022, with a potential for overcapacity in 2023 as larger scale capacity expansions begin to come online towards the end of 2022."
+Manufacturing capacity is also said to be already maxed out for 2021, meaning every fab is booked up for the remainder of the year. Though it's reportedly looking a little better for fabless companies (i.e. AMD, Nvidia) to get hold of the chips they need.
+Although with that comes warning of material shortages and slowdowns to back-end manufacturing (all the processes needing to be done to the wafer after it's been produced).
+RECOMMENDED VIDEOS FOR YOU...
+
+With the added pressure of the holiday shopping bonanza towards the end of the year, and low supply leading up to the busy period, I'd take a guess that we, as customers, are unlikely to feel the benefits of the somewhat improved supply—I'm happy to be proven wrong, however.
+But that's still good news regarding next year and into 2023, although largely in line with what we've heard from Intel and TSMC over the past year in regards to supply issues.
+As for what large-scale capacity expansions are on the way, there are a multitude of fabrication plant projects in the works. Intel, Samsung, and TSMC (to name only the largest) are all planning entirely new advanced chipmaking facilities, including heaps in the US. 
+However, the majority of these fabs won't be powered on and pumping out chips until much later than 2022.
+Intel's Ocotillo Fab in Arizona. (Image credit: Intel)
+TIPS AND ADVICE
+(Image credit: Future)
+How to buy a graphics card: tips on buying a graphics card in the barren silicon landscape that is 2021
+So an improvement like the one the IDC report must also depend on investment going into maintaining, improving, and expanding existing foundry capacity. As new process nodes begin to reach volume production that too will also help ease current congestion.
+Manufacturers will be cautious to going overboard in increasing supply, though. They're selling absolutely everything they can build right now and overdelivering on the supply front could leave them swimming in leftover chips or having to drop prices. That actually happened to Nvidia once, and it did not end well. 
+It's a bit of a tightrope: on the one hand, the massive potential in serving more products to more customers; on the other, the potential to be left with expensive fabs not making as much profit as they could be.
+As all this correlates to gamers, it's graphics cards that appear the most affected by silicon shortages and massive demand more than any other component. GPU prices have appeared to drop substantially since early year highs, although the latest reports suggest we're not out of the woods yet.
+So I wouldn't expect major shifts in graphics card supply in 2021, even if the IDC report rings true. I will say, though, that since both analyst and CEO seem to agree that 2023 will be back to normal, I'm quietly hopeful for that outcome.
+At least that way we might stand a chance of picking up at least an Nvidia RTX 4000-series or AMD RX 7000-series graphics card at MSRP—even if that means leaving this potentially awesome generation as a bit of a damp squib.
+Jacob Ridley
+Jacob earned his first byline writing for his own tech blog from his hometown in Wales in 2017. From there, he graduated to professionally breaking things at PCGamesN, where he would later win command of the kit cupboard as hardware editor. Nowadays, as senior hardware editor at PC Gamer, he spends his days reporting on the latest developments in the technology and gaming industry. When he's not writing about GPUs and CPUs, you'll find him trying to get as far away from the modern world as possible by wild camping.
+MORE ABOUT...
+After 8 years, Rust is getting a mission system
+Valve shows how to take apart the Steam Deck, but it really doesn't want you to
+LATEST
+'Evolved Apes' NFT creator Evil Ape disappears with $2.7M
+SEE MORE LATEST
+See comments
+Install Windows 11 without worrying about TPM 2.0 or blocked updates with this workaround
+Microsoft is making every effort to dissuade you from running Windows 11 on unsupported hardware, but if you don't meet the requirements for any reason, you can get the OS up and running anyway and still receive updates, despite the company's roadblocks. Some of which feel rather arbitrary, like not
+PC Gamer
+Dhaka: The Cost of Solar Panels May Surprise You
+Solar panels | Search ads
+|
+Sponsored
+Are You From Bangladesh? Project Management Courses Might Suprise You
+Online Project Management Courses | Search ads
+|
+Sponsored
+Online Jobs in the USA May Pay Tejgaon Residents More Than You Think
+Find Jobs Near Me
+|
+Sponsored
+The Prices Of A Masters Degree in United Kingdom Might Actually Surprise You 
+Search | Masters Degree UK
+|
+Sponsored
+MOST POPULAR
+Twitch streamers aren't particularly bothered about their pay leaking
+By Mollie Taylorabout 3 hours ago
+New World remains offline as 'technical difficulties' force extended downtime
+By Andy Chalkabout 4 hours ago
+Old School Runescape's first new mode in years is a hardcore co-op odyssey
+By Natalie Claytonabout 4 hours ago
+Twitch confirms massive data breach has happened, is still figuring out why
+By Rich Stantonabout 4 hours ago
+Teardown's free 'Part 2' update goes full Garry's Mod
+By Natalie Claytonabout 5 hours ago
+Twitch megaleak reveals secret Steam competitor codenamed Vapour
+By Rich Stantonabout 6 hours ago
+Amazon says 'New World is safe to play' despite anecdotal reports of bricked GPUs
+By Dave Jamesabout 6 hours ago
+TSMC claims some companies in the tech supply chain are stockpiling its chips
+By Dave Jamesabout 6 hours ago
+This Gigabyte gaming laptop packs a GeForce RTX 3050 Ti and PCIe 4.0 SSD for $899
+By Paul Lillyabout 7 hours ago
+Geekbench now blocks benchmark scores from unreleased hardware
+By Paul Lillyabout 8 hours ago
+TOPICS
+HARDWARE
+INTEL
+GRAPHICS CARD
+SAMSUNG
+TSMC
+SHORTAGES
+GPU
+AMD
+GPU STOCK
+NVIDIA
+LOAD COMMENTS
+Advertisement
+RECOMMENDED
+Windows 11 review: We like it but you shouldn't be upgrading today
+Hackers drain cryptocurrency accounts of thousands of Coinbase users
+PC GAMER NEWSLETTER
+Sign up to get the best content of the week, and great gaming deals, as picked by the editors.
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+Advertisement
+HARDWARE BUYING GUIDES
+LATEST GAME REVIEWS
+1
+The best gaming laptops in Australia for 2021
+2
+The best RAM for gaming in 2021
+3
+The best mid-tower cases in 2021
+4
+Best antivirus for PC gaming 2021
+5
+The best graphics cards in 2021
+Advertisement
+PC Gamer is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+About Us
+Terms and conditions
+Privacy policy
+Cookies policy
+Advertise with us
+Accessibility Statement
+© Future US, Inc. 11 West 42nd Street, 15th Floor, New York, NY 10036.

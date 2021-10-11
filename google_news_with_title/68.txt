@@ -1,0 +1,116 @@
+HOME
+ABOUT
+CONTACT
+NEWSLETTER
+TRENDING NEWS
+BIOLOGY
+CHEMISTRY
+EARTH
+HEALTH
+PHYSICS
+SCIENCE
+SPACE
+TECHNOLOGY
+HOT TOPICS
+OCTOBER 2, 2021 | MORE EVIDENCE THAT VITAMIN D PROTECTS AGAINST SEVERE COVID-19 DISEASE AND DEATH
+HOME TECHNOLOGY NEWS
+Newly Discovered Family of 2D Semiconductors Enables More Energy-Efficient Electronic Devices
+TOPICS:2D MaterialsElectrical EngineeringNanotechnologySemiconductorsSingapore University Of Technology And Design
+By SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN OCTOBER 1, 2021
+SUTD researchers show how a newly discovered family of two-dimensional (2D) semiconductors are more energy-efficient thanks to the presence of a built-in atomic protection layer.
+According to researchers from the Singapore University of Technology and Design (SUTD), a recently discovered family of two-dimensional (2D) semiconductors could pave the way for high-performance and energy-efficient electronics. Their findings, published in npj 2D Materials and Applications, may lead to the fabrication of semiconductor devices applicable in mainstream electronics and optoelectronics—and even potentially replace silicon-based device technology altogether.
+In the quest of miniaturizing electronic devices, one well-known trend is Moore’s law, which describes how the number of components in the integrated circuits of computers doubles every two years. This trend is possible thanks to the ever-decreasing size of transistors, some of which are so small that millions of them can be crammed onto a chip the size of a fingernail. But as this trend continues, engineers are starting to grapple with the inherent material limitations of silicon-based device technology.
+(Left Panel) Illustration of metal contacts to MoSi2N4 monolayer. A Schottky contact is formed when gold is used as an electrode material to MoSi2N4. On the other hand, an energy-efficient Ohmic contact can be achieved by using titanium electrode. (Right Panel) The ‘slope parameters’ S of MoSi2N4 and WSi2N4 metal contacts studied in this work are among the lowest when compared to other species of 2D semiconductors, suggesting the strong potential of MoSi2N4 and WSi2N4 for electronics device applications. Credit: SUTD
+“Due to the quantum tunneling effect, shrinking a silicon-based transistor too small will lead to highly uncontrollable device behaviors,” said SUTD Assistant Professor Ang Yee Sin, who led the study. “People are now looking for new materials beyond the ‘silicon era’, and 2D semiconductors are a promising candidate.”
+2D semiconductors are materials that are only a few atoms thick. Because of their nanoscale size, such materials are strong contenders as replacements for silicon in the quest of developing compact electronic devices. However, many currently available 2D semiconductors are plagued by high electrical resistance when they come into contact with metals.
+“When you form a contact between metal and semiconductor, often there will be what we call a Schottky barrier,” explained Ang. “In order to force electricity through this barrier, you need to apply a strong voltage, which wastes electricity and generates waste heat.”
+This piqued the team’s interest in Ohmic contacts, or metal-semiconductor contacts with no Schottky barrier. In their study, Ang and collaborators from Nanjing University, the National University of Singapore, and Zhejiang University showed that a recently discovered family of 2D semiconductors, namely MoSi2N4 and WSi2N4, form Ohmic contacts with the metals titanium, scandium, and nickel, which are widely used in the semiconductor device industry.
+Furthermore, the researchers also showed that the new materials are free from Fermi level pinning (FLP), a problem that severely limits the application potential of other 2D semiconductors.
+“FLP is an adverse effect that happens in many metal-semiconductor contacts, and is caused by defects and complex materials interactions at the contact interface,” Ang said.  “Such an effect ‘pins’ the electrical properties of the contact to a narrow range regardless of the metal used in the contact.”
+Because of FLP, engineers are unable to tune or adjust the Schottky barrier between the metal and semiconductor—diminishing the design flexibility of a semiconductor device.
+To minimize FLP, engineers usually employ strategies like very gently and slowly positioning the metal on top of the 2D semiconductor, creating a buffer layer between the metal and semiconductor or using a 2D metal as a contact material with the 2D semiconductor. While these methods are feasible, they are not yet practical and are incompatible with mass fabrication using mainstream industry techniques available today.
+Amazingly, Ang’s team showed that MoSi2N4 and WSi2N4 are naturally protected from FLP due to an inert Si-N outer layer that shields the underlying semiconducting layer from defects and material interactions at the contact interface.
+Because of this protection, the Schottky barrier is ‘unpinned’ and can be tuned to match a wide array of application requirements. This improvement in performance helps put 2D semiconductors in the running as replacements for silicon-based technology, with major players like TSMC and Samsung already expressing interest in 2D semiconductor electronics.
+Ang hopes that their work will encourage other researchers to probe more members of the newly discovered 2D semiconductor family for interesting properties, even those with applications beyond electronics.
+“Some of them might be very poor in terms of electronics applications but very good for spintronics, photocatalysts, or as a building block for solar cells,” he concluded. “Our next challenge is to systematically scan through all of these 2D materials and categorize them according to their potential applications.”
+Reference: “Efficient Ohmic contacts and built-in atomic sublayer protection in MoSi2N4 and WSi2N4 monolayers” by Qianqian Wang, Liemao Cao, Shi-Jun Liang, Weikang Wu, Guangzhao Wang, Ching Hua Lee, Wee Liat Ong, Hui Ying Yang, Lay Kee Ang, Shengyuan A. Yang and Yee Sin Ang, 4 August 2021, npj 2D Materials and Applications.
+DOI: 10.1038/s41699-021-00251-y
+SHARE
+TWEET
+PIN
+SHARE
+Previous post Next post
+MORE ON SCITECHDAILY
+TECHNOLOGY
+Unleashing the Potential of the Mind: Controlling Digital Interfaces, Such As Phones, Through Brain Signals
+TECHNOLOGY
+Nanotechnology Advance Enables Tinier Transistors With Extraordinary Performance
+CHEMISTRY
+New Technique Could Improve Electronics’ Energy Efficiency
+TECHNOLOGY
+Ultrathin Semiconductors Equipped With Superconducting Contacts for the First Time
+PHYSICS
+From Heat to Spin to Electricity: Understanding Spin Transport in Thermoelectric Devices
+TECHNOLOGY
+Engineers Design a New Solar Cell That is More Efficient and Costs Less
+TECHNOLOGY
+LED Developed That Can Be Integrated Directly Into Computer Chips
+PHYSICS
+Physics Process Yielding Nanolasers in 2D Semiconductors Could Be Game-Changer for High Speed Communications
+BE THE FIRST TO COMMENT
+ON "NEWLY DISCOVERED FAMILY OF 2D SEMICONDUCTORS ENABLES MORE ENERGY-EFFICIENT ELECTRONIC DEVICES"
+Leave a comment
+Email address is optional. If provided, your email will not be published or shared.
+Comment
+Name
+Email
+SUBSCRIBE
+SciTechDaily: Home of the best science and technology news since 1998. Keep up with the latest scitech news via email or social media.
+POPULAR ARTICLES
+SEPTEMBER 30, 2021
+Solar Conjunction: NASA’s Mars Fleet Lies Low With Sun Between Earth and Red Planet
+The missions will continue collecting data about the Red Planet, though engineers back on Earth will stop sending commands to them until mid-October. NASA will…
+READ MORE
+SEPTEMBER 30, 2021
+You May Need More Vitamin C – New Analysis of Landmark Scurvy Study Leads To Update on Vitamin C Needs
+SEPTEMBER 30, 2021
+NASA’s Webb Space Telescope to Explore Forming Planetary Systems
+SEPTEMBER 30, 2021
+Coral Microbiome (Bacteria, Fungi and Viruses) Is Key to Surviving Climate Change
+SEPTEMBER 30, 2021
+AI May Predict the Next High-Risk Virus To Jump From Animals to Humans
+SEPTEMBER 29, 2021
+Fast and Furious Floods From Overflowing Craters Shaped the Surface of Mars
+SEPTEMBER 29, 2021
+New DNA Sensor Quickly Determines Whether Viruses Are Infectious
+SEPTEMBER 29, 2021
+Beware of Dog Parks: Canine Parasite Has Evolved Resistance to All Treatments
+TAGS
+Astronomy Astrophysics Behavioral Science Biochemistry Biotechnology Black Hole Brain Cancer Cell Biology Climate Change Cosmology COVID-19 Disease DOE Ecology Energy European Space Agency Evolution Exoplanet Genetics Geology Harvard-Smithsonian Center for Astrophysics Hubble Space Telescope Images Infectious Diseases JPL Mars Materials Science Max Planck Institute Medicine MIT Nanotechnology NASA NASA Goddard Space Flight Center Neuroscience Oceanography Optics Paleontology Particle Physics Planetary Science Popular Public Health Quantum Physics Virology Yale University
+FOLLOW SCITECHDAILY
+Facebook
+Twitter
+YouTube
+Pinterest
+Newsletter
+RSS
+SCITECH NEWS
+Biology News
+Chemistry News
+Earth News
+Health News
+Physics News
+Science News
+Space News
+Technology News
+LATEST NEWS
+More Evidence That Vitamin D Protects Against Severe COVID-19 Disease and Death
+Wildly Counterintuitive: Dissolved Salt Can Reassemble at Nanoscale
+Staying Young: Scientists Discover New Enzymatic Complex That Can Stop Cells From Aging
+Asteroid Ryugu Sample Brought Back to Earth Gets a Close-Up Look
+Exploring Earth From Space: Mackenzie River, Canada [Video]
+EDITORIAL BOARD
+SCIENCE NEWS
+PRIVACY POLICY
+TERMS OF USE
+COPYRIGHT © 1998 - 2021 SCITECHDAILY. ALL RIGHTS RESERVED.

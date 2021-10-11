@@ -1,0 +1,157 @@
+Deep Dive
+Opinion
+Data
+Library
+Events
+SIGN UP
+SEARCH
+Search
+x
+Coronavirus Regulation Freight Logistics Operations Procurement Technology Risk
+BRIEF
+Semiconductor shortage, lean inventories stifle memory chip demand
+Published Oct. 5, 2021
+Max Garland
+Reporter
+Justin Sullivan via Getty Images
+Dive Brief:
+Micron's inventory is at its "leanest level in many years" as it encounters shortages of integrated circuit components, limiting its ability to meet full demand, CEO Sanjay Mehrotra said on the company's Q4 earnings call.
+The computer memory chipmaker's days of inventory was 94 for the quarter — "definitely below the optimal level" of 100 to 105 days, CFO Dave Zinsner said. Micron is especially lean in finished goods inventory, with that category's value at its lowest level since 2013.
+Micron's PC customers are encountering their own inventory challenges as they face shortages of other components, slowing near-term demand the COVID-19 pandemic had accelerated. PC-makers have cut back on memory and storage purchases to wait on semiconductors to complete their computer builds, Mehrotra said.
+Micron's inventory levels fall below optimal range
+Days of inventory and optimal range (100 to 105 days) since fiscal year 2019
+Dive Insight:
+The challenges Micron's customers are having in obtaining other components are slowing the near-term need for memory chips.
+In September, manufacturers of computer and electronic products saw inventory gains as part shortage issues continued, according to the Institute for Supply Management. Manufacturers have held onto work-in-progress products, waiting for components in short supply like semiconductors to come in as order backlogs increased. Automakers, home appliance manufacturers, consumer electronics companies and other industries producing goods with chips inside have eased output due to the shortage.
+"While I expect the shortages to bottom out in the second half, it will take another 1 to 2 years before the industry is able to completely catch up with demand," said Intel CEO Pat Gelsinger on the chipmaker's Q2 earnings call.
+But with unmet end-consumer demand persisting for PCs, Mehrotra said current supply chain constraints are merely "pushing out" purchases of its products and that demand will return to normal in a few months.
+"It really is all driven by work from home, learn from home," Mehrotra said. "That demand acceleration that has taken place through the pandemic will continue to support a healthy environment for PC in calendar year '22 as well."
+Fellow memory chipmaker SK Hynix has also encountered inventory challenges amid the COVID-19 pandemic. It realized that utilizing its production capacity wouldn't be enough, so it tapped deeper into its inventory to keep up, Park Myoung-Soo, SK Hynix's head of DRAM marketing, said on the company's Q2 earnings call. Declining inventory trends in the industry "are likely to continue into the end of this year and also all the way into next year," Park added.
+Micron's chip supply will have to grow enough to both meet near-term order requirements and replenish its inventory deficit ahead of a rebound in PC-maker demand anticipated by company executives.
+Micron doesn't ever want inventory below 95 days, according to Zinsner, and inventory levels "will probably be up a few days" the next quarter but still below the ideal 100-day figure. Micron's days of inventory was well above 100 prior to fiscal year 2021.
+Mehrotra said the memory chip industry as a whole has pared back its inventory in recent years, but now Micron's supply is too lean. This is in part due to issues with procuring enough controllers and analog integrated circuits, which will limit the company's large shipments to customers in Q1, Mehrotra said.
+"As we already talked about, finished goods inventory is really where we're particularly lean," Zinsner said. "And we do have to make some progress in that space to get ourselves into a better position. But overall, I would say the back half of the year we'll probably be in the optimal range."
+This story was first published in our weekly newsletter, Supply Chain Dive: Operations. Sign up here.
+Recommended Reading:
+SUPPLY CHAIN DIVE
+TSMC says semiconductor capacity will remain tight into 2022
+SUPPLY CHAIN DIVE
+Automakers work to increase transparency into semiconductor supply
+Follow Max Garland on Twitter
+POST
+SHARE
+TWEET
+PRINT
+EMAIL
+Filed Under: Stat of the Week, Operations, Procurement, Risk/Resilience
+GET THE NEWSLETTER
+Subscribe to Supply Chain Dive to get the must-read news & insights in your inbox.
+Email:
+Sign up
+MOST POPULAR
+Delayed exports clog the wood pulp, toilet paper supply chain
+USPS moves forward with extended delivery times despite concerns
+Retailers market supply chain training amid hiring push
+Climate change poses high risk to Nestlé, Campbell Soup supply chains
+Nike warns of shortages as ocean congestion, Vietnam shutdowns hurt inventory
+LIBRARY
+WEBINAR - ON DEMAND
+How Procurement Leaders are Actioning Operational Priorities
+TRENDLINE
+Everything you need to know about peak season management
+TRENDLINE
+The latest trends and developments in warehouse automation
+View all
+PRESS RELEASES
+CMX and Mojix Partner to Launch First Open Access Food Traceability Platform
+Press release from CMX
+Denim brand G-Star RAW chooses Nedap iD Cloud to create seamless shopping experiences
+Press release from Nedap
+Nedap launches iD Cloud Platform, enabling inventory visibility across supply chains
+Press release from Nedap
+Rapidly Growing Kansas City 3PL Provider Partners with USPS
+Press release from WarehouseQuote
+View all | Post a press release
+WHAT WE'RE READING
+TRANSPORT DIVE
+Inside the financial health of trucking's largest players
+Oct. 06
+CNBC
+Oil analysts predict a prolonged rally as OPEC resists calls to ramp up supply
+Oct. 06
+REUTERS
+IKEA to shift more production to Turkey to shorten supply chain
+Oct. 06
+View all
+EVENTS
+What Will the Supply Chain Look Like in 2022 and Beyond?
+Webinar 2 pm ET • Oct 6, 2021
+Solving 5 Common Visibility Problems with Telematics
+Webinar 2 pm ET • Oct 14, 2021
+Overcoming Supply Chain Volatility To Build Resiliency
+Webinar 2 pm ET • Oct 20, 2021
+View all events
+INDUSTRY INTEL
+EBOOK
+A Practical Guide to Autonomous Procurement
+Jaggaer
+WHITEPAPER
+How to Keep Your Liquidation Programs from Competing with Your Primary Sales Channel
+Inmar Intelligence
+DOWNLOAD
+The Guide to Fixed and Flexible Logistics
+Flexe
+PRESS RELEASES
+Discover announcements from companies in your industry.
+CMX and Mojix Partner to Launch First Open Access Food Traceability Platform
+Press Release from CMX
+Denim brand G-Star RAW chooses Nedap iD Cloud to create seamless shopping experiences
+Press Release from Nedap
+Nedap launches iD Cloud Platform, enabling inventory visibility across supply chains
+Press Release from Nedap
+Rapidly Growing Kansas City 3PL Provider Partners with USPS
+Press Release from
+WarehouseQuote
+View all | Post a press release
+Editors' picks
+COLUMN
+Inflation: Negotiate with suppliers and don't panic
+Tried-and-true methods can help procurement managers combat across-the-board price increases in an inflationary environment.
+By Rich Weissman • Aug. 26, 2021
+Retail's new fad? Charter ships to ensure sales, even if it's costly.
+Companies are willing to spend money on chartering ships because the alternative of not having inventory in for peak season is worse, said Sea-Intelligence CEO and Founder Alan Murphy.
+By Max Garland • Sept. 22, 2021
+Latest in Stat of the Week
+Semiconductor shortage, lean inventories stifle memory chip demand
+By Max Garland • Oct. 05, 2021
+DHL invests $300M to expand, automate US e-commerce network
+By Max Garland • Sept. 28, 2021
+Manufacturers plan to boost wages at a record 3.5% rate
+By Jim Tyson • Sept. 21, 2021
+Inventory levels jump as manufacturers hold onto work-in-progress products
+By Max Garland • Sept. 14, 2021
+Get Supply Chain Dive in your inbox
+The free newsletter covering the top industry headlines
+Email:
+Sign up
+EXPLORE
+Submit A Tip
+Editorial Team
+About
+Newsletter
+Article Reprints
+Press Releases
+What We're Reading
+Advertising
+Contact
+RELATED PUBLICATIONS
+Retail Dive
+Transport Dive
+FOLLOW
+FEEDBACK
+Work email: *
+Message: *
+Submit
+© 2021 Industry Dive. All rights reserved. | View our other publications | Privacy policy | Terms of use | Take down policy.
+We use cookies to optimize your experience on our website and for analytics and advertising purposes. By continuing to use our site, you agree to our cookie policy. Learn more
+Accept

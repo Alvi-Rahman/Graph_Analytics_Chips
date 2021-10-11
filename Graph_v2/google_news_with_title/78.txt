@@ -1,0 +1,51 @@
+Insights
+Latest
+Popular
+Topics
+SUPPLY CHAIN
+Why an India-Taiwan mega chip deal could be a global save
+Both countries are working out a deal that could bring chip manufacturing to South Asia.
+6 October 2021
+Dashveenjit Kaur
+@DashveenjitK
+dashveen@hybrid.co
+All stories
+Here’s why a mega chip deal between India and Taiwan is a global rescue. (Photo by Punit PARANJPE / AFP)
+Officials from Taiwan and India are discussing a US$7.5 billion chip plant in India that could produce semiconductors for things like 5G-powered products and electric cars
+On top of setting up a chip fabrication plant by end-2020, both countries are considering reducing tariffs on components used in chip production
+READ NEXT
+Chip crunch forces the world’s largest automakers to cut production
+Back in 2018, Taiwan and India inked an agreement to expand investments and economic ties between the two nations. Both countries are apparently taking their relationship up a notch with an envisioned chip plant worth an estimated US$7.5 billion, to be built in India. If materialized, it would bring chip manufacturing to South Asia by the end of the year, complemented with tariff reductions on components for chip production.
+First reported by Bloomberg, people familiar with the matter said officials in New Delhi and Taipei have met in recent weeks to discuss a deal that would bring a semiconductor chip plant to India, to supply everything from 5G devices to electric cars. Bloomberg noted that India is currently studying possible locations with adequate land, water, and manpower resources. India reportedly said it would provide financial support by fronting half of the capital expenditure needed from 2023, along with tax breaks and other incentives.
+It was also said that officials in Taipei wanted quick progress on the bilateral investment agreement, in light of the deepening global semiconductor drought. While Taipei may hope the investment deal will eventually lead to a long-sought-after free trade deal, there could be hesitance from New Delhi on this front over fears of how China might retaliate economically.
+Can a plant by India and Taiwan solve the global shortage?
+India’s semiconductor demand is said to be valued at around US$24 billion and is expected to reach US$100 billion by 2025. The country’s semiconductor demand currently is entirely met through imports. But like elsewhere, chip shortages in India have crippled companies ranging from local carmakers to smartphone manufacturers.
+And when it comes to having a fabrication operation wholly based in India, Taiwan has some hesitancy regarding logistics, according to the Bloomberg report. First and foremost, a typical semiconductor fab operates in a highly controlled environment, requiring an unfluctuating power supply, high-quality water supply, reliable zero downtime, as well as regular maintenance and repair of cleanrooms and equipment. 
+Hence the concerns from Taiwan — the lack of a proper ecosystem to set up a chip fabrication plant in India. Apparently, the Taiwanese party has flagged concerns on the supply of water and electricity, and suggested that it may be more feasible for India to start creating a chip design sector first, before proceeding to build fabs.
+YOU MIGHT LIKE
+ARTIFICIAL INTELLIGENCE
+Facebook is developing custom chips for its data centers
+Setting aside the daunting logistics issues, the reality is that the project would not really solve the semiconductor crisis for now. Even if a deal is met anytime soon, the whole process would likely take years before it bears significant fruit. A Gartner report highlighted that the present semiconductor shortage is likely to last until the second half of 2022. 
+And even if the project between India and Taiwan moved at lightning pace, it is almost impossible to start production before 2023 at best. The scale of production may also be an issue —  one of the reasons why there is a global shortage in semiconductors right now. Given how production cannot be pushed at short notice, it takes chip manufacturers a long time to catch up with demand.
+Bloomberg points out that chip lead times, AKA the period between ordering semiconductors and time-to-market, rose to a record 21 weeks in August, from six weeks in July. To top it off, any such facility will need a steady source of highly skilled workers, and acquiring the right workforce at scale would also consume another valuable resource — time.
+Talks on having to be less dependent on imported chips have been percolating among Indian companies for some time now. Perhaps a new plant, if it ever happens, would lead to a more managed risk for India when it comes to its distressed semiconductor supply chain. 
+
+COVID-19 Hardware
+SHARE
+
+
+
+
+Firms not convinced to outsource cybersecurity skills, despite shortage
+4 October 2021
+
+Are these the first killer robots – and why are they more dangerous than nukes?
+4 October 2021
+
+Virtual humans, humanoid robots – Is there room still for people jobs?
+1 October 2021
+About Advertise with us Contact
+Hybrid brands
+Jobs @ Hybrid.co
+© 2021 Copyright TechHQ | All Rights Reserved
+Terms of use Privacy Policy

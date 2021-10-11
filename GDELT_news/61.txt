@@ -1,0 +1,20 @@
+Following Apple's Lead, Google to Take Chip Production In-House
+Some prefer to let the chips fall as they may. That doesn't include Google any longer. Following in the footsteps of Silicon Valley rival Apple,...
+The Daily Upside
+(TheDailyUpside)
+Sep 1, 2021 at 10:00PM
+For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter. It's completely free and we guarantee you'll learn something new every day.
+Some prefer to let the chips fall as they may. That doesn't include Google any longer.
+Following in the footsteps of Silicon Valley rival Apple, the company plans to start using its own in-house CPU chips in its line of laptops and tablets by 2023.
+Demanding Supply
+The ongoing shortage of computer chips, also called semiconductors, started last year when global shutdowns caused a production drought of the materials used in chips, just as chip-needy electronic devices were flying off the shelves with people relegated to their living rooms.
+The resulting supply shortage has hammered many industries, automakers in particular. Volkswagen, General Motors, Toyota, and Nissan are among those that have halted or slashed production. Over in the world of consumer electronics, Apple had to stagger its release of iPhones, and Microsoft and Sony haven't been able to churn out enough Xbox and PlayStation consoles to meet demand.
+Apple's decision to sever a 15-year relationship with Intel to begin fashioning in-house chips now appears rather prescient, allowing the company to dodge further delays. But semiconductor production is also an extraordinarily pricey undertaking that only the richest of companies can dream of:
+Designing a cutting-edge chip costs about $500 million, according to Bain & Co. partner Peter Hanbury.
+The list of companies currently willing to take on that level of expense is in the single digits: Google, Amazon, Facebook, Microsoft, Tesla, Baidu, and Alibaba are working on in-house chips, and they'll each likely need to battle established giants Intel, Nvidia, and Qualcomm for production capacity.
+Selling Point: Google will need to produce plenty of its own supply to keep up; Chromebook sales are expected to grow 34% this year to 43 million units.
+Mine Your Own Business: Earlier this week, Russian gold miner Polymetal said its industry is likely to be squeezed by the chip shortage, with capital spending rising 25% this year due to the rising costs of procuring equipment — like trucks, loaders, and drill rigs — that all need chips.
+Trending
+Terms of Use Privacy Policy Accessibility Policy Copyright, Trademark and Patent Information Terms and Conditions Google Privacy and Terms
+© 1995 - 2021 The Motley Fool. All rights reserved.
+Market data powered by Xignite.

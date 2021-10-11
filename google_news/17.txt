@@ -1,0 +1,66 @@
+The Interpreter
+Articles
+Debates
+Contributors
+About
+PUBLISHED DAILY BY THE LOWY INSTITUTE
+When the chips are
+down: Biden’s
+semiconductor war
+TIAN HE
+Export controls on US semiconductor tech into China didn’t stop with Trump.
+President Joe Biden holds a semiconductor during his remarks before signing an Executive Order on the economy at the White House, 24 February 2021 (Doug Mills/Pool/Getty Images)
+Published 27 Jul 2021 06:00   0 Comments   Chinese Trade Trade US Economy
+Export control policy in the semiconductor sector – an industry that supplies the world’s computer, smartphone, appliances and medical equipment industry with electronic chips – was at the forefront of Donald Trump’s tech war against China. The addition of China’s top chipmakers, such as Huawei and the Semiconductor Manufacturing International Corporation (SMIC), to the US Department of Commerce’s “entity list” between 2019 and 2020 brought an abrupt stop to the two countries’ technological cooperation. Beijing’s response was a vow to achieve self-sufficiency in semiconductors by 2030.
+Joe Biden’s inauguration came at the height of this semiconductor war. Industry players looked expectantly to his review and potential reversal of Trump’s export control policy. However, Biden’s behaviour increasingly suggests that the overall direction of US export control will remain the same under his presidency as under Trump’s, accompanied by further measures to contain China’s technological rise in semiconductors.
+Despite its effectiveness in curbing China’s technological rise, Trump’s all-out approach to a semiconductor export ban has incurred significant economic costs.
+A quick examination of China’s chokepoints in the semiconductor industry reveals why an export control policy remains essential for US strategy. Although China is catching up rapidly in terms of manufacturing, it still struggles to master the specialised production tools that are essential for developing high-end chips, such as Electronic Design Automation (EDA) and Semiconductor Manufacturing Equipment (SME).
+As the EDA and SME sectors are currently dominated by firms in the United States and Japan as well as by the Netherlands’ ASML, American policy has proven effective in leveraging this particular chokepoint against China. Two rounds of export control measures under the Trump administration in 2019 and 2020 have prevented Chinese chipmakers, as well as global foundries that cooperate with Chinese firms, from accessing US-made semiconductor production equipment and software. These blockades have seriously constrained China’s ability to pursue technological advancement in the industry.
+Despite its effectiveness in curbing China’s technological rise, Trump’s all-out approach to a semiconductor export ban has incurred significant economic costs. American semiconductor firms such as Qualcomm and Broadcom have sustained large losses as a result of the ban, given their sizeable revenues in the Chinese market. The CEO of ASML has also raised concerns that the export ban will negatively affect research and development, and technological innovation.
+Semiconductors are essential to the world’s computer, smartphone and medical equipment industries (Jeremey Zero/Unsplash)
+The business community has responded with calls for a policy upgrade. In a late-2020 report, the Semiconductor Industry Association (SIA) criticised Trump’s export ban as being “overly expansive, covering non-sensitive commercial semiconductors and related technologies”, calling instead for a policy that is “narrowly targeted to specific items that advance clear national security and foreign policy objectives”. The adoption of “targeted export controls focused on chokepoints” has also been advocated in a lengthy report compiled by the National Security Commission on Artificial Intelligence ­– a US government advisory group led by Eric Schmidt, former CEO of Google and a major fundraiser for the Biden campaign.
+Biden’s steps thus far suggest that he intends to implement a more targeted export control policy towards China that prioritises national security. In April, the president identified several Chinese firms and government labs that rely on advanced chips made with American tools to build supercomputers, which could have profound applications for developing modern weapons and an advanced national security system.
+It is almost certain that any significant change to export controls under the Biden presidency will occur within the diplomatic arena, as the new president puts much more emphasis on multilateralism than his predecessor did. There are practical reasons for the United States to cooperate with allies against China in this sector. Given that the semiconductor production network is highly globalised, US export controls would be ineffective if other semiconductor powers did not participate. This point was highlighted during the Trump era, when the administration lobbied to block the sale of ASML equipment to China.
+Biden’s vision of tech alliances will not be easy to achieve, given China’s formidable market potential and sophisticated economic statecraft, coupled with its significant geopolitical influence.
+There is now an even greater urgency for the Biden administration to work with international semiconductor partners. As the US-China tech war intensifies, global chip suppliers are increasingly seeking to circumvent US export controls by relocating parts of the value chain in order to supply the mainland Chinese market. This sort of “de-Americanisation” pushed by global capital would require US diplomatic pressure to prompt allied governments to carry out administrative or policy intervention.
+The Biden administration has already intensified efforts to build bilateral semiconductor alliances. In February, National Security Advisor Jake Sullivan and his Dutch counterparts met to discuss China’s technological rise, signalling that the Netherlands is ready to withhold an export license on EUV (Extreme Ultraviolet) lithography machines ­– a technology central to the production of the most sophisticated chips and thus highly coveted by China. Biden has furthermore prioritised multilateral partnerships with East Asian nations as well as the Quadrilateral Security Dialogue (Quad) nations and Group of Seven (G7) countries.
+Biden’s vision of tech alliances will not be easy to achieve, given China’s formidable market potential and sophisticated economic statecraft, coupled with its significant geopolitical influence. South Korea, for example, is an advanced semiconductor manufacturer pursuing a sort of balancing act between the United States and China; it is consequently considered a “weak link in Washington’s attempts to deny Beijing access to advanced chips and equipment”. Biden will also face an uphill battle to secure the support of another semiconductor powerhouse, Israel – a country with which China has a long history of cooperation in advanced technologies and a rapidly expanding trading relationship.
+RELATED CONTENT
+In beef over barley, Chinese economic coercion cuts against the grain
+SHOW COMMENTS
+PREVIOUS ARTICLE
+Another proxy war in Afghanistan?
+NEXT ARTICLE
+The connectivity trade-off from social media misinformation
+YOU MAY ALSO BE INTERESTED IN
+RODGER SHANAHAN
+24 Apr 2017
+Anzac Day: Remembering
+the soldiers on
+unexpected battlefields
+On Anzac Day it is worth spending just a little time thinking about the tasks we may call on our present and future service members to perform.
+TEESTA PRAKASH
+16 Mar
+The Quad gives a boost to
+India’s vaccine diplomacy
+Countering China’s influence is one thing. But fostering regional cooperation plays to the strengths of the grouping.
+CHRISTOPHER ZINN
+16 Feb 2017
+Beneath the surface
+of Pakistan's
+AMAN-17 exercises
+Swirling not far beneath the surface of the maritime manoeuvres and the Karachi portside mateship have been two distinct issues.
+Stay informed with the latest commentary and analysis on international
+events from experts at the Lowy Institute and around the world.
+REGISTER
+The Interpreter features in-depth analysis & expert commentary on the latest international events, published daily by the LOWY INSTITUTE
+© COPYRIGHT 2021 LOWY INSTITUTE
+Debates
+Contributors
+Articles
+About
+Comments Policy
+Terms of Use
+Site map
+My Admin
+Log In

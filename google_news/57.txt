@@ -1,0 +1,111 @@
+Topics
+Week's top
+Latest news
+Unread news
+Subscribe
+41
+13
+Share
+Email
+Home
+Electronics & Semiconductors
+Home
+Energy & Green Tech
+SEPTEMBER 7, 2021
+Helping semiconductors find a cooler way to relax
+by King Abdullah University of Science and Technology
+KAUST scientists devise a way to make solar cells more efficient by extending the lifetimes of hot electrons in semiconductors. Credit: KAUST
+Bandgap engineering can improve the performance of optoelectronic devices that aim to harness the energy of "hot" electrons, research from KAUST shows.
+Semiconductors have a signature property known as the bandgap that essentially is a range of forbidden electron energies. Electrons with an energy above the top of the bandgap are free to move through the material, whereas those below the bottom of the bandgap are not, and no electrons with an energy in between can exist in the material.
+This simple idea defines a semiconductor's optical properties. The energy from any absorbed light is transferred to the material's electrons. Most of the free electrons in a semiconductor have an energy near the top of the bandgap. But the absorption of photons with an energy much larger than the bandgap creates, in turn, much higher energy electrons that are also called "hot electrons."
+Understanding the process by which these so-called hot electrons relax to an energy nearer the top of the bandgap is essential for understanding the operation of light-harvesting devices. For example, the efficiency of a solar cell is reduced if this huge excess energy is lost as heat. "However, it was extremely difficult, if not impossible, to sufficiently utilize these hot electrons in real light-conversion applications due to their very short lifetimes," says material scientist Omar Mohammed.
+Mohammed and his colleagues used interface and bandgap engineering to delay hot carriers (electrons and holes) relaxation and to significantly increase their lifetimes.
+The team studied a semiconductor known as a lead halide perovskite. They designed and fabricated architectures made up of multiple quantum wells: a thin layer of semiconductor sandwiched between light-absorber layers of larger bandgap material. They compared the optical properties of structures in which the wells were all the same thickness and asymmetric structures in which the well widths varied. They used a technique called femtosecond (1 femtosecond = 10-15seconds) transient absorption spectroscopy combined with theoretical calculations to determine the timescale of the hot electron relaxation.
+They found the cooling rate had a strong dependence on the quantum well thickness in the asymmetric sample and that the relaxation of the hot carriers in the asymmetric multiple quantum wells was 12.5-fold slower compared to that of the symmetric multiple quantum wells.
+"This new finding provides a unique strategy on how to significantly slow down the hot carriers cooling in semiconducting materials for their better utilization in solar cells applications," says postdoc Partha Maity.
+Explore further
+Unusual bandgap renormalization in 2D inorganic lead-halide perovskite nanoplatelets
+More information: Partha Maity et al, Cascade Electron Transfer Induces Slow Hot Carrier Relaxation in CsPbBr3 Asymmetric Quantum Wells, ACS Energy Letters (2021). DOI: 10.1021/acsenergylett.1c01142
+Provided by King Abdullah University of Science and Technology
+56 shares
+Facebook
+Twitter
+Email
+Feedback to editors
+Featured
+Last Comments
+Popular
+Using deep generative radar models to predict rainfall over following 90 minutes
+6 HOURS AGO
+0
+Baby Robot: A system that helps toddlers practice their motor skills
+8 HOURS AGO
+2
+New model recognizes emotions in deaf individuals by analyzing EEG signals
+SEP 28, 2021
+0
+Engineered cyanobacteria uses electricity to turn carbon dioxide into fuel
+SEP 28, 2021
+0
+Researchers develop a new robot that can efficiently navigate sidewalks in urban environments
+SEP 27, 2021
+1
+Using deep generative radar models to predict rainfall over following 90 minutes
+6 HOURS AGO
+Bioengineers develop new class of human-powered bioelectronics
+6 HOURS AGO
+New tool to help electrical grid planners design sustainable systems
+7 HOURS AGO
+Baby Robot: A system that helps toddlers practice their motor skills
+8 HOURS AGO
+In the face of neurotechnology advances, Chile passes 'neuro rights' law
+13 HOURS AGO
+Visa and Apple Pay vulnerabilities leaves iPhone users open to payment fraud
+14 HOURS AGO
+Tying quantum computing to AI prompts a smarter power grid
+SEP 29, 2021
+1
+2
+Related Stories
+Unusual bandgap renormalization in 2D inorganic lead-halide perovskite nanoplatelets
+AUG 30, 2021
+Hot electrons harvested without tricks
+NOV 15, 2019
+Closing in on state-of-the-art semiconductor solar cells
+MAY 04, 2021
+Getting two for one: 'Bonus' electrons in germanium nanocrystals can lead to better solar cells
+FEB 14, 2015
+Cross-linked hole transport layers for high-efficiency perovskite tandem solar cells
+SEP 06, 2021
+Perovskites under pressure: Hot electrons cool faster
+APR 23, 2021
+Recommended for you
+Load comments (0)
+Phys.org
+Daily science news on research developments and the latest scientific innovations
+Medical Xpress
+Medical research advances and health news
+Science X
+The most comprehensive sci-tech news coverage on the web
+Newsletters
+Subscribe
+Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+Follow us
+Top
+Home
+Search
+Mobile version
+Help
+FAQ
+About
+Contact
+Science X Account
+Sponsored Account
+Newsletter
+Archive
+Android app
+iOS app
+RSS feeds
+Push notification
+© Tech Xplore 2014 - 2021 powered by Science X Network
+Privacy policy Terms of use

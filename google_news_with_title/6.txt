@@ -1,0 +1,146 @@
+Skip to main content
+Browse all
+Astronomy and space
+Atomic and molecular
+Biophysics and bioengineering
+Business and innovation
+Condensed matter
+Culture, history and society
+Diversity and inclusion
+Education and outreach
+Environment and energy
+Ethics
+Instrumentation and measurement
+Materials
+Mathematics and computation
+Medical physics
+Optics and photonics
+Particle and nuclear
+Personalities
+Policy and funding
+Projects and facilities
+Publishing
+Quantum
+ARTICLE TYPES
+Analysis
+Blog
+Careers
+Events
+Features
+Innovation showcases
+Interviews
+News
+Opinion and reviews
+Podcast
+Research updates
+Videos
+Webinars
+COLLECTIONS
+JOBS
+EXPLORE PHYSICS WORLD
+About us
+Our team
+Our portfolio
+Advertising
+Contact us
+Sign in
+Register
+Follow us on Facebook
+Follow us on Twitter
+Follow us on LinkedIn
+Watch us on Youtube
+RSS Feed
+Jobs
+Sign in
+Register
+Toggle Menu
+Open Search Dialog
+Magazine Latest
+People
+Impact
+Collections
+Audio and video
+TOPICS
+
+
+semiconductors and electronics
+SEMICONDUCTORS AND ELECTRONICS RESEARCH UPDATE
+New theory could help optimize defects in semiconductors
+10 Sep 2021 Isabelle Dumé
+Material optimization: Strain can be applied to overcome doping limitations in semiconductors. (Courtesy: B Huang)
+A new universal theory and three basic rules for how defects in semiconductors behave in response to strain could lead to improvements in the electronic properties of a wide range of semiconducting materials. The work, which began with the discovery of a key physical quantity that describes how a semiconductor’s volume changes in the presence of impurities, could help researchers determine the “right” amount of strain to apply, and thus optimize the effects of these impurities.
+Defect-induced volume changes
+Most materials contain impurities, or dopants, that are either intentionally or unintentionally introduced into the system – for example, during the growth of a crystal. These impurities induce volume changes in their immediate vicinity, thus producing a strain in the material.
+In the latest work, researchers led by Bing Huang of Beijing Normal University’s Department of Physics and the Beijing Computational Science Research Center demonstrate that the extent of these volume changes, Δ𝑉, depends on whether the defect is positively- or negatively-charged. More precisely, Huang and colleagues show that volume increases for more negatively-charged defects and decreases for more positively-charged ones; in other words, Δ𝑉 is positive when an electron is added to the defect site and negative when an electron is removed from it.
+Three basic rules
+To further understand (and therefore predict) the different strain-dependent doping behaviours of semiconductors, Huang and colleagues developed three basic rules to describe how strain affects the properties of semiconductor defects.
+The first rule describes how a defect’s formation energy changes in response to strain. In a material under strain, the researchers found that the total energy difference between a neutral semiconductor and a negatively (or positively) charged semiconductor that accommodates extra electrons (or holes) in the material’s valence band will depend on the sign and size of Δ𝑉. This energy difference will either increase or decrease superlinearly as a function of the strain, and the rate at which it does so will be proportional to Δ𝑉. If Δ𝑉 is close to zero, the energy difference will be a parabolic function of strain.
+The second rule describes how strain changes the Fermi energy level (a hypothetical energy level that has a 50% probability of containing an electron) when the defect charge state changes. According to this rule, a compressive strain will shift this transition energy level up, while a tensile strain will shift it down.
+READ MORE
+First-principles calculations shed light on semiconductor defects
+The third rule describes how strain changes the position of the “pinning” Fermi level. This is an intrinsic effect occurring in semiconductor systems in which the Fermi level is far from the electronic band edge. This effect can significantly limit the doping-induced electron and hole densities, and dramatically degrade the performance of devices like solar cells and transistors. Huang and colleagues’ third rule describes how compressive strain will shift the absolute pinning Fermi level up in energy and a tensile strain will shift it down in energy.
+Together, Huang says that these rules could help researchers estimate the “right” strain to apply to a semiconductor to optimize the doping effect of impurities or defects. “We have known for some time that strain can be used to tune doping effects in semiconductors, but a fundamental and general theory to understand the diverse strain-induced changes of different point defects in semiconductors was lacking until now,” he tells Physics World.
+Full details of the research are reported in Chinese Physics Letters.
+Want to read more?
+Register to unlock all the content on the site
+E-MAIL ADDRESS
+Register
+Isabelle Dumé is a contributing editor to Physics World
+Semiconductor Science and Technology
+Publishing cutting-edge research on the physical properties of semiconductors and their applications.
+READ PREVIOUS
+ULTRACOLD MATTER RESEARCH UPDATE
+Bose–Einstein condensates hit record low temperature
+READ NEXT
+BIOMEDICAL DEVICES RESEARCH UPDATE
+Robotic insulin delivery via smart ingestible capsules
+Discover more from Physics World
+SEMICONDUCTORS AND ELECTRONICS RESEARCH UPDATE
+‘Stop-motion movie of atoms’ reveals short-lived state in nanoscale switch
+2D MATERIALS RESEARCH UPDATE
+Monolayer strain sensor sets new record
+CULTURE, HISTORY AND SOCIETY PODCAST
+Tackling the big questions in physics with Jim Al-Khalili, how a physicist worked out why dinosaurs went extinct
+Related jobs
+SWITZERLAND | CERN
+Electrical Engineer for Superconducting Magnets Development (TE-MSC-SMT-2021-93-LD)
+SWITZERLAND | CERN
+Test and Maintenance Technical Engineer (SY-EPC-OMS-2021-101-LD)
+SWITZERLAND | CERN
+Electrical Engineer/Applied Physicist (TE-MSC-TM-2021-76-LD)
+Related events
+SEMICONDUCTORS AND ELECTRONICS | EXHIBITION
+The Engineering Design Show 2021
+19—20 October 2021 | Coventry, UK
+BUSINESS AND INNOVATION | EXHIBITION
+The Engineering Design Show
+19—20 October 2021 | Coventry, UK
+SEMICONDUCTORS AND ELECTRONICS | CONFERENCE
+8th International Conference on Antennas and Electromagnetic Systems (AES 2021)
+16—19 November 2021 | Marrakesh, Morocco
+EXPLORE PHYSICS WORLD
+About us
+Our team
+Our portfolio
+Advertising
+Contact us
+Feedback
+Sign in
+Register
+MORE INFORMATION
+Institute of Physics
+Join the Institute
+Modern Slavery Act
+Privacy and Cookies
+IOP Publishing
+Copyright
+Terms and Conditions
+Disclaimer
+OUR MISSION
+Physics World represents a key part of IOP Publishing's mission to communicate world-class research and innovation to the widest possible audience. The website forms part of the Physics World portfolio, a collection of online, digital and print information services for the global scientific community.
+Follow us on Facebook
+Follow us on Twitter
+Follow us on LinkedIn
+Watch us on Youtube
+RSS Feed
+BACK TO TOP

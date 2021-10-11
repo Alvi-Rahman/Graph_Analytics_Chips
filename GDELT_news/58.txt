@@ -1,0 +1,161 @@
+BREAKING: Market Rally Attempt Begins; Tesla Deliveries Set New Record
+
+
+MARKET TREND
+STOCK LISTS
+RESEARCH
+NEWS
+VIDEOS
+LEARN
+IBD LIVE
+LEADERBOARD
+SWINGTRADER
+MARKETSMITH
+STORE
+
+Sign In or Subscribe
+New to Investors.com?
+Start here!
+NEWS
+The Next Supply Crunch Could Be Even Worse For Car Stocks
+Global automakers will lose $110 billion in revenue to the semiconductor shortage this year, according to AlixPartners. (© Chris Gash)
+Licensing
+APARNA NARAYANAN
+08:07 AM ET 07/09/2021
+The auto industry is scrapping decades of orthodoxy to overcome a global chip shortage while preparing for the next supply crunch, which could roil car stocks and EV stocks even more.
+Volume 0%
+From Ford (F) to Tesla (TSLA), car stocks and their suppliers are rethinking the "just in time" manufacturing model that has dominated the industry since the 1980s, when the Japanese innovation spread worldwide. The pandemic and the chip shortage highlighted the frailty of auto supply chains, forcing companies to renegotiate contracts, build inventory buffers and even redesign auto parts.
+The sea change won't end there. After chips, Wall Street sees batteries as the next big supply crisis likely to hit carmakers.
+"There's going to be quite a supply shock when you look at the growth trajectory of electric vehicle sales both in the U.S. and globally over the next decade or two," said CFRA analyst Garrett Nelson.
+The chip shortage arose when demand for consumer electronics soared during the pandemic. When car demand came back faster than expected, automakers couldn't get enough chips. And the "just in time" model that emphasizes lean inventories to reduce waste left little margin to absorb disruptions.
+Now car companies are focused on building resilient and more transparent supply chains. That means new relationships and new ways of doing business.
+The outcome could determine the top car stocks and EV stocks for the electric transformation. The stakes are rising seemingly by the month. On Thursday, Stellantis (STLA) vowed to pour $35.5 billion into electrification and EV-related software through 2025. In June, General Motors (GM) boosted its investment in EVs and self-driving by 30% to $35 billion. And in May, Ford lifted its spending 36% to $30 billion.
+IBD Live: A New Tool For Daily Stock Market Analysis
+Winners, Losers Among Car Stocks
+Ed Yardeni, chief investment strategist at Yardeni Research, said in a recent note that Ford is the U.S. auto company most impacted by the chip shortage. Less affected is GM, which has said it sees signs of easing chip-shortage impacts.
+And Toyota (TM) appears to be in the best position, he noted, after increasing chip inventories last year in an early bet on a strong recovery.
+Meanwhile, the International Institute for Management Development is Switzerland has a readiness index that ranks which car stocks are most ready for the EV and self-driving future.
+Howard Yu, professor of management and innovation there, said only the biggest car stocks "thinking ahead of the curve" will survive.
+He likes GM and Volkswagen (VWAGY), as well as "EV first" companies like China's BYD (BYDDF). Those slower to reinvent themselves for the EV shift are more vulnerable, including Ford and Honda (HMC), he added.
+Looking For The Next Big Stock Market Winners? Start With These 3 Steps
+The Problem Car Stocks Face Now
+Cars are brimming with microchips, which control everything from power steering to touch screen displays.
+About 3.9 million fewer vehicles will roll off production lines this year due to the chip shortage. (Rainer — stock.adobe.com)
+Early in the pandemic, automakers canceled orders for auto parts with computer chips, expecting demand to nose dive. But the sudden whiplash in demand and subsequent scarcity of chips left carmakers stuck with partially built vehicles and dealerships with bare lots.
+Yet the semiconductor shortage isn't the only crisis gripping the auto supply chain. Rising steel prices, widespread port delays and lack of shipping containers add to a long list of problems. Underpinning the convulsions is the unprecedented economic collapse-and-recovery that's throwing once-predictable ebbs and flows out of whack.
+The result is what Ford CEO Jim Farley called "perhaps the greatest supply shock" he's ever seen.
+Global automakers will lose $110 billion in revenue to the semiconductor shortage this year, according to AlixPartners. And 3.9 million fewer vehicles will roll off production lines. Combined, Ford and GM expect a hit to 2021 earnings of about $4.5 billion. Both auto giants expect impact from the chip shortage to last into 2022.
+Want To Get Quick Profits And Avoid Big Losses? Try SwingTrader
+The Problem Car, EV Stocks Face Later
+A typical car can have 30,000 parts, from 1,400 chips down to the tiniest screws. The need for chips will only grow as vehicles become electric, more connected to the internet, and autonomous.
+The number of EVs on the world's roads will jump to 145 million in 2030 from 10 million in 2020, according to the International Energy Agency. (Ford)
+The scorching pace of transformation points to potential for future supply snarls. The number of EVs on the world's roads will jump to 145 million in 2030 from 10 million in 2020, according to the International Energy Agency.
+And lithium-ion batteries, like semiconductors, are used broadly across electric cars and things like computers, phones and gaming rigs. Meanwhile, the electrification of trains, tractors, forklifts, mining equipment and power grids could add to potential shortages.
+The implications of the chip crisis for the quickening pace of electrification are not lost on the industry's leaders.
+"We're also thinking about what this means for the world of batteries and all sorts of other components that are really mission critical for our company and our capability," Farley said in April.
+Analysts at Morgan Stanley suggest a looming battery shortage could be worse for car stocks. They see global EV volumes growing nearly two times faster than capacity to produce battery cells by 2025. That's in part due to rare earth elements used in lithium-ion batteries that are difficult to extract. Graphite could become scarce as early as next year.
+After chips and batteries, AlixPartners warns, "a series of costly materials crises," from steel to packaging, could be next.
+"We're looking at all aspects of the supply chain to really ensure that something of this magnitude as it relates to chips doesn't happen again," GM CFO Paul Jacobson said June 16 at an auto industry conference.
+IBD Digital: Unlock IBD's Premium Stock Lists, Tools And Analysis Today
+Deeper Visibility
+To head off the next supply shock, automakers need to see problems coming early.
+"Supply chain transparency — ensuring there are no supply chain disruptions in the future — is No. 1 on their list" of priorities, said Akshay Singh, a partner at PricewaterhouseCoopers.
+Automakers typically rely on their big tier 1 suppliers to keep factories running smoothly. But PricewaterhouseCoopers has found that half of the largest suppliers don't have good visibility into their own supply base, putting carmakers at risk.
+"They are really trying to understand which are the critical components, where they need to develop visibility into the tier 2, tier 3 or tier 4 supplier base, who are these suppliers, where the capacity is," said Singh. They're even paying attention to the financial health of small suppliers, after the pandemic raised fears of distress.
+Car companies also are starting to think about building into forecast models what demand from other industries will look like. That didn't happen before, Singh said.
+Why This IBD Tool Simplifies The Search For Top Stocks
+Rewiring Supply Networks
+Carmakers basically outsourced supply-chain management. They deal directly with their biggest suppliers such as Bosch, Continental and Magna (MGA), not chipmakers and foundries. And they're used to making last-minute purchase decisions because demand tends to fluctuate.
+Chipmakers are demanding guaranteed volumes of a year or more and take-or-pay contracts. (Shutterstock)
+But as the chip crisis lingers, analysts see the auto industry hard at work redrawing relationships and renegotiating contracts.
+"Now you have automakers, I'm talking about the board members, the people whose names are on the buildings, forming relationships with other board members at semiconductor companies and foundries," said Dan Hearsch, a managing director at AlixPartners.
+Automakers are also starting to bypass middlemen suppliers. Ford's Farley told analysts in April that "everything is on the table ... from buffer stocks (of chips) to direct deals with the foundries" that make the wafers used in semiconductors.
+In turn, chipmakers are demanding guaranteed volumes of a year or more and take-or-pay contracts, meaning you take the product or pay a penalty.
+NXP Semiconductor (NXPI), the world's biggest auto chipmaker, and ON Semiconductor (ON) are among those pushing for change.
+"We are collecting and getting requests for non-cancellable and nonreturnable orders, long-term orders from our customers," NXP CEO Kurt Sievers said on an April 27 earnings call with analysts. Those customers include tier 1 suppliers as well as the top 10 car OEMs in the world, with whom NXP is dealing "directly" to understand future demand, Sievers added.
+Stocks To Buy: Is It Time To Buy Or Sell These Large-Cap Stocks?
+Car Stocks Go In-House
+The chip shock is accelerating a trend to vertical integration. So is a looming EV boom.
+"You're already seeing it in terms of some of the joint ventures and partnerships that are being formed," said CFRA's Nelson. "Those things are happening, and we expect more of those sorts of announcements in the future."
+Carmakers were already bringing more production in-house, mimicking Tesla's vertical integration. (Felix Mizioznikov/shutterstock.com)
+Before the pandemic, top car stocks were already bringing more production in-house. That was especially the case with components critical to EVs, as giants like GM sought to control costs and mimic Tesla's top-to-bottom approach.
+Today, that trend carries even more urgency. Ford, which is bringing its first all-electric truck to market next year, intends to make its own battery cells by 2025. Ford and other car stocks, from GM to Volkswagen and Nio (NIO) have also formed battery JVs and set up battery units.
+On EV batteries, GM partnered with South Korea's LG Chem, Ford with South Korea's SK Innovation and Volkswagen with Sweden's Northvolt. And Nio took full control of XPT, a Chinese maker of battery packs and electric motors.
+Tesla already makes its own lithium-ion batteries and automated-driving chips. But it went further last October, signing a deal to lock up a third of the supplies from a Piedmont Lithium (PAD) mine in North Carolina for five years. And, the Financial Times said in May, Tesla could take the unusual step of paying in advance for chips while it explores buying a chip foundry.
+In decades to come, more automakers may move from forming battery JVs to owning battery makers and miners for better control of supply, quality and costs, analysts say. In May, Ford's Farley said he may ultimately move both batteries and chips in-house.
+Want More IBD Insights? Subscribe To Our Investing Podcast
+Redesigning Cars, Components
+Stung by the chip crisis, Tesla pivoted "extremely quickly" to new microcontrollers while modifying the firmware to be compatible with new chips from other suppliers, CEO Elon Musk said in April.
+Ford redesigned parts to use "more accessible" chips, Farley said in May. By that he means smaller, more advanced chips and newer system on a chip designs. Chips currently used in autos tend to be 55 nanometers and larger, which is a decade-old technology.
+At a high level, automakers are diversifying supply chains by creating alternatives for critical components. They're developing dual- or multi-sourcing strategies to head off future supply constraints.
+"It's just about identifying where you can create an option, where they had not done that in the past," said Hearsch of AlixPartners.
+Hearsch expects automakers to take that attitude into the initial design of new vehicles and new systems. For example, rather than specify a particular supplier part number, they might just specify a performance range or provide a few options, allowing the supplier to use whichever chip gets the job done.
+"The short-term order of the day is getting the chips, getting the plants running again," Hearsch said. "Longer term, it's creating the visibility, creating the trust, and moving through that change in the supply chain to add both more inventory and more optionality."
+Find Aparna Narayanan on Twitter at @IBD_Aparna.
+Read more articles like this with IBD Digital.
+For a limited time, you can get full access to IBD’s investing news, analysis, tools and education for only $20 for your first two months.
+Try 2 Months for $20
+YOU MAY ALSO LIKE:
+The Next Tesla May Emerge From This Explosion Of New EV Stocks
+Automotive Industry News And Car Stocks To Watch
+Stocks To Watch: Top-Rated IPOs, Big Caps And Growth Stocks
+Find The Latest Stocks Hitting Buy Zones With MarketSmith
+8 Stocks Near Buys In Resilient Rally; Tesla, Virgin Galactic News On Tap
+RELATED NEWS
+Dow Jones Futures: Market Rally Attempt Begins, 7 Stocks Showing Strength; Tesla Deliveries Surge
+10:06 AM ET Friday marked day one of a market rally attempt, but it's still a correction. Tesla deliveries jumped.
+Tesla Deliveries Race Past Q3 Estimates To Record 241,300
+5 Best Chinese Stocks To Buy And Watch Amid Beijing Crackdowns, Evergrande Default Fears
+Nio Doubles Q3 EV Sales Despite Chip Shortage; Xpeng, Li Auto Sales Nearly Triple
+GM's Q3 Auto Sales Plunge By A Third After It Idles Factories
+Stock Market In Correction; Merck Covid Drug Rocks Moderna, BioNTech: Weekly Review
+Lordstown Dives After Confirming Factory Sale, Updating Endurance EV Production Plans
+Should You Buy XPeng Stock? Here's What Charts, Analysis Show
+GM Stock A Buy? General Motors' Sales Crash, But Chip Supply 'Improving'
+TODAY'S SPOTLIGHT
+Free Personal Finance Education
+IBD’s Moneyworks program is here and we’ve got 8 new lessons on personal finance.
+IBD Live with Jon Najarian!
+Don’t miss Jon Najarian on IBD Live October 5! Sign up for a 3-week trial to watch live.
+Best Online Broker Survey
+How would you rate your online broker? Tell us and you could win one of ten $50 prizes!
+MORE NEWS
+China Stocks Hammered By Regulations That Keep On Coming
+Here's A Less Risky Way To Play This Year's Booming IPO Market
+Hurricanes, the Delta Variant and The Energy & Oil Sector Trade
+Promoted Content By
+DIREXION
+
+TRADING CENTER
+INVESTING RESOURCES
+TAKE A TRIAL TODAY
+Get instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!
+IBD VIDEOS
+Get market updates, educational videos, webinars, and stock analysis.
+GET STARTED
+Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.
+IBD Stock Charts
+IBD Stock Checkup
+Stock Quotes
+MarketSmith
+Newsletters
+How to Buy Stocks
+How to Read Stock Charts
+When to Sell Stocks
+IBD Retail Locations
+Ad Choices
+ABOUT US ADVERTISING CONTACT US TERMS OF USE PRIVACY POLICY SITE MAP DO NOT SELL MY PERSONAL INFORMATION
+Stock Market Today
+The Big Picture
+Economic Calendar
+Investing Workshops
+New to IBD
+Economy
+Technology
+Best Mutual Funds Awards
+Best Online Brokers
+Connect With Us On
+Notice: Information contained herein is not and should not be construed as an offer, solicitation, or recommendation to buy or sell securities. The information has been obtained from sources we believe to be reliable; however no guarantee is made or implied with respect to its accuracy, timeliness, or completeness. Authors may own the stocks they discuss. The information and content are subject to change without notice.
+*Real-time prices by Nasdaq Last Sale. Realtime quote and/or trade prices are not sourced from all markets.
+Ownership data provided by Refinitiv and Estimates data provided by FactSet.
+© 2000-2021 Investor's Business Daily, LLC. All rights reserved

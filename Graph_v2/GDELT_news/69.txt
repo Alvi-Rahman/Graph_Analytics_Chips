@@ -1,0 +1,79 @@
+The chip shortage is getting worse
+The semiconductor supply crunch came for cars and phones. Now consumers are facing higher prices.
+By Rebecca Heilweil Aug 5, 2021, 12:20pm EDT
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+New trucks sit next to a race track at the Kentucky Speedway as Ford waits for more semiconductor shipments to arrive. Jeffrey Scott Dean/Bloomberg via Getty Images
+Starting next week, General Motors is again halting the assembly lines of several pickup truck plants because the company doesn’t have enough computer chips. The plants had been back up and running for just a week following a shutdown in July, which was also caused by the chip shortage.
+These production halts may not stop anytime soon. “I do think we’ll continue to see impact this year, and it will have a tail into next year,” warned CEO Mary Barra on Wednesday. And Intel CEO Pat Gelsinger similarly predicted last month that things won’t get back to normal for at least a year or two.
+Now, the impact of the supply crunch is spreading to consumer tech. Apple CEO Tim Cook warned last week that a limited supply of semiconductors would hurt sales of iPhones. Microsoft is struggling to make enough Xbox consoles and Surface laptops. Elon Musk told a court last month that the chip shortage meant Tesla would only be able to manufacture about half as many Powerwall home batteries as it thinks it can sell. One San Francisco sex toy company even stockpiled microcontrollers to fend off future supply chain problems.
+Sign up for The Weeds newsletter
+Vox’s German Lopez is here to guide you through the Biden administration’s burst of policymaking. Sign up to receive our newsletter each Friday.
+It’s clear that the global chip shortage shows no sign of abating anytime soon. In fact, it seems to be getting worse. While the White House is racing to expand chip manufacturing in the US to avoid future shortages, it could be years before that government investment actually pays off for consumers. So for now, the chip industry will continue to be hampered by the fallout from the Covid-19 pandemic, as products ship with missing features and higher prices — often after long delays.
+“The administration is saying, ‘Well, this is temporary,’” Willy Shih, a management practice professor at Harvard Business School, told Recode. “People are spending a lot of money to expedite things, and somebody’s going to have to pay for it.”
+In an effort to measure the scope of the chip shortage, Recode reached out to nearly 30 companies that use, design, and make chips, including General Motors, Qualcomm, and Hewlett-Packard. All of the companies that responded said they were affected by the shortage.
+The electronics maker Toshiba told Recode it’s stuck paying higher prices for components while Toyota said the company’s supply chain issues continue to affect production at its North American facilities. BSH, which makes Bosch appliances, said some products have lead times as long as six months.
+While companies are adapting in their own ways, most didn’t anticipate a resolution anytime soon. Instead, companies see the chip shortage as an industry-wide problem that could go unresolved until at least next year and quite possibly into 2023.
+The chip shortage is still wreaking havoc on auto production
+Almost every major automaker has been affected by the chip shortage. Last month, Ford Motors announced that its second-quarter profits had fallen by 50 percent, more than half a billion dollars, largely due to the lack of semiconductors. Stellantis, the Dutch automotive conglomerate, stalled production of its Jeep Gladiator pickup in July because the company couldn’t secure enough chips. And Subaru’s chief financial officer, Katsuyuki Mizuma, recently said that, thanks to the chip shortage, the company has just seven days worth of inventory on hand, compared to the 45-day supply of cars the automaker normally has.
+These supply chain woes began in the early days of the Covid-19 pandemic, when lockdowns worldwide shuttered manufacturing plants, disrupting the supply of semiconductors while simultaneously driving a surge in demand for devices like laptops and gaming consoles. Sensing an economic slowdown, many car companies jumped off the line for chips. Semiconductors can take up to six months to make, so when automakers canceled their orders, consumer tech companies were able to swoop in and buy those chips. When car demand returned and automakers needed semiconductors again, there weren’t enough to go around.
+RELATED
+Why a global chip shortage is screwing up America’s pickup trucks
+Car buyers are now feeling the consequences of the difficult-to-predict pandemic in the form of vehicles missing features, higher prices, and a scarcity of options. GM has sold some of its newest pickups and SUVs without advanced gas management systems or wireless charging features. Renault stopped installing the large screens that sit behind the wheel of its Arkana SUV models, while Nissan left navigation systems out of thousands of cars.
+Tesla even turned to rewriting its vehicles’ code so that the company could make use of the chips it did have at its disposal. But even that hasn’t completely spared the company from the shortage’s impact. CEO Elon Musk told investors in July that the company was finding it particularly difficult to secure chips needed for its airbags and seatbelts, essential features for a car.
+All of these problems combined are affecting price tags, too. Some 13 percent of people buying a car in April paid above sticker price, compared to 8 percent in 2020, one analyst told The Verge. In fact, the chip shortage has now gotten so dire that it’s not just fueling high prices for new cars, but higher prices for older vehicles, too. This means consumers looking to buy a new car have three limited choices, Consumer Reports wrote in July: “Look at models you weren’t previously considering, hold off on buying, or fix your old car if it’s in rough shape.”
+There’s no quick fix to the semiconductor shortage
+Demand for chips is still incredibly high, and there’s no reason to expect a sudden surplus of semiconductors to arrive in the next few weeks. Right now, there are only a small number of chipmakers across the globe, and much of the world’s supply of semiconductors come from a single company based in Taiwan: TSMC.
+Chipmakers are already producing chips at their maximum capacity, according to Falan Yinug of the Semiconductor Industry Association, a trade and lobbying group that represents the chip industry. “Chip production has, in fact, increased substantially, and more chips have shipped in recent months than ever before,” Yinug told Recode.
+Again, making a single chip takes an incredibly long time. At the same time, building more chip manufacturing plants, sometimes called fabs, requires years of engineering and construction and billions of dollars.
+The White House is still trying to offer some short-term relief. Biden administration officials have already brokered negotiations between semiconductor makers and car companies, helping push more chips back into the hands of automakers. That’s made the auto giants happy while frustrating others. Medical device makers, who use chips for everything from patient monitoring systems to assistive robots for surgery, urged Commerce Secretary Gina Raimondo to avoid “prioritizing one industry over another.”
+The Commerce Department recently concluded a 100-day review of the US semiconductor supply chain, which the White House said resulted in collaboration with the chip industry and a task force to identify potential disruptions in the supply chain. The agency is also pushing for a $52 billion program to incentivize more chip manufacturing in the US, a plan that will need congressional approval.
+“It’s not like you can just build a plant in 30 days. It takes roughly about 2.5 years,” Patrick Penfield, a supply chain management professor at Syracuse University, told Recode. “We’ve got Intel. We’ve got a couple of smaller fab manufacturers, but it’s gonna take time — and I think there needs to be more of an investment.”
+The shortage has come for consumer tech
+Although they scooped up the chips that automakers abandoned earlier in the pandemic, consumer tech companies are now running out of semiconductors as well. This is causing the price of laptops and TVs to rise and delays in orders for smartphones and gaming consoles.
+The market research firm Strategy Analytics estimated that, on average, the global wholesale price for phones grew 5 percent between April and June. Laptop, TV, and accessory prices have also spiked. One investment research firm told the Wall Street Journal that HP alone had raised the price of printers by more than 20 percent over the course of a year. At least one phone maker, China-based electronics company Xiaomi, delayed the shipment of a new device model in India. Sony also warned customers in May that there won’t be a large supply of the PlayStation 5 until at least 2022.
+The problem has gotten so bad some chip shipments are being stolen by smugglers. Fraudsters have even started selling counterfeit chips to dupe smaller electronics makers. Now, there are growing sales for special X-ray machines to identify those counterfeit parts, according to the Journal.
+Though the latest devices often tout their highly advanced chips, they also need simple semiconductors, too. And right now, it’s these basic chips that are in the shortest supply. This category of components includes “commodity chips that do these mundane things like display drivers or timers or microcontrollers or power management chips,” Shih, the Harvard professor, told Recode.
+In announcing how chip shortages would impact iPhones, Tim Cook told analysts that it was “legacy nodes” — simpler chips that can be manufactured using older techniques — that were hindering production. Whirlpool similarly struggled with the sparsity of microcontrollers, which are also relatively uncomplicated chips, in manufacturing its washing machines, microwaves, and refrigerators.
+As the chip shortage has hit consumer tech, chip designers and makers have promised to boost supplies and manufacturing capacity. A spokesperson for Qualcomm, which makes chip processors for devices like smartphones, told Recode that the company is making a lot of adjustments and said that it ”continue[s] to see strong demand in every single business outpacing supply.”
+Intel told Recode that the company boosted its central processing unit by double digits compared to last year, bolstered by the high demand for new electronics. It is also expanding its manufacturing capacity, and in March, the company announced that it would invest $20 billion to build two new chip-making fabs in Arizona. Still, Intel says the high demand for semiconductors is a challenge, and that the shortage could stretch into 2023.
+As the chip shortage continues to rattle car and laptop makers, consumers are all but certain to feel the consequences, possibly in price hikes as high as 10 to 15 percent, Penfield, the supply chain expert at Syracuse, told Recode. So for now, whether you’re hoping to snag a pickup truck or a laptop for back-to-(virtual)-school shopping, it’s best to buy as early as possible. As Penfield warns: “It’s going to be a difficult holiday season.”
+Will you support Vox’s explanatory journalism?
+Millions turn to Vox to understand what’s happening in the news. Our mission has never been more vital than it is in this moment: to empower through understanding. Financial contributions from our readers are a critical part of supporting our resource-intensive work and help us keep our journalism free for all. Please consider making a contribution to Vox today from as little as $3.
+MORE FROM VOX
+It’s getting harder for people to believe that Facebook is a net good for society
+How a simple email address makes things complicated
+The evidence for violence interrupters doesn’t support the hype
+You can buy stuff online, but getting it is another story
+Amazon’s favorite electric vehicle company is going public at a very tricky time
+The mystery behind OnlyFans’ flip-flop on porn
+THE LATEST
+Self-driving cars: The 21st-century trolley problem
+Facebook’s whistleblower tells Congress how to regulate tech
+Google’s plan to cut pay for remote workers who relocate is a bad idea
+Why this Facebook scandal is different
+Why everybody’s hiring but nobody’s getting hired
+More in The Latest
+THE LATEST ON VOX
+Our amazing sense of touch, explained by a Nobel laureate
+By Brian Resnick
+The mystery of the “same sky” postcards
+By Coleman Lowndes
+Facebook is having a Big Oil moment
+By Adam Clark Estes
+How the Nobel Prizes skew science
+By Byrd Pinkerton and Noam Hassenfeld
+A Korean filmmaker breaks down the themes of Squid Game
+By Aja Romano
+Why the Huntington Beach oil spill is so harmful to wildlife
+By Benji Jones
+Terms of Use Privacy Notice Cookie Policy Do Not Sell My Personal Info Licensing FAQ Accessibility Platform Status
+Contact Send Us a Tip Masthead About Us Editorial Ethics and Guidelines
+Vox Media Vox Media logo.
+Author Login
+Advertise with us
+Jobs @ Vox Media
+© 2021 Vox Media, LLC. All Rights Reserved

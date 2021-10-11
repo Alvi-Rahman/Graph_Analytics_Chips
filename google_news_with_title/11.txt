@@ -1,0 +1,71 @@
+Find Info For
+Apply
+News
+President
+Shop
+Visit
+Give
+Emergency
+Research Foundation News
+HOME
+NEWS TOPICS
+PURDUE TODAY
+MEDIA INFO
+PODCAST
+STORIES
+PURDUE IN THE NEWS
+September 17, 2021
+Purdue technology for downscaling transistors could advance semiconductor design
+Purdue University engineer Tillmann Kubis has created CasFET, or cascade field effect transistor, technology. The key aspect is the superlattice perpendicular to the transistor’s transport direction, which allows for switchable cascade states. (Image provided by Tillmann Kubis)
+Download Image
+WEST LAFAYETTE, Ind. – An innovation by Purdue University researchers could help the semiconductor industry design transistors that are smaller, use less power and switch from on to off at smaller applied voltages. As a result, the innovation could lead to better and more powerful central processing unit generations, which can compute more operations with less energy.
+Tillmann Kubis is the Katherine Ngai Pesic & Silvaco Research Assistant Professor of Electrical and Computer Engineering in Purdue's Elmore Family School of Electrical and Computer Engineering. He said it has become more difficult to meet the performance requirements of nanotransistors.
+"They need a high enough ON-current and low enough OFF-current, with a small enough difference to switch between both," Kubis said. "These challenges have significantly slowed the downscaling of transistors around the last eight years, making it increasingly difficult to introduce more powerful CPU generations."
+Kubis and James Charles, a senior research associate in the Elmore Family School of Electrical and Computer Engineering, have created CasFET, or cascade field effect transistor, technology. It introduces a new switching method to transistors, one that is like the effects observed in quantum cascade lasers.
+"CasFET is a more general approach than transistor technology we had developed several years ago. It offers more flexibility in the choice of materials and voltage settings," Kubis said. "In technical terms, CasFET does not require band-to-band tunneling. Because of this, semiconductor designers could be able to develop faster-switching and more energy-efficient transistors."
+Kubis and Charles continue to develop the first CasFET prototype.
+"Once that is showing the performance goals, we will continue with defining a concrete CasFET prototype design," Kubis said.
+Kubis disclosed the CasFET innovation to the Purdue Research Foundation Office of Technology Commercialization, which has applied for patent protection from the U.S. Patent and Trademark Office. It is available for further commercialization by contacting Dipak Narula, assistant director of business development.
+About Purdue Research Foundation Office of Technology Commercialization
+The Purdue Research Foundation Office of Technology Commercialization operates one of the most comprehensive technology transfer programs among leading research universities in the U.S. Services provided by this office support the economic development initiatives of Purdue University and benefit the university's academic activities through commercializing, licensing and protecting Purdue intellectual property. The office recently moved into the Convergence Center for Innovation and Collaboration in Discovery Park District, adjacent to the Purdue campus. In fiscal year 2020, the office reported 148 deals finalized with 225 technologies signed, 408 disclosures received and 180 issued U.S. patents. The office is managed by the Purdue Research Foundation, which received the 2019 Innovation and Economic Prosperity Universities Award for Place from the Association of Public and Land-grant Universities. In 2020, IPWatchdog Institute ranked Purdue third nationally in startup creation and in the top 20 for patents. The Purdue Research Foundation is a private, nonprofit foundation created to advance the mission of Purdue University. Contact otcip@prf.org for more information.
+About Purdue University
+Purdue University is a top public research institution developing practical solutions to today’s toughest challenges. Ranked in each of the last four years as one of the 10 Most Innovative universities in the United States by U.S. News & World Report, Purdue delivers world-changing research and out-of-this-world discovery. Committed to hands-on and online, real-world learning, Purdue offers a transformative education to all. Committed to affordability and accessibility, Purdue has frozen tuition and most fees at 2012-13 levels, enabling more students than ever to graduate debt-free. See how Purdue never stops in the persistent pursuit of the next giant leap at https://purdue.edu/. 
+Writer: Steve Martin, sgmartin@prf.org
+Source: Tillmann Kubis, tkubis@purdue.edu
+
+Research Foundation News
+Purdue Foundry creates new entrepreneurial programming, could invest up to $300,000 in businesses
+Purdue technology for downscaling transistors could advance semiconductor design
+Purdue microneedles pierce biofilm for more effective topical delivery of antibiotics to infected wounds
+Purdue Innovation Partners Institute launches digital engagement initiative for Discovery Park District
+Trask Innovation Fund to award up to $50,000 for projects that strengthen Purdue intellectual property
+COMMUNICATION
+OneCampus Portal
+Brightspace
+BoilerConnect
+Office 365
+Outlook
+myPurdue
+CAMPUS
+Faculty and Staff
+Human Resources
+Careers
+Colleges and Schools
+Directory
+Campus Map
+INFO FOR STAFF
+Purdue Moves
+Board of Trustees
+University Senate
+APSAC
+CSSAC
+RESOURCES
+Human Resources
+Center for Healthy Living
+Information Technology
+Ethics & Compliance
+Campus Disruptions
+
+Purdue University, 610 Purdue Mall, West Lafayette, IN 47907, (765) 494-4600
+© 2015-20 Purdue University | An equal access/equal opportunity university | Copyright Complaints | Maintained by Office of Strategic Communications
+Trouble with this page? Disability-related accessibility issue? Please contact News Service at purduenews@purdue.edu.

@@ -1,0 +1,69 @@
+Subscribe
+Sign In
+May 12, 2021,12:50pm EDT|4,245 views
+Semiconductor Equipment Maker ASML Is At The Center Of The Global Chip Shortage
+Stephen McBrideFormer Contributor
+Markets
+The editor of RiskHedge Report
+Listen to article
+7 minutes
+The logo of ASML is seen on a screen next to an illustration of the stock market. It is part of the ... [+] NURPHOTO VIA GETTY IMAGES
+I hope you’re not renting a car anytime soon. Tourists flocking to sunny spots like Hawaii and Florida are having a difficult time. The average car rental on the island of used to cost $50 a day. Now a basic Toyota Camry in Hawaii will set you back around $400 a day. Some desperate travelers are even turning to U-Haul vans because rental car lots are empty.
+When COVID hit, car rental giants Avis and Hertz held fire sales. In fact, they dumped over half a million cars last year. Now, they can’t buy new cars. If you’ve been following along, you know Ford started shutting the doors on its factories back in February. Now it says some of them will be closed until August!
+GM, Volkswagen, Toyota, Honda, and Volvo and other automakers were forced to idle their plants, too. Ford says it expects to produce 1.1 million fewer vehicles this year than it had planned. According to top consulting firm AlixPartners, automakers will lose $61 billion in sales this year. The reason?
+PROMOTED
+We’re quickly running out of one of the most valuable resources the world has ever known
+I’m talking about semiconductors. At the turn of the century, most cars didn’t even have one microchip. Your average electric car today is packed with roughly 3,000 of them. These microchips often cost just a few dollars, but you can’t ship a $75,000 car without them. Everything from power steering to dashboards and automatic brakes runs on semiconductor chips. But this problem reaches far beyond cars.
+Elon Musk called the chip shortage a “huge problem.” Apple just announced the drought could knock $4 billion off its sales next quarter.
+Even dog washing businesses are suffering. Illinois-based company CCSI makes dog-washing booths that automatically dispense shampoo, water, and even dry your dog. The machine is powered by computer chips, which CCSI can’t get their hands on right now.
+MORE FOR YOU
+Why You’ll Never Get Another Paper Stimulus Check
+How My Friend Made $128,000 Without Knowing It
+Coronavirus Will Wipe Out These Three Industries For Good
+Longtime RiskHedge readers know the whole world runs on chips these days. Chips are essentially the “brains” of modern electronics.
+Temperature sensors in air conditioners are powered by tiny microchips. The chip inside pacemakers sends electrical pulses to the heart to keep it beating regularly. Have you heard of a “display driver”? There’s a good chance you use it every day and don’t even realize it.
+This $1 device is at the center of the chip shortage. In short, it conveys basic instructions for illuminating the screen on your phone, computer monitor, and even the navigation system in your car.
+Now, you can’t grab a packet of microchips off the shelf at Walmart… so folks tend to underestimate their importance. But this chip shortage is costing the world’s largest firms billions of dollars. But it’s even more important than that.
+Think of the chip shortage like the world running out of concrete or steel 100 years ago
+It would have stifled the world’s biggest projects, right? For example, there’s 60,000 tons of steel in the Empire State Building. And it took 4.3 million cubic yards of concrete to build the Hoover Dam. That’s enough to pave a 16-foot-wide road from California to New York.
+These days, microchips—not heavy-duty materials—make the world go round.
+We’re going to need a lot more chips. But the current shortage highlights that chipmakers are already running at full tilt.
+Research from Wall Street firm AllianceBernstein shows every chip factory is completely maxed out for the next couple of months. The gap between when a chip order is placed and when it gets shipped has stretched to a record four months.
+This can only mean one thing: Chipmakers HAVE TO build dozens of new factories in the coming years. In fact, they’re already breaking ground.
+The world’s largest chipmaker TSMC (TSM) announced it would plough a record $100 billion into new plants over the next three years.
+Rival Samsung said it will invest $116 billion in new factories by 2030. This includes a $17 billion state-of-the-art chip plant in Austin, Texas.
+Last month, chip pioneer Intel (INTC) announced it will spend $20 billion on two new chipmaking fabrication plants in Phoenix. This is the largest investment in the company’s 60-year history. You’re probably wondering why chip plants are so expensive? In fact, it costs more to build a cutting-edge chip plant than a nuclear reactor… or a giant US military aircraft carrier.
+CBS’ 60 Minutes dug into the chip shortage recently
+Host Lesley Stahl flew down to Intel’s headquarters in Phoenix. And she quizzed CEO Pat Gelsinger on why factories cost so much.
+Lesley Stahl: How much does this fab cost?
+Pat Gelsinger: $10 billion.
+Lesley Stahl: Billion?
+Pat Gelsinger: $10 billion because each one of these pieces of equipment is maybe $5 million.
+Here’s what the inside of Intel’s plant looks like:
+Source: 60 MINUTES
+Chipmakers use the most advanced machines on earth.
+RiskHedge readers know ASML (ASML) is a key player in chipmaking. ASML’s extreme ultraviolet lithography (EUV) machine “burns” a blueprint of transistors onto a silicon wafer. And it does it with the precision equivalent to shooting an arrow from Earth and hitting an apple placed on the moon.
+ASML’s tools allow chipmakers to push the limits of what’s possible. In short, they are essential to crafting leading-edge chips. And get this: these machines are so heavy it takes three Boeing 747 cargo planes just to deliver one
+As Intel’s CEO told 60 Minutes, the costliest part of these fabs is the machines. For example, ASML’s machines come with a $160 million price tag—and leading-edge factories might have 20 or more.
+As chipmakers rush to build new factories, they will spend boatloads of money on these tools over the next few years.
+Intel, TSMC, and others are on track to splash out $70 billion on chipmaking tools this year alone. This smashes previous records, as you can see:
+Source: RISKHEDGE
+ASML is already raking in boatloads of cash. The disruptor achieved record earnings in late April, which sent the stock surging to all-time highs:
+Source: RISKHEDGE
+ASML has more than tripled since I first wrote about it in the RiskHedge Report back in 2018. I see this all-time great disruptor heading much higher over the coming years.
+Get my report "The Great Disruptors: 3 Breakthrough Stocks Set to Double Your Money". These stocks will hand you 100% gains as they disrupt whole industries. Get your free copy here.
+Check out my website. 
+Stephen McBride
+I'm a professional investor and the chief analyst at RiskHedge, a disruption research firm. My team and I hunt for under-the-radar "disruptive" companies that are… Read More
+Print
+Reprints & Permissions
+Video Player is loading.
+Play
+Unmute
+Current Time 
+0:00
+/
+Duration 
+0:00
+Loaded:
+ Fullscreen

@@ -1,0 +1,72 @@
+MENU
+October 5, 2021
+Biden Puts Semiconductor Supply Chains Under Microscope
+Kay Georgi, John Gurtunca, David Hanke, Marwa Hassoun
+Arent Fox
++ Follow Contact
+LinkedIn
+Facebook
+Twitter
+Send
+Embed
+In late September, the Biden Administration took a variety of actions to address the ongoing global semiconductor shortage and the various supply chain disruptions caused by the COVID-19 pandemic.
+  That includes convening a White House meeting with key players in the semiconductor industry, issuing a RFI to industry on the chip supply chain, and again calling on Congress to help bolster domestic semiconductor supply chains and domestic industrial capacity.
+What to Know
+Commerce Department issues a request for information (RFI) from industry on the shortage of semiconductors and the semiconductor supply chain.
+White House pushes Congress to fund the implementation of the Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Act to resolve and prevent future semiconductor shortages.
+Commerce Continues Engagement with the Semiconductor Industry
+On September 23, 2021, Secretary of Commerce Gina Raimondo and National Economic Council Director Brian Deese convened a White House meeting with major semiconductor manufacturers and customers, where they “discussed the progress industry has made to address supply chain challenges and increase supply chain transparency.” The meeting, which was the third such gathering convened by the Biden Administration, was held in concert with an assertive move by the U.S. Department of Commerce to gather information on the semiconductor industry.
+Specifically, on September 24, 2021, the Commerce Department, Bureau of Industry and Security (BIS) — the agency primarily responsible for regulating dual-use and some military exports — released an RFI calling for U.S. and non-U.S. entities throughout the semiconductor supply chain to share information about their production practices, capacity, inventories, and market demand as BIS seeks to formulate strategies for combating the global chip shortage. The RFI seeks information “[w]ith the goal of facilitating the flow of information across the various segments of the supply chain, identifying data gaps and bottlenecks in the supply chain, and potential inconsistent demand signals.”
+The RFI also contains two sets of questions:
+The first set of questions is directed at “semiconductor product design, front and back-end manufacturers and microelectronics assemblers, and their suppliers and distributors.” These questions seek information on, among other things:
+Sales and inventories from years 2019 and 2020, as well as an estimate for 2021;
+Which semiconductor products have the largest order backlogs and sales of those products; and
+Data on product fabrication and package/assembly locations, as well as the top three customers for those products.
+  The second set of questions targets semiconductor end users, from whom BIS requests information on:
+The semiconductor products they are having difficulty acquiring,
+Their 2019 and 2020 purchases of those products, as well as average monthly orders for 2021, and
+The quantity of those products they would purchase over the next six months “barring any production constraints.”
+BIS is also requesting information in both sets of questions on the primary bottlenecks faced by the relevant entities, and “[w]hat single change (and to which portion of the supply chain) would most significantly increase” entities’ ability to supply or purchase semiconductors in the next six months. Comments are due on November 8, 2021, and can be submitted via the Federal eRulemaking Portal, referencing docket number BIS 2021-0036 or RIN 0694-XC084.
+Secretary Raimondo’s public comments indicate that Commerce expects industry to cooperate with the RFI and provide useful supply chain data and that she is frustrated with the perceived lack of cooperation from industry thus far. In a September 23, 2021 interview with Bloomberg, she said the Biden Administration is considering invoking the Defense Production Act to compel companies in the semiconductor supply chain to provide the information she seeks.  
+White House Policymakers Call on Congress to Bolster Supply Chains
+Sameera Fazili, the Deputy Director of the National Economic Council, and Peter Harrell, who serves as Senior Director for International Economics and Competitiveness at the National Security Council, also joined the overall effort, writing in a White House blog post published on September 23, 2021, that the information provided in response to the RFI could “provide a clear demand signal that can attract more private investment to expand capacity to resolve the shortage.” The blog post also covers the steps the Biden Administration has taken and will take to address supply chain shocks caused by COVID-19 and the global chip shortage. It also calls on Congress to help alleviate the shortage. Fazili and Harrell wrote that the Administration has “been working with foreign governments in Southeast Asia and elsewhere to keep critical factories up and running,” and will set up a “new early alert system for COVID-related shutdowns to microelectronics manufacturing around the world” that “will allow us to detect potential disruptions earlier” and support faster solutions in coordination with trading partners and the private sector.
+Regarding Congress, Fazili and Harrell wrote that there are two steps lawmakers can take to “accelerate our progress towards more resilient supply chains.” First, they ask that Congress “fund the bipartisan CHIPS for America Act, which would enable transformative investments in domestic semiconductor research, design, and manufacturing.” Second, they said Congress should “establish the new Critical Supply Chain Resiliency Program (CSCRP) at the Department of Commerce” as called for in President Biden’s Build Back Better plan. The program would “serve as a central node in the federal government for supply chain resilience, facilitate better coordination and planning across federal agencies to address vulnerabilities, and invest in critical supply chains where the private market has failed to allocate sufficient capital.”
+The CSCRP has not yet been authorized or funded by Congress. However, after a complex multi-committee process, on June 8, 2021, the Senate advanced the United States Innovation and Competition Act (USICA), which would, among other things, create a “Supply Chain Resilience Program” with broad authority. In fact, under the Senate-passed bill, this new program would also incorporate the CHIPS for America Act’s centerpiece effort to incentivize domestic manufacturing of semiconductors. While USICA has apparently stalled on the House side, it may come back to life later this year or early next year.  
+Meanwhile, the House’s massive budget reconciliation package, which would implement President Biden’s “Build Back Better” agenda, contains a provision written by the House Committee on Energy and Commerce that would provide relevant funding. The bill, which is now under consideration, would appropriate $10 billion over five years for a seemingly related program to allow the Commerce Department to provide grants to domestic enterprises, manufacturers, regional and technology hubs, and other entities in order to shore up U.S. supply chains.
+[View source.]
+Send Print Report
+RELATED POSTS
+President Biden Orders 100-Day Review of America’s Supply Chains for Semiconductors, Batteries, Critical Minerals and APIs
+LATEST POSTS
+Top NLRB Lawyer Says That College Football Players Are Employees
+As Halloween Approaches, 'Zombie' LIBOR Is Scheduled to Appear
+Biden Puts Semiconductor Supply Chains Under Microscope
+FCC Seeks Public Comment on the Current and Future Regulation of the "Internet of Things"
+See more »
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+© Arent Fox 2021 | Attorney Advertising
+WRITTEN BY:
+Arent Fox
+Contact + Follow
+Kay Georgi + Follow
+John Gurtunca + Follow
+David Hanke + Follow
+Marwa Hassoun + Follow
+PUBLISHED IN:
+Biden Administration + Follow
+Bureau of Industry and Security (BIS) + Follow
+Coronavirus/COVID-19 + Follow
+Defense Production Act + Follow
+Request For Information + Follow
+Semiconductors + Follow
+Supply Chain + Follow
+Supply Shortages + Follow
+U.S. Commerce Department + Follow
+Administrative Agency + Follow
+ARENT FOX ON:
+This website uses cookies to improve user experience, track anonymous site usage, store authorization tokens and permit sharing on social media networks. By continuing to browse this website you accept the use of cookies. Click here to read more about how we use cookies.
+Continue
+Back to Top
+Home What Is JD Supra? Subscribe Leverage Your Thought Leadership Privacy Policy Terms & Conditions Contact Team
+Explore 2021 Readers' Choice Awards
+Copyright © 2021 JD Supra, LLC

@@ -1,0 +1,70 @@
+ACM
+SIGN IN
+Go
+ACM.org
+Join ACM
+About Communications
+ACM Resources
+Alerts & Feeds
+Communications of the ACM
+HOME
+CURRENT ISSUE
+NEWS
+BLOGS
+OPINION
+RESEARCH
+PRACTICE
+CAREERS
+ARCHIVE
+VIDEOS
+Home/News/Counterfeit, Substandard Chips are Penetrating the.../Full Text
+ACM NEWS
+Counterfeit, Substandard Chips are Penetrating the Supply Chain, Industry Insiders Warn
+By Computing (U.K.)
+September 20, 2021
+Comments
+VIEW AS:
+Print
+Mobile App
+SHARE:
+Send by email
+Share on reddit
+Share on StumbleUpon
+Share on Hacker News
+Share on Tweeter
+Share on Facebook
+Share
+Counterfeit, substandard chips are penetrating the supply chain, industry insiders warn.
+Credit: Computing (U.K.)
+Global markets are already seeing an increase in prices for component and electronics as a result of the ongoing chip production crisis, but there is another negative effect that semiconductor shortage could have on supply chains: a flood of fake, substandard chips.
+As Nikkei Asia reports, Japanese electronics manufacturer Jenesis is one of those that have suffered the most as a result of the fake chip phenomena in recent months.
+The firm was unable to procure microcomputers from its normal sources, and its division in southern China placed an order through a site run by Chinese e-commerce giant Alibaba.
+Unfortunately, when the chips arrived, they were faulty.
+An expert who inspected the chips at Jenesis' request found the specifications of the chips sent from China differed completely from what Jenesis had ordered. Interestingly, the chip manufacturer's name on the packages seemed to be genuine.
+Jenesis, which had already made payments for the order, was unable to contact the supplier later.
+From Computing (U.K.)
+View Full Article
+    No entries found
+SIGN IN for Full Access
+User Name
+Password
+» Forgot Password?
+» Create an ACM Web Account
+SIGN IN
+MORE NEWS & OPINIONS
+U.S., Allies Accuse China of Hacking Microsoft and Condoning Other Cyberattacks
+The Washington Post
+The 2021 Software Developer Shortage Is Coming
+Travis Breaux, Jennifer Moritz
+Software Quotes and Counter Quotes
+Doug Meil
+ACM RESOURCES
+Windows XP Professional: An Introduction    
+Courses
+For Authors
+For Advertisers
+Privacy Policy
+Help
+Contact Us
+Mobile Site
+Copyright © 2021 by the ACM. All rights reserved.

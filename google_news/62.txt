@@ -1,0 +1,65 @@
+News
+Features
+Broadcasts
+On-Demand
+Opinions
+Video
+Resources
+Magazines
+Awards
+Training
+DCD>Connect
+HOME NEWS IT HARDWARE
+South Korea to spend $451 billion on becoming a semiconductor manufacturing giant
+Putting a lot of chips on the table
+May 14, 2021 By Sebastian Moss Comment
+South Korea will spend $451 billion on domestic semiconductor production over the next decade.
+The funds will come from a mixture of government support packages, tax incentives, and corporate investment pledges.
+Samsung Electronics headquarters
+– Creative Commons
+Samsung Electronics and SK Hynix Inc. will lead the investment under a national blueprint devised by President Moon Jae-in’s administration, along with 151 other companies.
+This week, Samsung said it would invest 171 trillion won ($151bn) through to 2030 in its System LSI and Foundry businesses, an increase of 38 trillion won ($33.6bn) over its previous investment plans. This does not include its Memory business, where the company has a comfortable market lead.
+“The entire semiconductor industry is facing a watershed moment and now is the time to chart out a plan for long-term strategy and investment,” said Dr. Kinam Kim, vice chairman and head of device solutions division at Samsung Electronics.
+SK Hynix will spend $97bn on expanding its existing foundry facilities - in addition to a previously pledged $106bn for four new plants.
+The South Korean government will provide tax breaks, lower interest rates, cut regulation, and help prioritize and fund necessary infrastructure.
+State and local governments will ensure adequate water supply for the next 10 years and invest in power supplies - with rival Taiwan facing a lengthy drought and recently suffering a power cut.
+The investments will be focused on the “K-semiconductor belt," a newly-named region south of Seoul that hopes to be the epicenter of South Korea's semiconductor push.
+The government will also help fund the training of 36,000 semiconductor experts, spend 1.5 trillion won ($1.3bn) on chip R&D, and has promised more chip-friendly legislation.
+It has also signaled that it is seeking foreign investment, with the government pointing to semiconductor equipment maker ASML Holdings' promise to build a training center, and Lam Research Corp's plan to double capacity.
+South Korea is currently the second-largest producer of computer chips, with Taiwan far in the lead.
+While Taiwan and TSMC dominate the semiconductor foundry industry - both in sales and technology - South Korea has a fast-growing chip industry.
+The nation is home to more than 20,000 semiconductor-related companies, including 369 IC manufacturing enterprises, 2,650 semiconductor equipment enterprises, and 4,078 semiconductor material enterprises, a Deloitte study found.
+Further reading
+20 Apr 2021
+TSMC, Intel, and Nvidia warn of years of chip shortages
+24 Mar 2021
+Intel plans to spend $20bn on semiconductor plants, create its own foundry business
+07 Apr 2021
+TSMC to spend $100bn on chip fabs, SK Hynix plans $106bn fab complex
+Tags
+K-semiconductor belt SK Hynix Inc. Dr. Kinam Kim South Korea Samsung Electronics
+Resources
+More
+H1 2021 Data Center Outlook
+30 Sep 2021
+Next-Generation Work: Equipping Employees with Secure Remote High-Resolution Video Capabilities
+16 Sep 2021
+MCA & MFP Helps JD Stable and Efficient Cloud Services
+16 Sep 2021
+Data Center Solutions: Reducing the Risk of Change
+14 Sep 2021
+Looking for technical training? Test your understanding of mission critical with these free-to-use DCPro knowledge assessments
+Data Centre Dynamics Ltd (DCD)
+& DC Professional Development Limited (DCPRO)
+22 York Buildings,
+John Adam Street,
+London WC2N 6JU
+
+Email. info@datacenterdynamics.com
+Products
+Broadcasts Mission Critical Training Global Awards 2021 Certification Webinars Magazines Newsletters
+DCD
+Our People What we do Office locations Working for us
+© 2021 DCD
+Terms & Conditions
+Data Protection / Privacy Policy

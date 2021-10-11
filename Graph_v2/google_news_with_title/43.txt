@@ -1,0 +1,126 @@
+LOGIN
+HELP
+PREMIUM SERVICES
+Latest Stock Picks
+Our Services
+Investing Basics
+Stock Market
+Retirement
+About Us
+
+Here's Why the Chip Shortage May Hurt Chipmakers Like NXP and TSMC in 2023
+The industry may be overreacting to the current semiconductor undersupply, setting up a swing to the other extreme in two years.
+James Brumley
+(TMFjbrumley)
+Oct 4, 2021 at 7:15AM
+Author Bio
+Follow @jbrumley
+Key Points
+IDC projects the semiconductor shortage will peak in 2022, when capacity finally matches demand.
+Moody's fears a swell of semiconductor foundry expansions in China could result in a chip glut.
+Texas Instruments may have already subtly hinted that a slowdown is starting to take shape.
+On the off chance that you're unaware, the world is in the grips of a microchip shortage. Technology-intensive goods ranging from automobiles to smartphones to solar panels (just to name a few) are being adversely impact by the supply crunch. Semiconductor manufacturers like Intel (NASDAQ:INTC) and NXP Semiconductors (NASDAQ:NXPI) are working hard to catch up with demand, including investing in new production capacity. But it's still not been enough. The end result? Microchip makers can pretty much charge whatever they want for their wares, yet revenue is still crimped by a lack of inventory.
+The response to the supply shortage, however, could be setting up a huge future problem that's difficult to see in the present. Namely, the massive investments being made in greater production potential right now set the stage for a price-killing chip glut in 2023.
+IMAGE SOURCE: GETTY IMAGES.
+A self-induced glut awaits
+That's the argument being made by technology market research outfit IDC, anyway. Late last month the company said this year's likely 17.3% growth of the undersupplied semiconductor market would "normalize and balance" by mid-2022. Then, in 2023, there's a "potential for overcapacity" as "larger scale capacity expansions begin to come online toward the end of 2022."
+It admittedly sounds a bit insane, given the current environment and shortage rhetoric. But know that IDC isn't the only organization warning the world of this possibility. Bond and equity markets research name Moody's is worried too. In August a report published by Moody's on the matter explained, "The [Chinese] government's semiconductor industry investment plans could lead to fierce competition, resulting in overcapacity of certain types [of chips]." That report went on to warn that "overcapacity is a particular risk at the fabrication stage as a result of the large amount of capital spending needed to set up fabrication plants."
+Although Moody's specifically pointed to China's role in expanding the industry's output, it's hardly going to be solely responsible for any oversupply issue. Intel is spending $20 billion to build two new semiconductor foundries in Arizona and has earmarked nearly $100 billion to expand its chipmaking capacity in Europe. Taiwan Semiconductor Manufacturing (NYSE:TSM) is planning to spend $100 billion over the course of the next three years to beef up its output volume. Samsung (OTC: SSNLF) is ponying up more than $200 billion to expand its capacity.
+At least one big name in the industry may somewhat see the prospective problem, however.
+That name is Texas Instruments (NASDAQ:TXN). Its third-quarter guidance issued as part of its second-quarter report posted back in July wasn't exactly better than expected. More notably, although the company already has a great deal of production capacity, Q3's revenue guidance of between $4.40 billion to $4.76 billion isn't remarkably better -- given the high-demand and COVID-crimped supply at the time -- than last year's Q3 revenue of $3.82 billion. The outlook loosely suggests the headwind is already starting to blow. As Raymond James analyst Chris Caso put it, "management likely suffers from a lack of confidence at the macro level, despite what clearly continues to be tight supply conditions," perhaps articulating the impending challenge in a way that Texas Instruments itself couldn't.
+Think ahead, because stock prices are forward-looking
+OK, fine. Too much semiconductor manufacturing capacity is on the horizon, but it won't be a problem for at least a year, and possibly two years. These names are poised to perform well in the meantime, right?
+Maybe. Or maybe not.
+While the demand is clearly solid and the need for chips isn't likely to ebb anytime soon, the stock market doesn't operate so straightforwardly. It's predictive in nature, meaning stocks have a way of reflecting what's likely to happen in the future as much as (if not more than) what's happening in the present.
+And there's the rub. A chip glut is probably part of our foreseeable future, even if we don't know exactly when it will become readily evident. IDC reckons equilibrium will be found sometime next year, but a year is a long time. Investors as a group could see that writing on the wall anytime between now and then, and start repricing these stocks accordingly.
+Bottom line? This isn't a call to sell any and all foundry/fab names right now, to be clear. It is a suggestion, however, to go ahead and put this brewing headwind on your mental radars. Once it starts to blow against these stocks, it could stiffen in a hurry.
+10 stocks we like better than Intel Corporation
+When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Intel Corporation wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+*Stock Advisor returns as of September 17, 2021
+This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an investing thesis -- even one of our own -- helps us all think critically about investing and make decisions that help us become smarter, happier, and richer.
+James Brumley has no position in any of the stocks mentioned. The Motley Fool owns shares of and recommends Moodys, Taiwan Semiconductor Manufacturing, and Texas Instruments. The Motley Fool recommends Intel and NXP Semiconductors and recommends the following options: long January 2023 $57.50 calls on Intel and short January 2023 $57.50 puts on Intel. The Motley Fool has a disclosure policy.
+Motley Fool Returns
+STOCK ADVISOR
+S&P 500
+624%
+134%
+Join Stock Advisor
+Discounted offers are only available to new members. Stock Advisor will renew at the then current list price. Stock Advisor list price is $199 per year.
+Stock Advisor launched in February of 2002. Returns as of 10/06/2021.
+Don't miss out. Market closes in…
+00
+Hours
+:
+00
+Minutes
+:
+00
+Seconds
+Cumulative Growth of a $10,000 Investment in Stock Advisor
+Calculated by Time-Weighted Return
+STOCKS
+Intel Corporation
+NASDAQ:INTC
+$53.79
+$0.16
+(-0.30%)
+Texas Instruments Incorporated
+NASDAQ:TXN
+$193.30
+$0.58
+(-0.30%)
+Taiwan Semiconductor Manufacturing Company Limited
+NYSE:TSM
+$109.08
+$0.18
+(-0.17%)
+NXP Semiconductors N.V.
+NASDAQ:NXPI
+$190.66
+$0.97
+(-0.51%)
+Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+RELATED ARTICLES
+The 1 Value Stock I'm Buying Right Now
+2 Reasons to Bet on a Turnaround at Intel
+3 Reasons to Buy Intel, and 1 Reason To Sell
+Is This Going to Be Intel's Big Break?
+Intel Is Positioning Itself to Make the Comeback of the Century
+Making the world smarter, happier, and richer.
+Facebook
+Twitter
+Linked In
+Pinterest
+YouTube
+Instagram
+Tiktok
+© 1995 - 2021 The Motley Fool. All rights reserved.
+Market data powered by Xignite.
+About the Motley Fool
+About Us
+Careers
+Culture Blog
+Research
+Press Inquiries
+Contact
+Advertise
+Our Services
+Stock Advisor
+Rule Breakers
+Rule Your Retirement
+The Ascent
+All Star Money
+Millionacres
+All Services
+Around the Globe
+Fool UK
+Fool Australia
+Fool Canada
+Fool Deutschland
+Free Tools
+CAPS Stock Ratings
+Discussion Boards
+Calculators
+Terms of Use Privacy Policy Accessibility Policy Copyright, Trademark and Patent Information Terms and Conditions Do Not Sell My Personal Information

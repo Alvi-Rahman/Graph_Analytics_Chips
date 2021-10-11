@@ -1,0 +1,196 @@
+Search the site
+Go
+TABOR NETWORK:
+DATANAMI
+ENTERPRISEAI
+HPCWIRE JAPAN
+HPC & AI WALL STREET
+Since 1987 - Covering the Fastest Computers in the World and the People Who Run Them
+Home
+Technologies
+Sectors
+COVID-19
+AI/ML/DL
+Exascale
+Specials
+Resource Library
+Podcast
+Events
+Job Bank
+About
+Our Authors
+Solution Channels
+Subscribe
+Dear Colleague Letter: CISE RFI on Semiconductor Research and Education
+August 6, 2021
+Aug. 6, 2021 — In a letter, Margaret Martonosi, Assistant Director, Computer and Information Science and Engineering, National Science Foundation, announces a Request for Information (RFI). The letter is included in full below.
+Dear Colleagues:
+Semiconductor-related research, including underlying supply-chain, business, and economic impacts, are increasingly important to the Nation’s long-term competitiveness and security. Through this Request for Information (RFI), the National Science Foundation’s (NSF) Directorate for Computer and Information Science and Engineering (CISE) seeks input from those who are directly engaged in, or might potentially benefit from, CISE-related research and education in semiconductor and micro- and nano-electronics.
+The computing stack has traditionally been viewed as a hierarchy of layers with devices and circuits comprising the lowest layers, and architectures, software, algorithms, and applications constituting progressively higher layers. Lower layers of the stack (e.g., devices, circuits, architectures) more directly involve semiconductor technologies to the extent that researchers may interact with large-scale fabrication facilities, but all levels of the stack are influenced by microelectronic advances to varying degrees. Thus, although in its entirety CISE research may not directly involve research on semiconductors, per se, the entire computing stack, from circuit design to architectures and on to software and applications such as sensor networks including the Internet of Things (IoT), embedded computing, next-generation wireless systems, large-scale data analytics, artificial intelligence (AI), edge and cloud computing, and high-performance computing, heavily depends on advances in this space.
+As a result, much of the CISE directorate’s portfolio is dependent upon advances in semiconductor technologies. For one example, tomorrow’s AI innovations offer transformative societal impacts, but require advanced hardware capabilities that leverage newer semiconductor technologies. Conversely, the hardware design problem is a large, multi-objective, multiscale optimization problem that stands to benefit from the application of modern AI techniques.
+On December 14-20, 2020, CISE funded a workshop focusing on the lowest levels of the computing stack. This workshop considered the scientific frontiers for semiconductor and microelectronics technologies as well as the needs for access to semiconductor foundries. The workshop report is available at: https://nsfedaworkshop.nd.edu/assets/429148/nsf20_foundry_meeting_report.pdf.
+Building upon that workshop and report, and given the diverse interests of the CISE directorate and community, the intent of this RFI is broader. Specifically, NSF/CISE seeks to:
+Gauge the extent to which the community’s research and educational agenda would be enabled by the availability of new or different resources, or the re-introduction of resources that were available in the past. By this, NSF/CISE asks that respondents not restrict their answers to issues related to funding, but rather also consider issues related to infrastructure, facilities, access to tools/intellectual property/data, legal issues, etc., that support their research and educational agenda in the broader area of semiconductors;
+Understand what specific activities the research community would pursue and how that activity would impact societal and national interests, if the impediments mentioned in the first category above are removed. NSF/CISE asks respondents to be specific in making projections about new technologies potentially enabled by advances in semiconductor and microelectronics technologies within the 5-, 10-, or 15-year horizons, or longer. Also, if a respondent’s research directly involves use of hardware fabrication, NSF is interested in learning specifics, as outlined in the questions below.
+This RFI is issued solely for information-gathering purposes. NSF/CISE’s intent is to analyze the responses received from this RFI for internal needs and for potentially formulating future program solicitations. NSF/CISE may make anonymized versions of the responses available to the public. This RFI does not constitute a formal solicitation for proposals.
+INSTRUCTIONS TO SUBMITTERS
+NSF invites both individuals and groups of individuals to provide their inputs via the online submission form (link below). The submission form requires the following information:
+Affiliation information: Please select from the following options:
+University Faculty
+University Staff
+Industry Professional
+National Lab Researcher
+Other (please describe)
+If you are associated with an institution of higher education, please let us know what department you are in:
+Computer Science
+Electrical Engineering
+Electrical and Computer Engineering
+Materials Science
+Physical sciences
+Other (please describe)
+If you are associated with industry, please let us know what segment of industry you represent:
+Semiconductor fabrication
+Materials/Devices
+Electronic Design Automation (EDA) tools
+Design services
+Embedded system /IoT design
+Software systems
+Cloud services
+Other (please describe)
+While NSF/CISE has formulated the following questions, please feel free to submit inputs as free-form text, limiting responses to the specified number of words. Note that the questions are presented here as information. There is a pointer to the on-line survey at the end of this RFI.
+Optional: If you feel comfortable saying where you are employed, please enter that here.
+Question 1 (300 words) – Semiconductor and microelectronic research: Describe current or emerging research enabled by semiconductor or microelectronic technology, providing context in terms of recent research activities and standing questions in the field. NSF/CISE is particularly interested in cross-disciplinary challenges that will drive requirements in a variety of research fields, but that are rooted in, or rely upon, advances in semiconductor and microelectronic technology.
+Question 2 (300 words) – Educational Issues: Describe your current educational situation relative to semiconductor, micro- and nano-electronics. What classes does your department/organization teach? What are the challenges moving forward in terms of education (such as enrollment or diversity challenges, access to fabrication facilities, detailed simulation data, design kits, intellectual property, EDA tools, or data sets)?
+Question 3 (300 words) – Infrastructure and capabilities needed for research: Describe any limitations or absence of existing semiconductor and microelectronic facilities, or capabilities and services and/or specific technical and capacity advances needed in this area (such as access to fabrication facilities, detailed simulation data, design kits, intellectual property, access to advanced technologies, EDA tools, or data sets) that would be required or desired to advance this research.
+Question 3.1 (200 words) – If your answers involve specific semiconductor or microelectronic technologies, please let us know what those are, and be as specific as possible (e.g., semiconductor technology, feature size, die size, processing requirements, packaging, specific foundries, turn-around time, or expected annual cost). If your needs are more for leading-edge semiconductor fabrication facilities, or more for CMOS+X (i.e., integration of Complementary Metal Oxide Semiconductor with beyond-Moore’s-Law technologies denoted by “X”), list the specific (“X”) technologies in which you may be interested.
+Question 3.2 (200 words) – If you have experience with international collaborations specifically involving semiconductor or microelectronic technologies, please let us know what those are, and how they are different or unique from domestic partnerships or facilities. What are the challenges and/or benefits of international collaborations in this space?
+Question 4 (300 words) – New research agenda: Please describe what new research would be enabled if you had access to the leading-edge infrastructure described in Question 3.
+Question 5 (300 words) – Facility access: How might existing facilities to which you may have access be augmented to address any further needs? Please note tools or processes that could be housed in an open-access facility.
+Question 5.1 (200 words) – If your answers involve specific intellectual property in this area, please let us know what that is, and be specific as possible [e.g., cell libraries, memories, input/output (I/O) systems, field-programmable-gate-array (FPGA) resources, accelerators, simulation data, data sets, or execution traces].
+Question 5.2 (200 words) – If your answers involve more general connections to semiconductor and microelectronic systems, please describe how these systems are connected to and critical to the research challenges that you described previously.
+Question 6 (300 words) – Other considerations: Please let us know of other concerns or requirements that you think are important in research that involves semiconductor or microelectronic technologies. For example, describe organizational, process, learning and workforce development, access and sustainability, and diversity issues, along with any other issues more generally relevant that NSF/CISE should consider.
+To respond to this RFI, please use the official submission form available at https://www.surveymonkey.com/r/CISERFIonSemiconductorResearchandEducation.
+SUBMISSION DEADLINE
+Responses must be received on or before 5:00 PM Eastern time on September 30, 2021.
+For questions concerning this RFI and submission of input, please contact Sankar Basu, or Erik Brunvand, at CISE_SemiWG@nsf.gov.
+Federal Register Notice: https://www.federalregister.gov/documents/2021/07/02/2021-14159/request-for-information-national-science-foundations-directorate-for-computer-information-science
+Sincerely,
+Margaret Martonosi
+Assistant Director
+Computer and Information Science and Engineering
+Source: NSF
+Leading Solution Providers
+Off The Wire
+Industry Headlines
+September 30, 2021
+Annual Data Mining Conference Honors Best Papers on COVID-19, Disaster Work Zones, More
+Exascale Computing Project to Resume HPC Best Practices Webinar Series on Oct. 13
+NSF Awards U of Michigan $1.8M to Develop Room Temperature, Controllable Quantum Nanomaterials
+Nita Patel Elected IEEE Computer Society 2023 President
+Hyperion Research Invites Submissions for HPC Innovation Excellence Awards
+HPC-AI Advisory Council and ISC Group Open Student Cluster 2022 Competition Submissions
+Google Cloud Leverages 3rd Gen Intel Xeons in New N2 VMs
+SEMI Applauds European Chips Act, Aimed at Boosting Semiconductor R&D and Manufacturing
+IBM Elects Al Zollar to its Board of Directors
+Altair Announces Altair Material Data Center Consortium
+Cornell Researchers Integrate Quantum Computing with AI for a Smarter Power Grid
+DOD Funds Army HPC Project to Create Digital Twin of Gas Turbine Engine
+Google Cloud New N2D VMs Powered by 3rd Gen AMD EPYC CPUs Now in Preview
+DNA Storage Company CATALOG Secures $35M in Series B Funding
+September 29, 2021
+Adaptive Computing Announces the GA Release of the On-Demand Data Center 6.0 Cloud Enablement Platform
+Texas Advanced Computing Center Marks Two Decades of Powering Discoveries
+NVIDIA to Host Virtual GTC Nov. 8-11
+Jordan Thomas Named New DOE ASCR Leadership Computing Challenge (ALCC) Program Manager
+Fungible Launches New NVMe/TCP Solution
+Cambridge Quantum’s TKET is Now Open-Sourced
+More Off The Wire
+Subscribe to HPCwire's Weekly Update!
+Be the most informed person in the room! Stay ahead of the tech trends with industy updates delivered to you every week!
+THE LATEST EDITOR’S PICKS MOST POPULAR
+Intel Unveils Loihi 2, Its Second-Generation Neuromorphic Chip
+September 30, 2021
+Four years after the introduction of Loihi, Intel’s first neuromorphic chip, the company is introducing its successor. According to Intel, the second-generation chip will provide faster processing, higher resource dens Read more…
+US Closes in on Exascale: Frontier Installation Is Underway
+September 29, 2021
+At the Advanced Scientific Computing Advisory Committee (ASCAC) meeting, held by Zoom this week (Sept. 29-30), it was revealed that the Frontier supercomputer is currently being installed at Oak Ridge National Laboratory Read more…
+NCAR Prepares for Derecho, Its Third-Generation Weather and Climate Supercomputer
+September 29, 2021
+Derechos, the namesake of the new supercomputer coming to the National Center for Atmospheric Research (NCAR), are fast-moving, widespread bands of thunderstorms. Indeed, NCAR itself is moving quickly and ambitiously wit Read more…
+Help Wanted: QED-C Survey Spotlights Skills Sought by Quantum Industry
+September 28, 2021
+Developing an adequate workforce for the young but fast-growing quantum information sciences industry is seen as a critical element for success. Just what that means in terms of skillsets and positions is becoming cleare Read more…
+NNSA Selects Dell for $40M CTS-2 Commodity Computing Contract
+September 28, 2021
+In support of the Department of Energy’s National Nuclear Security Administration (NNSA), the Tri-Lab CTS-2 system contract award was announced last week. The NNSA TriLab partnership – comprising Livermore, Los Alamos and Sandia national labs – awarded Dell Technologies... Read more…
+AWS Solution Channel
+High Burst CPU Compute for Monte Carlo Simulations on AWS
+Playtech is a leading supplier of online gaming and casino products. As part of the GPAS (Gaming Platform as A Service) Developer Programme Playtech provides game design and development tooling including the Ryota Maths Editor. Read more…
+Visit the
+Previous:
+Introducing AWS ParallelCluster 3
+Supporting Climate Model Simulations to Accelerate Climate Science
+Genomics England Develops Genomic and Health Information Platform on AWS
+Pittsburgh Supercomputer Powers Machine Learning Analysis of Rare East Asian Stamps
+September 27, 2021
+Setting aside the relatively recent rise of electronic signatures, personalized stamps have been a popular form of identification for formal documents in East Asia. These identifiers – easily forged, but culturally ubi Read more…
+Leading Solution Providers
+Contributors
+Tiffany Trader
+Managing Editor
+John Russell
+Editor
+Oliver Peckham
+Editor
+Mariana Iriarte
+Contributing Editor
+Todd R. Weiss
+Contributing Editor
+Addison Snell
+Contributing Editor
+Alex Woodie
+Contributing Editor
+
+
+Purdue Researchers Peer into the ‘Fog of the Machine Learning Accelerator War’
+September 27, 2021
+Making sense of ML performance and benchmark data is an ongoing challenge. In light of last week’s release of the most recent MLPerf (v1.1) inference results, now is perhaps a good time to review how valuable (or not) Read more…
+Quantum Monte Carlo at Exascale Could Be Key to Finding New Semiconductor Materials
+September 27, 2021
+Researchers are urgently trying to identify possible materials to replace silicon-based semiconductors. The processing power in modern computers continues to increase even as the size of the silicon on which components a Read more…
+The Case for an Edge-Driven Future for Supercomputing
+September 24, 2021
+“Exascale only becomes valuable when it’s creating and using data that we care about,” said Pete Beckman, co-director of the Northwestern-Argonne Institute of Science and Engineering (NAISE), at the most recent HPC Read more…
+Three Universities Team for NSF-Funded ‘ACES’ Reconfigurable Supercomputer Prototype
+September 23, 2021
+As Moore’s law slows, HPC developers are increasingly looking for speed gains in specialized code and specialized hardware – but this specialization, in turn, can make testing and deploying code trickier than ever. Now, researchers from Texas A&M University, the University of Illinois at Urbana... Read more…
+Qubit Stream: Monte Carlo Advance, Infosys Joins the Fray, D-Wave Meeting Plans, and More
+September 23, 2021
+It seems the stream of quantum computing reports never ceases. This week – IonQ and Goldman Sachs tackle Monte Carlo on quantum hardware, Cambridge Quantum pushes chemistry calculations forward, D-Wave prepares for its Read more…
+Asetek Announces It Is Exiting HPC to Protect Future Profitability
+September 22, 2021
+Liquid cooling specialist Asetek, well-known in HPC circles for its direct-to-chip cooling technology that is inside some of the fastest supercomputers in the world, announced today that it is exiting the HPC space amid multiple supply chain issues related to the pandemic. Although pandemic supply chain... Read more…
+TACC Supercomputer Delves Into Protein Interactions
+September 22, 2021
+Adenosine triphosphate (ATP) is a compound used to funnel energy from mitochondria to other parts of the cell, enabling energy-driven functions like muscle contractions. For ATP to flow, though, the interaction between the hexokinase-II (HKII) enzyme and the proteins found in a specific channel on the mitochondria’s outer membrane. Now, simulations conducted on supercomputers at the Texas Advanced Computing Center (TACC) have simulated... Read more…
+The Latest MLPerf Inference Results: Nvidia GPUs Hold Sway but Here Come CPUs and Intel
+September 22, 2021
+The latest round of MLPerf inference benchmark (v 1.1) results was released today and Nvidia again dominated, sweeping the top spots in the closed (apples-to-apples) datacenter and edge categories. Perhaps more interesti Read more…
+Why HPC Storage Matters More Now Than Ever: Analyst Q&A
+September 17, 2021
+With soaring data volumes and insatiable computing driving nearly every facet of economic, social and scientific progress, data storage is seizing the spotlight. Hyperion Research analyst and noted storage expert Mark Nossokoff looks at key storage trends in the context of the evolving HPC (and AI) landscape... Read more…
+GigaIO Gets $14.7M in Series B Funding to Expand Its Composable Fabric Technology to Customers
+September 16, 2021
+Just before the COVID-19 pandemic began in March 2020, GigaIO introduced its Universal Composable Fabric technology, which allows enterprises to bring together any HPC and AI resources and integrate them with networking, Read more…
+Click Here for More Headlines
+Technologies:
+Applications Cloud Developer Tools Interconnects Middleware Networks Processors Storage Systems Visualization
+Sectors:
+Academia & Research Business Entertainment Financial Services Government Life Sciences Manufacturing Oil & Gas Retail
+  Exascale Multimedia Events Organizations and Affiliations Editorial Submissions Subscribe About HPCwire Contact Us Sitemap Reprints
+The Information Nexus of Advanced Computing and Data systems for a High Performance World
+TCI Home Our Publications Solutions Live Events Press Privacy Policy Cookie Policy About Tabor Communications Update Subscription Preferences California Consumers
+© 2021 HPCwire. All Rights Reserved. A Tabor Communications Publication
+HPCwire is a registered trademark of Tabor Communications, Inc. Use of this site is governed by our Terms of Use and Privacy Policy.
+Reproduction in whole or in part in any form or medium without express written permission of Tabor Communications, Inc. is prohibited.
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Reject Read More

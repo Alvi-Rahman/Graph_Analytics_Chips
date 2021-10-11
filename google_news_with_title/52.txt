@@ -1,0 +1,316 @@
+CONTINUE TO SITE >>
+Skip to main content
+ASPENCORE NETWORK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+MY CART
+0
+SUBSCRIBE
+LOGIN/REGISTER
+HOME
+NEWS
+PERSPECTIVES
+DESIGNLINES
+PODCAST
+EDUCATION
+STORE
+SPECIAL PROJECTS
+IOT TIMES
+ASIA WATCH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EPISODE #155  40:18 By  Brian Santo  10.01.21
+AI and Semiconductor Memory: More, More, More
+00:00
+ ×1
+SUBSCRIBE ON:
+Share Post
+Share on Facebook
+Share on Twitter
+ARTICLES DISCUSSED:
+Plus Paves a Path to Driverless Trucks
+
+SolarWinds Fallout: Cloud Security is the Weak Link
+
+At Last, AI Joins the Fight Against Covid
+
+OTHER REFERENCES:
+Taming the Wild Edge, Weekly Briefing podcast, Sept. 17
+
+Building a Framework to Trust AI, Weekly Briefing podcast, Sept. 24
+
+Open Source for Energy Transition , a Power Up podcast, Sept. 29
+
+This week’s podcast: AI is different from traditional computing, and it is stressing supporting technology in entirely new ways. That goes not only for processors (as one might expect), but also for memory chips. This week, a conversation with Steven Woo of Rambus, on the special challenges of AI.
+[FULL TRANSCRIPT AVAILABLE BELOW]
+BRIAN SANTO: I’m Brian Santo, EE Times editor-in-chief. You’re listening to EE Times On Air, and this is the Weekly Briefing for the week ending October 1st.
+  With the introduction of practical artificial intelligence, there was an enormous leap in the size of problems that people could tackle. Those using AI are eager to process oceans of data. Now, the demands on processors have changed, and that’s why we’ve seen an explosion of startups that make specialized AI processors and AI accelerators. But having to handle so much data has also created new demands on memory ICs.
+  The pattern in the semiconductor industry has generally been this: Chip companies figure out ways to improve their products, and then it’s up to their customers figure out how to take advantage of the improvements.
+  Nowadays, chip designers can anticipate the improvements they’ll be able to make in the future, and communicate that to their customers, who can figure out how to take advantage of those improvements before they even have physical product in their hands. Now it all seems almost simultaneous, but it isn’t. The pattern is still the pattern; it’s just been accelerated and condensed.
+  AI has actually changed the pattern. The problems that AI can address are exponentially larger, and that’s putting a new and unusual stress on semiconductor companies.
+  This week our guest is Steven Woo of Rambus, which specializes in memory ICs. Here’s Woo talking about how AI has changed the dynamic in the market:
+  STEVEN WOO: Over the last five or six years, when the market was really demanding and more companies were coming to us, we really would go into customer meetings, and we would generally start with, Okay, well so why don’t you tell me how much performance you need. What’s the desired performance level? And we were hearing something that was really unusual. We would often hear, You just can’t give us what we really need. So why don’t you tell us what you think you can do, and then we’ll design the rest of our chip around that. And so it was quite a shock.
+  BRIAN SANTO: In a moment we’ll get back to the full interview with Steven Woo of Rambus. First, here’s a quick rundown of some of the stories you can find in EE Times this week
+  *Tesla and some Chinese automotive manufacturers are still bulling ahead developing autonomous driving systems for passenger vehicles, despite growing safety concerns. Other companies are taking a more measured approach to autonomous driving. A startup called Plus is one of those. The company is planning on providing autonomous trucking, focusing on the middle-mile segment of the trucking business, which is to say, it will be largely restricting its vehicles to highways, which for many reasons are easier for autonomous systems to navigate. We’ve got a story on Plus and its plans.
+  *We also take another look at the ongoing fallout from the devastating SolarWinds hack. It turns out that the irreversible trend toward cloud computing is creating all sorts of security vulnerabilities. Read our analysis.
+  *The COVID pandemic keeps lingering, kept going in part by people who reject the ideas that spreading disease is a bad thing, coupled with a lack of enough vaccine to go around the world. Technological countermeasures are certainly needed. I’d like to recommend a story by EE Times editor George Leopold called, “At Last, AI Joins the Fight Against COVID.”
+  *About six months ago, vaccines became available. Back then, with vaccines in hand, the world assumed that would be safe to start going back to in-person events right about now. Perhaps it is, but with the delta variation, every foray to a live conference requires a separate calculation of risk. Some of the editors of EE Times have decided to venture back on the road. One is Nitin Dahad.
+  Nitin recently attended 5G World in London, near where he lives, and there he ran into Mischa Dohler, Chair Professor of Wireless Communications at King’s College London. Dohler is also associated with a program called 6G Futures, which promotes the development of 6G Technology in the U.K. Nitin asked Dohler about that work.
+  NITIN DAHAD: So could you explain to us why do we need 6G?
+  MISCHA DOHLER: Look, telecoms works on a few fundamental laws. So think of them like Moore’s Laws, right? So if you look at how data rate increases from generation to generation, something is always multiplied by an order of magnitude. Now if you start putting numbers together and you try to understand the data density which is being produced by the systems, you see that 5G is producing something like 10 terabits per second per square kilometer. If you do the math for 6G following these trends, you end up with 10 petabytes per second per square kilometer.
+  So the big question arises, who’s going to use that data? Who’s going to absorb it? Who’s going to generate that? And this is when we started looking at, why do we really need it? Who’s going to be there? And now, of course, I don’t have a crystal ball. But my hunch is that machines will require quite a lot of data rate. And I think really, that very discrete designing of service by humans for humans, or by humans for machines will come to an end in 6G, where machines will design services for themselves. So they will, rather than having very discrete spectrum of services, we will have a continuous spectrum of very volatile services.
+  NITIN DAHAD: And so then, you talked about the self-synthesizing networks here. Tell us a little bit about how that’s going to be enabled in 6G.
+  MISCHA DOHLER: One of the big challenges we have in telecoms is that it takes us so long to get something from idea to the market, right? So research takes time, you know, granted, but then, you know, the prototyping, the standardization, the deployment takes between eight and 10 years. And it seems like with every generation, it always takes the same time.
+  A while back, I asked myself a question: What about replacing the design of the network, but with AI. So not humans doing this, but actually artificial intelligence starting to design its own network components. Now this is very different from zero-touch networks or self-organizing networking practicums, where humans design a network, and then machines configure them. In this case, self-synthesizing networks are designing themselves. So they’re self-evolving. My dream is really to be able to get networks deployed from research to actual use by consumers, maybe within months, possibly days and long-term, even seconds.
+  NITIN DAHAD: Well, and I think that’s part of the work you’re doing with the 6G Futures. Is that right?
+  MISCHA DOHLER: Very true, sir. We founded 6G Futures to work on these challenging areas like self-synthesizing networks, human-centric networks, live fi how to get this into the architecture. And we have founded this with a few universities, with Bristol, Dimitra, with Howard from Strathclyde, and many more universities are now joining, as well as industry. And, of course, we are having endorsement, hopefully, you know, by the government and other international partners.
+  NITIN DAHAD: That’s good. And now, we have written about that. So encourage our listeners to read that. But now, a little bit more flippant. You talked about Where is all this G going to end?
+  MISCHA DOHLER: You know, I have to admit, I made a prediction that 5G will be our last G. Why? Because I’ve seen we have software-ized the ecosystem. And I thought it would be straightforward then to innovate in features rather than in big blocks of whatever we do in the G generations. However, I have underestimated the amount of work it takes to actually innovate. To get a research idea into something you can deploy in production, so it works with the consumers. So that’s why I came up with this idea of self-synthesizing networks.
+  So I think it will probably take us to 7G to kind of consolidate that. And therefore I think 7G, 8G will probably be our last G, but this time for real.
+  NITIN DAHAD: Mischa Dohler, thank you very much.
+  MISCHA DOHLER: Thank you.
+  BRIAN SANTO: That was EE Times editor Nitin Dahad, with Mischa Dohler of King’s College London, recorded at 5G World in London.
+  If you are already on this podcast episode’s web page, look to your left and you’ll see links to all the stories I mentioned a moment ago. You can also go straight to eetimes.com, where you can get details on all of these stories, along with all our other coverage.
+  Artificial intelligence is not one thing. If you install an AI out there in the world, it’s probably small, and lonely, and it has few resources to work with, but it probably doesn’t need much to figure out whether a fruit tree is or is not being preyed upon by pests, or if it would be useful for some particular traffic light to change color at any given moment. As a matter of fact, we discussed that type of situation two podcasts ago with Chris Catterton with the company Micro.AI.
+  One of the other extremes is training, which typically involves bringing an AI to the point where it can look at an x-ray and issue a likely diagnosis, or to determine if a particular molecule might be the basis for an effective medicine.
+  Computing had always been about taking the data and doing something with it, and then outputting the result. Training an AI for something as complex as the types of applications I just spoke about is about taking amounts of data that are enormous, voluminous, vast — brobdingnagian! — and going over it again and again, until the model produces the desired results. Those data sets have to be stored somewhere at hand, which means IC memory, and usually a lot of it. And AI applications create some unique demands for getting to it.
+  Rambus has been developing innovative memory ICs and associated technology for years. Steven Woo is a Rambus Fellow and Distinguished Inventor. We recently sat down with Woo to talk about AI and memory chips.
+  We’ve been talking at EE Times about co-processors and processors. And systems architectures even sometimes. But there’s a profound effect that a lot of people don’t realize on memory chips. And that’s where Rambus comes in. I was wondering if you could tell us what it is about AI, what’s going on in AI and how it affects memory.
+  STEVEN WOO: Absolutely. Yeah. At Rambus, we’ve been in the memory business for several decades. And what we see is that AI in particular is an important driving application now for the development of new memory technologies. It turns out that some of these AI engines that you see from companies like Nvidia and others, they really require the fastest memories. And there’s a few reasons for that.
+  One is these models that are being implemented today to do things like natural language processing, image recognition, and recommendation, they just require very, very large models. And so for one, you need just a lot of storage to support those models.
+  The other thing is that AI engines require a lot of examples to learn from. And it turns out that these large models that are complex, they require lots and lots of training data. And so what we’re seeing is that the size of these models is growing at more than 10x per year. And of course, when those models are growing at more than 10x per year, you also have a growth in the amount of training data.
+  And so if you kind of look at that, and you say, Wow! The sizes of these things are growing so fast. That’s really faster than any other semiconductor technology trend. And so the natural thing that you have to think about is, Where do I store all this? And it’s really memory.
+  And in addition to the capacity, you have to really be able to push that data very quickly so that you can train things quickly and you can move that data quickly. So bandwidth becomes a really important issue as well.
+  And finally, the third part of that is really the power efficiency. You don’t want to spend infinite power, and you have to think a lot about how to budget that power that’s there. You want a lot of it to be in the core computational part of that engine.
+  Data movement is starting to become a big limiter now in terms of performance and power efficiency. So there’s a lot of challenges there on the memory side to try to really meet the needs of these greater amount of data for AI.
+  BRIAN SANTO: Is it just a matter of drawing the data in? Or is there like a feedback iteration? Do you end up processing the data, feeding it back, drawing it back later? Does it loop?
+  STEVEN WOO: Yeah, absolutely. So it turns out in the training process, what’s interesting about it is, it’s very iterative. So you have this training set. And what you do is, you repeatedly present it to the AI engine, and it gets better and better at recognizing the things you want it to recognize. It’s kind of like if you had a stack of flashcards and you were trying to learn a new language or something, you would just iteratively go through your stack of flashcards over and over again. And eventually you’d get better at recognizing all of the words and phrases that you’re trying to train yourself to understand.
+  And really, AI works in a very similar way. We just try and repeatedly present the information. And what happens is, those computations are constantly adjusting the parameters of the neural network. So it begins to home in on making the correct answers across the entire training set as accurate as you can be.
+  But you might imagine that process of just repeatedly going through the flashcards, people want to go faster and faster. And the flashcard deck can be very, very large. And so it’s really about pushing a lot of data very, very quickly through the neural network so that it can adjust and learn its task.
+  BRIAN SANTO: A moment ago, you used a two-word phrase that was interesting: new memory. And that could mean two different things, or several different things perhaps, but in my mind, I was thinking, new versions of existing memory. So can we improve SRAM and flash and especially DRAM, I imagine?
+  And then there’s the other thing of emerging memories. Memories, like FRAM and MRAM, reRAM, different architectures and spins on the technology that people were anticipating might become useful. So let me ask you first about improving the memory we have. And then where some of these emerging memories fit in.
+  STEVEN WOO: Sure, yeah. So let me address the first part first here, which is, if you look today at some of the toughest kinds of problems that people try and do in the data center, we’re talking about training large models. And it turns out that there’s really three kinds of memory that people use. The first is on-chip SRAM. And on-chip SRAM is really great. It’s very, very high bandwidth. You can get many tens of terabytes a second of bandwidth on a standard reticle-sized die. And it’s also extremely power efficient. But the real challenge there is that capacity can be a challenge.
+  So it turns out that on a standard reticle-sized die, you can get a few hundred megabytes of capacity. And if that’s good enough for your problem, then boy, on-chip memory is a great solution for you.
+  But what we find is that, with these growth rates I mentioned where the models are growing at more than 10x per year and the data set sizes are large as well, what we find is that more and more people are really turning to the fastest kinds of DRAMS that are available. So HBM and GDDR. And it turns out HBM is kind of a newer type of…
+  BRIAN SANTO: HBM: High bandwidth memory.
+  STEVEN WOO: That’s correct, yes. It’s high bandwidth memory. And it’s a kind of memory that involves stacking, not only within the DRAM component, but stacking of the components together. So the DRAMS and the processors. It involves some extra components of silicon substrate. And what it does, though, is it uses a very large number of wires on the order of 1024 wires between each DRAM device and the processor. And these wires are very finely spaced. And what you can do to get the high bandwidth there is, you actually don’t have to run the data rate very high when you have that many wires.
+  And so what it does is, it ends up being very power-efficient. And it ends up being pretty area-efficient as well. Just the challenge is that it’s more difficult to design because of the stacking, and it can be more expensive. And so if you can tolerate that cost, and if you have the engineering skill to be able to implement the solution, it is a great choice, especially if you need external DRAM.
+  The other option here is a GDDR, or graphics DRAM, and this kind of memory has been around for a couple of decades. It was originally developed for the graphics market, still used very widely among the GPU manufacturers. But what it has is, it has kind of the more traditional manufacturing approach, where it’s a packaged device that you put on a PCB. It uses kind of more traditional manufacturing technologies. So if you find that you can’t quite tolerate the cost or the complexity of doing something like HBM, then GDDR is a great choice for you.
+  So we see a number of choices here. And really most everyone’s gravitating now towards HBM and GDDR because they need the capacity of the external DRAM.
+  BRIAN SANTO: Okay.
+  STEVEN WOO: That’s what’s going on in the DRAM world. And then you asked about some of these other emerging memories and things. And I think really what’s going on there is, some of the emerging memories very, very interesting technology, but it’s still pretty early days for this kind of technology, still a number of challenging manufacturing and reliability issues to work through. They do have some interesting promise. But there also are some things about the emerging memories. Some of the issues like endurance, for example, high write currents and things like that. They make it a little bit harder to use widely in a lot of different kinds of systems.
+  So I would say the industry is working very hard to try and address some of these things. But I think for now DRAM is going to remain the dominant kind of technology that we’ll be seeing in a lot of these AI engines going forward.
+  BRIAN SANTO: Now, the story arc, as I understand it, was that these emerging technologies do in fact have some intriguing properties that might bring some benefits. But they were also anticipating that standard-type memories — DRAM and its variants — would hit a wall someplace. And there was that expectation at some point. And apparently folks have done some incredible innovation in DRAM. Is that an accurate evaluation of the wider trend?
+  STEVEN WOO: Yeah, I think that’s right. A lot of the work that’s been done on some of these emerging memories, they do have some pretty fascinating characteristics. For example, non volatility is a really good one, and certainly the ability to use them as kind of an analog-type of computing cell, make them very attractive, because it’s extremely dense computation that’s happening in parallel.
+  There are some manufacturing-related issues like resistance drift, and there’s other things as well, like longer-term reliability, that kind of make them challenging. And then in parallel, DRAM has been around for many decades, and the industry has a lot of embedded knowledge on how to improve DRAM. And so it’s kind of this moving target, that you’re always trying to see if you can be better than.
+  And the DRAM industry continues to make good progress. So I think for now, what we see is that DRAM continues to make enough good strides forward. And it continues to have the right balance between the various kind of performance parameters and characteristics that make it still the right choice, especially in the data center. What we see is that it will be the dominant technology for the next several years, but the industry will continue to try and work on alternatives, which makes it very exciting to be part of the industry.
+  BRIAN SANTO: That brings up an interesting side note. I think we’ve had people on this podcast and in the pages EE Times, and I’m sure you’ve talked to some folks who are worried about the end of Moore’s Law. It’s slowing, if nothing else, and yet every time somebody thinks that silicon is dead, they managed to eke a little more out of it. Literally, we’re getting close to atomic level and physical limits there. What one way do you see left with silicon and DRAM and silicon?
+  STEVEN WOO: Yeah, it’s a really good question. There are a lot of smart people in the world. And what they’ve shown…
+  BRIAN SANTO: I know! Almost everybody I talk to is smarter than me. So you don’t need to tell me that.
+  STEVEN WOO: I think what’s fun about the industry is that the industry rises to the challenge. And what I would say is that, over the past couple of decades, there have been substantial concerns about slowing of Moore’s Law and the eventual end of Moore’s Law. And the way we see it is yes, it is true that things are slowing down a bit. But we do see very compelling roadmaps from the industry that seem to indicate that things will continue forward.
+  Now, maybe it’s not at the same rate as before, and maybe it might be challenging on the manufacturing side to keep that expense the same. But there are paths forward. And so what we see is the continued ability to shrink and to get to better process geometries. It will continue, but maybe slow a bit.
+  Now the other part of that equation, though, is something we touched on earlier, which is data movement itself is beginning to be the problem. And so some of our own analysis shows that if you have like a HBM, a high bandwidth memory device, DRAM, talking to an SOC, it turns out that the power to read and write to that device and move data back and forth, it turns out only a third of the power is really spent getting the bits out of the DRAM core where the data is stored. It turns out, about two thirds of the power is spent moving the data just between the two chips. Between the processor and the memory. And so you can see, the limiter is starting to be that movement of the data.
+  And so if you press in a little bit more to figure out why that is, what you see is that the distance that you have to move the data, it’s on the order of 10 millimeters or so. And so it turns out that there’s a direct correlation between that distance and the amount of power you spend. So people look at that and say, Well, how do I reduce that distance? And the natural way to think about it is to go to stacking.
+  So if I could put the memory you in the same stack with the processor, what I can do is, I can cut down maybe from 10 millimeters that I’m moving the data to really just tens of microns. And so now we’re talking about a pretty dramatic improvement in that distance. And we think that two-thirds of the pie where you’re spending all this power, we think we can cut that down by about an order of magnitude. So tremendous improvement in the data movement power, and you get a commensurate improvement in performance as well.
+  BRIAN SANTO: Wow. Phenomenal. Part of it is the memory functionality itself. But as you said, part of the bottleneck seems to be just the shuttling of data back and forth. And so it sounds like one of the answers is innovative packaging approaches. Architecturally, are there other ways of addressing that issue of moving data back and forth?
+  STEVEN WOO: Yeah. That’s a good question. Really, what we’ve seen, especially in the AI space, is that there have been really innovative approaches to re-architecting. And really thinking differently about the architectures of AI engines. And so building architectures that are very specific to the computation and data movement patterns within AI.
+  And so a lot of these really interesting designs — just to name a few, the Google TPU, for example, is a really good example, or you see solutions from people like Cerebrus, Graphcore. They’re really about trying to minimize the data movement. And when you do bring data from off-chip onto your chip, you’re trying to use it just as many times as possible. You want that high reuse so that you can amortize the high cost of getting the data, through many reuses.
+  That’s one side of it. And really, the other part of it is, if you think about the whole AI processing pipeline, there are things just to feed the AI engines, where you’re trying to minimize data movement there and you’re trying to improve the rest of that pipeline so that doesn’t become the bottleneck.
+  BRIAN SANTO: I’ve heard tell of CXL. Explain what CXL is, and put it in context for us.
+  STEVEN WOO: Sure. Yeah, it actually dovetails nicely to what I just mentioned here.
+  BRIAN SANTO: Yeah, I knew that. But I figured I’d lob the softball.
+  STEVEN WOO: Okay, yeah. And so what’s CXL is, it’s a new kind of interconnect standard. It’s called the Compute Express Link. And what it does is, it has multiple functions really. One thing that it allows you to do is it allows you to take processors and connect them with things like accelerators and FPGAs, where it allows them to have an ability to do things like share data and to be able to really use whichever engine is most advantageous for it during a particular portion of a computation.
+  And where it gets interesting, especially to Rambus, is that CXL also offers the ability to connect memory to a processor. The traditional thing you see today on CPUs is, you have these DIMM slots and you plug DIMM modules in. But what CXL will allow you to do is have another kind of interconnect where we can put memory. And what makes it particularly interesting is that you can actually have servers, for example, that have not only DIMM sockets with memory in them, but these extra CXL links. And that gives you the ability to expand both your memory capacity and your memory bandwidth beyond what you can do today.
+  And for something like AI where the processing pipeline depends on a lot of memory capacity — and of course, you have to push that data back and forth, so you need a lot of memory bandwidth — this is a great solution for making sure that the rest of the processing pipeline doesn’t become the bottleneck.
+  Further down the line, the other thing that CXL will offer is the ability to disaggregate systems. So today, the way a server’s put together is there’s a fixed amount of resources within the box. There’s some number of CPUs and some number of cores, some amount of memory, some amount of storage. But in the future, what you’ll be able to do with CXL is, you’ll be able to take those resources, and instead of having fixed portions in each server, you’ll be able to have pools of these resources.
+  So you might have a box that just has CPUs, you might have a box that has just storage, a box that has just memory. And what’s kind of cool about that is, when a job comes in, you can then go to these pools and grab however much of each of those resources that you need for that job, and you can provision it to that job until it’s done. And when that job is then finished, you can return those resources to the pools and they can then be loaned out and provisioned to a future job in whatever ratios are needed for that particular job.
+  And so what we see here is that — especially with AI, with it being so data intensive and so bandwidth-hungry — the ability to tailor what you’re provisioning for a particular workload, will allow you to run an incredibly wide range of workloads, especially in a place like AI, where we’re seeing the diversity of workloads grow each year. It’s a really good match to the growing needs that we see in places like AI.
+  BRIAN SANTO: Perhaps I’m just not understanding this well. Or perhaps I’m not understanding data center dynamics very well. I get the disaggregation, why disaggregation within a data center is useful. This has been going on for a while. So they’re able to get shared resources and apportion them and make sure that those resources are churning constantly, instead of lying unused. But if you start physically moving, physically separating memory from processing, you’ve got that distance again. Am I thinking about it wrong?
+  STEVEN WOO: Yeah, I think the way you’re thinking about it is right. There is an architectural tug of war between trying to figure out how to provide the maximum flexibility so that you really can have a lot of resources attack a particular problem, versus managing things like the distance that goes on, because the distance requires more power, and it does increase the latency.
+  And so what I’d say is, it’s really an active area of research right now. And if you look at some of the newer processors that are coming out, one possibility is that you might have memory that is — some smaller amount of memory — that is attached directly to the CPUs.
+  For example, if you look at some of the proposals that are coming from companies like Intel, that memory might actually be able to operate in multiple modes. It might operate more like a cache in some modes, and it might operate more like memory and other modes. And so if it were to operate something like a cache, you might think about having a pool of memory that’s a little bit further away, but be able to get the benefits of reuse by operating the local memory more like a cache.
+  So it is a bit of an open issue within the industry. But what’s interesting is that there is this adaptation going on. And so, like many of these kinds of things, having that hardware available will allow the user community to really explore the best ways to use it. And I’m sure there’ll be  more evolution to come. But I think the key is that, all in all, it will allow greater amounts of resources to be thrown at the largest problems that need it, and we’ll be able to achieve higher performance because of it.
+  BRIAN SANTO: There are so many different categories of AI problem. Like inference, like training, these enormous data sets. Are there converse concerns implementing systems that can support AI processes that have very sparse data sets?
+  STEVEN WOO: Yeah. The thing that’s really interesting about AI is, because of memory capacity limits, and because of concerns about how much bandwidth you really can provide, there has been a lot of work over the years on things like sparse models, where maybe you don’t need to represent every connection, or maybe I can reduce the granularity of some of the numbers that are used to represent the model parameters. And so those kinds of things have been actively studied for quite a while.
+  And it turns out that neural networks are pretty tolerant. You really can reduce your precision if you need to, you can introduce sparsity, and it allows you to conserve the resources that are very precious to you like the capacity and the bandwidth that you need. And so I think there is more work that’s going on. It does get better each year.
+  And so that’s also an active area of research right now about really what is the best way to train a model that ultimately you want to be sparse. You might think about training it in its full mode first and then past a certain point, you might start to prune it and you might start to introduce sparsity and then continue training from there. It’s an active area of research right now. But it is something that the community is using really as a response to the fact that these resources are very precious.
+  BRIAN SANTO: Anything that I haven’t asked about that’s pertinent here?
+  STEVEN WOO: I think the key is that, like we talked about, it really is data movement that we’re seeing driving a lot of things. So we talked a lot about memory, but many of these concepts also apply to the chip-to-chip, the processor-to-processor connections as well.
+  These days, people in the data center, for example, on these large neural network models, you’re using multiple chips to try and train the model. And so there are these points in the training phase where you do have to get everybody to communicate. So it really is many of the same kind of issues. It’s about the bandwidth and the power efficiency and how to make those links faster and really better for the type of task that’s going on. It’s something I alluded to before, which is the compute part of it.
+  The industry has done a great job over the last few decades to make that better. And really, memory and interconnects are once again in the spotlight because of this large amount of growing data that we have to able to process.
+  So for us, it’s a really interesting time to be in the industry. It’s a great time, actually. And we have a driving set of applications led by AI that’s really helping move our industry forward.
+  BRIAN SANTO: That was Steven Woo, a Fellow and Distinguished Inventor at Rambus.
+  Artificial intelligence, as I mentioned earlier, is not one thing. Depending on who you talk to, whatever we have today that we’re calling “artificial intelligence” might not even merit that description. You might want to listen to last week’s podcast with Helen Toner, Director of Strategy at Georgetown University’s Center for Security and Emerging Technology. She and EE Times editor George Leopold talk about what safe, reliable AI should look like.
+  And speaking of podcasts, inimitable EE Times Maurizio di Paolo Emilio has published his latest Power Up podcast. Shuli Goodman, founder and executive director of LF Energy, a Linux Foundation project, is his guest. They talk about how an open-source approach to power management can be an important means of transforming the global production of energy. This is Shuli Goodman from that episode:
+  SHULI GOODMAN: The power system we have today is about 150 years old, and it was created out of a certain kind of mind. And it was created out of a certain kind of consciousness. When I look at what we are facing, to me, we’re in a conflict between, Are we going to transform our consciousness? Or are we going to have catastrophe? And so when I think about open source, I think about open source as a paradigm. It’s really a legal kind of framework that enables cooperation. It’s not complex.
+  BRIAN SANTO: You can find the latest Power Up podcasts on our web site at eetimes.com/podcasts, where you’ll also find the Weekly Briefing, the Artificial Intelligence podcast with Sally Ward-Foxton, the Embedded podcast with Nitin Dahad, and our Artful Engineer videos.
+  And that concludes this episode of the Weekly Briefing. Thank you for listening.
+  The Weekly Briefing is produced by EE Times. It was Engineered by Taylor Marvin and Greg McRae at Coupe Studios. The Segment Producer was Kaitie Huss.
+  I’m Brian Santo. See you next week.
+  BRIAN SANTO: How’s your memory?
+  STEVEN WOO: Okay.
+  BRIAN SANTO: Is it? The reason I ask is because I’m one of those guys who can be introduced to three people and I always forget names. And you have that thing where you do like… they tell you to do a mnemonic.
+  STEVEN WOO: Right.
+  BRIAN SANTO: Oh, do a little rhyme or something or other. And I used to do that, and then I’d forget the rhyme. And the name. So are you one of those people who forgets his car keys all over the place?
+  STEVEN WOO: Oh yeah, I’m no different. There are definitely things I forget here and there. I’ll tend to forget dates sometimes and things like that. Or I’ll forget where I put something is another pretty classic one for me. Or where I parked my car is a pretty common one for me. I’m like, hmm. Where did I put that thing?
+  BRIAN SANTO: They say things like the greatest invention since sliced bread. I say the greatest invention since a little key fob that makes your car make noise.
+  STEVEN WOO: Yeah, absolutely. I definitely use that, and I’m one of those guys holding my keys up high above my head in the parking lot trying to get the maximum distance on the chirp. So yeah. That’s definitely me.
+LATEST PODCASTS
+WEEKLY BRIEFING40:18
+AI and Semiconductor Memory: More, More, More
+This week’s podcast: AI is different from traditional computing, and it is stressing supporting technology in entirely new ways. That goes not only for processors (as one might expect), but also for memory chips. This week, a conversation with Steven Woo of Rambus, on the special challenges of AI.
+LISTEN
+POWER UP
+Open Source for Energy Transition
+Going with renewable power sources is not the only way to make the grid greener. Adopting open source technologies can also contribute to mitigating climate change. In this Power Up podcast, we discuss open source innovation in the energy and electricity sectors with Shuli Goodman, founder and executive director of LF Energy, a Linux Foundation project. 
+LISTEN
+WEEKLY BRIEFING29:58
+Building a Framework to Trust AI 
+This week’s podcast: Some amazing things have been accomplished with AI, but if AI is to become widely adopted, it must be safe and reliable, and there is no framework for demonstrating AI is either. Helen Toner, Director of Strategy at Georgetown University’s Center for Security and Emerging Technology, talks about what safe, reliable AI should look like.
+LISTEN
+POWER UP33:38
+From Silicon to Silicon Carbide
+Silicon carbide (SiC) has the potential to increase the overall system efficiency in electric vehicles. In the solar industry, SiC inverter optimization also plays a large role in cost savings. In this podcast with Anant Agarwal, IEEE Fellow  Professor, Department of Electrical and Computer Engineering at The Ohio State University, we will discover the benefits and the applications of SiC.
+LISTEN
+WEEKLY BRIEFING38:21
+Taming the Wild Edge
+This week’s podcast: We’ll be talking about the IoT, why AI and ML are critical at the edge, not just for applications, but for security. Our guest this week is Chris Catterton; he’s the head of solution engineering at a startup that two weeks ago was called OneTech but as of this week has been renamed Micro.AI.
+LISTEN
+POWER UP37:00
+RF-based Wireless Charging Technology  
+Replacing batteries is onerous for many medical wearables. One solution is wireless charging. We talk with Cesar Johnston, EVP of Energous, about the company’s WattUp technology, which will relieve people with next-gen hearing aids from having to worry about battery replacement—sponsored by Energous.
+LISTEN
+ARTIFICIAL INTELLIGENCE37:26
+Data Center Hot Chips, Plus Aart de Geus on AI in Chip Design
+In this Podcast: Synopsys CEO Aart de Geus on whether AI will put IC designers out of work. Plus Graphcore CTO Simon Knowles, and Esperanto founder Dave Ditzel.
+LISTEN
+WEEKLY BRIEFING55:37
+EVs: You Can Get There From Here
+This week’s podcast: The automotive industry is churning out electric vehicles, but they seem to be sidestepping a question: where are the outlets? Chargeway is an app that shows EV owners where across the country they can get charged up. A talk with Chargeway founder Matt Teske.
+LISTEN
+1
+2
+3
+4
+5
+Brian Santo
+Brian Santo is Editor-in-Chief of EE Times. He has been writing about technology for over 30 years, for a number of publications including Electronic News, IEEE Spectrum, and CED; this is his second stint with EE Times (the first was 1989-1997). A former holder of a Radio Telephone Third Class Operator license, he once worked as an engineer at WWWG-AM. He is based in Portland, OR.
+ASPENCORE NETWORK
+PRODUCTS:
+Electronic Products
+Datasheets.com
+EEM.com
+TechOnline
+NEWS & ANALYSIS:
+EE Times
+.st0{fill:#FFFFFF;} .st1{fill:#99CCCC;}
+EE Times Europe
+Power Electronics News
+EPSNews
+EBN
+Elektroda.pl
+DESIGN:
+EDN
+Electroschematics
+Electronics-Tutorials
+Planet Analog
+Embedded
+Electronics Know How
+IOT Design Zone
+TOOLS:
+EEWEB
+PartSim
+PCBWeb
+Product Advisor
+Schematics.com
+Schematics.io
+Engage
+GLOBAL NETWORK
+EE Times Asia
+EE Times China
+EE Times India
+EE Times Taiwan
+EE Times Japan
+EDN Asia
+EDN Taiwan
+ESM China
+EDN China
+EDN Japan
+FOR ADVERTISERS
+Media Guide Request
+CONNECT WITH US
+Facebook
+Twitter
+All contents are Copyright © 2021 by AspenCore, Inc. All Rights Reserved.
+Contact Us About Us Privacy Policy Terms of Use Site Map Newsletters California Do Not Sell

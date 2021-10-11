@@ -1,0 +1,99 @@
+Wccftech
+NEWS HARDWARE GAMING MOBILE FINANCE DEALS REVIEWS
+MOBILE
+TSMC Will Prioritize Companies Who Are Not Stockpiling Chips as It Plans to Invest $100 Billion to Increase Manufacturing Capacity
+By Omar Sohail
+Oct 6, 2021 09:14 EDT
+SHARE TWEET SUBMIT
+TSMC is taking various steps to deal with the ongoing chip shortage. Previously, price hikes and other measures such as prioritizing companies like Apple were being followed, but according to the latest interview, companies who are not stockpiling chips will now be considered for future orders.
+TSMC Reportedly Had a Team to Collect Data Across Supply Chains to Find out Which of Its Partners Were Stockpiling Chips
+TSMC’s chairman Mark Liu, in an interview with Time Magazine, commented on how his firm is dealing with the chip shortage. While injecting $100 billion to increase manufacturing capacity over the next three years seems like the right step, the move will not be sufficient as demand grows for cutting-edge wafers, so the company has to take a drastic decision.
+Intel Begins Construction of Fab 52 and Fab 62 Chip Foundries in Arizona
+According to the interview, TSMC accumulated a group of people who collected data to find out which of the manufacturer’s partners were stockpiling chips. While it is a prudent move to stockpile chips in the event that the shortage worsens over time, TSMC’s chairman says that such companies will not be prioritized for future orders. However, the semiconductor giant might give preference to partners who require much higher chip shipments than others, such as Apple.
+Just recently, we reported that Apple has asked TSMC to increase A15 Bionic orders while scaling back on previous-generation iPhone parts. We believe the ongoing chip shortage might have forced Apple to let TSMC focus its efforts and resources towards producing more N5P wafers rather than churning out chips for older iPhones. It is also possible that the growing demand for the iPhone 13 has forced Apple to increased A15 Bionic orders.
+Despite an increase in its investment, TSMC might face massive roadblocks that will force it to delay 3nm chips for Apple. The company was previously reported to have increased 5nm chip prices for Apple as it attempts to combat the deleterious effects of the shortage, even though that price jump was just 3 percent. Still, expect future products from the California-based giant to be pricier if the shortage saga does not end.
+In your opinion, do you think TSMC is making the right move prioritizing companies who are not stockpiling chips? It is a gamble for such partners because they never know when their turn will arrive to receive the next shipment, but do you think it is the right decision? Share your thoughts down in the comments.
+News Source: Time
+SHARE
+TWEET
+SUBMIT
+Stay in the loop
+GET A DAILY DIGEST OF LATEST TECHNOLOGY NEWS
+Straight to your inbox
+Subscribe to our newsletter
+RELATED
+TSMC’s Second Gen EUV 3nm Process Can Reduce Layers By 20% & Improve Gross Margin
+Ramish Zafar  •  Sep 13
+85    10
+TSMC Can Earn $100 Billion Revenue In 2025, Letting It To Catch Up To Intel
+Ramish Zafar  •  Sep 7
+22    10
+TSMC Increased Its 5nm Chip Prices for Apple by Just 3 Percent as It Expects Higher Volume of Orders
+Omar Sohail  •  Sep 6, 2021
+37    10
+TSMC’s Chip Price Increase Might Let It Beat Intel Believe Analysts
+Ramish Zafar  •  Aug 30, 2021
+37    10
+Apple May Be Forced to Delay Its Custom 3nm Chips Thanks to TSMC
+Omar Sohail  •  Aug 29, 2021
+59    10
+TRENDING STORIES
+EVGA Will Give Queue Priority To Gamers Who Have Not Purchased An RTX 30 Series GPU Yet
+With Year-to-Date Gains of Over 27 Million Percent Now, Shiba Inu (SHIB) Coin Just Became a Prolific Momentum Engine for Investors
+Battlefield 2042 Beta Only Delivers 80-90 FPS On PC With NVIDIA GeForce RTX 2080 Ti at 1080p Recommended Settings
+Grand Theft Auto v Looks Incredibly Realistic With QuantV 3.0 Graphic Overhaul Mod and Ray Tracing in New 4K Video
+Alan Wake Remastered Comparison Video Confirms 1440p Resolution on Xbox Series X, Bad Performance on Xbox One and More
+POPULAR DISCUSSIONS
+Intel 12th Gen Alder Lake Mobility CPU Roadmap Confirms Alder Lake-P With 14 Cores & Alder Lake-M With 10 Cores, First Laptops With DDR5 Support
+3538
+Intel Core i9-12900K Alder Lake CPU Gets Pictured In High-Res, Hybrid SKUs To Feature New Hardware Guided Scheduling
+1838
+Intel Core i9-12900K Spotted Running on Z690 AORUS Tachyon Motherboard & DDR5-8000 Memory
+1824
+AMD Radeon RX 6600 Non-XT Official Specs & Performance Leak Out – Right On Par With GeForce RTX 3060
+1224
+Lenovo Unveils Legion 9000K : First Gaming PC Utilizing Intel 12th Gen Alder Lake CPUs, DDR5 Memory & PCIe 5.0 Ready Platform
+1192
+WCCFTECH STORE
+IPVanish VPN 2-Yr Subscription Is Up For A Massive 70% Discount Offer For A Few Days
+Black YLR/C S32T HD 4K Single Camera Drone Is Up For A Massive 75% Discount Offer This Week
+Innodude Gaming Wireless Earphones Can Be Yours For Just $43.99 – Avail Discount Now
+(ISC)2 CISSP – 2021 Course Can Be Yours For Just $29 If You Avail This Offer Right Away
+HotSpot Shield VPN Premium 3-Yr Subscription Is Up For An 80% Discount Offer
+SECTIONS
+Reviews
+Videos
+How To's
+Exclusives
+Interviews
+Deals
+Entertainment
+PC Builder
+TOPICS
+Hardware
+Gaming
+Mobile
+Finance
+Software
+Security
+Web
+KNOW US
+About
+Advertise
+Contact
+Tip Us
+Careers
+Terms of Use
+Privacy & Cookie Policy
+Ethics Statement
+Appeal Moderation
+FOLLOW US
+Twitter
+Facebook
+YouTube
+
+
+SUBSCRIBE
+For latest tech news in your inbox, once a day!
+© 2021 WCCF TECH INC. All rights reserved.
+Some posts on Wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com

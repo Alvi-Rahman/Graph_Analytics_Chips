@@ -1,0 +1,477 @@
+Skip to main content
+Advertisement
+View all journals
+Search
+Login
+Explore content
+About the journal
+Publish with us
+Subscribe
+Sign up for alerts
+RSS feed
+nature articles article
+Article
+Published: 30 June 2021
+Signatures of Wigner crystal of electrons in a monolayer semiconductor
+Tomasz Smoleński
+, Pavel E. Dolgirev, Clemens Kuhlenkamp, Alexander Popert, Yuya Shimazaki
+, Patrick Back, Xiaobo Lu
+, Martin Kroner, Kenji Watanabe
+, Takashi Taniguchi
+, Ilya Esterlis, Eugene Demler & Ataç Imamoğlu
+  Nature
+ 595, 
+53–57 (2021)Cite this article
+10k Accesses
+237 Altmetric
+Metrics
+Abstract
+When the Coulomb repulsion between electrons dominates over their kinetic energy, electrons in two-dimensional systems are predicted to spontaneously break continuous-translation symmetry and form a quantum crystal1. Efforts to observe2,3,4,5,6,7,8,9,10,11,12 this elusive state of matter, termed a Wigner crystal, in two-dimensional extended systems have primarily focused on conductivity measurements on electrons confined to a single Landau level at high magnetic fields. Here we use optical spectroscopy to demonstrate that electrons in a monolayer semiconductor with density lower than 3 × 1011 per centimetre squared form a Wigner crystal. The combination of a high electron effective mass and reduced dielectric screening enables us to observe electronic charge order even in the absence of a moiré potential or an external magnetic field. The interactions between a resonantly injected exciton and electrons arranged in a periodic lattice modify the exciton bandstructure so that an umklapp resonance arises in the optical reflection spectrum, heralding the presence of charge order13. Our findings demonstrate that charge-tunable transition metal dichalcogenide monolayers14 enable the investigation of previously uncharted territory for many-body physics where interaction energy dominates over kinetic energy.
+Access options
+Subscribe to Journal
+Get full journal access for 1 year
+185,98 €
+only 3,65 € per issue
+Subscribe
+All prices are NET prices.
+VAT will be added later in the checkout.
+Tax calculation will be finalised during checkout.
+Rent or Buy article
+Get time limited or full article access on ReadCube.
+from$8.99
+Rent or Buy
+All prices are NET prices.
+Additional access options:
+Log in
+Access through your institution
+Learn about institutional subscriptions
+Data availability
+The data that support the findings of this study are available at the ETH Research Collection (https://doi.org/10.3929/ethz-b-000478739).
+References
+1.
+Wigner, E. On the interaction of electrons in metals. Phys. Rev. 46, 1002–1011 (1934).
+ADS
+  CAS
+  MATH
+  Google Scholar
+  2.
+Lozovik, Y. E. & Yudson, V. I. Crystallization of a two-dimensional electron gas in a magnetic field. J. Exp. Theor. Phys. Lett. 22, 11–12 (1975).
+Google Scholar
+  3.
+Grimes, C. C. & Adams, G. Evidence for a liquid-to-crystal phase transition in a classical, two-dimensional sheet of electrons. Phys. Rev. Lett. 42, 795–798 (1979).
+ADS
+  CAS
+  Google Scholar
+  4.
+Andrei, E. Y. et al. Observation of a magnetically induced Wigner solid. Phys. Rev. Lett. 60, 2765–2768 (1988).
+ADS
+  CAS
+  Google Scholar
+  5.
+Goldman, V. J., Santos, M., Shayegan, M. & Cunningham, J. E. Evidence for two-dimentional quantum Wigner crystal. Phys. Rev. Lett. 65, 2189–2192 (1990).
+ADS
+  CAS
+  Google Scholar
+  6.
+Williams, F. I. B. et al. Conduction threshold and pinning frequency of magnetically induced Wigner solid. Phys. Rev. Lett. 66, 3285–3288 (1991).
+ADS
+  CAS
+  Google Scholar
+  7.
+Buhmann, H. et al. Novel magneto-optical behavior in the Wigner-solid regime. Phys. Rev. Lett. 66, 926–929 (1991).
+ADS
+  CAS
+  Google Scholar
+  8.
+Goldys, E. M. et al. Magneto-optical probe of two-dimensional electron liquid and solid phases. Phys. Rev. B 46, 7957–7960 (1992).
+ADS
+  CAS
+  Google Scholar
+  9.
+Ye, P. D. et al. Correlation lengths of the Wigner-crystal order in a two-dimensional electron system at high magnetic fields. Phys. Rev. Lett. 89, 176802 (2002).
+ADS
+  CAS
+  Google Scholar
+  10.
+Chen, Y. P. et al. Melting of a 2D quantum electron solid in high magnetic field. Nat. Phys. 2, 452–455 (2006).
+CAS
+  Google Scholar
+  11.
+Tiemann, L., Rhone, T. D., Shibata, N. & Muraki, K. NMR profiling of quantum electron solids in high magnetic fields. Nat. Phys. 10, 648–652 (2014).
+CAS
+  Google Scholar
+  12.
+Deng, H. et al. Commensurability oscillations of composite fermions induced by the periodic potential of a Wigner crystal. Phys. Rev. Lett. 117, 096601 (2016).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  13.
+Shimazaki, Y. et al. Optical signatures of periodic charge distribution in a Mott-like correlated insulator state. Phys. Rev. X 11, 021027 (2021).
+Google Scholar
+  14.
+Xu, X., Yao, W., Xiao, D. & Heinz, T. F. Spin and pseudospins in layered transition metal dichalcogenides. Nat. Phys. 10, 343–350 (2014).
+CAS
+  Google Scholar
+  15.
+Drummond, N. D. & Needs, R. J. Phase diagram of the low-density two-dimensional homogeneous electron gas. Phys. Rev. Lett. 102, 126402 (2009).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  16.
+Yoon, J., Li, C. C., Shahar, D., Tsui, D. C. & Shayegan, M. Wigner crystallization and metal–insulator transition of two-dimensional holes in GaAs at B = 0. Phys. Rev. Lett. 82, 1744–1747 (1999).
+ADS
+  CAS
+  Google Scholar
+  17.
+Shapir, I. et al. Imaging the electronic Wigner crystal in one dimension. Science 364, 870–875 (2019).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  18.
+Hossain, M. S. et al. Observation of spontaneous ferromagnetism in a two-dimensional electron system. Proc. Natl Acad. Sci. USA 117, 32244–32250 (2020).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  19.
+Zarenia, M., Neilson, D., Partoens, B. & Peeters, F. M. Wigner crystallization in transition metal dichalcogenides: a new approach to correlation energy. Phys. Rev. B 95, 115438 (2017).
+ADS
+  Google Scholar
+  20.
+Regan, E. C. et al. Mott and generalized Wigner crystal states in WSe2/WS2 moiré superlattices. Nature 579, 359–363 (2020).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  21.
+Tang, Y. et al. Simulation of Hubbard model physics in WSe2/WS2 moiré superlattices. Nature 579, 353–358 (2020).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  22.
+Shimazaki, Y. et al. Strongly correlated electrons and hybrid excitons in a moiré heterostructure. Nature 580, 472–477 (2020).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  23.
+Wang, L. et al. Correlated electronic phases in twisted bilayer transition metal dichalcogenides. Nat. Mater. 19, 861–866 (2020).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  24.
+Xu, Y. et al. Correlated insulating states at fractional fillings of moiré superlattices. Nature 587, 214–218 (2020).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  25.
+Padhi, B., Chitra, R. & Phillips, P. W. Generalized Wigner crystallization in moiré materials. Phys. Rev. B 103, 125146 (2021).
+ADS
+  CAS
+  Google Scholar
+  26.
+Smoleński, T. et al. Interaction-induced Shubnikov–de Haas oscillations in optical conductivity of monolayer MoSe2. Phys. Rev. Lett. 123, 097403 (2019).
+ADS
+  PubMed
+  PubMed Central
+  Google Scholar
+  27.
+Sidler, M. et al. Fermi polaron-polaritons in charge-tunable atomically thin semiconductors. Nat. Phys. 13, 255–261 (2017).
+CAS
+  Google Scholar
+  28.
+Efimkin, D. K. & MacDonald, A. H. Many-body theory of trion absorption features in two-dimensional semiconductors. Phys. Rev. B 95, 035417 (2017).
+ADS
+  Google Scholar
+  29.
+Zhang, Y. et al. Direct observation of the transition from indirect to direct bandgap in atomically thin epitaxial MoSe2. Nat. Nanotech. 9, 111–115 (2014).
+ADS
+  CAS
+  Google Scholar
+  30.
+Larentis, S. et al. Large effective mass and interaction-enhanced Zeeman splitting of K-valley electrons in MoSe2. Phys. Rev. B 97, 201407 (2018).
+ADS
+  CAS
+  Google Scholar
+  31.
+Li, Y. et al. Valley splitting and polarization by the Zeeman effect in monolayer MoSe2. Phys. Rev. Lett. 113, 266804 (2014).
+ADS
+  Google Scholar
+  32.
+Glazov, M. M. et al. Exciton fine structure and spin decoherence in monolayers of transition metal dichalcogenides. Phys. Rev. B 89, 201302 (2014).
+ADS
+  Google Scholar
+  33.
+Spivak, B., Kravchenko, S. V., Kivelson, S. A. & Gao, X. P. A. Transport in strongly correlated two dimensional electron fluids. Rev. Mod. Phys. 82, 1743–1766 (2010).
+ADS
+  CAS
+  Google Scholar
+  34.
+Tešanović, Z., Axel, F. & Halperin, B. I. “Hall crystal” versus Wigner crystal. Phys. Rev. B 39, 8525–8551 (1989).
+ADS
+  MathSciNet
+  Google Scholar
+  35.
+Ruzin, I. M., Marianer, S. & Shklovskii, B. I. Pinning of a two-dimensional Wigner crystal by charged impurities. Phys. Rev. B 46, 3999–4008 (1992).
+ADS
+  CAS
+  Google Scholar
+  36.
+Zhu, X., Littlewood, P. B. & Millis, A. J. Sliding motion of a two-dimensional Wigner crystal in a strong magnetic field. Phys. Rev. B 50, 4600–4621 (1994).
+ADS
+  CAS
+  Google Scholar
+  37.
+Fogler, M. M. & Huse, D. A. Dynamical response of a pinned two-dimensional Wigner crystal. Phys. Rev. B 62, 7553–7570 (2000).
+ADS
+  CAS
+  Google Scholar
+  38.
+Chitra, R. & Giamarchi, T. Zero field Wigner crystal. Eur. Phys. J. B 44, 455–467 (2005).
+ADS
+  CAS
+  Google Scholar
+  39.
+Koulakov, A. A., Fogler, M. M. & Shklovskii, B. I. Charge density wave in two-dimensional electron liquid in weak magnetic field. Phys. Rev. Lett. 76, 499–502 (1996).
+ADS
+  CAS
+  Google Scholar
+  40.
+Bernu, B., Cândido, L. & Ceperley, D. M. Exchange frequencies in the 2D Wigner crystal. Phys. Rev. Lett. 86, 870–873 (2001).
+ADS
+  CAS
+  Google Scholar
+  41.
+Zomer, P. J., Guimarães, M. H. D., Brant, J. C., Tombros, N. & van Wees, B. J. Fast pick up technique for high quality heterostructures of bilayer graphene and hexagonal boron nitride. Appl. Phys. Lett. 105, 013101 (2014).
+ADS
+  Google Scholar
+  42.
+Knüppel, P. et al. Nonlinear optics in the fractional quantum Hall regime. Nature 572, 91–94 (2019).
+ADS
+  Google Scholar
+  43.
+Back, P., Zeytinoglu, S., Ijaz, A., Kroner, M. & Imamoğlu, A. Realization of an electrically tunable narrow-bandwidth atomically thin mirror using monolayer MoSe2. Phys. Rev. Lett. 120, 037401 (2018).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  44.
+Lee, S.-Y., Jeong, T.-Y., Jung, S. & Yee, K.-J. Refractive index dispersion of hexagonal boron nitride in the visible and near-infrared. Phys. Status Solidi B 256, 1800417 (2019).
+ADS
+  Google Scholar
+  45.
+Rah, Y., Jin, Y., Kim, S. & Yu, K. Optical analysis of the refractive index and birefringence of hexagonal boron nitride from the visible to near-infrared. Opt. Lett. 44, 3797–3800 (2019).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  46.
+Srivastava, A. et al. Valley Zeeman effect in elementary optical excitations of monolayer WSe2. Nat. Phys. 11, 141–147 (2015).
+CAS
+  Google Scholar
+  47.
+Aivazian, G. et al. Magnetic control of valley pseudospin in monolayer WSe2. Nat. Phys. 11, 148–152 (2015).
+CAS
+  Google Scholar
+  48.
+Kim, K. K. et al. Synthesis and characterization of hexagonal boron nitride film as a dielectric layer for graphene devices. ACS Nano 6, 8583–8590 (2012).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  49.
+Laturia, A., Van de Put, M. L. & Vandenberghe, W. G. Dielectric properties of hexagonal boron nitride and transition metal dichalcogenides: from monolayer to bulk. npj 2D Mater. Appl. 2, 6 (2018); correction 4, 28 (2020).
+Google Scholar
+  50.
+Monarkha, Y. P. & Syvokon, V. E. A two-dimensional Wigner crystal. Low Temp. Phys. 38, 1067–1095 (2012).
+ADS
+  CAS
+  Google Scholar
+  51.
+Bruun, G. M. & Nelson, D. R. Quantum hexatic order in two-dimensional dipolar and charged fluids. Phys. Rev. B 89, 094112 (2014).
+ADS
+  Google Scholar
+  52.
+Yu, H., Liu, G.-B., Gong, P., Xu, X. & Yao, W. Dirac cones and Dirac saddle points of bright excitons in monolayer transition metal dichalcogenides. Nat. Commun. 5, 3876 (2014).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  53.
+Qiu, D. Y., Cao, T. & Louie, S. G. Nonanalyticity, valley quantum phases, and lightlike exciton dispersion in monolayer transition metal dichalcogenides: theory and first-principles calculations. Phys. Rev. Lett. 115, 176801 (2015).
+ADS
+  PubMed
+  PubMed Central
+  Google Scholar
+  54.
+Scuri, G. et al. Large excitonic reflectivity of monolayer MoSe2 encapsulated in hexagonal boron nitride. Phys. Rev. Lett. 120, 037402 (2018).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  55.
+Efimkin, D. K. & MacDonald, A. H. Exciton-polarons in doped semiconductors in a strong magnetic field. Phys. Rev. B 97, 235432 (2018).
+ADS
+  CAS
+  Google Scholar
+  56.
+Goryca, M. et al. Revealing exciton masses and dielectric properties of monolayer semiconductors with high magnetic fields. Nat. Commun. 10, 4172 (2019).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  Download references
+Acknowledgements
+C.K. and A.I. thank M. Knap for discussions. This work was supported by the Swiss National Science Foundation (SNSF) under grant no. 200021-178909/1. K.W. and T.T. acknowledge support from the Elemental Strategy Initiative conducted by MEXT, Japan, A3 Foresight by JSPS and CREST (grant no. JPMJCR15F3) and JST. P.E.D., I.E. and E.D. were supported by Harvard-MIT CUA, AFOSR-MURI: Photonic Quantum Matter award FA95501610323, Harvard Quantum Initiative.
+Author information
+Affiliations
+Institute for Quantum Electronics, ETH Zürich, Zürich, Switzerland
+Tomasz Smoleński, Clemens Kuhlenkamp, Alexander Popert, Yuya Shimazaki, Patrick Back, Xiaobo Lu, Martin Kroner & Ataç Imamoğlu
+Department of Physics, Harvard University, Cambridge, MA, USA
+Pavel E. Dolgirev, Ilya Esterlis & Eugene Demler
+Department of Physics and Institute for Advanced Study, Technical University of Munich, Garching, Germany
+Clemens Kuhlenkamp
+München Center for Quantum Science and Technology, Munich, Germany
+Clemens Kuhlenkamp
+Research Center for Functional Materials, National Institute for Materials Science, Tsukuba, Japan
+Kenji Watanabe
+International Center for Materials Nanoarchitectonics, National Institute for Materials Science, Tsukuba, Japan
+Takashi Taniguchi
+Institute for Theoretical Physics, ETH Zürich, Zürich, Switzerland
+Eugene Demler
+Contributions
+T.S. and A.I. conceived the experiments. T.S. carried out the measurements and analysed the data. M.K. and Y.S. helped with the experimental setup and the data analysis. K.W. and T.T. grew the hBN crystals. A.P., P.B. and X.L. fabricated the samples. P.E.D., C.K. and I.E. did the theoretical modelling and carried out the calculations under the guidance of E.D. T.S., P.E.D., E.D. and A.I. wrote the manuscript. T.S., E.D. and A.I. supervised the project.
+Corresponding authors
+Correspondence to Tomasz Smoleński or Eugene Demler or Ataç Imamoğlu.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information Nature thanks the anonymous reviewers for their contribution to the peer review of this work.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tables
+Extended Data Fig. 1 Device structure and the experimental setup.
+a, Illustration of the structure of the device investigated in the main text. b, Simplified schematic of the experimental setup used for magneto-optical, mK-temperature measurements. FLG, few-layer graphene; NA, numerical aperture.
+Extended Data Fig. 2 Normalization and differentiation of the reflectance data.
+a, Reflectance spectra acquired for the main device at T = 80 mK at two different spots: one in the MoSe2 monolayer region (blue) and one off the MoSe2 monolayer (red). Both spectra were obtained at charge neutrality (Vt = −1 V) and in the absence of the magnetic field. b, The reflectance contrast spectrum Rc ≡ ΔR/R0 determined based on the two spectra from a. c, d, Colour plots showing zero-field top-gate voltage evolutions of the derivative of reflectance contrast \({R}_{{\rm{c}}}^{{\prime} }={\rm{d}}{R}_{{\rm{c}}}/{\rm{d}}{V}_{{\rm{t}}}\) with respect to the Vt (dashed lines mark the exciton and umklapp energies). The left panel presents a derivative evaluated numerically using standard, symmetric difference quotient method as \({R}_{{\rm{c}}}^{{\prime} }({V}_{{\rm{t}},n})=[{R}_{{\rm{c}}}({V}_{{\rm{t}},n+1})-{R}_{{\rm{c}}}({V}_{{\rm{t}},n-1})]/[{V}_{{\rm{t}},n+1}-{V}_{{\rm{t}},n-1}]\). The right panel shows a derivative of the same data obtained using the other method, in which dRc/dVt is computed as a difference quotient between symmetric data points separated not by two, but by four gate-voltage steps, that is, \({R}_{{\rm{c}}}^{{\prime} }({V}_{{\rm{t}},n})=[{R}_{{\rm{c}}}({V}_{{\rm{t}},n+2})-{R}_{{\rm{c}}}({V}_{{\rm{t}},n-2})]/[{V}_{{\rm{t}},n+2}-{V}_{{\rm{t}},n-2}]\). This method was used to plot the gate-voltage derivatives in Figs. 1–3.
+Extended Data Fig. 3 Fitting the exciton and umklapp peaks with dispersive Lorentzian spectral profiles.
+a, Colour map showing top-gate voltage evolution of the reflectance contrast Rc spectra measured at T = 80 mK for the main device, at zero magnetic field, for low electron doping densities, and in the spectral vicinity of the exciton peak. b, Similar map presenting evolution of the reflectance contrast Rc upon subtraction of the fitted exciton spectral profile RX as well as a smooth Gaussian-like background B (independent of the voltage). The dashed lines in both panels indicate the energies of the exciton and umklapp peaks. c, d, Cross-sections through the maps in a, b at Vt = 0.8 V showing, respectively, bare and background-corrected reflectance contrast spectra. The solid lines indicate the fits to the experimental data with dispersive Lorentzian spectral profiles, based on which we determined the exciton and umklapp energies (marked by vertical dashed lines). In the case of the umklapp peak, the fitting was carried out only in the energy region covered by the data points shown in green, in order to avoid spurious contribution around the energy of the main exciton (of about 1,635.5 meV at the selected Vt = 0.8 V) that originates from the residual of the exciton resonance fitting.
+Extended Data Fig. 4 Calibration of the electron density for the dilution refrigerator experiments based on the Shubnikov–de Haas oscillations in the exciton linewidth.
+a, Colour map presenting σ−-polarized reflectance contrast spectra measured at T = 80 mK for the main device as a function of the top-gate voltage at B = 16 T. b, Gate-voltage dependence of the exciton linewidth extracted from the data in a by fitting the exciton resonance with a dispersive Lorentzian spectral profile. Dashed lines in both panels indicate the positions of integer filling factors. c, Gate voltages Vt(ν, B) corresponding to the positions of the exciton linewidth minima extracted from the reflectance measurements carried out at different magnetic fields. All of the presented data points were obtained in the regime where the Fermi level does not exceed the valley Zeeman splitting in the conduction band. Solid lines represent the fit of the data points with a set of linear dependencies corresponding to subsequent integer filling factors, which form a Landau level fan chart.
+Extended Data Fig. 5 Comparison of the zero-field Wigner crystal signatures at T = 80 mK and T = 4 K.
+a, b, Colour maps showing zero-field top-gate voltage evolution of the derivative of reflectance contrast spectra with respect to Vt measured in the dilution refrigerator for the main device at two different temperatures: T = 80 mK (a) and T = 4 K (b). Black dashed lines mark the fitted energy EX of the exciton resonance, and the green lines indicate the expected position of the umklapp peak EX + ΔEU for \(\Delta {E}_{{\rm{U}}}={h}^{2}{n}_{{\rm{e}}}/\sqrt{3}{m}_{{\rm{X}}}\) corresponding to a triangular Wigner crystal and mX = 1.1me.
+Extended Data Fig. 6 Melting of the Wigner crystal at elevated temperatures.
+a, Colour maps displaying back-gate voltage evolution of the derivative of reflectance contrast spectra with respect to Vb measured in the VTI-based setup at zero magnetic field and different temperatures of the main device (as indicated). In each map, the black dashed lines mark the fitted energy EX of the main exciton peak, while the green line in the map at T = 4.5 K represents the expected position of the umklapp resonance \({E}_{{\rm{X}}}+{h}^{2}{n}_{{\rm{e}}}/\sqrt{3}{m}_{{\rm{X}}}\) corresponding to a triangular Wigner crystal and mX = 1.3me. b–d, Cross-sections through the maps in a (as well as through a similar map measured at T  = 15.2 K) at Vb = −0.6 V (b), Vb = −0.45 V (c), and Vb = −0.35 V (d) corresponding to electron densities ne/1011 cm−2 of, respectively, 1.2, 1.6 and 1.9. e, Relative amplitude of the umklapp transition determined as a function of the temperature as the average value of d(ΔR/R0)/dVb in a 0.8-meV-wide energy window around the umklapp energy (marked by shaded regions in b–d) at different electron densities (as indicated). The error bar for each data point is estimated as a standard error (that is, standard deviation of the mean) of all points within the aforementioned energy window for a given ne and T. The solid lines represent the fits of the temperature dependence for each ne with a linear decrease a(Tm − T) + b at T < Tm and a flat background level b at T > Tm, with a melting temperatures Tm = 11 ± 1 K of the Wigner crystal being found to be the same for all investigated values of ne within the experimental uncertainty. f, The same cross-sections as in c (determined at Vb = −0.45 V) together with the solid lines representing the fits of the umklapp lineshapes at different temperatures with a phenomenological Lorentzian profile overlaid on a (fixed) polynomial background. g, Temperature-dependent relative amplitude of the umklapp peak at ne ≈ 1.6 × 1011 cm−2 extracted based on the Lorentzian fits from f (as well as based on similar fits of the data taken at different temperatures; the error bars correspond to standard errors increased by a temperature-independent term that is introduced to account for systematic uncertainty stemming from determination of the background profile). Solid line indicates a linear fit to the data points with non-zero amplitude corresponding to the same Wigner crystal melting temperature of Tm = 11 ± 1 K.
+Extended Data Fig. 7 Analysis of disorder-induced broadening of the umklapp peak.
+a, b, Colour maps showing top-gate voltage evolution of the differentiated reflectance contrast d(ΔR/R0)/dE (a) and the bare reflectance contrast ΔR/R0 (b) acquired for the main device at B = 14 T, T = 80 mK, and in σ− polarization of detection (note that these results were obtained in a different measurement than that shown in Fig. 3e, f). Grey horizontal dashed lines mark the voltages corresponding to filling factors of ν = 0, 0.34, and 1. White (black) dashed (dotted) line indicates the fitted energy EX(σ−) (EX(σ+)) of the σ−-polarized (σ+-polarized) main exciton resonance. The green dashed line represents the expected energy of the umklapp peak determined as \({E}_{{\rm{X}}}({\sigma }^{+})+\Delta {E}_{{\rm{U}}}^{+}\), where \(\Delta {E}_{{\rm{U}}}^{+}={h}^{2}{n}_{{\rm{e}}}/\sqrt{3}{m}_{{\rm{X}}}+s{k}_{{\rm{W}}}-\sqrt{{(s{k}_{{\rm{W}}})}^{2}+{({\varDelta }_{{\rm{Z}}}/2)}^{2}}+{\varDelta }_{{\rm{Z}}}/2\) represents the umklapp–main exciton detuning calculated within the frame the model from Supplementary Information section 3 using the exciton mass of mX = 1.3me, the strength of the electron–hole exchange s|K| = 300 meV (with |K| representing the valley momentum), and experimentally determined main exciton Zeeman splitting ΔZ = 3.6 meV. c, d, Cross-sections through the maps in a, b at Vt = 0.45 V corresponding to the electron density ne ≈ 1.16 × 1011 cm−2 and Landau level filling factor ν ≈ 0.34. The solid line in c shows the fit of the experimental data with a sum of two differentiated dispersive Lorentzian spectral profiles \({R}_{{\rm{X}}}^{{\prime} }(E)+{R}_{{\rm{U}}}^{{\prime} }(E)\) representing the main and umklapp resonances. The solid line in d in turn depicts the fit of the main exciton resonance in the bare reflectance spectrum with a transfer-matrix model, allowing us to extract the nonradiative broadening of the exciton \({\gamma }_{{\rm{X}}}^{{\rm{nrad}}}=0.78\,{\rm{meV}}\). e, The fits of the differentiated reflectance spectrum at ν ≈ 0.34 with the sum of two differentiated dispersive Lorentzians \({R}_{{\rm{X}}}^{{\prime} }(E)+{R}_{{\rm{U}}}^{{\prime} }(E)\) corresponding to different correlation lengths of the Wigner crystal (as indicated). For each fit the parameters of the main exciton resonance (that is, amplitude AX, linewidth γX, energy EX and phase φX) as well as the phase φ0 and the energy EU of the umklapp peak are fixed at the values obtained from the fit in c. The linewidth and amplitude of the umklapp resonance are assumed to be given by \({\gamma }_{{\rm{U}}}={\gamma }_{{\rm{X}}}^{{\rm{nrad}}}+{\gamma }_{{\rm{U}}}^{{\rm{dis}}}\) and AU = αUAX, where the disorder-induced broadening \({\gamma }_{{\rm{U}}}^{{\rm{dis}}}\) and the relative amplitude αU are fitted based on the predictions of the theoretical model from Supplementary Information section 6 describing the umklapp lineshape for a Wigner crystal with a given correlation length. For all fits αU is assumed to be smaller than 5%. f, The coefficient of determination R2 evaluated for the fits corresponding to different Wigner crystal correlation lengths based on the data points in a 2-meV-wide energy window around the umklapp resonance (marked by shaded region). The dashed line indicates the value of R2 obtained in the same way for an unconstrained fit in c.
+Extended Data Fig. 8 Observation of zero-magnetic-field Wigner crystal signatures for the second device.
+a, Colour map showing reflectance contrast spectra measured as a function of the top-gate voltage Vt for the second device. The data were acquired at T = 4 K and in the absence of the magnetic field. b, Gate-voltage evolution of the derivative of the spectra from a with respect to Vt. Black dashed lines in both panels indicate the energy of the exciton peak EX obtained by fitting its spectral profile with dispersive Lorentzian lineshape. Green lines mark the expected position EX + ΔEU of the umklapp peak, where \(\Delta {E}_{{\rm{U}}}={h}^{2}{n}_{{\rm{e}}}/\sqrt{3}{m}_{{\rm{X}}}\) is computed under an assumption of a triangular Wigner crystal and for the value of exciton mass mX = 1.3me.
+Supplementary information
+Supplementary Information
+This file contains Supplementary Information Sections 1-6, including Supplementary Figures 1-12 and additional references.
+Rights and permissions
+Reprints and Permissions
+About this article
+Cite this article
+Smoleński, T., Dolgirev, P.E., Kuhlenkamp, C. et al. Signatures of Wigner crystal of electrons in a monolayer semiconductor. Nature 595, 53–57 (2021). https://doi.org/10.1038/s41586-021-03590-4
+Download citation
+Received
+06 October 2020
+Accepted
+28 April 2021
+Published
+30 June 2021
+Issue Date
+01 July 2021
+DOI
+https://doi.org/10.1038/s41586-021-03590-4
+Subjects
+Electronic properties and materials
+Quantum fluids and solids
+Comments
+By submitting a comment you agree to abide by our Terms and Community Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+Access through your institution
+Buy or subscribe
+Advertisement
+Nature (Nature) ISSN 1476-4687 (online) ISSN 0028-0836 (print)
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+Career development
+Nature Careers
+Nature
+Conferences
+Nature
+events
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+Legal & Privacy
+Privacy Policy
+Use of cookies
+Manage cookies/Do not sell my data
+Legal notice
+Accessibility statement
+Terms & Conditions
+California Privacy Statement
+© 2021 Springer Nature Limited
+Close banner
+Close
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+Your privacy
+We use cookies to make sure that our website works properly, as well as some "optional" cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage Settings", where you can also find more information about how your personal data is processed.View our privacy policy
+Manage Settings Accept All Cookies

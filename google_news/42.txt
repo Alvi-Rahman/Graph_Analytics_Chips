@@ -1,0 +1,62 @@
+News
+Features
+Broadcasts
+On-Demand
+Opinions
+Video
+Resources
+Magazines
+Awards
+Training
+DCD>Connect
+HOME NEWS IT HARDWARE
+Chip makers, big tech, and cloud companies launch Semiconductors in America Coalition to lobby government
+Primarily focused on getting funding for the CHIPS Act
+May 12, 2021 By Sebastian Moss Comment
+A number of chip makers, designers, and users have come together to form a lobbyist group to push for US semiconductor funding.
+The Semiconductors in America Coalition comes as the world suffers from an extended chip supply shortage, impacting hundreds of industries.
+The US government is also increasingly concerned about its declining chip manufacturing sector, and heavy reliance on Taiwan.
+– Samsung
+SIAC includes all the members and structure of the existing Semiconductor Industry Association lobbying group, such as AMD, Intel, IBM, TSMC, and SK Hynix.
+But while SIA was more focused on semiconductor designers and manufacturers, SIAC adds in a lot of chip users and gains the backing of big tech.
+Among them are Amazon Web Services, Apple, AT&T, Cisco Systems, General Electric, Google, Hewlett Packard Enterprise, Microsoft, and Verizon.
+Currently, there are no automotive companies in the lobbyist group, despite the sector being one of the hardest hit by the semiconductor supply crunch.
+With the global shortage and the domestic supply concerns, there are several proposals to pump billions of government funds into the semiconductor industry.
+SIAC says that its primary focus is to secure funding for the CHIPS for America Act, which was enacted last year to authorize semiconductor manufacturing incentives and research initiatives. While CHIPS authorized it, it did not fund it.
+President Biden is pushing for $50 billion to fund CHIPS, which could come through the proposed Endless Frontier Act.
+“The current shortage of semiconductors is impacting a broad range of industries throughout the economy," SIAC members said in a joint statement.
+"To address this problem in the short term, government should refrain from intervening as industry works to correct the current supply-demand imbalance causing the shortage. But for the longer term, robust funding of the CHIPS Act would help America build the additional capacity necessary to have more resilient supply chains to ensure critical technologies will be there when we need them.”
+Further reading
+20 Apr 2021
+TSMC, Intel, and Nvidia warn of years of chip shortages
+12 Apr 2021
+Renesas Electronics fab cleaned following fire, production expected to resume in a month
+27 Apr 2021
+GlobalFoundries moves headquarters to its fab in New York
+Tags
+Hewlett Packard Enterprise Endless Frontier Act CHIPS for America Act Intel Semiconductors in America Coalition TSMC AMD Microsoft Amazon Web Services General Electric Apple SK Hynix Verizon Google
+Resources
+More
+H1 2021 Data Center Outlook
+30 Sep 2021
+Next-Generation Work: Equipping Employees with Secure Remote High-Resolution Video Capabilities
+16 Sep 2021
+MCA & MFP Helps JD Stable and Efficient Cloud Services
+16 Sep 2021
+Data Center Solutions: Reducing the Risk of Change
+14 Sep 2021
+Looking for technical training? Test your understanding of mission critical with these free-to-use DCPro knowledge assessments
+Data Centre Dynamics Ltd (DCD)
+& DC Professional Development Limited (DCPRO)
+22 York Buildings,
+John Adam Street,
+London WC2N 6JU
+
+Email. info@datacenterdynamics.com
+Products
+Broadcasts Mission Critical Training Global Awards 2021 Certification Webinars Magazines Newsletters
+DCD
+Our People What we do Office locations Working for us
+© 2021 DCD
+Terms & Conditions
+Data Protection / Privacy Policy

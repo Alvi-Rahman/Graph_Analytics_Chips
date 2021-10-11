@@ -1,0 +1,117 @@
+Sign In
+Become a MemberDonate
+Some Automakers Say Chip Shortage Causing a Delay of Certain Features
+Cadillac to suspend Super Cruise driver assistance system in Escalade SUVs
+By Benjamin Preston
+Updated October 5, 2021
+ shares of the article
+Photo: Cadillac
+The global chip shortage—which continues to squeeze most industries that manufacture electronics, or products with electronics in them—is now affecting popular high-tech features as some automakers opt to withhold them or pause production altogether.
+Consumers already have felt the shock of limited availability of new cars, which has pushed up prices and made it difficult to get sought-after models. That, in turn, has put pressure on the used car market, inflating those prices to all-time highs. 
+Because of the chip shortage, Cadillac said recently that it would temporarily suspend including its Super Cruise driver assistance system in new Escalade SUVs. Super Cruise—an advanced driver assistance and monitoring system that allows the driver to remove hands from the steering wheel on certain well-marked highways—has a steering column-mounted sensor that ensures the driver always has eyes on the road. The system also includes an array of other outward-facing sensors that are controlled by microchip processors.
+Choosing It, Insuring It, Driving It
+Get everything you need to know when it comes to your vehicle.
+Join
+MORE ON CAR BUYING
+Chip Shortage Makes It Tough to Buy Cars
+How to Navigate Surging New-Car Prices
+How to Navigate Surging Used-Car Prices
+Consider Fixing the Car You Own
+CR's Car Buying Guide
+General Motors—Cadillac’s parent company, which also builds Chevrolet vehicles—says it is pausing production of the Bolt EUV, an electric hatchback that is supposed to include Super Cruise. But the manufacturer says that hiatus is related to an EV battery recall on those vehicles, and not the semiconductor shortage. Consumer Reports contacted other manufacturers, some of which say they will dial back optional features on certain models while the semiconductor supply problem persists. (Their responses are below.)
+Mitsubishi says it has to change options packages to address its limited ability to include blind spot monitoring and some in-dash screens. Other automakers gave more general descriptions of the impact of the chip shortage on options availability. BMW, for example, tells CR that there will be “some limitations on the availability of certain optional equipment.” Stellantis, the multinational corporation that owns popular brands including Jeep and Dodge, says “there might be adjustments in the specification of vehicles.” Mercedes-Benz says that buyers may be able to purchase cars without certain features now and have them retrofitted later.
+Other manufacturers, including Jaguar Land Rover, Mazda, Nissan, Subaru, and Toyota, say that although the chip shortage is having an impact on overall vehicle production, they’re not limiting features as a way to deal with the problem.
+Almost all of the manufacturers that responded to CR were clear that the chip shortage will not affect the availability of safety equipment. Cadillac is no exception, and it’s important to note that Super Cruise, although innovative and effective, is a convenience feature, and not safety equipment.
+“In our tests, Super Cruise is a welcome feature that can make driving on the highway less stressful,” says Jake Fisher, senior director of CR’s Auto Test Center. “The Escalade will still be sold with proven safety features such as automatic emergency braking with pedestrian detection.” 
+Check Your New Car for Promised Features
+Consumers should be aware when shopping that some new cars might not have the features they’re looking for right now. Don’t rely on the salesperson to tell you what features are included—check for yourself. Because this problem is likely to persist, CR recommends making a list of the features you want, and the ones that are must-haves. If you can’t find a new car with the features you need, it may be best to wait until they become available again on the model you’re interested in buying.
+Analysts say that the tight supply of microchips isn’t going away anytime soon and that the situation could last a year or longer. Auto manufacturing has felt the squeeze more acutely than most other industries, which you may have noticed if you’ve been out looking for cars over the past few months. Inventories are low as manufacturers struggle to keep up with demand.
+“We’re now seeing companies like Toyota that had previously stockpiled a bunch of chips starting to run out and cut production through the end of the year,” says Sam Abuelsamid, principal research analyst for Guidehouse Insights, a firm that tracks the automotive industry. “The total lost production volume could end up being more than 7.7 million vehicles.”
+To put that into perspective, in 2019—the last full year before the pandemic ground car buying and production to a halt for a while—automakers sold more than 17 million vehicles in the U.S. In 2020, sales fell sharply but still hit almost 15 million vehicles.
+Here’s what manufacturers are saying about the impacts of the chip shortage on their operations.
+American Honda Motor Co. (Honda and Acura)
+“It has no impact on the vehicles we deliver to our customers, as Honda Sensing is standard on nearly everything. Thus, we are not making choices to cut those features because of the chip shortage.”
+Audi
+“Based on the new vehicles we are offering, they do indeed all still offer our standard and optional equipment—no changes in offering.”
+BMW North America
+“Due to the worldwide semiconductor shortage affecting the entire automotive industry, there may be some limitations on the availability of certain optional equipment.”
+Ford Motor Company (Ford and Lincoln)
+“No changes.”
+General Motors  (Buick, Cadillac, Chevrolet, and GMC)
+“Due to the industry-wide shortage of semiconductors, we’ve had to periodically make temporary adjustments to vehicle content on various models. When this happens, it is critical that we notify our dealer partners first so that they can keep our customers informed. The semiconductor situation remains fluid and these adjustments fluctuate frequently as semiconductor supply increases. We’re confident in our team’s ability to find creative solutions to mitigate the supply chain situation and resume offering all planned features for our customers as soon as possible.”
+Cadillac
+“Super Cruise is an important feature for the Cadillac Escalade program. Although it’s temporarily unavailable at the start of regular production due to the industry-wide shortage of semiconductors, we’re confident in our team’s ability to find creative solutions to mitigate the supply chain situation and resume offering the feature for our customers as soon as possible.” 
+Hyundai Motor Company
+“The semiconductor shortage is having no impact on feature availability. This includes smart cruise control and AEB.”
+Jaguar Land Rover
+“The chip shortage is impacting the total build of vehicles, but not resulting in vehicles built without safety features.”
+Kia Motors America
+Kia says that it is not aware of any issues providing normally available features but that it has had to suspend production several times this year due to the semiconductor shortage.
+Mazda Motor Company
+“Although the infection situation in Southeast Asia is improving, our local suppliers are experiencing delays in normalizing their operations after the lockdown, causing disruptions in the procurement of parts, including semiconductor-related ones. We therefore will suspend night shifts for two weeks; the week of October 11th and the week of October 18th. We will also shut down the operations at the engine plant in Ujina and the transmission plant in Hofu Nakanoseki area. We will continue to strengthen our collaboration with suppliers to minimize the impact.”
+Mercedes-Benz USA
+“Due to the effects of the current worldwide supply shortage for certain semiconductor components, there are currently equipment restrictions in certain model series, for example in the compact car segment. This also results in delays in delivery.
+“We are in dialogue with the affected customers regarding individual mobility solutions. In some markets, this includes, for example, the possibility that customers can choose the originally agreed delivery date of their vehicle with the associated functional restrictions or adequate alternative mobility solutions. The functions will be retrofitted as soon as the corresponding components are available again.”
+Mitsubishi Motors North America
+“Like everyone, we are balancing component availability with customer demand. We’ve seen a particular shortage for sensors used for rear cross-traffic alerts and blind-spot monitoring, as well as in-dash screens and monitors, and have had to adjust the mix to compensate. That said, we have not removed or adjusted the availability of any vehicles equipped with AEB. We continue to work hand-in-glove with our supplier partners on sourcing, and we’re hopeful that we’re on the right side of the shortage at this point.”
+Nissan North America
+Nissan says the chip shortage is not affecting the availability of advanced driver assistance features on vehicles so equipped.
+“Nissan is adjusting production schedules within our North American manufacturing operations in October due to semiconductor-related parts supply. We continue to work closely with our supplier partners to assess the impact of supply chain issues and minimize disruption for vehicle deliveries to our dealers and customers.”
+Stellantis North America
+“Customer satisfaction is our number one priority. The global automotive industry faces an exceptional situation with the accumulation of the health crisis and a worldwide shortage of semiconductors. Our teams are mobilized to drive our manufacturing activity in this unstable context and we need to adapt accordingly. Despite our daily effort aiming at delivering to our customers in the best possible situation, and in order to help minimize the impact on vehicle availability, there might be adjustments in the specification of vehicles.”
+Subaru
+“Our overall vehicle production has been impacted by the chip shortage, but we have not reduced the availability of our advanced safety features, including the EyeSight driver assist system, on any of our models.”
+Tesla
+Tesla Motors disbanded its press office and no longer responds to media inquiries.
+Toyota (Toyota and Lexus)
+“Due to COVID-19 and ongoing challenges with our supply chain, Toyota will continue to face shortages that will affect production at most of our North American plants. Our manufacturing and supply chain teams are working diligently to minimize the impact on production. Though the situation remains fluid, in North America, we are projecting a reduction of approximately 60,000 to 80,000 vehicles in October.”
+Volkswagen
+“A significant shortage of semiconductor capacities is leading to various supply bottle-necks in many industries around the world (consumer electronics, computers, telecommunications etc.). Because of growing demand for consumer electronics (e.g. due to remote working arrangements) on the one hand and the high level of demand in the automotive markets on the other, supply bottlenecks are still occurring in the automotive industry. The result is industry-wide adaptations in vehicle production, which also affects the brands of the Volkswagen Group.
+“In recent months, the Volkswagen Group’s task force has been working intensely and successfully to minimize the effects of the global semiconductor bottleneck on products in the Group. This is why, notwithstanding the strained situation, production at Volkswagen Group plants has only had to be adjusted at times up to now.”
+Volvo
+“Similar to the entire automotive and electronics industries, Volvo Cars has experienced a shortage of semiconductors since the end of 2020. The company is adjusting production, as well as individual vehicle features and options, to adapt to the shortage situation. There has been no impact to any standard safety systems, Pilot Assist or Adaptive Cruise Control, though customers are advised to work closely with their retailers before purchasing to understand exactly how their vehicles are otherwise equipped.”
+Benjamin Preston
+My reporting has taken me everywhere from Baghdad, Iraq, to the Detroit auto show, along the U.S.-Mexico border and everywhere in between. If my travels have taught me anything, it's that stuff—consumer products—is at the center of daily life all over the world. That's why I'm so jazzed to be shining light on what works, what doesn't, and how people can enrich their lives by being smarter consumers. When I'm not reporting, I can usually be found at home with my family, at the beach surfing, or in my driveway, wrenching on my hot rod '74 Olds sedan. 
+More From Consumer Reports
+SHOW COMMENTS (0) commenting powered by Facebook
+Be the first to comment
+Member Support
+Contact Us
+Account Settings
+What is Membership?
+Make a Donation
+Newsletters
+Give a Gift
+About
+About Us
+Career Opportunities
+Media Room
+Advocacy
+CR Recommended Program
+Data Intelligence
+Digital Lab
+Product Reviews
+Appliances
+Babies & Kids
+Cars
+Electronics
+Health
+Home & Garden
+Money
+A-Z Index
+Magazine & Books
+Current Issue
+CR Digital Archive
+5 Year Index
+CR Store
+More
+Video
+en Español
+Report a Safety Problem
+Give a Confidential News Tip
+Buy a New Car
+Buy a Used Car
+Join
+Facebook Twitter YouTube instagram Pinterest
+Privacy Policy User Agreement Ad Choices Do Not Sell My Personal Information
+© 2021 Consumer Reports, Inc.

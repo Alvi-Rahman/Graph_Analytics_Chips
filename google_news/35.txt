@@ -1,0 +1,73 @@
+Search
+RSS
+US Edition
+Reviews
+Best Picks
+Raspberry Pi
+CPUs
+GPUs
+Coupons
+More
+Forums
+TRENDING
+Alder Lake
+Windows 11 ISO
+Ryzen 5 5600G
+Intel Arc Alchemist
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Learn more
+Home News
+China's Mandated Power Cuts Hit Local Semiconductor Sector
+By Anton Shilov about 24 hours ago
+But the impact seems to be limited.
+Comments (1)
+(Image credit: GlobalWafers)
+As it turns out, mandated power cuts in several China provinces have so far caused more problems than initially anticipated. Apparently, ASE Technology and GlobalWafers were hit by the industrial blackouts. Chip test and packaging giant ASE Technology that serves pretty much every fabless chip designer, including AMD, has reportedly notified its clients that its production facility in Kunshan will be unable to operate through September 30 due to restrictions, reports DigiTimes. While TSMC and UMC are not affected by electricity supply cuts directly, their partners in the region are. GlobalWafers, a wafer supplier, was ordered to halt production, reports ComputerBase.
+Local authorities in China's Jiangsu, Zhejiang, and Guangdong provinces do not cut electricity supply to foundries like TSMC, which makes some of the best CPUs for gaming, and UMC since they have continuous production cycles and cannot stop and then restart processing wafers without consequences. Therefore, for now, lithographic chip production in China will not be affected.
+There is an issue though. Jiangsu, Zhejiang, and Guangdong provinces are production hubs that have their own supply chains, so if some companies cease operations, others will be affected too since they will not get the necessary supplies on time.
+ASE's announcement caused the company's stock to drop 2.6%, reports FocusTaiwan. Meanwhile, the company did not make any announcements with the Taiwan Stock Exchange, so the impact on its business is not too significant. 
+Being the world's largest outsourced semiconductor assembly and test (OSAT) company, ASE has manufacturing facilities in various countries and regions, so ceasing operations in Suzhou will affect customers that are served by these plants. The company said that it was shipping products from the facility ahead of schedule late last week in a bid to minimize the impact of mandatory power cuts on its clients. Still, there could be some delays. A day or two production delay may not sound dramatic, but it will cause delays further down the supply chain, which could lead to serious issues with maritime or air freights. 
+GlobalWafers also did not make any announcements with the TSE. It is unknown whether TSMC and UMC are going to miss any supplies from GlobalWafers or other companies in the region because of the power cuts. 
+There are hundreds of companies in the three provinces affected by the country's decision to cut down energy consumption and CO2 emissions. Therefore, short-term effects on economy and local supply chains is something that is yet to be determined.
+In the long term, companies will adjust to offset the effects of mandated temporary energy cuts on their businesses. Some will introduce night shifts at days when energy supply is unlimited while others will increase output in other regions.
+TOPICS
+SYSTEMS
+CPUS
+GPUS
+SEE ALL COMMENTS (1)
+1 Comment Comment from the forums
+InvalidError
+Part of the reason for China's power outages is that the price of coal has doubled since the last time the CCP negotiated prices with private coal-fired power plants and those are now operating at a loss so their owners are limiting output to the minimum allowed until contracts expire to cut their losses.
+
+It is estimated that...
+Read More Reply
+VIEW ALL 1 COMMENT
+Advertisement
+BE IN THE KNOW
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+Advertisement
+MOST POPULAR
+MOST SHARED
+1
+How to Install Windows 11 in a Virtual Machine
+2
+How to Get a Windows 11 ISO File and Do a Clean Install
+3
+China's Mandated Power Cuts Hit Local Semiconductor Sector
+4
+AMD Aims to Increase Chip Efficiency by 30x by 2025 (Updated)
+5
+Dell S271DS Review: A 1440p Value
+Advertisement
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+Terms and conditions
+Privacy policy
+Cookies policy
+Accessibility Statement
+Advertise
+About us
+Contact us
+Coupons
+© Future US, Inc. 11 West 42nd Street, 15th Floor, New York, NY 10036.

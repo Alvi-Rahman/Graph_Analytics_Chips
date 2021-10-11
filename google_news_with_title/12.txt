@@ -1,0 +1,277 @@
+Advertisement
+Login Register
+ABOUT
+BENCH
+FORUMS
+PODCAST
+PC COMPONENTS▼
+SMARTPHONES & TABLETS▼
+SYSTEMS▼
+ENTERPRISE & IT
+GUIDES▼
+DEALS
+TRENDING TOPICS
+INTEL
+CPUS
+AMD
+MOBILE
+STORAGE
+SMARTPHONES
+MOTHERBOARDS
+SSDS
+Home>
+SoCs
+An AnandTech Interview with Jim Anderson, CEO of Lattice Semiconductor
+by Dr. Ian Cutress on August 20, 2021 9:00 AM EST
+Posted in
+SoCs
+Nexus
+Lattice
+FPGAs
+Avant
+9
+Comments
++ Add A
+Comment
+In our coverage of the semiconductor space, we typically think of two main vectors of hardware – the CPU and the GPU. Beyond that, we look at FPGAs, microcontrollers, and this decade is bringing the advent of the dedicated AI processor. What ties all of these products together is actually the FPGA - a field programmable gate array that allows a skilled technician to essentially build a custom circuit out of configurable gates. This means an FPGA can be used to design and simulate a full CPU or GPU, but also an FPGA offers a reconfigurable way to offer optimized compute power that adapts to the needs of its users without the cost of millions or tens of millions to design dedicated silicon. One of the first FPGA companies on the market was Lattice Semiconductor, which now focuses on small power efficient FPGA designs that end up in everything from consumer devices to servers.
+We’ve been loosely following Lattice for a number of years, however three years ago the company went through a bit of a change. It hired Jim Anderson, the then AMD SVP of Computing and Graphics who had overseen the launch of Ryzen, the brand of processors that has re-energized the company from near bankruptcy to a number of years of extended market share growth and profitability. Jim and I met frequently at AMD events and we spoke at depth at the state of the consumer product landscape as well as how the semiconductor space was evolving. When it was announced he took the role of CEO at Lattice, I was a little taken aback, but glad that he had found a new challenge the complemented his background in semiconductor design and expertise.
+Over those three years at Lattice, Jim has initiated a cultural shift that is playing out in the company roadmaps – new products, a more agile approach, and a need to focus on enabling machine learning at every part of its product stack. The recent financial disclosures at Lattice show an increasing demand for its hardware, as well as the company making strides to double its addressable market over the next five years. I thought this would be a good time to reconnect with Jim to find out exactly what he’s doing at Lattice to earmark the next generation of growth at this foundational FPGA company.
+
+Jim Anderson
+CEO, Lattice Semiconductor
+Dr. Ian Cutress
+AnandTech
+From a career standpoint, Jim has a lot of experience. Academically he holds a MS in EE and CS from MIT and an MBA from MIT, and in his career he spent 8 years at Intel as a CPU architect on Xeon and Itanium along with strategic planning, 8 years at LSI in strategic planning and marketing of network components, a year at Axxia/Intel as the GM of Networking, and then 3 years at AMD leading up Ryzen. Now he is three years into the role of CEO at Lattice.
+  Ian Cutress: You’ve now been CEO of Lattice for three years, and coming from the position of SVP of AMD’s Computing and Graphics business group, what made you make the jump from consumer hardware to power-efficient FPGAs?
+Jim Anderson: Well I loved it at AMD. I was super happy there - I love the people at AMD. Great people, really innovative, very determined. I'm a product guy - I always have passion about the product, and in particular that product we were launching that day back in Italy, I was always super excited about. I love the products.
+But when Lattice reached out to me, it was kind of hard to pass up the opportunity, because Lattice is a company that's one of the original founding FPGA companies from the early 80s. It's a company that's been around for about 40 years, it's got a great history of innovation, and it’s kind of a unique place that innovates and innovates around small and really power efficient FPGAs. Those devices go into all sorts of applications across many different markets. It is a great company. I felt like if I joined Lattice that I could help it get on a stronger path moving forward, help it build better products, and build products more quickly.
+So that's kind of what attracted me to Lattice and the last three years have been a lot of fun. We've completely rebuilt the product line at Lattice, we're on a great trajectory, and actually, I'm even more excited about the years to come. We have some really great products on the roadmap.
+  IC: Most users who know about Lattice understand that it's an FPGA company, but when most of us speak about FPGAs, we refer to the big names in the industry: Xilinx and Altera (which is now part of Intel). Can you talk about how Lattice positions itself in the market compared to the big names, and why that matters?
+JA: Yeah, absolutely. First of all let me point out that if you look at unit volume size, actually Lattice is the highest unit volume manufacturer of FPGAs. We're the biggest by unit volume. Where we specialize is in small size, power efficient, and very, very easy to use FPGAs. Because they're really power efficient, and they're small size, they can go into all sorts of different applications that really large FPGA just can't go in. So either from a physical space constraint or a power constraint, our devices can reach all sorts of applications that our competitors can't, and so you'll find us in industrial, all sorts of industrial IoT applications, industrial automation, or robotics. You'll find us in communications, computing, consumer devices, and automotive electronics as well. So we really specialise in the small power efficient part of the market.
+Those two competitors that you mentioned, which are traditional competitors, they really focus on the very large, very high power, complex FPGAs. We focus on the small size and power efficient. You would be amazed at the number of applications we go into. Whenever I meet with a new customer, I'm always amazed at some of the new innovative crazy applications they're using our chips in.
+To give you a sense of the size, this is one of our smallest FPGAs on the end of tweezers here.
+I'm showing it on the end of the tweezers, and this is about 1.4 millimeters square. Obviously we make some bigger devices as well, but devices this size can go into applications that other chips can’t, where there are either size or power constraints.
+Since you mentioned the last time we met three years ago, if we compare our FPGA to this Threadripper chip from AMD, [this is what it looks like].
+So I've now moved to the total other end of the spectrum! So myself and the Lattice team are really innovating at the other end of the spectrum: small, power efficient, easy to use, and like I said, important to lots of different applications.
+IC: Your PR team sent a strip of those tiny FPGAs to me. When I opened it, I wondered what they were! I couldn’t see them - I asked myself why have they sent me a bit of plastic? I had to get the zoom macro on my smartphone to kind of see them, and even then I still can't read what's printed on it.
+JA: When I first started looking more closely at Lattice before I joined, that was one of the things that I found really fascinating. I spent a lot of my career working at the other end of the spectrum on big high performance CPUs and things like that, so to work at the other end of the spectrum on the smaller size, power efficient FPGAs I thought was pretty fascinating. Well, I'm glad you got the samples!
+  These @latticesemi FPGAs that just arrived in the mail are smaller than 1mm x 1mm. I can hardly see them without a magnifying glass of some sort.
+
+If I try and bite into these, they'll get consumed. Maybe I can use them as sprinkles. pic.twitter.com/BHbxrH0HbQ
+— 𝐷𝑟. 𝐼𝑎𝑛 𝐶𝑢𝑡𝑟𝑒𝑠𝑠 (@IanCutress) July 28, 2021
+    IC: You've been CEO at Lattice for three years now, and I think most of our audience may recognize you from the three years you spent at AMD in charge of the client division as Ryzen was first launched. I've looked through your history and you've got experience as a CPU architect at Intel, strategic planning and marketing on networking silicon for LSI, and your academic background is a Masters in EE from MIT. What ends up drawing you from architecture, to planning, to networking, to processors and graphics, and now to Lattice?
+JA: The way that you said that, it makes it sound like I can't hold down a job, right?! [laughs]
+I would say the common thread through my career is always that I've worked in the semiconductor industry - but you're right, and I've worked in a number of different functions. I started as a CPU architect at Intel working on Xeon and Itanium chips. But I’ve worked on multicore DSP chips, really complicated network processors used in communications, lots of ASICs, CPUs for client devices, graphics, and now FPGAs. So the common thread is always within the semiconductor industry. I think that, for me, the semi industry is really exciting, because it's basically the foundational layer of the entire tech industry. It is the fundamental substrate of the rest of the industry and it's pervasive in our lives. Anytime you touch an electronic device, you're touching the semiconductor industry in some way. So I'm just fascinated by the whole spectrum of devices built in the semi industry, and so now the opportunity to work on FPGAs at Lattice. The semi industry is great, and I like all parts of it.
+  IC: Every time I seem to mention FPGAs in my work, comments always arise as to 'why not just build an ASIC?'. Can you explain why Lattice's customers, or anyone that uses an FPGA, chooses to do so over dedicated hardware or a software solution?
+JA: There are both technical reasons and there are also economic reasons.
+On the technical side, a lot of times our customers are trying to innovate on their system designs. They're trying to figure out how they can add new features or new capabilities that differentiate them in the marketplace. A lot of times [the solution is] an FPGA, which is incredibly customizable and adaptable. It can be a key part of the system that allows the customer to really customize and adapt their system. Then one of the benefits of the FPGA is not just that you can customize it for exactly what you need, versus say a standard product, but you can reprogram it over the lifetime of the system. So let's say, as your market changes or as you want to incorporate new features, [it can be updated]. Actually, we have a lot of customers that run artificial intelligence algorithms on our FPGAs. Those algorithms are constantly evolving, and so the fact that they could just reprogram the FPGA as the evolution of the AI algorithm changes, that's a big benefit. It provides future proofing for the platform, and so that's a big reason why customers design in FPGAs.
+Another reason [to use an FPGA] that you mentioned is ASICs, or rather the difficulty in scaling them. If you're going to build a truly custom chip for your application, that takes 18 to 24 months minimum to go build that chip, right? From the initial architectural concept, to when you have something that's production ready. Your needs could have easily changed over those two years that it takes to develop that chip - whereas with an FPGA, you customise it right away for exactly what you need. If the needs change over those one to two years, no problem - you just reprogram the thing. Our chips are really power efficient and size optimized. A lot of times there's not a big advantage to a custom chip, in terms of power or cost.
+Then kind of on the economic side, look at the expense of doing a fully custom chip today. You know that expense has escalated incredibly over the last 20+ years I've been in the industry. It used to be inexpensive to create your own custom chip, you know – it is way more expensive now, both in terms of development effort, mask costs, etc. So it's really seldom that it actually makes economic sense, especially with the type of FPGAs we have, and the cost points that we can hit, that there's really no economic benefit as well.
+So for all those reasons, if you look at the history of the FPGA industry, it's grown as fast as the semiconductor industry in total, or actually faster in many years and in many cases. So that's why you see, over the past 40 years, FPGAs have continued to grow, and that the market is very healthy as customers continue to adopt that and in all sorts of applications.
+  IC: Where can most end-users expect to find a Lattice-based product in their lives today?
+JA: I think if you're using any electronic device, [you’re probably interacting] with a Lattice device somehow during your daily life, either directly, or maybe indirectly. For instance, a data centre or some of the industrial stuff that we do, for instance, in servers. Now, if you look in servers, either enterprise class servers or servers that are in big hyperscale data centres, obviously end users are accessing data and data centres such as big hyperscale data centres all the time. In those you would find a Lattice chip. In almost every new server today, way over 80% of servers have at least one Lattice chip, if not more. Those chips are doing control management of the platform and security as well.
+You're now starting to find Lattice FPGAs in client computing devices, where we're providing a number of kinds of new functionalities. Also in communications infrastructure, so either wireline or wireless infrastructure like the 5G infrastructure, lots of devices use Lattice. Then all sorts of consumer electronics, high-end audio systems, home automation systems, automotive electronics - I'm trying to make sure I run through the whole list here! But I think that gives you a sense of it all.
+Ultimately we have over 9000 customers, and if you look over the last four years, we've shipped about a billion devices. If you think about that, about a billion lattice chips in all sorts of applications, you’ll find us all over the place.
+  IC: When I spoke to Esam Elashmawi a few weeks ago, he explained to me that Lattice is having an ever present increase in the server market, having silicon in around 20% of servers a few years back to around 80% today. When I review the hardware, I’ve always noticed the Lattice logo there, but I didn't realize how expansive Lattice's growth in that market has been. Why exactly are we seeing Lattice silicon becoming a vital part of the enterprise motherboard market?
+JA: Yeah, great question! It's definitely been a big growth area for us. Our position in servers has grown considerably over the last few years, and we expect it to continue to grow. As Elam said, if you go back two or three years, about 20% of servers shipped with a Lattice piece of silicon. A few years ago they were doing more basic tasks, sort of power management or basic control functions on the server platform. Now, if you zoom forward to today, over 80% of servers today in the latest generation that's in volume, all ship with at least one piece of Lattice silicon doing more control and management of the server platform. Moving forward, we're doing more security functionality as well.
+It used to be that, years ago, people were just worried about security more at the software layer. But now, there's concern of security all the way down to the hardware platform. So we have specific Lattice devices that are designed to provide what's called platform security or platform resilience. So what our devices do is they go to and check to make sure for instance, as your servers booting up, that the hardware itself hasn't been corrupted, or also the firmware hasn't been corrupted. So it will look at the firmware version before the system starts up, verify that it's the correct firmware version, and that nobody's corrupted or loaded the wrong piece of firmware. Then if it detects a wrong piece of firmware, because we have a golden copy stored within the solid state memory within the Lattice chip, it will actually swap and repair that firmware. That's just one example of the kind of new capabilities that we're bringing to a server. But if you look at today's servers, over 80% ship with Lattice silicon.
+In the next generation that's just starting to ramp, our attach rate will actually start to exceed 1x, meaning that on average server platforms will have multiple Lattice chips used. So when that happens we'll actually be shipping more chips into the server market than the total number of servers that are shipped! Also, our ASPs (average selling price) continues to grow upwards, because we continue to bring more value to each server generation. So this has been a great growth area for us. Based on the multi-generational discussions we're having with our customers, we expect it to continue to be a good growth area.
+By the way, I should mention, because I figured you might ask based on my history, is that we are CPU agnostic. Lattice supports both Intel and AMD platforms, and in fact, we support ARM based servers today. That's actually an advantage for our customers, and that's important that we're able to service all architectures, so we're totally agnostic.
+  IC: I was going to ask then - do you make very specific versions of your FPGAs for AMD, for Intel, or even for Ampere? Or do they just take the ones off the shelf and optimize it how they want?
+JA: That's exactly right, [the can take the ones off the shelf] and that's the beauty of it. That one FPGA design can then be customized by server OEM or even each server customer, because they want it to have their unique value addition. Our server customers are putting their own custom customization into the FPGA, and that helps them customize or differentiate their platform, but the beauty is that we can use a single device to service that.
+  IC: One of the things I keep noticing on Lattice financial calls is a mention of a culture shift internally around the 2018 timeframe, which just happens to be about the time you took the role of CEO! Can you explain what was in place at that time, and how you've adjusted Lattice to be to what looks like path to sustained growth / what that sort of culture shift looks like? I think you alluded to aligning the product roadmap, but does it go beyond that?
+JA: I think it goes beyond that. I think there has been a pretty significant cultural change at Lattice over the last few years. When I joined in September of 2018, shortly after that, I brought on a new leadership team. We went and recruited for all the kind of key functions like engineering, sales, marketing, and supply chain. [We recruited] deep industry veterans, people that have been in the FPGA industry not just for a few years, but for decades and have multiple decades of experience. So we rebuilt the leadership team with industry experts, and then we did make a pretty big cultural shift at the company.
+I will say there were a couple of cultural attributes that Lattice has always had, that we definitely have encouraged and we've maintained. For example, Lattice has always been very customer centric, and in fact if you ask our customers they'll tell you one of the reasons they love working with Lattice is because we've always been attuned to our customers. So we're definitely continuing to encourage that, but also Lattice is a really collaborative place. We collaborative internally, and the groups work really well together, but we also collaborate really well with our customers.
+We're encouraging those cultural attributes, but we did encourage or bring some new attributes - one of them is around speed and agility, which I feel like in the tech industry is really important. It can become a really important competitive advantage. I think that speed and agility matter a lot more than the size of the company, or [compared to] the size of the resources. I think the ability to go fast, get products to market fast, and to adapt quickly is absolutely a competitive advantage.
+That's something we've really encouraged since day one, since I've joined. I think you can see that play out in our product roadmap - if you look at the number of new products we brought out over the last two years versus previous Lattice history, we've tripled the rate of new products that we're bringing to market. Our cadence is three times faster than it used to be. That's great for our customers - they love it because they've got new and fresh products coming out all the time from Lattice. So I think that's a marker of that cultural shift towards more speed and agility.
+Then the other one I would say that we really encouraged was innovation. We always say innovation, and everybody says that, but I would say it's about being bold about the innovative steps that you’re willing to take. We are being much more bold about the future innovation that we're driving. So I think that's something we've really been encouraging the team to do - be much more bold in terms of their thoughts about where we drive the technology and the product roadmap.
+The cultural shift has been a big part of it when I think about the progress that we’ve made. But the other piece that I would say, that we sort of mentioned early on like I said, is that you know I'm a product guy. At the end of the day our customers, the one thing they care most about is our products. So right away, in the first six months after I joined, we totally rebuilt the product roadmap and rebuilt it for not just the next year or two, but the next 5+ years. It’s completely rebuilt, really jacked up where we were headed in terms of the performance and the capabilities and the features. We're now really starting to see the benefits of that in this year, and in the years to come.
+IC: I did want to talk about product roadmaps because you've kind of been slowly announcing how you've realigned your products over the last few months. Going from one or two products a year, a very linear cadence, there are now multiple derivatives in a parallel design flow. You've also said this helps double the potential addressable markets from $3 billion to $6 billion. Aside from just raw revenue dollars, what's the goal here? How does an FPGA company innovate? Is it more about explicit customer demand, or is it more pathfinding?
+JA: It's always customer centric, our innovation. We always say this inside of Lattice - our innovation is always customer centric and market application centric. All the innovation that we're doing is to try to solve a customer problem or enable a new application - that's really what our innovation is directed to. We did make a big change over the last two to three years in how we do that innovation. From a product roadmap perspective, we used to be very serial in how we build products. We would build one product with one architecture, and then the next product would have a new architecture. We were very sequential.
+What we've done now is take a platform approach, both from the hardware and the software perspective, and design each FPGA platform from the very beginning with the mind that we would build multiple derivatives. We would also be building versions of that FPGA platform that were say optimized around particular applications or customer needs.
+So that platform approach has allowed us to dramatically speed up the number of new products that we can bring to market, and then it has allowed us to do new products that are more optimized for particular applications. One example of that would be security. We’re now developing FPGAs that are optimized for doing platform security. The other examples would be FPGAs that are more optimized for doing artificial intelligence processing at the edge of the network - inference processing in edge applications. So that platform approach has helped us to increase the number of products, but also helped us really tune our products for particular applications, especially the really big growth applications, or the applications that meet the needs of our big customers.
+IC: Does optimization in that sense always mean taking some of the logic gates away and building, say, a hardened crypto accelerator, or a hardened AI accelerator? Does it go beyond that?
+JA: It can be that, but we may also tune [the frequency and bandwidth of] the FPGA fabric architecture, or the implementation itself, to be better aligned to a particular application or needs. We use a variety of different techniques.
+IC: That's through profiling customer workflows? You get together with customers to understand what they're doing, and what they're trying to solve?
+JA: Exactly! We spend a lot of time with our customers making sure we understand their needs, not just for the next 12 months, but for the next 3+ years. We then map those customer needs, or application needs, back to the particular FPGA architectures [that they are interested in].
+  IC: You mentioned earlier about client computing - you're very much in the sense of promoting FPGAs to help with AI accelerated camera analysis, people's webcams on devices, that sort of thing. Where exactly are we expecting to see Lattice in client computing in that regard?
+JA: Client computing has been a growth area for us over the last few years - our client computing falls within our computing and communications segment, and that segment has been growing really well. It grew double digits last year, and it grew another 15% year over year in the most recent quarter so. Client computing has been a big contributor to that. There were a couple of new significant customer platforms that began ramping into production last year, and then are ramping into full production this year. And then we're engaged with a number of OEMs, and new client computing platforms.
+When we say client computing, we're talking about basically PCs and tablets, those types of devices. But some of the interesting applications that we're getting used in are things like artificial intelligence. For instance, let's say I'm looking at my laptop, I'm doing work, but I turn away and I look away - maybe I'm having a conversation with somebody for a few minutes and I'm not looking at the laptop. Our device will be analyzing the video signal, and it will detect that you're still in front of the laptop, but that you've looked away. It will detect that using AI algorithms, and then the laptop screen will dim to save the battery power. Then as soon as you look back, it'll bring the screen back up. That may seem like not a big deal, but when you start to add up the power savings, the screen on the laptop burns a tremendous amount of power. If you save all of that battery life over the course of a full day, you can save quite a bit, and drive quite a bit of battery efficiency.
+The other thing that our devices or FPGAs can do is watch the video input, and let's say somebody comes up behind you and they are shoulder surfing by looking over your shoulder at what you're working on. It can detect that there is somebody else in the frame, and then put a little red dot on screen or whatever to notify you that somebody is behind you, watching what you're doing. There's a bunch of other examples as well, but we can do this because our devices are small and really power efficient - we can do this at incredibly low levels of power.
+Then another example would be security, some of that same security that we talked about on server devices is also applicable to client devices. So that's another potential application - but you know, one of the things we really like about this market is that if you look at the server space, which we already talked about, we've done really well and really proliferated Lattice across the server space. But the great thing about the client computing market is it's 20 times larger in terms of unit size. There are 20 clients for every one server, and so to us that's just a huge TAM opportunity to bring Lattice devices into that market and enable all new sorts of functionality and capability for end users.
+IC: So the demonstration about looking away and having people over your shoulder, there is one company who has demonstrated that today, and that would be Intel. Are you working with Intel on that? Can I make that connection?
+JA: [laughs] Well, what I would say is that we would view Intel in the PC segment as a strategic partner. We would certainly work with them on enabling those types of experiences. What I will point out is that our devices can do that functionality at ridiculously low power, so we have a big power efficiency advantage, and on a laptop device as you know power efficiency is a premium. So our devices can do that at a level that I don't think anyone else in the industry can. We would view Intel as a potential platform partner there along with everybody else in the ecosystem.
+IC: That's a very crafty way of saying no. I love it!
+IC: It makes me question with that sort of topic whether you would actually be working with the platform developer, or perhaps that would be more sort of an OEM enablement strategy - maybe it's something that the OEM wants to do, on top of a platform provided by a higher level partner?
+JA: We would work with both - we do two things. We'd work directly with the OEM that's building the platform - we'd certainly have engaged with them. But then we'd also be working with the ecosystem as well to make sure that our parts are interoperable and work with the rest of the ecosystem partners, so we'd been doing both in parallel.
+  IC: One of the things with FPGAs - I get a lot of feedback for is that they're just hard to develop for. You need to know how to use them before you use them, which sounds like the wrong way to learn how to code! What exactly is Lattice doing to kind of ease that transition for people who may understand software, but are kind of new to the hardware?
+JA: This is really one of our main mantras at Lattice. [We want] to make the use of our devices as easy as possible. So this is something we've driven a tremendous amount of improvement, just over the last few years, to make the devices very easy to use. This is not just for people that are familiar with FPGAs, but for developers that may have never used an FPGA in their entire career.
+So one of the big things that we've been doing over the last two to three years is developing what we call ‘application specific software solution stacks’. So think about these as pre-built tools and libraries that a customer can take off the shelf and use that to abstract out the complexity of an FPGA. It allows the customer to use our devices at a level of abstraction that they're comfortable with.
+This is something we've been investing a tremendous amount of effort into, and we built out a pretty significant portfolio of these applications solutions and they make it very easy for the customer to adopt our devices into their systems so they can get the innovation. They can get access to the innovation that we're driving and get that easily, but also get to market much more quickly. Also, even if a customer is familiar with FPGAs, it can help them switch from a competitor's FPGA to our FPGA, so it can ease that switching or transition.
+We're building out a portfolio of these stacks, and we brought four of them to market to date. The first one that we developed was called SenseAI. And that's a software stack that's specifically for artificial intelligence, for doing inference processing especially in edge applications. Whether those are consumer applications or industrial applications, it really helps enable inference processing on our devices at the edge of the network. That was the first one.
+The second one was around embedded vision processing, and enabling embedded vision processing on our devices. The third one and we kind of touched on this earlier was actually around security and platform hardware security, making it really easy to use our devices for doing hardware security. Then the fourth one, which we just launched in May, was around factory automation. This is making it easy to design Lattice devices for doing all sorts of industrial automation tasks, as well as robotics.
+So each one of these are, like I said, a pre-built solution that the customer can take and use as is, orif they want to customize it, they can do that. But it has really lowered the barrier, or reduced the effort necessary, to design devices into systems. We're going to continue to build out, we've got additional software stacks on the roadmap, and we'll continue to build out a wider portfolio here.
+IC: To explain it my way, that would be like having precompiled libraries that manage the FPGA, and all you do is you call the library and the functions they're in and it does it automatically?
+JA: That would be a good analogy!
+  IC: So we spoke about the communications and compute segment earlier - Lattice's biggest market now is communications and compute, and it's not often we get a chance to direct users to think about what telecommunication companies (telcos) need out of their silicon. What makes Lattice FPGAs the right fit for telcos, and how are they using them?
+JA: It's not just Lattice FPGAs, but the communications industry has a long history of using FPGAs in all sorts of applications. It’s not just wireless applications, which you're asking about, but wireline as well. You will find FPGAs used in all sorts of different places in communications.
+In wireless applications, like the new 5G infrastructure that's being built out, you find Lattice devices in the control plane. If you look at a base station, which is basically processing at the bottom of the tower, and then the antenna at the top of the tower, you find Lattice devices in the baseband unit at the bottom of the tower, but also in the radio heads that are at the top of the tower, and the towers which are transmitting the signals. What we're doing there is controlling the management of the system, the power management, and then some security functionality moving forward as well.
+A lot of times the reason is that in communications, especially wireless infrastructure, that FPGAs get used as we kind of think of 5G simplistically as one monolithic standard worldwide. That's not the case - there are umbrellas of standards that exist, and each region has different frequencies, different frequency bands, different local customizations, and then also the 5G or any wireless standard is evolving over time as well. A wireless infrastructure OEM may start to design a system before the 5G standard is fully completed, so they build FPGAs in because they need the ability to customize for, let's say, different geographies. They can reprogram the FPGA to adapt the system for different geographies with different unique requirements, rather than building a dedicated hardware system for each geography. Or if the standard evolves over time, there are new capabilities that they have to integrate into the system. They can reprogram the FPGA to adapt and include that new functionality in the system.
+So it's a combination of the flexibility, as well as the adaptability, and some future proofing. That's why you see FPGAs get used. The 5G infrastructure has been a great growth area for us - we were really early in the 5G build out worldwide. You know, if you try to get a 5G signal, a true 5G signal, you know that there's a lot of build out that needs to happen, especially in North America and Europe. We're still early in that, and it is a great growth area for Lattice.
+IC: You mentioned the control plane in 5G, and there's also the data plane - the telcos use FPGAs initially in the data plane to do all the data compute, and then replace it with their own ASIC over time. In the control plane, FPGAs tend not to be replaced - that kind of sustains your growth in that market? Is that fair to say?
+JA: Yeah, that's exactly right. We're usually designed into the control plane. In the data plane, where the data is flowing through, that's where the primary data stream is flowing through the system. When a system is initially launched, the large FPGAs designed by our two traditional competitors may get used initially in those systems, and they may get replaced by ASICs because those very large FPGAs are extremely high power, and they're truly expensive too. So they may get replaced by ASICs.
+Now our FPGAs, which are on the control plane, are smaller, power efficient, and generally don't get replaced by ASICs because, for all the reasons we talked about earlier, there's just not a big economic reason to change them, or from a technical standpoint, there's not a lot of power efficiency savings either.
+  IC: With those large pieces of silicon from the main competitors, we see them be aggressive on packaging and using the latest process technology node. I assume these small iCE FPGAs aren't made on some 7 nm process are they? Otherwise, I wouldn't be able to see them, I think!
+JA: [laughs] Well, I'm not sure the size would be that terribly different! A lot of times on a device like the iCE, the size of the silicon may be IO limited. The IO has both an analog and a digital component. The analog doesn't scale very well with technology, but the digital part does. So when you get to a certain size, being on the latest bleeding technology node actually isn't that big of a benefit, and in a lot of cases, a bigger technology node is perfectly fine. In some cases actually, it has some advantages. What we do with our devices is that we're always picking the technology node that's really optimized for the size of device that we're developing but also the customer needs that we're trying to get - and the time to market as well. For a lot of cases, it just doesn't make any sense for us to be on the bleeding edge of the technology.
+ 
+Jim with a Threadripper
+IC: I'd be remiss if I didn't get a chance to ask you about your time at AMD. I remember you and me talking over dinner in Maranello about the vision of the company at the time. You had the upper hand because you knew what was coming down the pipe! But are there any fond memories, or any special moments?
+JA: It's been three years now, the memory starts to get fuzzy!
+IC: But now you're not under NDA!
+JA: That's true, actually! [laughs] First of all, when I think back about my time at AMD, my really fond memories are about the people. I keep in contact with a lot of people that I worked with at AMD who I consider really good friends. It was just a great group of people - you know, innovative, creative. AMD was always a really scrappy team. I loved that about AMD, and the people that are really determined. So that's always a fond memory.
+If I had to think about what events or what things that AMD did that I have great memories about, launching the first Ryzen chips was absolutely a great highlight at the time that I was at AMD. It was the client business unit that launched the first Zen based devices, and of course, you were there for that launch! We launched it first into desktop, followed by mobile later. The amount of work that the team put into that, how hard we worked, and then the excitement and anticipation of just being able to finally bring Ryzen to market was really exciting.
+Then the event that you mentioned at the very beginning, which was kind of the last event that I was at AMD, which was the Threadripper 2 launch. I loved that just because, I kind of always had a special place in my heart for Threadripper, because on that product line we just would sort of throw out the rulebook and just do whatever we can. Whatever the most extreme thing we could do, we would do on Threadripper, and I always have fun with that product line.
+But yeah, it was a great time. The last three years at Lattice look fantastic; it feels like we've made a lot of progress over the last three years. We’ve rebuilt a product portfolio. But when I look forward, I'm much more excited about where we're headed over the next 3 to 5+ years. I think the next few years are much more exciting for the company than even the past three years have been. So I’m really excited about where we're headed.
+IC: Do you have any project inside Lattice that is also sort of throws the rulebook out?
+JA: Well, it's possible! It's possible. Stay tuned. 
+    Many thanks to Jim Anderson and his team for their time.
+Also thanks to Gavin Bonshor for transcription.
+PRINT THIS ARTICLE
+by Taboola
+Sponsored Links
+You May Like
+: Work-From-Home Jobs In The UK May Pay You More Than You Think
+UK Jobs | Search Ads
+Real Estate in London Might Be Cheaper Than You Think
+Real Estate | Search Ads
+Do You Speak English? Online Jobs In The USA May Pay More Than You Think
+Online Jobs | Search Ads
+POST A COMMENT
+9 Comments
+View All Comments
+SarahKerrigan - Friday, August 20, 2021 - link
+Looking forward to the new midrange silicon (Avant, iirc?). We're using both ECP5's and iCE parts today and have been very happy with Lattice's hardware. I just hope Avant has faster serdes - even something comparable to the 12.5 gbit lanes in the higher-end Kintex products would really expand what we can do with Lattice parts. (An RF guy I know insists regularly that what Lattice *really* needs is 18x25 DSP blocks, but I care less about that.)
+
+Also, wasn't expecting to see Lattice on Anandtech today. That's one of the things that makes me like this site so much. :)
+REPLY
+Brane2 - Friday, August 20, 2021 - link
+These dicksu... errm "marketing" articles should really be marked as an adverts.
+
+Why haven't you asked any real questions ?
+Like:
+- They have "presented" quite a few series ( Certus/Certus Pro etc) _quite_ a while ago, but no chips are to be seen anywhere. Has he the one that came from AMD to teach Lattice the art of paper launches ?
+- self-reprogrammability and reconfigurability are important "skills" of modern FPGAs, especially the ones that target IoT etc. When is Lattice to show us some of that ?
+- so far they have acquired many separate tools, basically one for each family line. Many of them have to be licenced to cover interesting members and none work really well. Whe are we to see tool unification ?
+- PCIe is becoming central piece of many everyday designs. And yet they require quite costly licence, ( which is time limited to boot).
+- MIcrochip is stepping into FPGAs in serious way. I assume they will do something about the FPGAs/SoCs and tools unification. And probably merge new models with their microcontroller portfolio. What does Lattice intend to do to respond ?
+-Microchip has introduced their first SoC with RISC-V. So far, these are big models with capable 64-bit cores, but we are certainly going to see small, low-cost models. Only thing the Lattice has are their soft-cores. So, is there something new to be seen ?
+-Microchip is preparing new models with variable speed SERDES for new cheap mmbers that will allow cheap FPGA to be used with say PCIe v4x1. Only thing Lattice has to show is couple of "paper" models that can do PCIe3. None of them is really accessible, much less cheap.
+- ...
+REPLY
+skynet432 - Friday, August 20, 2021 - link
+Been watching Lattice for a long time. Glad to see them getting their act together. They seem to be on the right path.
+REPLY
+flgt - Friday, August 20, 2021 - link
+Yeah, it’s been a few years but they always seemed to be last choice. It was Xilinx and Altera if you needed serious FPGA resources and good tools. Actel always had their niche (instant on, low power, NSEU mitigation) that you were willing to put up with their inferior tools. Lattice burned more than a few engineers and I can only think of some CPLD’s we used them for. But now I’m cheering for Actel (Microsemi) and lattice now that Altera and Xilinx are bought up. I don’t think these mega-corporations are good for America or technology in general. We need some scrappy underdogs to step up.
+REPLY
+Ian Cutress - Saturday, August 21, 2021 - link
+The goal of interviews like this is 99% introducing the readership to something they might not have thought about or know much about. These are very much REAL questions that a lot of people who haven't looked into Lattice before might be interested in. Think late-night talk show host stuff.
+
+If I'm going to do a technical interview, it's going to be with a company the audience knows. Otherwise they won't care who it's about if they don't understand what the company is about, who the people are, and how they think.
+
+If you think this is marketing then I can tell you don't work in marketing or the press. But for as much as I appreciate the input, if you didn't like it, then there is other stuff for you to read.
+REPLY
+Brane2 - Friday, August 20, 2021 - link
+Also, his comments on Lattice development being "fantastic" are a bit lame.
+When they need them to claim so themselves, you can tell that it hasn't been all that fantastic.
+Here is something from their truly fun and fantastic times:
+https://www.youtube.com/watch?v=VCK9l9gmyDk
+https://youtu.be/3-NeNCn-p80
+REPLY
+ChipsForBreakfast - Friday, August 20, 2021 - link
+Thanks for sharing, Ian. Lattice is on a tear! Love seeing the scrappy underdog doing good things.
+REPLY
+mostlyfishy - Monday, August 23, 2021 - link
+It's a shame there wasn't a question on his views on the role open source toolchain efforts have had on the popularity of some of lattice's products.
+
+Icestorm and now the whole ecosystem of tooling around it are some of the main reason the ice40s are popular around the circles I'm in.
+
+It seems right now Lattice tolerate the projects, would be good to know if the people at the top understood their importance - especially with all the talk of making it easier for developers.
+REPLY
+flgt - Monday, August 23, 2021 - link
+Looks like an interesting project and props to the people who made it, but this looks like a solution looking for a problem. I don’t see why any commercial company that would buy a significant number of parts would use it. Tools matter a lot in this domain and the expectation is Lattice brings high quality first party tools and IP to the table. I wouldn’t want to bet my engineering career on kludgy, reverse engineered knockoffs.
+REPLY
+1
+Advertisement
+PIPELINE STORIES
++ SUBMIT NEWS
+AT Deals: Alienware AW2521H 25-Inch 360Hz Gaming Monitor Down to $553
+Kingston DataTraveler Max UFD Review: NVMe Performance in a USB Thumb Drive
+Best Internal Hard Drives: September 2021
+Western Digital Introduces WD Red SN700: PCIe 3.0 M.2 NVMe SSDs for NAS Systems
+AT Deals: SteelSeries Aerox 3 Gaming Mouse Drops to New Low Price $39
+Best Android Phones: September 2021
+Best Intel Motherboards: September 2021
+EVGA Releases the X570 Dark: First Ryzen Motherboard from EVGA, Built for OC
+AT Deals: Samsung 980 Pro 1TB Now $180 for First Time
+Samsung's new 200MP HP1 Sensor: Sensible, or Marketing?
+Plugable TBT4-HUB3C Thunderbolt 4 Hub Capsule Review
+AT Deals: ASUS ROG Strix Scope RX Keyboard Dips to $108 at Amazon
+Advertisement
+TWEETS
+IanCutress: @tehBowtie Need more snaps
+IanCutress: @usmanpirzada @Wronglebowsk Already in use. Extensively. :)
+IanCutress: @___iMagic Not yet, still trying to figure out if there's anything that can trip it up/make it look nice/easier to… https://t.co/PqDRtI7icX
+IanCutress: @Wronglebowsk I'm slowly acquiring storage for a different project and thought I'd put the 100TB or so of drives to… https://t.co/wOw4eKvA2P
+IanCutress: Heh just wrote a script for chia plotting that always copies the finished plot to the plot drive with the most capa… https://t.co/MHHcnOuYG2
+andreif7: @never_released It's going to be a complete utter shit show, we'll either have massive functionality regressions or… https://t.co/byDjzx5Rit
+andreif7: @never_released I doubt GKI will happen. All vendors have very deep modifications of things that don't seem possibl… https://t.co/tYXPnD6umD
+andreif7: @im_renga I have no thoughts, every SoC has something similar.
+andreif7: TLDR A15 is very large jump both in GPU and CPU.
+andreif7: @handleym99 @jorgeSGK @Ashraf_Medhat93 https://t.co/Qmi3BLJPc5 There's some wild variations there, one needs to se… https://t.co/xFB8f5HfLF
+ganeshts: A Thunderbolt 4 / USB4 hub from @plugable at a very attractive price point (considering the USBC-HDMI value add). A… https://t.co/DiJZS8MmF9
+RyanSmithAT: @andreif7 If you're not already, use iTunes to do it. For whatever reason it goes a lot faster that way than having… https://t.co/Be9IMU4gja
+RyanSmithAT: @chrisheinonen Aww man, sorry to hear you caught it.☹️ FWIW, I'm a week clear of COVID, and while all of the main… https://t.co/I61dHXOZwn
+RyanSmithAT: @jarredwalton Aw phooey, not you too! There are worse diseases, but COVID is certainly not an enjoyable experience.… https://t.co/Q6TI7c5CZo
+RyanSmithAT: RT @anandtech: Today Xiaomi announces the 11T and 11T Pro - a Dimensity 1200 and a Snapdragon 888 variant the same phone, characterised by…
+RyanSmithAT: @jemdavies Congrats Jem
+ganeshts: @JamesDSneed @IanCutress Yes, NAND has the ability to store dynamic sector remap information - this is not only for… https://t.co/J0NYC9oCZk
+ganeshts: @AG_1138 Micron has a history of doing these silent changes. The P2's silent move from TLC to QLC resulted in worse… https://t.co/UfmTilvFi1
+ganeshts: @ricswi Looks like that requirement is Home-only. Other editions will still allow local accounts. I can't remember… https://t.co/qOvPnduAuY
+ganeshts: @Laughing_Man @hnpn914 Benson, is there an update planned for the Twinkie PD to support EPR? I still use the USBC-T… https://t.co/D6g5nmQvB5
+Follow @ANANDTECH
+  Advertisement
+Advertisement
+LINKS
+Home
+About
+Forums
+RSS
+Pipeline News
+Bench
+Terms of Use
+Contact Us
+Accessibility Statement
+TOPICS
+CPUs
+Motherboards
+SSD/HDD
+GPUs
+Mobile
+Enterprise & IT
+Smartphones
+Memory
+Cases/Cooling/PSU(s)
+Displays
+Mac
+Systems
+Cloud
+Trade Shows
+Guides
+FOLLOW
+Facebook
+Twitter
+RSS
+The Most Trusted in Tech Since 1997
+About Advertising Privacy Policy
+COPYRIGHT © 2021. ALL RIGHTS RESERVED.

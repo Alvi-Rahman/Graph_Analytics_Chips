@@ -1,0 +1,95 @@
+Edition:
+Available editions
+Australia
+Donate
+Get newsletter
+Become an author
+Sign up as a reader
+Sign in
+Academic rigour, journalistic flair
+Arts + Culture
+Business + Economy
+Education
+Environment + Energy
+Health + Medicine
+Politics + Society
+Science + Technology
+Europe is running out of semiconductors – here’s what it can learn from tech survivor Osram
+June 24, 2021 11.16pm AEST
+Author
+Michael Weinold
+Researcher, Cambridge Centre for Environment, Energy and Natural Resource Governance, University of Cambridge
+Disclosure statement
+Michael Weinold receives funding from the Swiss Study Foundation. The research project of which he is a part receives funding from the Alfred P Sloan Foundation.
+Partners
+University of Cambridge provides funding as a member of The Conversation UK.
+View all partners
+We believe in the free flow of information
+Republish our articles for free, online or in print, under Creative Commons licence.
+Republish this article
+Germany’s Osram dominates the market in automotive LEDs. i viewfinder
+Email
+Twitter
+8
+Facebook
+264
+LinkedIn
+Print
+The shortage of semiconductor chips has exposed the vulnerability of European high-tech manufacturers that rely heavily on chip imports from Asia. The automotive sector alone, traditionally a European high-tech stronghold, is expected to take a US$110 billion (£79 billion) hit over the coming years as a result.
+In 2020, high-tech products represented approximately 20% of total exports from the European Union by value, with other major sectors including pharmaceuticals, telecoms, aerospace and armaments. Enjoying annual growth rates upward of 10% before the semiconductor shortage and employing more than 3.5 million workers, high-tech is the fastest growing European industry by far.
+Considering the importance and apparent vulnerability of the sector, the EU is scrambling to implement initiatives to encourage domestic chip manufacturing and reboot innovation at home. After all, Europe accounted for about 44% of global semiconductor manufacturing in 1990, compared to only around 10% today. This slow decline was the result of manufacturers failing to adapt after domestic first-generation cellphone makers Nokia, Ericsson and Siemens were usurped by American and Asian competition.
+Yet in the midst of this struggle for technological self-sufficiency, a European powerhouse in high-tech manufacturing was created by the acquitision of German LED (light-emitting diode) manufacturer Osram by Austrian sensor specialist AMS. The combined company is among Europe’s largest semiconductor firms and holds the largest market share in chips supplied to the automotive sector.
+It is the latest in a series of mergers and takeovers in semiconductors that are representative of what has been happening in high-tech industries as a whole. Products which were once the exclusive domain of western manufacturers have become increasingly commodified as Asian manufacturers catch up, boosted by government subsidies that have left established companies struggling to compete. Yet at the same time, highly profitable and strategically important niche applications are emerging, which point to opportunities.
+To understand why some companies have failed to adapt to a rapidly changing business environment, while others are driving innovation, it’s worth looking at the history of Osram in more detail.
+Spotlight on Osram
+Osram traces its roots back some 115 years to Austrian chemist Carl Auer von Welsbach, who greatly improved on Thomas Edison’s light-bulb designs with the use of a metal filament in 1906. Osram-branded bulbs started manufacturing the same year and went on to become the flagship product for one of the biggest lighting companies in the world. Osram later played a key role in the development other lighting technologies, including compact fluorescent light bulbs.
+Some of Osram’s greatest hits in lighting, L to R: Von Welsbach’s gas mantle and early incandescent light bulb with an osmium filament; first high-frequency electrical ballast for compact fluorescent lamps; high-efficient blue LED with yellow phosphor for white-light generation; heart rate detection using efficient green LEDs in smart watches; quantum dots in LEDs. Wikimedia Commons, Michael Weinold. Adapted from patents: US409530A, US976528A, US4415839A, EP0118100A1, US7078732B1, US20200046275A1 and US10763400B2
+Key to Osram’s survival over the years has been its ability to adapt by proactively seeking out new markets. Following the global effort to phase out incandescent lamps in the 2000s, Osram was well placed to capitalise. Scientists at Osram and the German Fraunhofer Institute had patented a white LED as early as 1996. This was only weeks after the Japanese researchers that would go on to win the 2014 Nobel Prize in physics for their ground-breaking invention, and Osram’s early start in LED research established its IP portfolio.
+But when highly subsidised Chinese companies entered the market after 2010, LEDs for general illumination became increasingly ubiquitous and less profitable. Osram instead focused on developing market segments that demanded high-performance LEDs.
+Backed by its in-house strength in research and development, fruitful university collaborations, and production capacity in the EU, Osram secured market leadership positions in niche applications like horticultural lighting for high-yield agriculture, infrared sensors for heart rate monitoring and lights and sensors for the automotive industry.
+High-performance LED development
+Historical development of specialised applications of light-emitting diodes. Wikimedia Commons, Michael Weinold
+Osram stayed ahead of the competition by moving to niches where higher device performance and electrical efficiency were of paramount importance, rather than low manufacturing cost. The company’s product and IP portfolio today remains among the industry’s largest in key patent classes. And the takeover by AMS shouldn’t be seen as a sign of failure. It creates a global leader in high-tech optical solutions that has a much better chance of staying ahead of emerging Asian competition in these niche sectors.
+Other western companies have not navigated the lighting sector as successfully. General Electric, a long-time competitor, had opted against developing its own LED research department, instead procuring chips from overseas manufacturers to include in its lamps. Faced with increasing economic pressure, and unable to fall back on more specialised products, the company that traces its roots back to Edison had little choice but to sell its lighting unit in 2020.
+Lessons to learn
+My department’s research has shown that maintaining in-house research capabilities and academic collaborations will be key to the survival of European high-tech companies in the near future. Governments can support these efforts of private industry by strengthening the academic landscape in Europe. This can be achieved through projects like the Horizon Europe Programme, which funds both basic university research and collaborative efforts with industry.
+In the long run, the best way to ensure the resilience of Europe’s high-tech industries is to “backshore” manufacturing of these products to Europe. With Sino-US tensions only expected to mount in the coming years, this would largely decouple strategic industry sectors from economic sanctions and mitigate geopolitical risks. It would also reduce the risk of the IP theft in overseas manufacturing.
+Two of Europe’s largest suppliers of semiconductor components have already moved a significant part of their production back to Europe: Infineon Technologies in Austria and Bosch in Germany. This was enabled by unprecedented levels of factory automation and advanced robotics that is known as the fourth industrial revolution. As the Osram experience shows, controlling the most important parts of your technology is often the secret to long-term survival.
+General Electric
+LEDs
+Lighting
+automotive
+Events
+Don't Be Evil — Brisbane, Queensland
+Applying Behavioural Science to Create Change — Clayton, Victoria
+Educator Care: Moving Beyond Self Care — Clayton, Victoria
+Understanding Everyday Resilience Conference and Tackling Hate Workshop — Burwood, Victoria
+2021 Wilson Dialogue - 'Ending sexism, misogyny and racism: the fight for gender equality in Australia' — Canberra, Australian Capital Territory
+More events
+Jobs
+Chief Executive Officer
+Associate Professor / Professor - Criminology
+Chief Executive Officer, Centre for Social Impact (CSI)
+EXCELLENCE IN DIVERSITY FELLOWSHIP - GENDER EQUITY IN STEM
+120160 - Senior Lecturer/Assoc. Professor - Phase Leads, Doctor of Medicine Program
+More jobs
+Community standards
+Republishing guidelines
+Friends of The Conversation
+Analytics
+Job Board
+Events & Courses
+Our feeds
+Donate
+Get newsletter
+Who we are
+Our charter
+Our team
+Our audience
+Pitching & Writing Masterclass
+From The Editors
+Partners and funders
+Resource for media
+Contact us
+Privacy policy Terms and conditions Corrections
+Copyright © 2010–2021, The Conversation Media Group Ltd

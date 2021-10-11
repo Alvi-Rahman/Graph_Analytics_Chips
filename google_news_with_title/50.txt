@@ -1,0 +1,95 @@
+Subscribe
+Sign In
+MORE FROM FORBES
+Oct 2, 2021,12:47pm EDT
+The Fed Turns Hawkish; Ill-Timed As The Economy Begins Its Fade
+Oct 1, 2021,04:00pm EDT
+Chinese Opportunity: Evergrande Won’t Be A Lehman Moment
+Oct 1, 2021,12:03pm EDT
+Building Technology To Protect The Cannabis Supply Chain
+Oct 1, 2021,11:17am EDT
+Debt Ceiling And A Growing List Of China Woes Continue To Weigh On Investors
+Sep 29, 2021,06:07pm EDT|3,622 views
+Why China (Probably) Won’t Go To War Over Taiwan’s Semiconductor Riches
+George CalhounContributor
+Markets
+Quantitative Finance Program Director, at Stevens Inst. of Technology
+Follow
+Listen to article
+15 minutes
+
+Employee Dorit Maschke inspects a silicon slice in the new cleanroom complex at the X-Fab ... [+] PICTURE ALLIANCE VIA GETTY IMAGES
+In a recent column, I drew the parallels between the economic and geopolitical tensions entangling Japan in 1941 and the challenges facing China today.  
+The Historical Parallels - 1941 & 2021 CHART BY AUTHOR
+PROMOTED
+The storyline is cartoonishly simple. In 1941, Japan’s constricted access to a critical resource (oil) led them to launch military action in Southeast Asia and the Pacific (including Pearl Harbor). It also aligned with their expansionist pretensions (they were already in Manchuria and parts of the mainland by then). In 2021, China is feeling similarly constricted for a critical resource (semiconductors), and Beijing’s policy options for addressing this problem might seem to converge with its expansionary tendencies, and its long-term concerns over the status of Taiwan. Could taking over Taiwan also solve the semiconductor problem? China has tried for over two decades to achieve a degree of self-sufficiency in semiconductor technology, with very limited success. Meanwhile, Taiwan has become a dominant power in the global semiconductor industry. Something like 75% of the world’s integrated circuit manufacturing capacity is based there. When it comes to the most advanced fabrication technologies, Taiwan outshines even the U.S. today – for example, 92% of the world’s capacity for the manufacturing “nodes” of 10 nanometers and below is currently located in Taiwan.
+Is the prize ripe enough to provoke Beijing to start a war?
+Does this construct make sense? Is military action by China, aimed at annexing Taiwan and taking control of Taiwanese semiconductor assets, likely? Is it even feasible?
+MORE FOR YOU
+Stocks This Week: Buy KLA Tencor And Starbucks
+Fintech Stocks Continue To Lag The Market. Time To Buy?
+What’s Next For BlackBerry Stock After A 4% Move Last Week?
+The short answer is No. War would not solve China’s problem. We should assume that Beijing understands that.
+The counterarguments against a military scenario – at least one that is driven by China’s semiconductor constraints – are very strong. The caveats fall into three inter-locking categories:
+Technological Issues
+Industry Structure Issues
+Supply Chain Issues
+[In pulling together what follows, I want to acknowledge – and recommend – two particularly valuable sources: 
+A Report issued in June 2021 by The White House (& the Department of Commerce for the relevant section on Semiconductors), entitled “Building Resilient Supply Chains, Revitalizing American Manufacturing, and Fostering Broad-Based Growth - 100-Day Review Under Executive Order 14017” 
+A Report issued in April 2021 by the Boston Consulting Group and the Semiconductor Industry Association, entitled “Strengthening the Global Semiconductor Supply Chain in an Uncertain Era”]
+Technology Challenges
+The Japanese had it easy. In 1941, the Dutch East Indies (now Indonesia) was the fourth-largest exporter of oil in the world, behind the U.S., Iran, and Romania. When Japan invaded Southeast Asia in late 1941 and early 1942, their military strategy was predicated above all upon surprise – to secure these oil fields intact, denying the Dutch or the British the chance to destroy the wells and refineries. Japan was largely successful, and once in possession, could pump the oil without difficulty (until American forces eventually forced them out). It was feasible to take over the assets by force, and maintain them in full operation. The grab worked. 
+This is not the case for Taiwanese semiconductor manufacturing facilities (“foundries”). Integrated circuit (IC) fabrication is probably the most complex manufacturing operation ever developed. It is also one of the most fragile, in the sense that it operates with extraordinarily tight tolerances for both the purity of the raw materials, and “the subatomic level of precision” at which many of the steps in the fabrication process are carried out. The technological challenges are severe, and constitute a significant barrier to the success of any hostile takeover. 
+Complexity as a Barrier
+IC fabrication is “an incredibly complex process, involving hundreds of steps completed over several months” (White House Report). (It is also incredibly expensive – but that is another story. If the solution was simply financial, China might have an easier time of it.) 
+There are many stages in the conversion of raw silicon into a finished integrated circuit, as shown in this graphic drawn from the BCG/SIA Report:  
+IC Fabrication Process Steps CHART BY BCG/SIA
+
+This is not a single-loop process. Stages 1 through 4 here may be “repeated hundreds of times with different chemicals to create more layers, depending on the desired circuit features” (BCG/SIA). For the most advanced IC fab techniques, it takes 2 to 3 months to complete the fabrication of a wafer. 
+The complexity is challenging even for the industry leaders, who have decades of experience. Even Intel, the largest semiconductor company in the world by sales, and generally regarded as the inventor of the first commercially available microprocessor IC’s, has stumbled in its manufacturing program, falling behind Taiwan Semiconductor Mftg Corp. and Samsung in the development of the latest generation of chip fabrication technologies. 
+This is not a plug-and-play business. There is an immense amount of human know-how and expert technical skill involved in operating this mega-machine. Even if China were to find itself in intact possession of the physical infrastructure in Taiwan’s foundries tomorrow, would they know how to run it on their own? Of course not. They don’t have the experience. (Mainland Chinese IC companies have been frantic to recruit Taiwanese experts to help get their operations going.) Following a takeover, the new Chinese owners would still be heavily reliant upon the highly-skilled Taiwanese workforce they had just “annexed.” It takes little imagination to see how disaffection, or outright defection, of key employees could become the proverbial monkey wrench. The cotton fields in Xinjiang may be workable with forced labor, but an IC foundry is not. 
+Fragility As A Barrier: The Challenge of the “11 Nines”
+Every stage of IC fabrication is based on extremely tight tolerances. This applies to the raw materials, all the inputs to the production process, “ultra pure gases, ultra pure water” - even the electricity must be ultra-reliable. The entire process must take place in “cleanrooms” –  
+“Typical ambient room air contains 35,000,000 particles for each cubic meter in the size range 0.5 μm or larger while an ISO 1 cleanroom permits no particles in that size range and just 12 particles for each cubic meter of 0.3 μm and smaller.” (Wikipedia)
+  The extreme purity required for the silicon wafers is indicative:
+“The semiconductor chain begins with polysilicon of ultra-high purity – 99.99999999999 percent pure… often referred to as “11 Nines” – with impurities equal to just one grain of sand in 16 Olympic-sized swimming pools.” - White House Report
+In other words, two grains of sand, or 13 specs of dust (so to speak) will bring down the house. Leaving aside the possibility of sabotage, as well as the sort of disruptions that occur in military operations, or indeed with management changes of any kind, the traditional “happy with crappy” approach of many mainland Chinese manufacturers is not likely to mesh well with these super-tight tolerances. 
+All in all, transferring an IC fabrication facility and capability under the conditions of a Chinese takeover would not be a turn-key proposition. 
+
+ Industry Structure Issues
+Although it is often referred to as if it were a monolithic category, the Semiconductor industry includes companies with very different business models. A very simplified breakdown into the key sub-sectors is shown here. (There will be a more detailed column on this coming soon.) 
+Semiconductor Industry Structure CHART BY AUTHOR
+
+All of these functions must interact to produce an integrated circuit, and all these businesses are thus mutually dependent. Control of one segment is not enough to constitute self-sufficiency. For that, a country would need to have a strong presence in all of these segments. A rundown of the current national positioning in these segments would show the following:
+Design: This segment creates 50% of the total value added to a chip (according to the BCG/SIA report). The U.S. dominates the Design segment (e.g., the fabless IC companies like Qualcomm and Nvidia and many others). China has virtually no foothold.
+Fabrication (Foundries): This segment creates 24% of the value-added. It is dominated by Taiwan (principally Taiwan Semiconductor Manufacturing Corp., TSMC). China is trying to become a player, but they are several generations behind the leader and have only a very small market share.
+Semiconductor Manufacturing Equipment: This is the most tech-intensive segment, and accounts for 11% of the value-added. It is dominated by the U.S., with significant shares also held by Japanese and one Dutch company. China has no real share of this market.
+Assembly/Packaging/Test: This is the most commoditized segment, providing just 6% of the value-added. China has a modest presence in this business.  
+Thus, even if we imagine that Taiwan’s presence in the foundry segment were to flip over, or be absorbed, without impairment, into the Chinese semiconductor economy, that would not provide Beijing with the self-sufficiency it wants. Foundries are expensive to build and challenging to operate, but the U.S. has the inherent capability to do it. It would be painful but we could cope. China as yet lacks the means to develop the Design and Manufacturing Equipment capabilities — without which the foundries cannot function. 
+In other words, if there were to be a complete break – or, as the wonks like to put it nowadays, if there were a “decoupling” of the global semiconductor supply chain – which would hurt everyone, a lot, at least for a while – the U.S. would be in a better position to adjust than China would be.
+Supply Chain Challenges
+The reference to the global supply chain raises the third strategic obstacle to any plan to “solve” China’s semiconductor problem by annexing Taiwan and its foundries. As the White House Reports states, “The supply chains for semiconductor manufacturing are immense.” 
+The micro-level technological fragility of the fabrication facility described above is mirrored at the macro-level by the tremendous complexity of the semiconductor supply chain, and the corresponding vulnerability of many of the linkages in those networks. The White House Report zeroes in on one example, involving one input category (chemicals) and one IC type (memory chips):
+“Aside from the immediately apparent inputs such as wafers and photomasks, the manufacturing of semiconductors requires hundreds of chemicals and dozens of gases. A 2018 study of chemical use in two memory device fabrication facilities found they each used over 400 chemical products weighing over 45,000 tons per year. As many as 49 gases alone may be used in semiconductor production. Many of these chemicals have their own extensive supply chains that may depend on limited or single sources of supply.” 
+The networks created to support the production of a single IC can be vast. According to an Accenture report published in 2020 - 
+“Each segment of the semiconductor value chain has, on average, 25 countries involved in the direct supply chain and 23 countries involved in supporting market functions. In fact, a semiconductor product could cross international borders approximately 70 or more times before finally making it to the end customer.”
+  Individual companies are enmeshed in these networks to an astonishing degree of dependency.
+“The Semiconductor Industry Association notes that one of its members has over 16,000 suppliers, more than half outside the United States.” – White House Report
+Autarky Is Impossible
+The conclusion – that is, the rational conclusion – is that the military solution would not work for China. The Taiwanese dominance of the foundry segment is a very important feature of the semiconductor industry and indeed of the 21st century digital economy. But it is not a standalone asset, viewed from a macro perspective. It is part of a globalized eco-system that China cannot really escape from. Nor is it, as shown, a turn-key-able asset, a fungible capability that could easily be placed under “new management” in the event of a military takeover. The technological and logistical complexity of this critical sector invalidate any theory of “semiconductor autarky” or full self-sufficiency, certainly for China – and probably also for the U.S. (a caveat for the CHIPS bill and other measures gestating in Congress right now). 
+[A hypothetical estimate of the cost of creating “fully self-sufficient supply chains” in semiconductors in each region – Asia, US, Europe – “would have required at least $1 trillion in incremental upfront investment, resulting in a 35-65% overall increase in semiconductor prices and ultimately higher costs of electronic devices for end users.” – from the BCG/SIA Report.]
+The Blunder Factor
+Chinese President Xi Jinping speaks during a joint presser after a bilateral meeting with his ... [+] AFP VIA GETTY IMAGES
+What about an irrational conclusion? That is a risk, admittedly, given the recent pattern of erratic, unnecessary and self-defeating blunders that China under Xi Jinping has fallen into. Whether the neutering of the Hong Kong financial market, the belligerent bullying counterproductive wolf-warrior diplomacy, the disgraceful practice of economic hostage taking, the culture-icide being carried out against the Uighurs, the pointless skirmishing with India in the high Himalayas, the declaration of war against the Chinese tech success stories like Alibaba and DiDi… well, the point is obvious. Is there a chance that Beijing might misunderstand the nature of the semiconductor industry badly enough to prompt a military adventure with the aim of “acquiring” the Taiwanese foundry assets? It wouldn’t work, but perhaps the historical parallels we started out with should not be completely discounted.
+Follow me on Twitter or LinkedIn. 
+George Calhoun
+Follow
+My first career: I spent 25 years in the high-tech segment of the wireless technology industry, involved in the early development and commercialization of digital… Read More
+
+
+
+
+
+Print
+Reprints & Permissions
+Play Video

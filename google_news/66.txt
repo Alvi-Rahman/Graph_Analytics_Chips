@@ -1,0 +1,509 @@
+Home
+Community
+Groups
+Vendors
+Log in
+Register
+Model S
+Model 3
+Model X
+Model Y
+Cybertruck
+Roadster
+Tesla
+SpaceX
+News
+Analysis
+Video
+Member Articles
+Welcome to Tesla Motors Club
+Discuss Tesla's Model S, Model 3, Model X, Model Y, Cybertruck, Roadster and More.
+Register
+Home
+News
+News
+Musk Gives Details on FSD 10.2 Beta Release
+C
+Contributor
+Sep 28, 2021 at 9:27 AM
+Updated on Sep 28, 2021 at 9:27 AM
+Tesla will release the next version of it’s Full Self Driving Beta on October 8, Chief Executive Elon Musk said in a tweet.
+The company released last week version 10.1 of the software, which included a button to request access to the beta. Tesla previously only gave access to employees and select owners.
+By requesting access, owners give Tesla permission to evaluate their driving to create a Safety Score. The Safety Score is an assessment of driving behavior based on five metrics called Safety Factors. These are combined to estimate the likelihood that driving could result in a future collision.
+Apologies, 10.2 release will be a week from Friday
+— Elon Musk (@elonmusk) September 28, 2021
+Musk said drivers will need to have a near perfect score in the early roll out.
+“First few days probably 100/100, then 99, 98, etc.,” Musk tweeted.
+First few days probably 100/100, then 99, 98, etc.
+— Elon Musk (@elonmusk) September 28, 2021
+Tesla’s self-driving system is currently under scrutiny from federal investigators after a series of crashes when Autopilot was engaged.
+C
+Contributor
+View all 160 articles
+Tags:
+Autonomous VehiclesAutopilotFSDModel 3Model SModel XModel YTesla Inc.
+1
+2
+3
+4
+5
+Next
+View thread (99 replies)
+ATPMSD
+Member
+Mar 12, 2021
+301
+313
+Atlanta, GA
+Wednesday at 12:56 PM
+#2
+Based on what I have seen so far, “near perfect scores” are not very likely.
+Reactions:
+USCGDAV and lUtriaNt
+Reply
+jebinc
+MSM Model S PLAID, cream/FSD; MYP & CT on order
+Jun 19, 2019
+5,623
+6,243
+Seattle area
+Wednesday at 1:00 PM
+#3
+ATPMSD said:
+Based on what I have seen so far, “near perfect scores” are not very likely.
+There will be many who game the scoring by driving only one mile at 100%, and then garaging that one Tesla of many that they have, until next weekend.
+Reply
+O
+oktane
+Active Member
+Oct 25, 2016
+1,746
+1,846
+USA
+Wednesday at 1:57 PM
+#4
+What are the metrics? Might need to find a slow poke to drive my car for a few days!
+
+But I often find that many drivers that exactly obey the speed limit may not be the best drivers.
+Reply
+Gpkarma
+Member
+May 11, 2021
+43
+12
+Durham, NC
+Wednesday at 2:12 PM
+#5
+What I am trying to understand, is does this mean now the window at which scores will have to be maintained is 2 weeks instead of just 1? crawling back toward 100 from 99 about .1% each drive in my problematic categories, without leaving it in the garage is slightly tiring..!
+Reactions:
+lUtriaNt and jebinc
+Reply
+novox77
+1.21 Gigawatts
+Nov 25, 2017
+1,702
+3,648
+NH, MA
+Wednesday at 2:47 PM
+#6
+Just from hanging out in safety score threads in TMC these last few days, it's apparent there are plenty of people who actually score at or near 100 while logging decent miles. For people who already drive for efficiency, "gaming" the system really isn't required. Just a bit more attention to following distance.
+Reactions:
+Ruffles, edseloh, GlmnAlyAirCar and 1 other person
+Reply
+M
+Mjc123
+Member
+Oct 31, 2014
+62
+27
+TX
+Wednesday at 2:47 PM
+#7
+The scoring system is absurd. It penalized me for “following to closely” during which time I had cruise control on. So it penalized itself. I also have a turn onto my street off of a major 6 lane road that requires “aggressive steering” in order to be safe. Penalized for that too.
+Reactions:
+livingthedream, manddarran, moa999 and 4 others
+Reply
+jebinc
+MSM Model S PLAID, cream/FSD; MYP & CT on order
+Jun 19, 2019
+5,623
+6,243
+Seattle area
+Wednesday at 3:02 PM
+#8
+Mjc123 said:
+The scoring system is absurd. It penalized me for “following to closely” during which time I had cruise control on. So it penalized itself. I also have a turn onto my street off of a major 6 lane road that requires “aggressive steering” in order to be safe. Penalized for that too.
+Yep, this process is not realistic. Good idea, piss poor execution.
+Reactions:
+Cheburashka, lUtriaNt, THXULTRA and 4 others
+Reply
+B
+bradbissell
+Member
+Apr 4, 2016
+92
+86
+Boston
+Wednesday at 3:14 PM
+#9
+I got dinged for aggressive turning by pulling into my driveway, which is more than a 90degree turn. Also got dinged for close following by people cutting me off because I left lots of room between me and the car ahead.
+
+I don’t think this system is meant to gauge how you drive, it is more about the drivers around you that might cause an accident. If that is the case, in Massachusetts it will be very hard to get 100% with all the Massholes around.
+Reactions:
+Sigma4Life, edseloh and jebinc
+Reply
+ATPMSD
+Member
+Mar 12, 2021
+301
+313
+Atlanta, GA
+Wednesday at 3:28 PM
+#10
+novox77 said:
+it's apparent there are plenty of people who actually score at or near 100
+
+Not for long! Elon’s comment that they are looking for drivers at or near 100% is ridiculous. I would think anything in the 90s would be more realistic as a top end target.
+Reply
+jebinc
+MSM Model S PLAID, cream/FSD; MYP & CT on order
+Jun 19, 2019
+5,623
+6,243
+Seattle area
+Wednesday at 4:19 PM
+#11
+ATPMSD said:
+Not for long! Elon’s comment that they are looking for drivers at or near 100% is ridiculous. I would think anything in the 90s would be more realistic as a top end target.
+While I currently sport a score of 99, I most likely will withdraw from the program before the week is up. My experience with this has been anything but enjoyable. As many have stated, this PoS system dings you for autopilot following distance, even at max settings. There are many other issues as reported as well. Most of you will sitting be trying to get the software many weeks after the button was launched. Mark my words. Not worth it for me. I’m going to enjoy my car and perhaps get this beta when it’s mass released “in two weeks”.
+Last edited: Wednesday at 4:32 PM
+Reactions:
+Sigma4Life, moa999, Cheburashka and 7 others
+Reply
+techlogik
+Member
+Mar 22, 2021
+353
+202
+FL
+Wednesday at 4:30 PM
+#12
+ATPMSD said:
+Based on what I have seen so far, “near perfect scores” are not very likely.
+I’ve got a 100 still with three 28 mile commute to/from downtown during rush hour. It’s crazy but possible.
+Reactions:
+Ruffles, TresLA and novox77
+Reply
+A
+acatwith12
+Member
+Jul 27, 2021
+45
+12
+Sunnyvale
+Wednesday at 5:39 PM
+#13
+techlogik said:
+I’ve got a 100 still with three 28 mile commute to/from downtown during rush hour. It’s crazy but possible.
+Same. I got a 99 doing errands around my place (put in 40-50 miles?)
+Reactions:
+Ruffles and TresLA
+Reply
+TEG
+Teslafanatic
+Aug 20, 2006
+21,895
+8,934
+Wednesday at 5:52 PM
+#14
+And the presumption is you have to keep up the near perfect scores even after you are selected or else you get kicked back down to regular autopilot/FSD again.
+Reactions:
+lUtriaNt
+Reply
+PRLM3
+Member
+Feb 16, 2019
+114
+52
+Florida
+Wednesday at 6:17 PM
+#15
+novox77 said:
+Just from hanging out in safety score threads in TMC these last few days, it's apparent there are plenty of people who actually score at or near 100 while logging decent miles. For people who already drive for efficiency, "gaming" the system really isn't required. Just a bit more attention to following distance.
+That is totally not the case. Based on the configuration of my parking garage at work and space, each time I pull (slowly) into my space I seem to generate an "aggressive turning" ding. Drove 5 miles home today and never got close to a car in front of me, no FWC warning ever fired, but suddenly I'm red on that score. Trust me, people in Teslas are now running red lights and stop signs they normally would have stopped at -- but are now focused on the "safety" score so just blow through. Not ready for real world imho.
+Reactions:
+lUtriaNt, pilotSteve, Sporty and 1 other person
+Reply
+jebinc
+MSM Model S PLAID, cream/FSD; MYP & CT on order
+Jun 19, 2019
+5,623
+6,243
+Seattle area
+Wednesday at 6:22 PM
+#16
+PRLM3 said:
+That is totally not the case. Based on the configuration of my parking garage at work and space, each time I pull (slowly) into my space I seem to generate an "aggressive turning" ding. Drove 5 miles home today and never got close to a car in front of me, no FWC warning ever fired, but suddenly I'm red on that score. Trust me, people in Teslas are now running red lights and stop signs they normally would have stopped at -- but are now focused on the "safety" score so just blow through. Not ready for real world imho.
+Yep, the app/algorithm bites the big one. Poor implementation, in my opinion.
+Reactions:
+lUtriaNt and pilotSteve
+Reply
+Master Chief
+Member
+Jan 20, 2020
+91
+49
+Norfolk, VA
+Wednesday at 6:29 PM
+#17
+I sure hope my score isn't predicated on erratic driving caused by my attempt today to use Autopilot on the way home from work. It actually changed lanes successfully for the freeway offramp and then put the turn signal on for a merge right when it spasmodically jerked left (with the right turn signal still flashing) to get into the straight-thru lane. I just don't understand what is going on. If FSD is anything close to AP, we are in big trouble...
+Reactions:
+lUtriaNt, edseloh, jebinc and 2 others
+Reply
+S
+Sporty
+Member
+Apr 20, 2019
+73
+47
+Seattle
+Wednesday at 6:54 PM
+#18
+TEG said:
+And the presumption is you have to keep up the near perfect scores even after you are selected or else you get kicked back down to regular autopilot/FSD again.
+
+If I get the beta, I’ll make a good faith effort to use it. I’ll be conservative as to what I allow it do. I’ve got no problem overriding it or turning it off if it too sucks.
+
+But I’m going to stop stressing over the score. If my current efforts don’t get me in the beta I’ll probably give up on trying. I don’t need to be treated poorly.
+Reactions:
+livingthedream, RunMadM3, lUtriaNt and 5 others
+Reply
+Edgewood Dome
+Member
+Jan 31, 2013
+225
+131
+Edgewood, WA
+Wednesday at 8:52 PM
+#19
+I drove over 300 miles today all using NOA with the following distance set to Max of 7. It dinged me 4 times for following too close which was caused by other cars pulling in front of me on the freeway. I think the system is designed to keep me from getting what I paid for 4+ years ago. Pretty pissed off at Tesla right now.
+Reactions:
+livingthedream, lUtriaNt and jebinc
+Reply
+R
+RainMakerZ
+New Member
+Oct 19, 2020
+4
+2
+Kirkland, WA
+Wednesday at 8:55 PM
+#20
+PRLM3 said:
+That is totally not the case. Based on the configuration of my parking garage at work and space, each time I pull (slowly) into my space I seem to generate an "aggressive turning" ding. Drove 5 miles home today and never got close to a car in front of me, no FWC warning ever fired, but suddenly I'm red on that score. Trust me, people in Teslas are now running red lights and stop signs they normally would have stopped at -- but are now focused on the "safety" score so just blow through. Not ready for real world imho.
+Yeah - the Safety Score's thresholds for aggressive turning and hard braking are really too punitive. I end up being THAT guy on the road leaving waaaaay too much space, going way too slow, etc so that I don't become "unsafe" by braking like a normal driver. I'd swear I've become a less safe driver as a result, and this car is sure a helluva lot LESS fun to drive knowing that Unca Elon is watching. We'll see how it goes for this week and maybe next, but otherwise, I'm gonna unenroll and drive my car like a normal person.
+Reply
+1
+2
+3
+4
+5
+Next
+Bold
+Italic
+Font size
+More options…
+Alignment
+List
+More options…
+Insert link
+Insert image
+Media
+More options…
+Undo
+More options…
+Preview
+
+Write your reply...
+Post reply
+Similar threads
+Blog Tesla Looking for Good Drivers to Test Full Self-Driving System
+TMC Staff Sep 17, 2021 AI, Autopilot, & Autonomous/FSD 6 7 8
+Replies
+145
+Views
+8K
+Today at 12:11 PM
+TravelFree
+Blog Tesla Rolls Out FSD Beta 10.1
+TMC Staff Sunday at 8:39 AM AI, Autopilot, & Autonomous/FSD
+Replies
+0
+Views
+2K
+Sunday at 8:39 AM
+TMC Staff
+Blog FSD Beta 10 Rolls Out to Testers
+TMC Staff Sep 12, 2021 AI, Autopilot, & Autonomous/FSD 2
+Replies
+28
+Views
+4K
+Tuesday at 7:51 AM
+USCGDAV
+Blog Musk Says FSD Beta is ‘Not Great’
+TMC Staff Aug 23, 2021 AI, Autopilot, & Autonomous/FSD
+Replies
+13
+Views
+1K
+Yesterday at 7:45 AM
+USCGDAV
+C
+It's happening....FSD v9 to be released (to current beta testers)
+Canefan456 Jul 8, 2021 AI, Autopilot, & Autonomous/FSD 7 8 9
+Replies
+173
+Views
+14K
+Jul 27, 2021
+drtimhill
+Products we're discussing on TMC...
+Powered by Primary
+Share:
+Facebook
+Twitter
+Reddit
+Pinterest
+WhatsApp
+Email
+Link
+Understanding The Decline In Tesla’s FSD Take Rate
+Ford Makes $11.4B Investment in Electric Future
+Log in
+Your name or email address
+Password
+Forgot your password?
+Stay logged in
+or log in using
+Facebook
+Twitter
+Google
+Microsoft
+Log in
+Latest posts
+Recent MYP Delivery Estimates
+Latest: Jbapckfan A moment ago
+Model Y: Ordering, Production, Delivery
+D
+Washington State: Model S Plaid/LR waiting room
+Latest: drunkenbuda 1 minute ago
+Model S: Ordering, Production, Delivery
+P
+Current Delivery Times
+Latest: PNWLeccy 1 minute ago
+Model Y: Ordering, Production, Delivery
+Wiki Model S Delivery Update
+Latest: aerodyne 2 minutes ago
+Model S: Ordering, Production, Delivery
+T
+Model 3 Leasing UK
+Latest: Tehd 2 minutes ago
+The UK and Ireland
+Forum statistics
+Threads
+221,006
+Messages
+5,870,569
+Members
+168,864
+Latest member
+Flex
+Share this page
+Share this page
+New threads
+Window Distortion in new MY LR
+Started by Marcust99 3 minutes ago Replies: 0
+Model S: Ordering, Production, Delivery
+C
+2 members have trashed my reaction score...
+Started by ChopinBlues 3 minutes ago Replies: 0
+Site Feedback
+My 2nd model 3 delivered with another windshield scratch - in the exact same spot
+Started by Stevs6382 14 minutes ago Replies: 0
+Model 3: Ordering, Production, Delivery
+B
+Paint flaking off underside of spoiler
+Started by BobX 32 minutes ago Replies: 0
+Model X
+Android Auto now available in your Tesla (kinda mostly)
+Started by Knightshade 52 minutes ago Replies: 0
+Model 3: User Interface
+Blog Tags
+Autonomous Vehicles
+Autopilot
+Batteries
+Boring Company
+Charging
+China
+Covid-19
+Crew Dragon
+Cybertruck
+Delivery
+Electric Pickups
+Electric Vehicles
+Elon Musk
+Europe
+Falcon 9
+Ford
+FSD
+Giga Berlin
+Gigafactory
+Giga Shanghai
+Giga Texas
+Lucid Air
+Lucid Motors
+Model 3
+Model S
+Model X
+Model Y
+Ordering
+Performance
+Plaid
+Production
+Rivian
+Roadster
+Semi
+software
+Solar
+SpaceX
+Starlink
+Starship
+Supercharger
+Technology
+Tesla Energy
+Tesla Inc.
+Tesla Truck
+TSLA
+Home
+News
+About Us
+Formed in 2006, Tesla Motors Club (TMC) was the first independent online Tesla community. Today it remains the largest and most dynamic community of Tesla enthusiasts. Learn more.
+Meta
+Contact Us
+Advertise with Us
+Become a Vendor
+Terms of Service
+Privacy Policy
+DMCA Notice
+Do you value your experience at TMC? Consider becoming a Supporting Member of Tesla Motors Club. As a thank you for your contribution, you'll get nearly no ads in the Community and Groups sections. Additional perks are available depending on the level of contribution. Please visit the Account Upgrades page for more details.
+
+SUPPORT TMC
+TMC
+Contact us
+Terms and rules
+Privacy policy
+Help
+RSS
+Copyright © 2006-2021 Tesla Motors Club LLC. All rights reserved.
+Tesla Motors Club LLC (TMC) is an independent enthusiast organization and is not affiliated with Tesla Motors, Inc. or its subsidiaries. TESLA, TESLA MOTORS, TESLA ROADSTER, MODEL S, MODEL X, and the “TESLA,” “T” and “TESLA and T in Crest” designs are trademarks or registered trademarks of Tesla Motors, Inc. in the United States and other countries.

@@ -1,0 +1,75 @@
+Search
+SECURITY WORKING FROM HOME CLOUD INNOVATION CXO MORE
+EDITION:
+NEWSLETTERSALL WRITERS
+Intel just signed a major chip-making deal with the Pentagon, and it could help the US solve its semiconductor problem
+The company will be part of an effort to build a US-based semiconductor production ecosystem.
+By Daphne Leprince-Ringuet | August 24, 2021 | Topic: Hardware
+Intel has landed a deal with the Pentagon to domestically design and manufacture the computer chips that are required by critical Department of Defense (DoD) systems, as part of growing efforts to boost the US's capabilities when it comes to producing semiconductors. 
+This comes in the context of a global shortage of semiconductors, which sees a large number of industries, ranging from consumer electronics to automotive, struggling to secure key components needed to build their products. 
+The agreement is part of the first phase of a program launched by the National Security Technology Accelerator (NSTXL), called RAMP-C (Rapid Assured Microelectronics Prototypes – Commercial), with the objective of creating a US-based ecosystem of commercial fabrication plants for semiconductors, also called foundries. 
+RAMP-C will ensure that the Pentagon has access to critical semiconductor technology and is also designed to strengthen overall supply chain security, keeping the US on top of the latest advances in chip design, manufacturing and packaging. 
+PROCESSORS
+Quantum computing: This new 100-qubit processor is built with atoms cooled down near to absolute zero
+Micron sees supply-chain shortages 'easing throughout 2022'
+Look at this tiny winged microchip the size of a grain of sand
+Arm processors: Everything you need to know now
+As the only US company that both designs and produces semiconductors, Intel seems a logical choice to work on RAMP-C. Earlier this year, the company launched a dedicated foundry business called Intel Foundry Services, which will lead the work carried out together with the DoD. 
+"Intel is the sole American company both designing and manufacturing logic semiconductors at the leading edge of technology," said Pat Gelsinger, Intel's CEO. "When we launched Intel Foundry Services earlier this year, we were excited to have the opportunity to make our capabilities available to a wider range of partners, including in the US government, and it is great to see that potential being fulfilled through programs like RAMP-C." 
+The Santa Clara firm will partner with industry leaders like IBM, Cadence and Synopsys to support the Pentagon's needs for custom integrated circuits and commercial products, with the end goal of establishing a robust semiconductor ecosystem in the US. 
+Currently, the supply chain for computer chips is crippled by vulnerabilities, which pose a security risk for organizations that are central to national security like the DoD and is the reason behind the launch RAMP-C. 
+Historically, companies have preferred to design their own semiconductors and outsource the manufacturing process to third-party foundries. Given the complexity of fabricating semiconductors, the market quickly consolidated, leaving just a handful of companies running the foundries in which most of the world's computer chip orders are placed.  
+The most established of these are Samsung and TSMC. As a result, about three quarters of the world's total semiconductor manufacturing capacity comes from China, Japan, South Korea and Taiwan – and virtually all of the world's advanced semiconductor manufacturing capacity (in nodes below ten nanometers) is located in South Korea and Taiwan. 
+At the same time, manufacturing capacity in the US has significantly declined. According to a recent report carried out by the Semiconductor Industry Association (SIA), the US held 37% of the global chip manufacturing capacity in 1990 – a number that has gone down to 12% today, mostly due to the stagnation of government subsidies to help the industry prosper. 
+This means that key organizations like the DoD in the US have limited access to domestic supplies of semiconductors, even for critical security systems – and there remains a question mark over the country's capacity to meet its own needs for computer chips in the long term. 
+The issue has come to the fore in recent months, as the Covid-19 pandemic increased the demand for products like smartphones, laptops and tablets, which has in turn placed a strain on the foundries supplying computer chips. Fabrication plants have reached the limits of their capabilities, creating a global shortage of semiconductors that is expected to last well into 2022 and is now trickling down to any industry that relies on the components. 
+"One of the most profound lessons of the past year is the strategic importance of semiconductors, and the value to the US of having a strong domestic semiconductor industry," said Gelsinger. 
+Tech giants including Amazon, Cisco, Google, Apple, Microsoft and HPE reacted by creating the Semiconductors in America Coalition (SIAC), which urged the US government to invest $50 billion to fund the expansion of the country's manufacturing capabilities. 
+The call seems to have been heard. Earlier this year, the US Senate passed a landmark bill that would unlock $52 billion to boost the national production of semiconductors. 
+Developing a domestic ecosystem for computer chip fabrication, however, requires more than money. The US government, in addition to RAMP-C, has therefore launched two more complementary programs, RAMP and SHIP, which are designed to ramp up national capabilities at different stages of the design and manufacturing of semiconductors.  
+While RAMP-C addresses the need for foundry capabilities, RAMP is concerned with the process of physical design, and SHIP looks at the packaging and testing of integrated circuits. 
+Intel, for its part, has separately announced an investment of $20 billion to expand US-based capacity thanks to two new foundries in Arizona.  
+Randhir Thakur, Intel Foundry Services president, said: "Along with our customers and ecosystem partners, including IBM, Cadence, Synopsys and others, we will help bolster the domestic semiconductor supply chain and ensure the United States maintains leadership in both R&D and advanced manufacturing."
+HARDWARE
+Ring, Echo and Astro: Everything Amazon just announced
+Six reasons I'm replacing my Surface Pro 7 with a Surface Pro 8
+Our iPhones are six years old. Here's why we are dreading upgrading them
+The best Surface PCs (that are Windows 11-ready)
+RELATED TOPICS: INTEL PCS SERVERS STORAGE NETWORKING DATA CENTERS
+By Daphne Leprince-Ringuet | August 24, 2021 | Topic: Hardware
+SHOW COMMENTS
+MORE FROM DAPHNE LEPRINCE-RINGUET
+Digital Transformation
+5G's biggest benefits will arrive where you'd least expect them
+Artificial Intelligence
+AI: Ban the algorithms that threaten our human rights, says UN chief
+Innovation
+Ford and Walmart will deliver your groceries from these self-driving cars
+Hardware
+Accenture, IonQ work to bring quantum computing to more businesses
+NEWSLETTERS
+RELATED STORIES
+1 of 3
+Best MagSafe accessory 2021: Top picks for iPhone 13
+Apple continues its MagSafe accessory push.
+Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030
+Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots.
+New certified USB Type-C cable power rating logos
+The USB-IF unveils the latest consumer branding for cables using the new USB4, USB Type-C, and USB Power Delivery Specifications
+ZDNet
+CONNECT WITH US
+© 2021 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED. Privacy Policy | Cookie Settings | Advertise | Terms of Use
+Topics
+Galleries
+Videos
+Sponsored Narratives
+Do Not Sell My Information
+About ZDNet
+Meet The Team
+All Authors
+RSS Feeds
+Site Map
+Reprint Policy
+Newsletters
+Site Assistance
+ZDNet Academy

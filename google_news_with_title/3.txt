@@ -1,0 +1,201 @@
+HOME
+MAIL
+NEWS
+FINANCE
+SPORTS
+ENTERTAINMENT
+LIFE
+YAHOO PLUS
+MORE...
+Yahoo Finance
+Sign in
+Mail
+Finance
+Watchlists
+My Portfolio
+Screeners
+Yahoo Finance Plus
+Markets
+News
+…
+U.S. markets closed
+S&P 500
+4,357.04
++49.50 (+1.15%)
+ Dow 30
+34,326.46
++482.54 (+1.43%)
+ Nasdaq
+14,566.70
++118.12 (+0.82%)
+ Russell 2000
+2,241.63
++37.26 (+1.69%)
+ Crude Oil
+75.74
++0.71 (+0.95%)
+ Gold
+1,761.30
++4.30 (+0.24%)
+ Silver
+22.57
++0.52 (+2.35%)
+ EUR/USD
+1.1596
++0.0011 (+0.09%)
+ 10-Yr Bond
+1.4650
+-0.0640 (-4.19%)
+ GBP/USD
+1.3553
++0.0077 (+0.57%)
+ USD/JPY
+111.0500
+-0.2400 (-0.22%)
+ BTC-USD
+48,028.88
++40.78 (+0.08%)
+ CMC Crypto 200
+1,182.17
++100.09 (+9.25%)
+ FTSE 100
+7,027.07
+-59.35 (-0.84%)
+ Nikkei 225
+28,771.07
+-681.59 (-2.31%)
+ Analyst Remains Bullish On Micron And These 2 Semiconductor Stocks Following Mixed Earnings
+Adam Eckert
+Wed, September 29, 2021, 10:43 PM·2 min read
+In this article:
+MU
++0.01%
+AMD
+-0.44%
+NVDA
++0.13%
+Explore the topics mentioned in this article
+Following Micron Technology Inc's (NASDAQ: MU) mixed financial results, Wells Fargo analyst Aaron Rakers maintained his long-term bullish outlook on the stock. He also sees upside in NVIDIA Corp (NASDAQ: NVDA) and Advanced Micro Devices Inc (NASDAQ: AMD).
+What Happened: Micron reported adjusted quarterly earnings of $2.42 per share, which beat the estimate of $2.33 per share. The company reported quarterly revenue of $8.27 billion, which beat the estimate of $8.22 billion.
+Micron expects fiscal first-quarter earnings to be in a range of $2 per share to $2.20 per share versus the estimate of $2.61 per share. The company expects fiscal first-quarter revenue to be in a range of $7.45 billion to $7.85 billion versus the estimate of $8.63 billion.
+Wells Fargo's Assessment: Rakers told CNBC Micron's financial results were "relatively in line" with his expectations.
+The company may face some near-term inventory issues, but the Wells Fargo analyst thinks "the longer-term positive thesis is still very much intact for Micron."
+"Regardless of the near-term choppiness, we very much do like Micron," Rakers said.
+View more earnings on MU
+Micron CEO Sanjay Mehrotra is set to appear on "Mad Money" with Jim Cramer Wednesday at 6 p.m. ET.
+See Also: How Apple, Microsoft and Nvidia Stocks Are Reversing Course And What To Watch For
+Other Semiconductor Opportunities: The Wells Fargo analyst said the firm sees positive upside potential in Nvidia stock.
+"[Nvidia is] a platform story. We think there are many tentacles of future growth opportunity for Nvidia inclusive of the data center momentum that they are seeing today," he said.
+Wells Fargo also has a positive outlook on Advanced Micro Devices, Rakers told CNBC: "On a market share gain story, our thesis is continuing to play out."
+MU, NVDA, AMD Price Action: Micron was down 1.89% at $71.71, Nvidia was down 0.27% at $206.41 and AMD was down 0.81% at $100.70 at time of publication.
+Story continues
+
+Related Quotes
+Symbol Last Price Change % Change
+AMD
+Advanced Micro Devices, Inc.
+102.45 -0.45 -0.44%
+MU
+Micron Technology, Inc.
+70.99 +0.01 +0.01%
+NVDA
+NVIDIA Corporation
+207.42 +0.26 +0.13%
+TRENDING
+1.
+U.S. administers nearly 394.7 mln doses of COVID-19 vaccines - CDC
+2.
+A Stock Trader’s Guide to Navigating the Global Energy Crisis
+3.
+Morrison Recommends CD&R’s Winning $9.5 Billion Takeover Bid
+4.
+Hermes hosts fashion show at Paris airport hangar
+5.
+UPDATE 3-Qatar's first legislative elections see 44% voter turnout
+Recommended Stories
+Yahoo Finance Video
+Why Congress' focus on semiconductor-specific programs is encouraging the chip industry
+Micron Technology Executive Vice President of Global Operations Manish Bhatia&nbsp;joins Yahoo Finance to discuss how the semiconductor industry has been affected by the supply shortage, the state of demand for products, and the effects of price increases.
+1d ago
+Motley Fool
+Is Micron Technology Stock a Buy?
+Micron Technology (NASDAQ: MU) stock dropped in the two following days after it announced its fourth-quarter and full-year 2021 earnings. The memory chipmaker beat estimates, but concerns about capital spending and rising supply prompted investors to unload shares. Although Micron can continue to benefit from the current chip shortage and remain a leading memory chip company longer-term, investors face questions about whether that success will translate into gains for the chip stock.
+6h ago
+Ad
+•
+Novelodge
+Ad
+Place A Bag On Your Car Mirror When Traveling
+Brilliant Car Cleaning Hacks Local Dealers Wish You Didn’t Know
+MoneyWise
+Kiyosaki: 'Biggest crash in world history’ hits in October — 3 ways to protect yourself
+'Rich Dad Poor Dad' has a warning. It's time to listen.
+4h ago
+Barrons.com
+Tesla Deliveries Crushed Expectations. Here’s What Happens Next.
+Tesla delivered more than 240,000 cars in the third quarter of 2021. Wall Street was looking for about 225,000 to 230,000 deliveries.
+1h ago
+Motley Fool
+Chevron or Exxon, Which Should Dividend Investors Own Today?
+These giant U.S. oil companies are sporting huge yields, but one of them stands ahead of the other for dividend investors. Here's why.
+6h ago
+MoneyWise
+BofA warns oil could hit $100 this winter and spur crisis — protect yourself this way
+BofA's red flag could mean a huge profit opportunity for investors.
+8h ago
+Motley Fool
+Want $10,000 in Annual Dividend Income? Invest $114,000 in This Ultra-High-Yield Stock Trio
+Since the end of the Great Recession in 2009, growth stocks have rightly been the talk of Wall Street. A 2013 report from J.P. Morgan Asset Management showed that companies initiating and growing their payouts between 1972 and 2012 averaged an annual return of 9.5%. While it's clear that profitable, time-tested companies paying a dividend have delivered superior long-term returns, the question remains: Which dividend stocks to buy?
+10h ago
+Motley Fool
+Better Semiconductor Stock: ASML vs. Intel
+ASML (NASDAQ: ASML) and Intel (NASDAQ: INTC) are two of the most important semiconductor companies in the world. ASML is the top supplier of photolithography systems, which are used to etch circuit patterns into silicon wafers. Intel is the top producer of CPUs for PCs and data centers.
+9h ago
+Motley Fool
+3 Dividend Stocks to Buy in a Market Crash
+While stocks still trade well above bear market territory, the massive increase in many key stocks since March 2020 has prompted concerns that a pullback could come sooner rather than later. Given those factors, stocks such as Chevron (NYSE: CVX), Medical Properties Trust (NYSE: MPW), and Verizon Communications (NYSE: VZ) can serve investors well in a challenging market.
+5h ago
+Yahoo Finance
+Why this billionaire investor is all in on one electric vehicle maker
+Yahoo Finance Live chats with investing pioneer Alec Gores of The Group about his latest playing on the future of the automobile.
+1d ago
+MarketWatch
+September was a terrible month for stocks. Here’s what you can expect in October.
+According to the bull and bear market calendar back to 1900 maintained by Ned Davis Research, nine changes to the U.S. market’s major trend occurred in October. The average number of trend changes across all months is between six and seven. It is true that an above-average number of bear markets in the Ned Davis Research calendar did come to an end during October: eight, versus an all-month average of between three and four.
+2d ago
+Motley Fool
+$10,000 Invested in These Growth Stocks Could Make You a Fortune Over the Next 10 Years
+Start with MercadoLibre (NASDAQ: MELI), Advanced Micro Devices (NASDAQ: AMD), and Seagate Technology (NASDAQ: STX), companies whose shares have risen more than 10% this year and more than 100% over the past five years. MercadoLibre is often called the Amazon of Latin America, it is an e-commerce and fintech giant. The company, which started out as an Argentine company in 1999, is now in 18 countries in the region.
+8h ago
+TipRanks
+Insider Buying Could Indicate a Bottom in These 2 Stocks
+Buying low and selling high may sound too basic to support a stock portfolio, but it has been and always will be a sure way to build profits. The only real trick to it – and it’s admittedly a tough trick to learn – is finding when a stock is at or near the bottom, to buy in. Plenty of stocks fall in price, that’s nothing new in the market. But most times, there’s a good reason, and it’s usually based in fundamental unsoundness. Successful investors will learn some way to sort this chaff from the
+2d ago
+Motley Fool
+Why Is Nio Stock Dropping Despite Record Deliveries?
+Shares of electric vehicle maker Nio (NYSE: NIO) rose 3% Friday morning before losing ground as the day progressed, trading down just about 0.5% as of 1:40 p.m. today. The weakness in the EV stock's price is surprising given that Nio reached a milestone and reported solid delivery numbers for September today, even topping its own projections. Nio delivered a record number of 10,628 vehicles in total in September, up 125.7% year over year.
+1d ago
+MarketWatch
+This is what both Suze Orman and Ramit Sethi say you should do if you’re worried about inflation
+“The rate of inflation in the U.S. rose again in July and drove the increase over the past year to a 30-year high,” MarketWatch’s Jeffrey Bartash reported in August. For investors, that news was, no doubt, worrisome, so we looked at what two financial bigwigs, Suze Orman and Ramit Sethi, as well as other pros, have told investors in the past about dealing with inflation (psst: both say you need to keep investing in stocks.) Here (and below) are Bankrate’s list of featured investing products for September. Suze Orman: “Plan on many costs being double what they are today, and keep investing in stocks.”
+7h ago
+Motley Fool
+These 3 Dividend Stocks Could Soar Between 23% and 32%, According to Wall Street
+To use a car analogy, growth stocks are like Lamborghinis. Bristol Myers Squibb's (NYSE: BMY) shares are down slightly year to date. The consensus price target of $80 reflects a premium of nearly 32% to BMS' current share price.
+1d ago
+Bloomberg
+Rivian Details $1 Billion Loss, Amazon Deal in IPO Filing
+(Bloomberg) -- Rivian Automotive Inc., the maker of electric pickups backed by Amazon.com Inc., disclosed a net loss of almost $1 billion in the first half of the year in its initial public offering paperwork.Most Read from BloombergWall Street Titans Warn of the Next Big Risks for InvestorsAn Unapologetic Old Boys’ Network Is Costing Australia BillionsThe Unstoppable Appeal of Highway ExpansionThe Country That Makes Breakfast for the World Is Plagued by Fire, Frost and DroughtReshaped by Crisis
+20h ago
+Motley Fool
+Better Dividend Stock: The Williams Companies vs. Enbridge
+Two of the best-known names in the midstream space. Is one of them better than the other? Yes, by a little bit.
+9h ago
+Reuters
+Merck COVID-19 pill success slams Moderna shares, shakes up healthcare sector
+Merck shares jumped as much as 12.3% and hit their highest level since February 2020 after data showed the company's pill molnupiravir https://www.reuters.com/business/healthcare-pharmaceuticals/mercks-covid-19-pill-cuts-risk-death-hospitalization-by-50-study-2021-10-01 could halve the chances of dying or being hospitalized for those most at risk of contracting severe COVID-19. At the same time, shares of vaccine makers such as Moderna Inc, Pfizer Inc and partner BioNTech SE were hit, with some analysts saying the promise of an oral drug that can be taken at home could change the public perception of risks associated with COVID-19. "We see modest perceived headwind to vaccine stocks such as MRNA (Moderna) if the market thinks people will be less afraid of COVID-19 and less inclined to get vaccines, if there is a simple pill that can treat COVID-19," Jefferies analyst Michael Yee said in a client note.
+1d ago
+MarketWatch
+Should I do that Roth IRA conversion before Congress bans them?
+A reader has just written in urging me to take another look at Roth IRAs. This follows my previous column, in which I said I was wary of them, partly because I figured I’ll be paying a lower tax rate in retirement than I am while I’m working. “The tax rate is not the issue; it’s the amount of tax you will be paying,” he reminds me.
+4h ago

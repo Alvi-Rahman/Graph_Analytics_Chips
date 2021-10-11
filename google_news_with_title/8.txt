@@ -1,0 +1,76 @@
+Subscribe
+Sign In
+MORE FROM FORBES
+Oct 2, 2021,12:47pm EDT
+The Fed Turns Hawkish; Ill-Timed As The Economy Begins Its Fade
+Oct 1, 2021,04:00pm EDT
+Chinese Opportunity: Evergrande Won’t Be A Lehman Moment
+Oct 1, 2021,12:03pm EDT
+Building Technology To Protect The Cannabis Supply Chain
+Oct 1, 2021,11:17am EDT
+Debt Ceiling And A Growing List Of China Woes Continue To Weigh On Investors
+Sep 30, 2021,07:45pm EDT|367 views
+Which Companies Add The Most Value In The Semiconductor Industry? (Part 1)
+George CalhounContributor
+Markets
+Quantitative Finance Program Director, at Stevens Inst. of Technology
+Follow
+Listen to article
+10 minutes
+FISHKILL, NEW YORK - JULY 20: IBM workers walk in an IBM 12-inch wafer chip fabricating plant July ... [+] GETTY IMAGES
+It’s in the news: “Semiconductors are the new oil.” The cliché is suddenly everywhere – and probably because chips are suddenly in short supply. We took oil for granted until the shortages in the 70’s made it “strategic.” Now it’s happening with semiconductors. People are talking. Defense experts are worried. Wall Street has perked up. Consumers are feeling it. You can’t buy that new Lexus because they don’t have some five-dollar computer chip… The media are alert to the heightened level of viewer interest. Congress is drafting legislation to promote and subsidize chip manufacturing. The President is speaking about it. The Wall Street Journal is alarmed at this fresh eruption of “industrial policy” across the world
+“Last month, the U.S. Senate voted for direct industry subsidies with little precedent: $52 billion for new semiconductor fabrication plants. The European Union has committed to nearly doubling its share of global semiconductor manufacturing capacity, to 20%. South Korea approved up to $65 billion in support for semiconductors, and Japan promised to match other countries’ semiconductor aid…”
+There are geopolitical overtones – the Chip race is said to be a critical dimension of technological competition with China.  
+The chips-as-oil cliché is true enough (as most clichés are); it just doesn’t go very deep. Which is understandable, because the “semiconductor industry” is extremely complex. It encompasses thousands of companies, pursuing many different technologies and business models. In the fabrication segment alone
+PROMOTED
+“There are more than 30 types of semiconductor product categories…any one of which may require up to 300 different raw material inputs…processed by more than 50 classes of highly engineered precision equipment…incorporating hundreds of technology subsystems…”
+In fact, the “semiconductor industry” is really a misnomer. There is too much diversity to lump them all together, and talk about, say, the U.S. market share in semiconductors. It is more than just a basket of apples and oranges. To stretch the metaphor, we might say the industry includes businesses as diverse as apples and elephants, and it probably doesn’t make sense to combine them – except that they are all involved in driving, and are driven by, the digital economy.  
+MORE FOR YOU
+Stocks This Week: Buy KLA Tencor And Starbucks
+Fintech Stocks Continue To Lag The Market. Time To Buy?
+What’s Next For BlackBerry Stock After A 4% Move Last Week?
+A full mapping of this heterogenous industry will occupy a number of columns over the coming months, which we will pursue, hopefully in an organized fashion. Another aspect of the heightened attention that the industry is drawing today is the cluster of timely, high-quality, and comprehensive surveys and reports, most of which are publicly available, to support the development of initiatives. These columns will distill and interpret the data provided in some of these reports. 
+
+The Economic Footprint of Semiconductors 
+Start with some of the Really Big Numbers. To “motivate” the analysis, as they say. 
+Since 1995, something like $4-5 trillion in global GDP has been directly linked to semiconductor design and production, and another $15 trillion is said to be “indirectly impacted”
+In the next ten years, the industry will invest “about $3 trillion in R&D and capital expenditure globally”
+The auto industry is projected to lose $210 billion in car sales this year due to chip shortages (which is approaching 10% of total auto industry revenue)
+Intel, TSMC and Samsung – the top 3 companies in the business, the technology leaders in the crucial fabrication segment — have announced plans to invest around $300 billion in new manufacturing facilities on the next several years — which is more than the market value of the entire North American auto business 
+Public funding for semiconductor development is hard to fully account for, and projections shift — but it will approach half a trillion dollars in the next five years (40% of that coming from China)
+Total revenues for the chip industry are now more than $600 billion per year – and were growing at an annual rate of 29% year-over-year in June 2021
+According to the Federal Reserve, the index of semiconductor production sales volume has increased by a factor of about 33 times since the year 2000 — and 900 times since 1992 
+Federal Reserve Semiconductor Production Index 1992-2021 CHART BY AUTHOR
+These numbers are enormous, but they only capture the direct financial footprint. The indirect impact of the semiconductor industry is of course much larger. The modern digital economy is powered by semiconductors. So, yes, it is our “oil.” 
+
+The Industry Segments (First Cut)
+The industry cannot really be understood unless we disarticulate the production process and the value chain. That will involve peeling down through several layers, and repeating that process several times, from multiple perspectives —such as by product type (processors, memory chips, analog chips, etc.), business model (design only, fabrication, assembly/test/packaging), customer type (smartphones, automobiles, etc.), and national affiliation. 
+The first cut is to review some of the high-level metrics for the broadest industry categories, based on the gross characteristics of the business model and the position in the value chain. This process will expose a set of interesting facts about the industry that are not immediately apparent at the global level. 
+We shall start with four basic segments:
+Design: the first step in the creation of an integrated circuit, as with almost every manufactured product, is to design it — in this case, to design a circuit which will perform a certain function, usually involving a calculation of some sort; this process is carried out largely “in software” (all the other functions are much more about hardware)
+Fabrication (Foundries): The fabrication process converts the design into a physical product, a “chip” – which involves manipulating and applying various raw materials (starting with ultra-pure silicon) to transfer the circuit design into its physical embodiment  
+Assembly/Packaging/Test: The fab process usually results in a “wafer” that has been printed with several hundred individual integrated circuits, which must be cut apart, or diced, and then each IC is packaged in a suitable manner. As this step is often overlooked in rough industry surveys (for reasons that will become apparent in later installments), it is worth quoting the Wikipedia definition at length:
+“A semiconductor package is a metal, plastic, glass, or ceramic casing containing one or more discrete semiconductor devices or integrated circuits. Individual components are fabricated on semiconductor wafers (commonly silicon) before being diced into die, tested, and packaged. The package provides a means for connecting it to the external environment, such as printed circuit board, via leads such as lands, balls, or pins; and protection against threats such as mechanical impact, chemical contamination, and light exposure. Additionally, it helps dissipate heat produced by the device, with or without the aid of a heat spreader.”  
+Semiconductor Manufacturing Equipment: Also often overlooked as a merely ancillary segment, this category refers to the capital equipment used by the other segments to perform and automate their functions. Again, due to recent developments, the critical importance of this segment is increasingly recognized. (For example, it was the embargo on the use of equipment in this category that truly closed the door on Huawei’s access to U.S. semiconductor technology.)  
+Semiconductor Industry Structure CHART BY AUTHOR
+
+As we shall see, the companies within these categories have developed in very different directions. They have come to stand for four typical and, today, usually distinct business models. Although a few companies still perform more than one of these functions, most have specialized in ways that place them entirely within one of these categories. 
+One of the first deep dives we can take through the semiconductor ecosystem is to apply certain metrics to the “pure plays” for each of these categories. (There are important subcategories within these basic segments, so the exercise will repeat at lower levels.)   
+Metric 1: Value-Added
+The first metric – in some ways primordial, the most definitive, and also one of the most determinative of the results we shall see when we apply many of the other metrics to follow – is the percentage of end-product’s value that is added by each segment. In other words, if the microprocessor in your smartphone cost Apple $50, the question is: What portion of that $50 can be attributed to, or was captured by, the company that provided the Design of the chip? How much is attributable to the Foundry that fabricated the chip? How much the company that “packaged” it? And how much to the company that built the amazing and complex hardware that enabled the Designer, the Foundry and the Packager to carry out their functions? 
+A study by the Boston Consulting Group and the Semiconductor Industry Association, published in April, 2021, offers an answer, shown here: 
+Value-Added By Segment of the Semiconductor Industry CHART BY AUTHOR
+Here then is the first important stylized Fact about semiconductors: The Design segment is dominant in terms of real value-creation. 
+This basic fact will help explain many of the other facts that will come to light as we apply other metrics to these categories. It will also help us understand the larger economic and geopolitical characteristics of there industry.
+Follow me on Twitter or LinkedIn. 
+George Calhoun
+Follow
+My first career: I spent 25 years in the high-tech segment of the wireless technology industry, involved in the early development and commercialization of digital… Read More
+
+
+
+
+
+Print
+Reprints & Permissions
+Play Video

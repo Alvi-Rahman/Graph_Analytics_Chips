@@ -1,0 +1,51 @@
+Subscribe
+Sign In
+MORE FROM FORBES
+Oct 6, 2021,09:09am EDT
+Nothing Better Than A Natural Gas Shortage To Illustrate The Importance Of Energy Efficiency
+Oct 6, 2021,08:00am EDT
+Atoms For Peace – ANEEL To Sustain It
+Oct 4, 2021,03:46pm EDT
+How To Play A Debt Default: Buy Oil
+Oct 4, 2021,03:20pm EDT
+Shares Fall 50% In Company Behind Historic California Oil Spill
+Sep 22, 2021,10:28am EDT|3,661 views
+Tesla Flexes Innovative Muscle By Manufacturing Own Chips During Supply Crunch
+Ariel CohenContributor
+Energy
+I cover energy, security, Europe, Russia/Eurasia & the Middle East
+Follow
+Listen to article
+7 minutes
+COVID-19’s impact on the global economy introduced major supply chain shortages, hitting silicon wafer manufacturers particularly hard. Silicon wafers chips are a small slice of semi-conductors, a vital tech component inside all complex electronics from cell phones to cruise missiles. They also require critical minerals and advanced processing techniques to produce, two areas where the United States is lagging behind China and other Asian competitors. Today, the gap between semiconductor chip order and delivery times range between 18 weeks and 6 months, whereas pre-pandemic wait times hovered around12 weeks.
+This has meant a massive bottleneck for auto manufacturers, who depend on semiconductors to power increasingly complex car computers. The global auto industry is expected to lose out on $110 billion in 2021 revenue due to semiconductor supply chain issues. General Motors GM -0.9% expects the chip shortage will cut its earnings by $1.5 billion to $2 billion this year while Ford Motor F -1.1% said supply issues could lower its earnings up to $2.5 billion in 2021. 
+ But not Tesla TSLA +0.2%.
+PROMOTED
+In Q3 of 2020 Tesla orders surged by 45% to the highest in company history. Despite the pandemic, it fell just shy of its 500,000 unit sales goal for 20202. How is this possible? In an effort to reduce its reliance on Asian chip makers and improve energy efficiency, the EV innovative juggernaut set out on a mission (dating back to 2016) to produce its own in-house chips. And rather than being made entirely of silicon – the preferred choice for mass produced semi-conductors – Tesla pursued a new material technology known and Silicon Carbide (SiC). The company has used this new wafer makeup to great success in its latest models.
+The unique properties of silicon-carbide make it much more energy efficient and durable relative to traditional silicon wafers. Due to their improved thermal conductivity, SiCs reduce energy loss by as much as 50%. Tesla’s accelerated move away from standard silicon wafer usage during the pandemic is particularly impressive and their innovation has inspired other companies to follow suit.
+MORE FOR YOU
+Here’s The List Of 317 Wind Energy Rejections The Sierra Club Doesn’t Want You To See
+Revisiting The Blame For High Gas Prices
+Why Do ‘Fracking’ Opponents Ignore Its Moral Benefits?
+
+The semiconductor order/delivery gap continues to grow BLOOMBERGNEF
+
+Semiconductors control flows of electricity in EVs, cell phones, fighter jets, heavy machinery, and are an essential component of any computer system. Their production requires heavy use of critical and rare earth minerals, such as lithium and gallium. In the wake of Covid and rising demand for electronics, the sourcing of such materials and their supply chains are now of primary importance to governments and the private sector alike.
+In 2018, the US Department of Interior identified 35 critical minerals crucial for national and economic security. The United States is 100% import reliant on 14 minerals on the critical minerals list (aside from a small amount of recycling). These minerals are difficult to substitute inputs into the U.S. economy and national security applications; they include graphite, manganese, niobium, rare earths, and tantalum, among others. The United States is more than 75% import reliant on an additional 10 critical minerals: antimony, barite, bauxite, bismuth, potash, rhenium, tellurium, tin, titanium concentrate, and uranium.
+Rare earths, which constitute 17 of 35 minerals on the list, are equally important to production. Despite their name, rare earths are commonly found in the Earth’s crust. However, extracting economically mineable concentrations is difficult, thus their low supply.  
+The U.S. is currently reliant on Chinese sourcing and refinement of critical minerals and rare earths. In 2018 the U.S. derived 98% of its processed rare earths from China. Beijing also produced 62% of global rare earth raw materials in 2018, whereas the U.S. extracted just 12.2%. Exposing a significant vulnerability, the acquisition of crucial supply materials from a geopolitical adversary may ultimately generate supply cut-offs in projected conflict.
+China owns a majority of critical mineral and rare earth supply reserves, holding 36.7% while U.S. totals only make up 1.1% of the global market. Seeking to not only expand their production capacity at home, Chinese producers have sought to negotiate long-term agreements in Africa, Australia, and South America. Should they acquire a higher portion of the critical mineral supply chain than already held, the U.S. will likely struggle to capture reliable sources of material in the long-term.
+Recognizing their importance to electric vehicle production, Bill Gates and Jeff Bezos have backed an artificial intelligence startup that will team up with the 2nd largest global mining group to search for metals used in car batteries. KoBold Metals and Broken Hill Propriety (BHP) will hunt for nickel, cobalt, lithium, and copper, in Australia. The partnership may help Tesla acquire nickel to be used in their vehicles, as BHP signed a deal with Tesla in July to supply the mineral for battery production. The venture signals a shift towards the prioritization of sourcing of critical minerals for use in environmentally friendly technology. 
+Certain efforts are being introduced – albeit slowly – to mitigate America’s reliance on China’s REE monopoly. In July 2020 the U.S. based Blue Line Corp. partnered with Australia’s Lynas corporation to begin building a heavy rare earth refinement facility in Texas. Later in 2021, funding was granted to Lynas to build a light rare earth refinement center for those metals used in consumer goods. The facilities will be the first domestic US facilities capable of importing rare earths for processing.  
+Bold renewable energy transition targets, such as those set by the Biden Administration, will require equally ambitious efforts to diversify mineral sourcing and expand the battery/semiconductor industry through increased competition with Asia.
+Tesla’s in-house production of semiconductors materials during COVID-19 is laudable, as the company has invented its way out of a short-term crisis, where potential supply chain bottlenecks of six months or more could have derailed production. Such private sector ingenuity should be encouraged by the U.S. Government as it looks to address Chinese dominance of critical mineral supply chains. In the face of Chinese competitive challenges, the U.S. and the allies should give rise to creative solutions like these to ensure tech pre-eminence.
+The DoD would do well to take a page out of Tesla’s playbook.
+
+With Assistance from Liam Taylor and James Grant
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. 
+Ariel Cohen
+Follow
+I am a Senior Fellow at the Atlantic Council and the Founding Principal of International Market Analysis, a Washington, D.C.-based global risk advisory boutique. I advise… Read More
+Print
+Reprints & Permissions
+Play Video

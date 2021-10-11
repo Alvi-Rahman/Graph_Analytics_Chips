@@ -1,0 +1,72 @@
+SKIP TO CONTENT
+RANKINGS
+MAGAZINE
+NEWSLETTERS
+PODCASTS
+COVID-19
+MORE
+SEARCH
+SIGN IN
+Subscribe Now
+Most Popular
+Poll: Biden’s vaccine mandate (unsurprisingly) splits Americans on party lines
+CONTENT FROM BCG
+Why your company should prioritize a decarbonized future
+Global stocks, U.S. futures and crypto gain as investors close out a lousy September
+She ran Bumble’s IPO while being treated for breast cancer. Now she’s becoming a CEO
+AUTOSEMICONDUCTOR CHIPS
+Chipmakers to carmakers: Time to get out of the semiconductor Stone Age
+BY 
+CHRISTIAAN HETZNER
+September 17, 2021 8:36 PM GMT+6
+Subscribe to Fortune Daily to get essential business stories delivered straight to your inbox each morning.
+When it comes to the electronic circuits that power our everyday lives, the automobile is simultaneously the world’s most expensive consumer good and the one that runs on the cheapest possible semiconductor chips.
+PAID CONTENT
+How you can measure your company’s social impact
+FROM EVERFI
+Moore’s law of ever-increasing miniaturization seemingly never reached the automotive industry. Dozens of chips found in everything from electronic brake systems to airbag control units tend to rely on obsolete technology often well over a decade old. These employ comparatively simple transistors that can be anywhere from 45 nanometers to as much as 90 nanometers in size, far too large—and too primitive—to be suitable for today’s smartphones.
+When the pandemic hit, replacement demand for big-ticket items like new cars was pushed back while sales of all kinds of home devices soared. When the car market roared back months later, chipmakers had already reallocated their capacity.
+Now these processors are in short supply, and chipmakers are telling car companies to wake up and finally join the 2010s.
+“I’ll make them as many Intel 16 [nanometer] chips as they want,” Intel chief executive Pat Gelsinger told Fortune last week during his visit to an auto industry trade show in Germany.
+Carmakers have bombarded him with requests to invest in brand-new production capacity for semiconductors featuring designs that, at best, were state of the art when the first Apple iPhone launched.  
+“It just makes no economic or strategic sense,” said Gelsinger, who came to the auto show to convince carmakers they need to let go of the distant past. “Rather than spending billions on new ‘old’ fabs, let’s spend millions to help migrate designs to modern ones.” 
+The ‘why’ of car chips
+The brutal cost pressure carmakers exert on their suppliers, which source the chips for their various components, is certainly part of the reason why the processors they use tend to be bulk commodity products. But it isn’t the only one: Reliability plays a major concern. 
+Most systems in cars are safety-critical and need to perform in practically every situation regardless of temperature, humidity, vibrations, and even minor road debris. With so much at stake, tried and true is better than new and improved. 
+“A lot of it just has to do with the fact that these are proven designs,” explained Gelsinger, who is currently campaigning for subsidies to build the most advanced chip fab in Europe.
+Unlike Intel, Qualcomm cannot directly help by investing in the expansion of capacity. Instead the U.S. company is a fab-less chipmaker, meaning it is reliant on dedicated contract manufacturers called foundries that build its semiconductors for it—and that’s precisely where the bottleneck is most acute. 
+"For the foundries, investing in the old technology is much less attractive, because sooner or later there will be a migration to the new technology," Enrico Salvatori, president of Qualcomm Europe, said in an interview.
+He is also working with the car industry to accelerate the transition, but he concedes it’s not an easy fix.
+“The new technologies are not pin-to-pin compatible, it’s not plug and play,” Salvatori said. “You have to redesign the circuit, build a new board that might have to be recertified; maybe there’s some impact on the mechanical side that then could affect the car’s chassis. So there is a domino effect of action needed.”
+Supply crunch
+The first warning signs over a coming chip supply crunch came in December 2020, but the problems were initially expected to only affect car production for a short period of time, as chipmakers turned their production back toward the automakers. Lead times of six months are often required as the nanoscopic circuitry on a chip is printed on silicon substrates in a series of painstakingly long production steps that require weeks.
+The shortage only became acute following a chain of unrelated events that limited supplies of raw chip wafers right at the source. First, a winter cold snap caused rolling blackouts at Texas chip fabs operated by Infineon, NXP, and Samsung, before a freak fire in March at key Japanese supplier Renesas compounded the problem. Finally a COVID outbreak brought downstream supply to a halt in Malaysia and Vietnam, a low-wage hub where chips are packaged into finished products for final shipping.
+As a result, as many as 9.4 million cars, or more than a tenth of the industry’s pre-pandemic output, could be eliminated from production plans, according to market research firm AutoForecast Solutions.
+“Because of a 50-cent chip, we are unable to build a car that sells for $50,000,” said Murat Aksel, head of procurement for Volkswagen Group, during a press briefing in Munich last week. 
+If semiconductor suppliers like Intel and Qualcomm have their way, however, the days of the auto industry relying on these cheap commodity chips are numbered.
+Related Articles
+AUTO
+‘We want to be in control’: Frustrated carmakers upend industry after chip shortage shatters their faith in suppliers
+September 24, 2021
+BY 
+CHRISTIAAN HETZNER
+POLITICS
+Biden administration sounds the alarm on the semiconductor crisis
+July 16, 2021
+BY 
+NICOLE GOODKIND
+POLITICS
+The Biden administration is preparing for a historic expansion of a key department to address the semiconductor shortage
+September 28, 2021
+BY 
+NICOLE GOODKIND
+AUTO
+Just when investors thought carmakers were over the worst of the chips crisis, BMW delivers a doozy
+August 3, 2021
+BY 
+CHRISTIAAN HETZNER
+TECH
+Arizona emerges as manufacturing hotspot in U.S. push to insulate semiconductor supply from China
+February 23, 2021
+BY 
+EAMON BARRETT

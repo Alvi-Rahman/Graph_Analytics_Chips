@@ -1,0 +1,85 @@
+Search
+WORKING FROM HOME CLOUD INNOVATION CXO MORE
+EDITION: AS
+NEWSLETTERSALL WRITERS
+Hunker down: The chip shortage and higher prices are set to linger for a while
+If your hopes are for semiconductor prices to return to what they used it be, there's nothing but bad news on the horizon.
+By Chris Duckett for Null Pointer | October 4, 2021 | Topic: Hardware
+With recent murmurings of chip shortages easing through to 2022, one could be forgiven for imagining some sort of promised land where prices return to the lower levels once remembered.
+Unfortunately, that idea will have to be consigned to the land of rainbows, pixie dust, and affordable housing in major cities, because while the situation may ease, that doesn't mean it will stop growing.
+For Gartner senior analyst Ben Lee, the relief slated to arrive in the middle of 2022 is not a lowering of absolute prices, but a slowing in the rate of growth.
+"In terms of the chip shortage, [prices will be] not as high before ... or flat, or slightly decreasing," Lee told ZDNet.
+"So far we don't see that any sign that we're going to see [a] crash."
+See also: Intel's $20 billion in new fabs won't end chip shortage
+In the current environment, with Gartner forecasting 27% revenue growth in the sector and high single digits next year, Lee said the whole supply chain is aggressively trying to build up inventory, and it is an environment that hasn't been seen before.
+While the pandemic cannot explain all of it, it can explain some of it, as can other supply side issues, rising logistics prices, and pure demand for chips.
+"The whole is getting up, the price, not only semiconductor, but also for everything," Lee said. "Logistic and transportation fee, or the crude oil fee ... it's a kind of inflation."
+Much like headlines of a Sydney property price bust, the falls will look more like a plateau when zoomed out.
+Automakers could also be in for a continued dosage of pain as foundries continue to profit from leading fabrication processes as they have little fiscal incentive to push not as profitable legacy electronics, and car makers do not tend to switch chips validated for their models once they are in production.
+There was little consolation for the auto sector in a Gartner research note that said an oversupply of memory would appear in the second half of 2022, and moving to newer processes was a way to take advantage of it.
+"Moving to newer components to secure midterm to long-term supply will enhance business continuity," the note said.
+"It will also likely result in further cost savings as chip suppliers concentrate technology transitions on mainstream products rather than legacy devices."
+Making money: TSMC increases car chip output by 30% amid global chip shortage
+Last week, Micron posted its second-highest quarterly revenue, proving someone is making money in a tight market.
+Speaking on the PC market, an area which Micron expects shortages to resolve in the coming months, CEO Sanjay Mehrotra echoed the predictions of a pricing plateau.
+"It really is all driven by work-from-home, learn-from-home, the demand acceleration that has taken place through the pandemic will continue to support healthy environment for PC in calendar year '22 as well," he said.
+"Of course, in 2020 and 2021, PC has gone through a double-digit unit growth in -- on a calendar year basis. We expect that to moderate in calendar year '22 to perhaps from flat to low single-digit year-over-year growth in terms of PC units sold. Yet, it will be a healthy market."
+It's important to note that when a tech CEO says "healthy" they mean "nice and profitable" for them.
+Mehrotra added that between AI, 5G, data centres, and user devices the company is seeing strong underlying pent-up demand.
+"COVID further accelerated it. Semiconductor supply chain shortages are only stretching that demand out because some of the demand gets pushed out," he said.
+"On the supply chain aspects ... the lead time in the semiconductors is long, and this will take several quarters to continue to improve.
+"It's really the combination of the demand drivers and the suppliers' -- supply capabilities and shipment capabilities. That combination, I think, really sets us up well as an industry for revenue growth and strong profitability in '22."
+Micron has said it will have record revenue in fiscal year 22, and be solidly profitable.
+If you were expecting 2022 to be the year that GPU prices might get back some normality, unfortunately like many things in recent years, the new normal is not going to resemble the old normal.
+PREVIOUSLY ON MONDAY MORNING OPENER:
+Remote working jobs row shows how much tech has changed
+Enterprise technology vendors rev up the workflow buzzword machine
+Apartment living is the frontier for 5G home internet
+If you want to understand how tech is changing, you need to follow the money
+Return to work meets hybrid office: The 6 looming questions.
+Apple's iOS 15, iPad OS 15, and MacOS Monterey updates aim for businesses
+Apple is bringing client-side scanning mainstream, and the genie is out of the bottle
+Hiring developers is the beginning, not the end, of your tech skills challenge
+Samsung's big mission is to take foldable devices -- Galaxy Z Fold 3 and Z Flip 3 -- mainstream
+RELATED TOPICS: PCS SERVERS STORAGE NETWORKING DATA CENTERS
+By Chris Duckett for Null Pointer | October 4, 2021 | Topic: Hardware
+SHOW COMMENTS
+MORE FROM CHRIS DUCKETT
+Cloud
+Telstra Purple to offer Azure-based Branch Offload edge compute as managed service
+Developer
+Firefox 93 arrives with tab unloading, insecure download blocks and enforced referrer trim
+Telcos
+NBN gives ground on lockdown CVC relief in response to telco CEO letter
+5G
+Optus parent sells 70% stake in tower business for AU$1.9 billion to AustralianSuper
+NEWSLETTERS
+SEE
+ALL
+RELATED STORIES
+1 of 3
+Best 4G laptop 2021: Top notebooks with cellular connectivity
+Need your PC to always be online while you're on the go? These laptops will keep you connected wherever there's no Wi-Fi.
+Best laptop 2021: Mac, PC, and Chromebook compared
+These are the devices that should be at or near the top of your shortlist.
+Best e-reader 2021: Kindle, Kobo, and more
+Do you love books but hate the space they take up? Then you need an e-reader. Here are our top picks for 2021 to help you decide on which one to get.
+ZDNet
+CONNECT WITH US
+© 2021 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED. Privacy Policy | Cookie Settings | Advertise | Terms of Use
+Topics
+Galleries
+Videos
+Sponsored Narratives
+Do Not Sell My Information
+About ZDNet
+Meet The Team
+All Authors
+RSS Feeds
+Site Map
+Reprint Policy
+Join | Log In
+Membership
+Newsletters
+Site Assistance
+ZDNet Academy

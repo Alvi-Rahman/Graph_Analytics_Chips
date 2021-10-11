@@ -1,0 +1,132 @@
+We use cookies to enhance your experience. By continuing to browse this site you agree to our use of cookies. More info.
+Accept
+Cookie Settings
+About
+News
+Articles
+Equipment
+Videos
+Advertise
+Directory
+More...
+Become a Member
+EDITORIAL FEATURE
+World-First Nanometer Chip Technology and the Future of Semiconductors
+Download PDF Copy
+By Marzia Khan
+May 12 2021
+Image Credit: siam.pukkato/Shutterstock.com
+IBM has created the world’s first 2 nm chip technology, a breakthrough in semiconductor design. With a growing demand for higher chip performance and energy efficiency, this novel technology aims to disrupt the market and provide a solution of the highest standard. This article will explore IBM’s innovation and the potential impacts the technology has on the future of this critical field. 
+When compared to the current and most advanced competitor, the 7 nm node chip, IBM’s novel design aims to achieve an increase of 45% regarding performance as well as a decrease in energy use of 75%.
+Advancing the semiconductor market with this state-of-the-art technology would result in a global effect in multiple areas, from computing, which would affect cell phone battery retention as well as laptop functionality, to global sustainability effects such as reducing the carbon footprint of data centers.
+The discovery of semiconductors, which allow for lower resistance to electrical currents in a certain direction, has been a critical component in the advancement of technology and the field of electronics as a whole. The electrical conductivity of semiconductor materials can be altered in a method called electron doping through methods such as temperature variations or the addition of impurities.
+Semiconductor materials include silicon and germanium, as well as compounds such as lead sulfide. The electron doping procedure enables semiconductors, silicon, and germanium to be used in diodes and transistors. Without this doping process, semiconductors do not fulfill their middle-ground purpose but rather behave as poor electrical insulators.  
+Related Stories
+NEC and Transmeta To Cooperate On Chip Technology - News Item
+European Commission To Invest In Semiconductor Research - News Item
+Samsung's Latest Chip Innovation Combines RF and Digital Chip Components into Single 65 nm Chip
+Semiconductors play a critical role in everyday life with the applications of this material enabling technology to be adapted and altered for the purposes of various devices, from rice cookers to trains. This adaptable characteristic of semiconductors is enabled by conductivity control, which makes this material advantageous for many industries, along with the lower raw material cost.
+How Will This Semiconductor Breakthrough Help the Field?
+Cell phones
+IBM’s novel 2 nm chip could have significant effects on the way technology has advanced so far, with a complete upheaval in user interactions with electronics and technology. With cell phones being a critical everyday component and the challenges that are faced with battery life, users would no longer have to worry about the longevity of their smartphones.
+The advanced 2 nm chip could quadruple the battery life of cell phones, allowing longer periods of time between charging and enabling users to plug their phone in for recovery every four days.
+What nanomaterials equipment are on the market today?
+This would be a significant game-changer for phones that struggle to last more than one day without requiring a charger due to poor battery life.
+Laptops
+Another potential benefit could be the functionality of laptops. Like cell phones, laptop companies provide differing benefits for their products, from long battery life to gaming compatibilities.
+This novel design would enable laptops to have faster functionality. This would unequivocally alter the way users choose the right product for them. With more choice and better quality of the services provided, the design would meet essential needs for this growing market. 
+Carbon footprint
+While the advantages of electronics are significant and will assist productivity and lives worldwide, another potential benefit will also impact the environment. Data centers, which are utilized worldwide for various purposes, account for 1% of global energy use and the move of all servers to a 2 nm-based processor would enable carbon footprint to be reduced significantly.
+SVP and Director of IBM Research, Darío Gil commented on the novel 2 nm chip, stating it is “essential to the entire semiconductor and IT industry. It is the product of IBM's approach of taking on hard tech challenges and a demonstration of how breakthroughs can result from sustained investments and a collaborative R&D ecosystem approach."
+The Future of Semiconductors
+This 2 nm chip would dramatically alter the quality of products and services which are integral to the functioning of society, from the running of trains to the handheld products used every day, such as phones and laptops.
+The nano-sheet technology used by IBM has illustrated the advanced scaling of semiconductors. Increasing the number of transistors per chip enables the chip size to decrease in size, but increase in efficiency, speed, and reliability, with the 2 nm chip having the ability to hold up to 50 billion transistors.
+This level of technology is truly remarkable and has been developed less than four years after the 5 nm chip was announced, illustrating the speed and quality of IBM’s research.
+The future of semiconductors seems to remain firmly in the hands of this market leader, with the growing demand for electronics having been answered with a significant solution that will potentially increase the quality of growth and research within every field worldwide.
+References and Further Reading
+Techxplore.com (2021) IBM unveils world's first 2 nanometer chip technology, opening a new frontier for semiconductors. [Online] Available at: https://techxplore.com/news/2021-05-ibm-unveils-world-nanometer-chip.html  [Accessed 11 May 2021].
+Seeger, K. (2013) Semiconductor Physics. Vienna: Springer Wien.
+Disclaimer: The views expressed here are those of the author expressed in their private capacity and do not necessarily represent the views of AZoM.com Limited T/A AZoNetwork the owner and operator of this website. This disclaimer forms part of the Terms and conditions of use of this website.
+Written by
+Marzia Khan
+Marzia Khan is a lover of scientific research and innovation. She immerses herself in literature and novel therapeutics which she does through her position on the Royal Free Ethical Review Board. Marzia has a MSc in Nanotechnology and Regenerative Medicine as well as a BSc in Biomedical Sciences. She is currently working in the NHS and is engaging in a scientific innovation program.
+Download PDF Copy
+Read in:English
+Citations
+Tell Us What You Think
+Do you have a review, update or anything you would like to add to this article?
+Leave your feedback
+Login
+    Public Comment Private Feedback to AZoNano.com
+Submit
+Latest
+interviews
+Featured
+equipment
+Trending
+stories
+Understanding Customer Requirements to Build Application-Specific Products for Scientific Instrumentation
+Tom Freda
+Concrene - How the First Graphene-Enhanced Concrete was Developed
+Dr. Dimitar Dimov, Ph.D.
+Quantum Dot Technology In the Display Industry
+Samuel Halim
+Sponsored Content
+Protecting Cell Culture Incubators with Vibration Isolation Solutions
+From TMC Vibration Control
+16 Sep 2021
+Achieving Large Scale Production of Graphene and Graphene Products
+From The Sixth Element (Changzhou) Materials Technology Co.,Ltd.
+9 Sep 2021
+The Development of Microscale 3D Metal Printing
+From Exaddon AG
+18 Aug 2021
+Pushing the Limits of Highest Performance Precision Automation Linear and Rotary Motion Systems
+From PI (Physik Instrumente) LP
+26 Jul 2021
+Newsletters you may be interested in
+Clean Technology
+(Subscribe or Preview)
+Energy Storage Technologies
+(Subscribe or Preview)
+Nanoparticles & Colloids
+(Subscribe or Preview)
+See all Newsletters »
+Other Sites from AZoNetwork
+AZoM
+AZoRobotics
+AZoCleantech
+AZoOptics
+AZoBuild
+AZoMining
+AZoSensors
+AZoQuantum
+News Medical
+Life Sciences
+Useful Links
+News
+Articles
+Equipment
+Videos
+Directory
+Journals
+Books
+Events
+Materials
+Applications
+Industries
+About
+The Team
+Search
+Become a Member
+Newsletters
+Contact
+Help/FAQs
+Advertise
+Terms & Conditions
+Privacy & Cookie Policy
+Update Your Privacy Preferences
+Sitemap
+back to top
+AZoNano.com - An AZoNetwork Site
+Owned and operated by AZoNetwork, © 2000-2021

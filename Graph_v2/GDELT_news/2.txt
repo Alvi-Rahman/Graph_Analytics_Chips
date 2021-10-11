@@ -1,0 +1,107 @@
+TECHNOLOGIE
+wpisz tytuł szukanej gry ...
+zaloguj się rejestracja
+Newsroom
+Encyklopedia Gier
+tvgry.pl
+Poradniki
+Teksty
+Technologie
+Pobierz
+Darmowe
+Promocje
+Forum
+filmomaniak.pl
+Premium
+Technologie
+Tanie i polecane
+Porady
+PC Windows
+Konsole
+Telefony
+Technika
+WIADOMOŚĆ SPRZĘT I SOFT 26 sierpnia 2021, 10:59
+autor: SteamPunker
+Braki w dostawach chipów dotykają wszystkich, oprócz jednej firmy
+Deficyt chipów wciąż trwa i nic nie wskazuje na to, że ta sytuacja szybko się skończy. Apple jak się zdaje na razie jest odporne na problemy.
+140
+11
+17
+28
+Optymistyczne prognozy branżowych analityków zakładają, że obecny deficyt chipów zostanie uregulowany w nadchodzących miesiącach. Odmienne informacje spływają za to od sprzedawców detalicznych i hurtowych dystrybutorów – zakładają oni, że ze względu na niemalejący popyt problem będzie się pogłębiał.
+Siła negocjacyjna Apple w kontraktach z producentami chipów zapewniła mu stały łańcuch dostaw. Dzięki temu kalifornijska firma nie odczuła wpływu niedoboru półprzewodników w takim stopniu jak konkurencyjny Samsung.
+Trwający obecnie kryzys, spowodowany m.in. pandemią koronawirusa, odczuwalny jest głównie w krajach, gdzie wytwarza się podzespoły komputerowe. Wietnam i Malezja nie odzyskają za szybko pełnej mocy przerobowej, skoro rządy tych krajów próbują jednocześnie chronić swoich obywateli oraz zapobiegać zapaści lokalnej gospodarki. W najbardziej optymistycznym scenariuszu rynek ustabilizuje się w trzecim kwartale 2021 roku, w najgorszym dopiero w przyszłym roku.
+Wpływ pandemii na produkcję półprzewodników w Wietnamie. Źródło: www.technavio.com.
+Apple w kwietniu tego roku ostrzegało, że nie będzie w stanie wyprodukować wystarczającej liczby iPadów i MacBooków, aby zaspokoić zapotrzebowanie. Przedsiębiorstwo nie wytworzyło odpowiedniej ilości chipów M1 (System on Chip w architekturze ARM), montowanych w jego komputerach. Oprócz tego był problem z podażą sterowników ekranu i kontrolerów pamięci NAND.
+Według badania Wave7, zauważonego przez PCMag, braki krzemu zaczęły uderzać w produkcję niskobudżetowych telefonów z Androidem, zaś firmy takie jak OnePlus czy Samsung odnotowały największe „wąskie gardło” w łańcuchu zaopatrzenia. Z drugiej strony Apple zdołało przetrwać burzę, zapewniając sobie dostawę komponentów z wyprzedzeniem. Dzięki temu zakup iPhone'a 12 jest stosunkowo łatwy.
+Architektura chipu M1. Źródło: www.apple.com.
+Problemy mogły zacząć się już w marcu, kiedy Qualcomm zasygnalizował kłopoty z wytwarzaniem nisko- i średniobudżetowych chipów Snapdragon. Prezes Xiaomi – Wang Xiang – ostrzegł również, że zaopatrzenie wysokobudżetowych podzespołów też jest ograniczone. Z tego powodu korporacja będzie zmuszona podnieść koszty produkcji, jeżeli nie znajdzie sposobu na zoptymalizowanie procesu projektowania telefonów.
+Nam jako konsumentom pozostaje tylko czekać na ustabilizowanie się sytuacji i spokojnie patrzeć w przyszłość. Wszak wielkimi krokami zbliża się nie tylko premiera iPhone’ów 13, ale też m.in. kolejne iteracje składanych smartfonów Samsunga.
+Samsung może zdalnie zablokować nasz telewizor
+Xiaomi w drodze na smartfonowy tron - do pokonania tylko Samsung
+Zapraszamy Was na nasz kanał na YouTube – GRYOnline Technologie, który jest poświęcony zagadnieniom związanym z nowymi technologiami. Znajdziecie tam liczne porady dotyczące problemów z komputerami, konsolami, smartfonami i sprzętem dla graczy.
+sprzęt i softApple iOS iOS
+Fragile Existence to ambitny kosmiczny RTS dla fanów Battlestar Galactica
+PC to tylko 14% rynku gier w Europie; FIFA 21 najlepiej sprzedającą się grą
+Ray tracing w smartfonach Samsunga już oficjalnie
+Maycuzai, 5 października 2021, 19:05
+Samsung potwierdził, że dzięki współpracy z AMD jego najnowszy flagowiec – Galaxy S22 – dostanie wsparcie dla sprzętowego ray tracingu. Technologia może trafić również do budżetowych urządzeń.
+Android 12 już dostępny - sprawdź, które smartfony otrzymają aktualizację
+Arkadiusz Strzała, 5 października 2021, 15:54
+Android 12 już oficjalnie jest, ale w dość nietypowej formie – kodu źródłowego. Sprawdź, co oferuje nowy system i jakie modele smartfonów otrzymają aktualizację jako pierwsze.
+UE może zmusić Apple do stosowania USB-C w iPhone'ach od 2024 roku [Aktualizacja]
+GRG, 24 września 2021, 08:56
+Unia Europejska może wkrótce wymusić na Apple wprowadzenie USB-C w iPhone'ach. Jutro zostanie przedstawiony projekt przepisów dotyczący jednolitej ładowarki.
+kalendarz wiadomości
+2021
+sierpień
+Nie Pon Wto Śro Czw Pią Sob
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+        Najnowsze w dziale Technologie
+Windows 11 - wszystko co trzeba o nim wiedzieć. Kiedy premiera i jaka jest cena?
+Facebook w sześć godzin stracił miliardy - skutki największej awarii od lat?
+Co popsuł Windows 11? Te funkcje działały na Windowsie 10
+Chipów naprawdę brakuje? Producent oskarża pośredników
+Najmniejszy kokpit do grania w symulatory, jest niewiele większy od banana
+Intel Arc ma trafić na rynek z opóźnieniem przez problemy z dostawami
+Rust i War Thunder ze wsparciem dla Steam Deck, PUBG i DayZ już niekoniecznie
+GOL NEWSROOM
+Codziennie newsy o grach
+Popularne w dziale Technologie
+Pobierz Windows 11 - dziś premiera nowego systemu
+Nowy trojan kradnie dane do kont Steam i Epic Games Store
+Elementarna wiedza o komputerach zamiera - młodzi nie wiedzą, czym są foldery i pliki
+12 aplikacji na Androida i iOS-a, których nie znasz, a ułatwią ci życie
+Czy zwykły gracz może zarobić na kopaniu kryptowalut?
+Chomik handlował kryptowalutami, zarobił więcej niż Warren Buffet
+Awaria Facebooka; nie działa Messenger i Instagram [Aktualizacja #2]

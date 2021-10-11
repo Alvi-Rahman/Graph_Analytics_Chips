@@ -1,0 +1,52 @@
+SHOW SEARCH DIALOG
+JOIN OPTICA
+LOG IN
+MENU
+NEWS / “SPIKED” SEMICONDUCTORS FOR CLEAN HYDROGEN PRODUCTION
+RESEARCH NEWS
+“Spiked” Semiconductors for Clean Hydrogen Production
+Mara Johnson-Groh
+A water-splitting apparatus created by researchers at the University of Texas, Austin, USA. [Image: Soonil Lee, University of Texas at Austin]
+Hydrogen fuel is often touted as a clean energy source, with water vapor as its only emission. But often hydrogen is created by heating steam and methane, a process that itself produces carbon dioxide emissions. Sunlight-driven methods don’t add carbon emissions—but they’ve been expensive and inefficient to implement.
+That reportedly could change with an improved semiconductor device that uses sunlight to split oxygen off water molecules (Nat. Commun., doi: 10.1038/s41467-021-24229-y). “The devices we’ve demonstrated,” according to Edward Yu of the University of Texas, Austin, USA, a coauthor on the new work, “can be fabricated using low-cost materials and processes that are already widely used in manufacturing of semiconductor electronics, and provide excellent stability under operation.”
+Silicon–water dilemmas
+Solar water splitting is typically performed with photoelectrochemical cells, which are not unlike solar cells. These cells use semiconductor materials to absorb photons and create free electrons and holes, which are essential to energizing and splitting the water molecules.
+Photoelectrochemical cells are immersed in water, so it’s necessary for them to be durable. Since silicon degrades in the presence of water-splitting reactions, photoelectrodes are often coated with an insulating protective layer. These layers, though, can reduce efficiency by blocking the flow of electrons and holes between the photoelectrode and the water.
+Spiked for success
+In the new research, the scientists used a method called aluminum spiking, which involves coating the insulated semiconductor with aluminum and heating it to create nanoscale pathways through the insulator layer. The researchers then filled the pathways with nickel to form conductive bridges that improve the water-splitting efficiency and catalyze the oxygen evolution reaction, while maintaining the semiconductor’s durability.
+The improved semiconductors focus on the oxygen evolution reaction in water splitting, whereby electrons are removed to form oxygen gas. Fully splitting water molecules also requires a hydrogen evolution reaction, to produce the hydrogen gas. The researchers plan to extend their findings to the hydrogen half of the equation next, as well as to continue improving efficiencies in the system.
+Toward commercial use
+The authors have filed a patent for the new technology and see it being commercialized in the future.
+“The key processes involved in fabricating the types of devices we’ve demonstrated could be implemented in manufacturing very quickly,” Yu said. “Commercial viability will still require some improvements in certain aspects of the performance of these devices, and we have a number of approaches we’re exploring that we hope will enable these improvements to be realized.”
+Publish Date: 29 July 2021
+
+Add a Comment
+Article Tools
+ Add Comments
+Share this Page
+ADVERTISEMENT
+ADVERTISEMENT
+
+Recent Headlines
+Luminate Announces Fourth-Round Winners
+Light-Based 3D Printing Creates Vaccine Microneedle Patch
+Doubts on “Belonging” Affect STEM Student Performance
+Explore Latest
+Research and Industry News
+Careers
+Book Reviews
+Multimedia
+Image of the Week
+OPN Video
+After Image
+Photo Contest
+Infographics
+The Magazine
+Latest Issue
+Archive
+Information
+About OPN
+For Authors
+For Advertisers
+Contact
+Copyright 2021 OPTICA. All rights reserved. | Image Use Policy | Privacy Policy | Terms of Use

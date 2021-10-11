@@ -1,0 +1,138 @@
+NEWS
+STRATEGY
+SPECIAL REPORTS
+GALLERIES
+BUSINESS RESOURCES
+OTHER CONTENT
+MORE
+IOT WORLD EVENTS
+NEWSLETTER
+IIOT
+CITIES
+ENERGY
+HOMES/BUILDINGS
+TRANSPORTATION/LOGISTICS
+CONNECTED HEALTH CARE
+RETAIL
+AI
+ARCHITECTURE
+ENGINEERING/DEVELOPMENT
+SECURITY
+SUPPLY CHAIN, TRANSPORTATION & LOGISTICS
+Despite Semiconductor Market Exuberance, Supply Chain Asymmetry Continues
+While the semiconductor market continues to promote enthusiasm, supply and demand dysfunction could undercut exuberance.
+Written by
+Lauren Horwitz
+3rd September 2021
+While the expectations for the semiconductor market continues to trend positively, the impact of COVID-19 and global trade tensions have cast a pall on this rosy picture.
+For 2022, the global semiconductor market is projected to grow by 10.1 percent to US$ 606 billion, according to some estimates. But this growth is tempered by the long-tail impact of the pandemic on supply and demand in various industries.
+In 2020, demand for PCs and other electronics boosted demand for semiconductors. So too, tariff wars between the U.S. and China created chip supply shortages.
+“Obviously COVID brought an entire different buyer behavior [consumers bought] more TVs and spent less money on traveling and other things. What that does is give you increased demand for electronics. But also the semiconductor shortage stemmed from political policies that were put in place in the U.S. versus China—that really shifted demand towards other products and a sudden shortage of supply,’ Yang said.
+Today, continued demand for electronics as well as resurgent demand for cars and other consumer goods has created a supply shortage that will need to be addressed by increased production.
+“One example is electric vehicles,” said Michael Yang, senior director of semiconductors at Omdia. “We have turned the hockey stick and the demand for displays and for semiconductors will continue. You have to spend money to support the capacity to build that kind of demand,” Yang said.
+At the same time, even as demand for chips continues unabated, there could be risks of future gluts, as industries try to develop chip surpluses for the future and as countries to try build internal manufacturing capacity so they aren’t left out in the cold. Today, as certain markets like automotive experience supply shortages and prices skyrocketing, it may still take time for the global supply chain to even out.
+“Everyone is working towards shifting their manufacturing allocation toward longer-demand segments [such as electric cars],” Yang said. But there are certain risks to optimizing for long-game demand. Over time, this could create yet another glut of supply, Yang said. Regional desires to become self-reliant in various countries also create risks for the global supply chain. “The risk is when the industry doesn’t cooperate as a whole, you have isolated supply around the world,” Yang said.
+  Tags: Artificial intelligence/machine learning Connected cars Supply Chain, Transportation & Logistics Technologies
+RELATED
+Automotive Chip Shortage Byproduct of ‘Perfect Storm’
+Supply Chain Needs to Be Secured to Address Chip Shortage
+Going Beyond Just IoT GPS: A Cookbook for Mobile IoT Applications
+New ThroughTek IoT Supply Chain Vulnerability Announced
+Leave a comment
+-or-
+Log in with your IoT World Today account
+Alternatively, post a comment by completing the form below:
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Save my name, email, and website in this browser for the next time I comment.
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Related Content
+Smart Cities Need Multiple Solutions
+The Case for Citizen Engagement
+Smart Cities and the New Mobility
+Creating a Smart Social City for All
+NEWS
+View all
+Huawei’s Software Pivot Aims to Combat U.S. Sanctions
+29th September 2021
+Feeding The Cognitive Enterprise: Nestlé Pushes AI, Predictive Maintenance and Robotics
+27th September 2021
+WHITE PAPERS
+View all
+The IT and OT Convergence: New Benefits and Considerations
+10th September 2021
+Transforming Data with Predictive Analytics
+2nd September 2021
+SPECIAL REPORTS
+View all
+Cybersecurity Protection Increasingly Depends on Machine Learning
+28th October 2020
+WEBINARS
+View all
+No-code IT/OT convergence with an Industrial IoT hub
+14th October 2021
+AI Driven Precision Medicine in Healthcare
+19th October 2021
+GALLERIES
+View all
+Top IoT Trends to Watch in 2020
+26th January 2020
+Five of the Most Promising Digital Health Technologies
+14th January 2020
+INDUSTRY PERSPECTIVES
+View all
+Indoor Climate Change: Understanding the Air We Breathe Using Data
+15th September 2021
+Securing our smart homes
+24th August 2021
+EVENTS
+View all
+IoT World 2021
+3rd November 2021 - 4th November 2021
+TWITTER
+Nominations Close! Today is the last day you can submit your vote for your IoT Leader of the Year Award! Vote for:… twitter.com/i/web/status/1…
+30th September 2021
+Secure your pass for the @IoTWorldSeries 2021 and explore the expo this November. Working in partnership with the… twitter.com/i/web/status/1…
+30th September 2021
+Nominations Close! Today is the last day you can submit your vote for your IoT Leader of the Year Award! Vote for:… twitter.com/i/web/status/1…
+30th September 2021
+Secure your pass for the IoT World 2021 and explore the expo. Working in partnership with the #AISummit, we're crea… twitter.com/i/web/status/1…
+29th September 2021
+The IoT World Awards Ceremony celebrates the outstanding contributions of the best of the best in IoT. Have you or… twitter.com/i/web/status/1…
+29th September 2021
+Watch Manohar Paluri, Director @facebookai as he explains the journey to digital transformation at Facebook with co… twitter.com/i/web/status/1…
+29th September 2021
+Secure your pass for the @IoTWorldSeries 2021 and explore the expo this November. Working in partnership with the… twitter.com/i/web/status/1…
+29th September 2021
+Huawei will focus on its OS offering to shore up its growing enterprise software division. dlvr.it/S8bXqy https://t.co/xnSsSBnGNj
+29th September 2021
+NEWSLETTER
+Sign up for IoT World Today newsletters: vertical industry coverage on Tuesdays and horizontal tech coverage on Thursdays.
+SPECIAL REPORTS
+Our Special Reports take an in-depth look at key topics within the IoT space. Download our latest reports.
+BUSINESS RESOURCES
+Find the latest white papers and other resources from selected vendors.
+MEDIA KIT AND ADVERTISING
+Want to reach our audience? Access our media kit.
+DISCOVER MORE FROM INFORMA TECH
+IoT World Series
+Channel Futures
+RISC-V
+Dark Reading
+ITPro Today
+Web Hosting Talk
+WORKING WITH US
+Contact
+About Us
+Advertise
+Login/Register
+FOLLOW IOT WORLD TODAY ON SOCIAL
+Privacy
+CCPA: “Do Not Sell My Data”
+Cookies Policy
+Terms
+Copyright © 2021 Informa PLC. Informa PLC is registered in England and Wales with company number 8860726 whose registered and Head office is 5 Howick Place, London, SW1P 1WG.
+This website uses cookies, including third party ones, to allow for analysis of how people use our website in order to improve your experience and our services. By continuing to use our website, you agree to the use of such cookies. Click here for more information on our Cookie Policy and Privacy Policy.
+X

@@ -1,0 +1,55 @@
+Subscribe
+Sign In
+May 13, 2021,01:42pm EDT|33,063 views
+Lattice Semiconductor Increases Guidance, Introduces New Products And Goes After New Markets At Its Analyst Day
+Patrick MoorheadSenior Contributor
+Cloud
+I write about disruptive companies, technologies and usage models.
+Follow
+Listen to article
+11 minutes
+Lattice Semiconductor LATTICE SEMICONDUCTOR
+Yesterday, Lattice Semiconductor hosted its 2021 Investor Day conference. The conference is always an excellent time for the company to pause and reflect on past promises, recent products, financial performance, and touch on new product plans and markets. The last time we saw Lattice host an Investor Day was  in 2019. During that time, the company set its sights on strengthening its low power programmable leadership, and in the past two years, it has taken significant steps to ensure the company remains in the lead for years to come. As an industry analyst, I attend investor and financial analyst events as I find they are the best way to get “ground truth” from any company. I attended to get the ground truth from Lattice and was not disappointed. Lattice's 2021 Investor Day included significant product updates and a new company financial model focused on long-term growth and driving shareholder value. Let's dig into the announcements. 
+Firm promises and substantial delivery
+Before we dig into Lattice's new product plans and guidance, it's worth looking at what the company committed to back in 2019 and how it’s delivered on these promises. In 2019, the company promised us more competitive FPGAs, a faster product cadence, and more software solutions. In this week’s update, Lattice said it was able to triple its product launch cadence, launch its new Nexus platform in Q4 of 2019, and bring three new software solution stacks to market in 2 years.
+Lattice “say-do” ratio is high LATTICE SEMICONDUCTOR
+PROMOTED
+Lattice delivered on plenty of solid financial promises that as well. To name a few, the company had 109% growth in EPS since 2018, ran OPEX near 35% of target, and was net cash positive for the first time in six years at the end of 2020. To me, it all starts with aligning products  with the right markets. If you build the right products and effectively communicate their unique value  to your customers, the revenue will follow. This is easier said than done, but Lattice has unquestionably delivered what it committed to in  the past two years. For those who know Lattice CEO Jim Anderson well and have tracked his career, he has a long track record of delivering a high “say/do” ratio. 
+New products and new markets
+For Lattice Semiconductor to continue to proliferate, the company will have to focus on growing in its current markets and attacking new ones. Throughout its 2021 Investor Day presentation, we saw references to target markets like communications, computing, automotive, industrial, and consumers. These markets should allow Lattice to service many different types of devices, including next-gen PCs, the Datacenter, 5G comms, future factories, robotics, automotive, and more. The markets that make up the bulk of Lattice's current business include communication, compute, industrial, and automotive. Lattice reported a 12% CAGR throughout the last three years in those strategic markets and the company convincingly mapped out how it gets more content and how it will gain share. 
+MORE FOR YOU
+Oracle Updates Advertising And Customer Experience Applications
+Synaptics May Be A Premium IoT Company, But It's Still Cranking Out Solid Fingerprint Readers For Notebooks And Chromebooks
+Big Blue Goes Tiny With World’s First 2nm Nanosheet Chip Tech
+Lattice target markets LATTICE SEMICONDUCTOR
+It wouldn't be a proper Investor Day without a few new product announcements. First off, Lattice launched its fourth solution stack, Lattice Automate. The company has done a great job releasing software solution stacks over the past couple of years, and this one focuses on factory automation, functional safety, and low power AI-based predictive maintenance. Stock FPGAs aren’t the easiest to program, but with solution stacks, Lattice is drastically improving ease of programmability and time to market. And, Lattice Automate takes advantage of the company’s up to 14x lower power consumption vs. a 32-bit MCU while controlling 2x the motors simultaneously. 
+On the silicon side, building on the success of previous Lattice Nexus-based productss, Lattice plans on unveiling a new Nexus product family called CertusPro-NX. This general-purpose FPGA family will be launch in June of this year, the 23rd to be exact. I didn't get a full dive into the product as Lattice promised to provide more details at that time. In the meantime, Lattice did pledge a 5x increase in system bandwidth, industry-leading power efficiency, and support for a broader range of applications. Initially, this product seems to build on the foundation of Lattice's previous Nexus products with improved performance.
+Lattice solution stacks LATTICE SEMICONDUCTOR
+Lattice also gave us a sneak peek of the 5G ORAN Solution Stack that will debut in the first half of 2022. For those that aren't familiar with ORAN, it stands for Open Radio Access Network. The 5G ORAN Solution Stack will be utilized in the build of early 5G systems. As 5G development and adoption continues to increase, the Lattice 5G ORAN Solution Stack will provide security and control for ORAN architectures. I didn’t see this as a “throwing in a fishing line” approach as the company said it already has committed designs.
+The most exciting announcement, in my opinion, was the new mid-range FPGA development platform, called Lattice Avant which will launch in the second half of 2022 . There are plenty of reasons to be excited about the new platform. To start, Lattice saw a need to develop a performant, low-power platform to address the mid-range FPGA market which represents $3B of potential revenue for the company. With Avant, Lattice can take its low power programmable FPGAs into the mid-range and double its addressable market. Lattice Avant is based on an advanced architecture and has 5x the capacity of the Nexus solutions. I think it makes a lot of sense for Lattice to take its low-power expertise to other parts of the market and support different applications. 
+The mid-range market is a greenfield opportunity for Lattice as its competition – Intel and Xilinx - don’t see  as strategic since most of their efforts go into high-end FPGAs and SoCs that include high-end FPGAs. Lattice is bringing new designs and the latest FPGA-level manufacturing to bear against 5-year old designs implemented using older manufacturing nodes.
+Lattice Semiconductor LATTICE SEMICONDUCTOR
+Improved financial guidance 
+A big focus of the 2021 Lattice Investor Day was driving shareholder value. Sherri Luther, Chief Financial Officer at Lattice, opened with a brief reflection on Lattice's financial performance over the past two years. After that, the company laid out its long-term financial plan. 
+Several key takeaways from the updated plan included:
+Targeting double-digit revenue growth
+Raising gross margin target to greater than 65%,
+Keeping OPEX target at 35%
+Raising operating profit target to greater than 30%.
+A lot of operational execution stands between Lattice and these goals, but if the company remains focused and continues to deepen its roots with its key customers, I don't see why it can't pull off the feat. It helps that the company is also doubling its addressable market with its new mid-range FPGA platform, Lattice Avant.
+Lattice Semiconductor LATTICE SEMICONDUCTOR
+Wrapping up 
+At the end of its 2021 Investor Day, I came away encouraged for the future of Lattice Semiconductor. The company reinforced its focus on executing its product plans and providing its shareholders with tremendous value over the coming years. The rapid product launch cadence, mature hardware solutions, software stacks, and strong financial performance over the past two years are impressive. I believe the company is entering a growth phase where all the hard work of the last few years are really going to pay off.
+Up and to the right LATTICE SEMICONDUCTOR
+I think the company’s biggest challenge is highlighting that FPGAs can be used instead of controllers and ASICs. Sure, that’s always been the challenge for FPGAs, but it appears Lattice is one of the only companies taking entry and mid-range FPGAs seriously and hence needs to “make” the market. Newer designs, newer manufacturing and new software stacks will help Lattice go from “making” this market to “taking” market share.
+Lattice is extremely good at focusing on its core strength in low-power programmable devices. I expect them to continue to deepen relationships with customers and find new applications for Lattice devices in different markets. I look forward to covering the latest products as they launch and following Lattice's performance in the coming months.
+
+Note: Moor Insights & Strategy writers and editors may have contributed to this article. 
+  Moor Insights & Strategy, like all research and analyst firms, provides or has provided paid research, analysis, advising, or consulting to many high-tech companies in the industry, including 8x8, Advanced Micro Devices, Amazon, Applied Micro, ARM, Aruba Networks, AT&T, AWS, A-10 Strategies, Bitfusion, Blaize, Box, Broadcom, Calix, Cisco Systems, Clear Software, Cloudera, Clumio, Cognitive Systems, CompuCom, Dell, Dell EMC, Dell Technologies, Diablo Technologies, Digital Optics, Dreamchain, Echelon, Ericsson, Extreme Networks, Flex, Foxconn, Frame (now VMware), Fujitsu, Gen Z Consortium, Glue Networks, GlobalFoundries, Google (Nest-Revolve), Google Cloud, HP Inc., Hewlett Packard Enterprise, Honeywell, Huawei Technologies, IBM, Ion VR, Inseego, Infosys, Intel, Interdigital, Jabil Circuit, Konica Minolta, Lattice Semiconductor, Lenovo, Linux Foundation, MapBox, Marvell, Mavenir, Marseille Inc, Mayfair Equity, Meraki (Cisco), Mesophere, Microsoft, Mojo Networks, National Instruments, NetApp, Nightwatch, NOKIA (Alcatel-Lucent), Nortek, Novumind, NVIDIA, Nuvia, ON Semiconductor, ONUG, OpenStack Foundation, Oracle, Poly, Panasas, Peraso, Pexip, Pixelworks, Plume Design, Poly, Portworx, Pure Storage, Qualcomm, Rackspace, Rambus, Rayvolt E-Bikes, Red Hat, Residio, Samsung Electronics, SAP, SAS, Scale Computing, Schneider Electric, Silver Peak, SONY, Springpath, Spirent, Splunk, Sprint, Stratus Technologies, Symantec, Synaptics, Syniverse, Synopsys, Tanium, TE Connectivity, TensTorrent, Tobii Technology, T-Mobile, Twitter, Unity Technologies, UiPath, Verizon Communications, Vidyo, VMware, Wave Computing, Wellsmith, Xilinx, Zebra, Zededa, and Zoho which may be cited in blogs and research.
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. 
+Patrick Moorhead
+Follow
+Patrick was ranked the #1 analyst out of 8,000 in the ARInsights Power 100 rankings and the #1 most cited analyst as ranked by Apollo Research. Patrick founded Moor… Read More
+Print
+Reprints & Permissions
+Play Video

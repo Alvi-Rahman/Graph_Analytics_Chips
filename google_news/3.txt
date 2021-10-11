@@ -1,0 +1,110 @@
+person
+Sign In
+shopping_cart
+Cart
+Join SME
+search
+About
+Technologies
+Events
+Training
+Engage
+Education
+Membership
+Media
+Semiconductor Devices for Automobiles
+September 17, 2021
+By Arkadeep Kumar, PhD
+Applied Materials Inc.
+Semiconductor devices are ubiquitous in our daily life. Semiconductor applications include consumer electronics such as mobile phones, laptops, computers, telecommunications, 5G, cloud computing infrastructure and automobiles.
+Several systems for human-like sensing can provide vision functions in autonomous cars. Future cars are likely to combine two or more sensor systems. (Image courtesy Yole Développement)
+In technologically advanced automobiles manufactured today, semiconductor devices are used for critical functions, such as sensing, safety features, power management, displays and control of the vehicle. There are more applications of semiconductors in hybrid and electric vehicles (EVs), which are now growing significantly, with more than 1 million EVs added in the last year globally [1].
+The automobile manufacturing industry has been hit hard by semiconductor chip shortages worldwide. Leading carmakers reported reduction in production by as much about 40 percent due to these shortages [2]. In response to such semiconductor chip shortages, the U.S. government took several initiatives, including the CHIPS (Creating Helpful Incentives to Produce Semiconductors) for America Act. Today’s shortages can be traced to production cutbacks of chips used in cars in the early days of the COVID-19 pandemic as demand for cars dropped. However, the production of high-performance chips did not slow down. Demand for consumer electronics, smartphones, laptops and displays increased as the global workforce shifted to remote work environments and quarantines due to the pandemic. Semiconductor manufacturing facilities prioritized the production of chips for those electronics rather than automobiles.
+Semiconductor devices are made of wafers of material like silicon, gallium arsenide or silicon carbide substrate as base materials. Cutting-edge nanoscale manufacturing technologies deposit and remove material in a controlled manner, often in atomic precision over hundreds of manufacturing steps, to achieve the final semiconductor chip. Semiconductor devices are manufactured in specialized facilities called cleanrooms that require ultra-clean air-circulation. It is critical to reduce particles in the cleanroom air because particles cause defects in small-scale (nanometer) manufacturing processes. Cleanrooms and semiconductor manufacturing tools (often called wafer fab equipment or WFE) are expensive. The complex manufacturing process of semiconductor chips is about a $500 billion industry and expected to grow. Semiconductor devices perform various functions such as microprocessors, switches, sensors for light or heat and amplification of signals–all applicable in modern automobiles.
+Photovoltaics or solar cells integrated with cars. (Photo courtesy Fraunhofer ISE)
+In this article, we look at a few aspects of how semiconductors are used in automobiles:
+Safety and driver assistance: In modern automobiles, semiconductor devices enable safety systems and semi-autonomous driver assistance systems. Intelligent functions enabled by semiconductor devices are blind-spot detection systems, backup cameras, collision-avoidance sensors, adaptive cruise controls, lane-change assist, airbag deployment sensors and emergency braking systems.
+Electrification of vehicles: Several functions of vehicle controls now have electric systems instead of mechanical systems. Semiconductors have been critical to achieving this. Such electrification has also helped increase the efficiency of combustion in the car engine, or battery management systems in hybrid and electric vehicles, assisting in recovering energy from regenerative braking systems and enabling electric vehicle technologies.
+Connectivity and entertainment: Increasing the use of connectivity technologies in modern cars allows communication through the Internet and enables features such as GPS, mapping routes and road closures, and emergency services. All such functionalities are enabled by semiconductor devices.
+Vehicles of the future with semi- or fully autonomous driving capability will need to have human-like sensing capabilities such as vision. Semiconductor devices are critical for sensing and processing the captured data using powerful on-vehicle computing systems, which will provide reliable, accurate and timely control systems for the car. Such human-like sensing capabilities can be achieved by image cameras, radar, light detection and ranging and ultrasonic sensors. Future cars will combine two or more such technologies.
+With the increasing mandates for and adoption of EVs, there is a growing need for developing charging capabilities for replenishing the EV energy source or batteries. Semiconductors play a critical role in the fast charging required to quickly replenish EV batteries. Moreover, semiconductors can also become an energy source in the form of solar cells or photovoltaics. While charging infrastructures are more readily established in cities and locations accessible by the grid, there is a concern of running out of a charge along long-distance highways or off-grid locations. Depending on the geographical location and available solar radiation, solar cells can help generate clean energy for EV charging.
+Such solar cell charging systems reduce the load on the electrical grid as well. There could be two approaches of charging EVs using solar cells. The first approach uses solar cells for charging stations. Drivers and passengers could use the charging stations at rest stop areas along the road while their vehicle gets charged. The second approach uses solar cells integrated with the EVs to generate electricity on the vehicle. Even in places where solar radiation is seasonal, studies are ongoing to show there are significant benefits of vehicle-integrated photovoltaics [3]. Currently, such concepts are under prototype development, as shown in the concept car developed by Fraunhofer ISE. Manufacturers are working on integrating the solar cell modules in future automobiles.
+Semiconductors play a critical role in modern automobiles for a variety of functions including safety, electrification, communication and connectivity. The use of semiconductors in automobiles is expected to grow even more as hybrid and electric vehicles become more common on our roads in the future. Moreover, semiconductors in the form of power devices and solar cells are also creating the critical charging infrastructure necessary to make electric vehicles viable.
+References:
+[1] Growth of Electric Vehicle market, Pew Research Center, June 2021
+[2] Chip shortage cause slowdown in Toyota production, “NY Times,” Aug. 2021
+[3]  Vehicle integrated photovoltaics reduce charging time for electric vehicles, “PV Magazine,” Feb. 2021
+MOTORIZED VEHICLES
+PRODUCT DESIGN & ENGINEERING
+SME SPEAKS
+Recommended For You
+SMART MANUFACTURING
+AIM Photonics will give already-exploding AI/ML shot in the arm
+The United States is winning a global battle for domination in integrated photonics, thanks in part to a Manufacturing USA innovation institute that the Obama administration stood up in 2014. And manufacturers embracing artificial intelligence and machine learning will benefit greatly.
+By Brett Brune
+  EXPERT OPINION
+The Transition to xEV Tech
+The transformation to electrified transportation is well underway. We’ve seen significant market share increases, corporate investments, and administrative policies supporting the move to electric vehicles.
+By Terni Fiorelli
+  MANUFACTURING MANAGEMENT
+For Auto Industry, No Time to Rest
+Ford Motor Co. is looking to electrify its vehicle lineup with entries such as the F-150 Lightning (Provided by Ford Motor Co.
+By Bill Koenig
+  SMART MANUFACTURING
+Go for zero-downtime performance by ‘testing the machine’s blood’
+In the mid-2000s, the compressed air system at the Toyota North America plant in Georgetown, KY, crashed on average more than once a year.
+By Ilene Wolff
+  MANUFACTURING MANAGEMENT
+How to Improve EVs
+Imagine eliminating 100 wires and 200 electrical connections from every electric vehicle (EV). The impact to cost, weight, labor, packaging space and resulting critical reliability could transform the EV driving experience as we know it.
+By Michael Ciaccio and Ferdinand Minnerrath
+  View All Articles
+CONNECT WITH US
+Always Stay Informed
+Receive the latest manufacturing news and technical information by subscribing to our monthly and quarterly magazines, weekly and monthly eNewsletters, and podcast channel.
+Subscribe Today
+Headquarters
+
+1000 Town Center, Suite 1910
+Southfield, MI 48075
+313.425.3000
+
+
+Cleveland Office (Tooling U-SME)
+
+3615 Superior Avenue, East Building 44, 5th Floor
+Cleveland, OH 44114
+866.706.8665
+
+
+Toronto Office
+
+7100 Woodbine Avenue, Suite 312
+Markham, ON L3R 5J2
+888.322.7333
+
+
+SME-Related Websites
+SME Education Foundation
+SME Media
+SME Connect
+Tooling U-SME
+Store
+SME Event Websites
+Additive Manufacturing Seminar Series
+AeroDef Manufacturing
+Canadian Manufacturing Technology Show (CMTS)
+EASTEC
+FABTECH
+FABTECH Canada
+FABTECH Mexico
+HOUSTEX
+Montreal Manufacturing Technology Show (MMTS)
+North American Manufacturing Research Conference (NAMRC)
+RAPID + TCT
+Smart Manufacturing Experience
+SOUTHTEC
+WESTEC
+Western Manufacturing Technology Show (WMTS)
+© 2021 SME. All rights reserved.
+Terms of Use SME Privacy Policy SME Governance SME Careers

@@ -1,0 +1,119 @@
+SKIP TO MAIN CONTENT
+MarketWatch Site Logo A link that brings you back to the homepage. .mwA1{fill:#ffffff;} .mwA2{fill:#4db74d;}
+SUBSCRIBE NOW
+Advertisement
+Home Industries Computers/Electronics
+Opinion: These chip companies will benefit most as the industrial age segues to semiconductors
+Published: Oct. 5, 2021 at 2:38 p.m. ET
+By Daniel Newman
+Semiconductor companies used to undergo booms and busts. Now there are stable profits as demand booms from almost every sector of the global economy.
+A semiconductor clean room in Germany. (Photo by JENS SCHLUETER/AFP via Getty Images)
+Email icon
+Facebook icon
+Twitter icon
+Linkedin icon
+Flipboard icon
+Print icon
+Resize icon
+Referenced Symbols
+PTON
++1.75%
+ZM
+-1.39%
+NVDA
++0.53%
+AMD
++1.16%
+QCOM
+-0.17%
+INTC
+-0.38%
+TSM
+-0.20%
+MRVL
++6.60%
+Listen to article
+Length
+7 minutes
+
+The world’s thirst for technology has never been greater than it is today.
+The pandemic folded years of tech transformation into a matter of months. As a result, there was outsized growth for tech companies that could enable others to reimagine service delivery amid lockdowns. Anything that could fuel e-commerce, remote work, faster or more robust connectivity, or greater security boomed. 
+More than 18 months since the onset of the pandemic, some of the most popular Covid-19 trades have settled. Consider Peloton PTON, +1.75% and Zoom Video ZM, -1.39%. While software as a service (SaaS), meeting technologies, smart fitness and e-commerce received credit for any semblance of normalcy during the pandemic, it was semiconductors that made it all possible.
+And our growing dependence on chips to enable our world is creating a sector poised for continued growth, stability and returns, with more boom and less bust than ever before. 
+At the end of this column, I briefly discuss the semiconductor companies that I believe will benefit most from a transformation in the global economy.
+Something new: stable profits
+I’ve heard increasing chatter over the past several months comparing semiconductors to industrials. It’s a vote of confidence that the semiconductor industry as a whole is more robust and stable than ever before, especially amid the current upcycle.
+The data indicate that semis are set to perform better than industrials. There’s a 50% pre-tax margin on every dollar of sales expected from the semiconductor industry this year and, over the past two decades, a massive three-fold expansion of free cash flow margins. This, coupled with faster revenue growth than industrials, further proves the strengthening stability profile of semis.
+Knowing that the demand for semiconductors continues to rise, the current sector outperformance of around 48% seems more than likely to be leaving a runway for further growth for the industry’s leaders in revenue, margin, free cash flow and share price — all of which should inspire further confidence in investors. 
+A leading indicator: the chip shortage itself
+The ongoing shortage has provided a red flag for some investors and analysts. 
+The pandemic exacerbated weakness in the global semiconductor supply chain. We have seen lead times for chips nearly double since the pandemic began. This created shortages with certain process technologies needed to deliver finished goods, such as automobiles, notebooks, printers and other semiconductor-dependent goods. 
+Investing Insights with Global Context
+Understand how today’s global business practices, market dynamics, economic policies and more impact you with real-time news and analysis from MarketWatch.
+SUBSCRIBE NOW: US $1 FOR 4 WEEKS
+With the U.S. offshoring the vast majority of its semiconductor manufacturing over the past several decades, we have seen Asia, especially Taiwan, fill the gaps and enable the growth of leading fabless semiconductor companies including Nvidia NVDA, +0.53%, AMD AMD, +1.16% and Qualcomm QCOM, -0.17%.  
+On the other hand, the outsourcing of semiconductor manufacturing, especially the strength of fabless chipmakers, has played a significant role in the shortage. Over the past few years we’ve seen the likes of AMD gain 15% market share in high-performance computing. Much of this newly gained market share came from Intel INTC, -0.38%, which means the manufacturing moved from Intel fabs to Taiwan Semiconductor TSM, -0.20%. This is just one of these types of instances that has seen fab capacity move offshore, putting further strain on manufacturing in Taiwan.  We are now reeling to solve the supply issues and macroeconomic risks associated with our overdependence on Taiwan. This is becoming an even greater concern with the growing tensions between China and Taiwan. 
+The U.S., as part of its review of supply chain deficiencies, seeks to make a $52 billion investment in shoring up manufacturing with a focus on repatriating more production. However, these investments will take time to improve production capacity. Still, they could strengthen prospects for Intel, which has doubled down on its manufacturing with the announcements of its expanded Intel Foundry Services, which expects to manufacture more chips domestically for fabless chipmakers including several of its larger competitors and to take on a greater role in manufacturing for designs using Arm, as opposed to just x86. 
+Demand from almost every sector 
+While the shortage will remain ever-present for parts of the semiconductor industry for at least the next 18 to 24 months, the work being done to stabilize production should enable manufacturing to support growing chip demand once again. Meanwhile, as the economic growth cycle continues to fuel semiconductor-supported innovation, revenues, margin, cash flow and shareholder returns all stand to grow materially. 
+The semiconductor industry is an underlying catalyst for growth across almost every sector, from banking to health care to retail and manufacturing. Secular trends like remote work, smart cities, 5G and ambient intelligence all depend on the continued innovation of the semiconductor industry.
+Meaning, the entire industry, from materials to substrates and from designer to fab, is set to experience a run of stable growth, robust innovation and market outperformance that has historically evaded the industry.
+And if we can quickly solve the lingering issues in our supply chain, the future for the semiconductor industry may be even brighter.
+Semiconductor standouts
+Based on the current landscape, I believe there are exciting companies in the sector that stand to benefit significantly from the extended boom in the space.
+And while many of these companies compete across subsectors, there are standouts in these areas that are likely to outperform.
+The rise of 5G will greatly benefit Qualcomm in its core handset business and its adjacencies, while the growing interest and need to repatriate semiconductor manufacturing should be a growth engine for Intel and its foundry strategy.
+I see Nvidia continuing to leverage the growth of AI to accelerate its own growth, while Marvell Technology MRVL, +6.60% capitalizes on its innovation in the data processing space (DPU), and AMD continues to make further inroads in workstations and gaming. 
+Daniel Newman is the principal analyst at Futurum Research, which provides or has provided research, analysis, advising, and/or consulting to Microsoft, Zoom, Salesforce, AWS and dozens of other companies in the tech and digital industries. Neither he nor his firm holds any equity positions with any companies cited. Follow him on Twitter @danielnewmanUV.
+Read Next
+Camber Energy stock loses half its value on heavy volume, to extend the selloff from a 2-year high
+Shares of Camber Energy Inc. undefined plunged 50.2% in volatile trading Tuesday, as they extended their selloff from a near two-year high. The oil and natural gas company's stock had rocketed 161.6% amid a six-day win streak -- the average daily volume was 523.3 million shares -- to $3.82 on Sept. 30, which was the highest closing price since October 2019. Kudos to Tuttle Capital Management Chief Executive Matthew Tuttle, who said last week that the rally looked like a "headfake," as it appeared to be a possible pump by some Wall Street investors using social-media volume as a tool, as MarketWatch's Thornton McEnery. Since then, the stock has plummeted 59.7%. As of Tuesday afternoon, trading volume was 227.5 million shares, enough to make Camber's stock the most actively traded on major U.S. exchanges. It has been halted three times for volatility in the past half hour. The selloff comes as original meme stocks AMC Entertainment Holdings Inc. undefined rose 2.4% and GameStop Corp. undefined gained 0.1%, while the S&P 500 undefined advanced 1.3%.
+More On MarketWatch
+Barron's: One of the Most Talked-About Meme Stocks Is Plummeting
+Barron's: These Stocks Raised Their Dividends Last Week
+Walmart, Target, Home Depot and other large retailers are chartering ships to bypass supply chain problems. Will the strategy save Christmas?
+Positive news on COVID-19 vaccines and treatments in the U.S. weighs against Russia’s latest record one-day death toll
+Advertisement
+Advertisement
+Partner Center
+Most Popular
+I gave my ex-wife 50% of my wages as alimony so I could avoid debts. She agreed to help pay my expenses — but reneged on our deal
+McConnell to offer proposal to Schumer for ending debt-limit standoff
+My father, 92, suddenly appointed his lawyer as healthcare proxy and executor — ceding control of his bank accounts
+Why the new tax law caused a 'perfect storm' for Roth IRA conversions
+‘I found a flaw in your system, and I took advantage of it.’ Florida man filed 745 tax returns in 4 years, collecting $235K in bogus refunds
+Advertisement
+PARTNER CONTENT
+PARTNER CONTENT
+BACK TO TOP
+MarketWatch logoGo to the homepage
+Copyright © 2021 MarketWatch, Inc. All rights reserved.
+By using this site you agree to the Subscriber Agreement & Terms of Use, 
+Privacy Notice, and Cookie Notice.
+Facebook
+Twitter
+Linkedin
+MARKETWATCH
+Customer Center
+Contact Us
+Newsroom Roster
+Virtual Stock Exchange
+BigCharts
+Copyright Policy
+Manage Notifications
+COMPANY
+Dow Jones
+Code of Conduct
+Corrections
+Reprints & Licensing
+Your Ad Choices
+Corporate Subscriptions
+DOW JONES NETWORK
+The Wall Street Journal
+Barron's
+Financial News London
+realtor.com
+Mansion Global
+Intraday Data provided by FACTSET and subject to terms of use. Historical and current end-of-day data provided by FACTSET. All quotes are in local exchange time. Real-time last sale data for U.S. stock quotes reflect trades reported through Nasdaq only. Intraday data delayed at least 15 minutes or per exchange requirements.
+You are approaching your article limit.
+GET UNLIMITED ACCESS FOR US $1 FOR 4 WEEKS.

@@ -1,0 +1,476 @@
+Skip to main content
+Advertisement
+View all journals
+Search
+Login
+Explore content
+About the journal
+Publish with us
+Subscribe
+Sign up for alerts
+RSS feed
+nature articles article
+Article
+Published: 12 May 2021
+Ultralow contact resistance between semimetal and monolayer semiconductors
+Pin-Chun Shen
+, Cong Su, Yuxuan Lin
+, Ang-Sheng Chou, Chao-Ching Cheng, Ji-Hoon Park
+, Ming-Hui Chiu
+, Ang-Yu Lu, Hao-Ling Tang, Mohammad Mahdi Tavakoli, Gregory Pitner, Xiang Ji, Zhengyang Cai
+, Nannan Mao, Jiangtao Wang, Vincent Tung, Ju Li
+, Jeffrey Bokor
+, Alex Zettl, Chih-I Wu, Tomás Palacios, Lain-Jong Li
+& Jing Kong
+  Nature
+ 593, 
+211–217 (2021)Cite this article
+27k Accesses
+1 Citations
+202 Altmetric
+Metrics
+Abstract
+Advanced beyond-silicon electronic technology requires both channel materials and also ultralow-resistance contacts to be discovered1,2. Atomically thin two-dimensional semiconductors have great potential for realizing high-performance electronic devices1,3. However, owing to metal-induced gap states (MIGS)4,5,6,7, energy barriers at the metal–semiconductor interface—which fundamentally lead to high contact resistance and poor current-delivery capability—have constrained the improvement of two-dimensional semiconductor transistors so far2,8,9. Here we report ohmic contact between semimetallic bismuth and semiconducting monolayer transition metal dichalcogenides (TMDs) where the MIGS are sufficiently suppressed and degenerate states in the TMD are spontaneously formed in contact with bismuth. Through this approach, we achieve zero Schottky barrier height, a contact resistance of 123 ohm micrometres and an on-state current density of 1,135 microamps per micrometre on monolayer MoS2; these two values are, to the best of our knowledge, the lowest and highest yet recorded, respectively. We also demonstrate that excellent ohmic contacts can be formed on various monolayer semiconductors, including MoS2, WS2 and WSe2. Our reported contact resistances are a substantial improvement for two-dimensional semiconductors, and approach the quantum limit. This technology unveils the potential of high-performance monolayer transistors that are on par with state-of-the-art three-dimensional semiconductors, enabling further device downscaling and extending Moore’s law.
+Access options
+Subscribe to Journal
+Get full journal access for 1 year
+185,98 €
+only 3,65 € per issue
+Subscribe
+All prices are NET prices.
+VAT will be added later in the checkout.
+Tax calculation will be finalised during checkout.
+Rent or Buy article
+Get time limited or full article access on ReadCube.
+from$8.99
+Rent or Buy
+All prices are NET prices.
+Additional access options:
+Log in
+Access through your institution
+Learn about institutional subscriptions
+Data availability
+All data needed to evaluate the conclusions herein are present in the Article.
+References
+1.
+Chhowalla, M., Jena, D. & Zhang, H. Two-dimensional semiconductors for transistors. Nat. Rev. Mater. 1, 16052 (2016).
+ADS
+  CAS
+  Google Scholar
+  2.
+Allain, A., Kang, J., Banerjee, K. & Kis, A. Electrical contacts to two-dimensional semiconductors. Nat. Mater. 14, 1195–1205 (2015).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  3.
+Akinwande, D. et al. Graphene and two-dimensional materials for silicon technology. Nature 573, 507–518 (2019).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  4.
+Louie, S. G. & Cohen, M. L. Electronic structure of a metal-semiconductor interface. Phys. Rev. B 13, 2461–2469 (1976).
+ADS
+  CAS
+  Google Scholar
+  5.
+Nishimura, T., Kita, K. & Toriumi, A. Evidence for strong Fermi-level pinning due to metal-induced gap states at metal/germanium interface. Appl. Phys. Lett. 91, 123123 (2007).
+ADS
+  Google Scholar
+  6.
+Kobayashi, M., Kinoshita, A., Saraswat, K., Wong, H.-S. P. & Nishi, Y. Fermi level depinning in metal/Ge Schottky junction for metal source/drain Ge metal-oxide-semiconductor field-effect-transistor application. J. Appl. Phys. 105, 023702 (2009).
+ADS
+  Google Scholar
+  7.
+Sotthewes, K. et al. Universal Fermi-level pinning in transition-metal dichalcogenides. J. Phys. Chem. C 123, 5411–5420 (2019).
+CAS
+  Google Scholar
+  8.
+Tung, R. T. The physics and chemistry of the Schottky barrier height. Appl. Phys. Rev. 1, 011304 (2014).
+ADS
+  Google Scholar
+  9.
+Razavieh, A., Zeitzoff, P. & Nowak, E. J. Challenges and limitations of CMOS scaling for FinFET and beyond architectures. IEEE Trans. NanoTechnol. 18, 999–1004 (2019).
+ADS
+  CAS
+  Google Scholar
+  10.
+Tersoff, J. Schottky barrier heights and the continuum of gap states. Phys. Rev. Lett. 52, 465 (1984).
+ADS
+  CAS
+  Google Scholar
+  11.
+Sze, S. M. & Ng, K. K. Physics of Semiconductor Devices (Wiley, 2006).
+12.
+Vilan, A., Shanzer, A. & Cahen, D. Molecular control over Au/GaAs diodes. Nature 404, 166–168 (2000).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  13.
+Wang, Y. et al. Van der Waals contacts between three-dimensional metals and two-dimensional semiconductors. Nature 568, 70–74 (2019).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  14.
+Cui, X. et al. Low-temperature ohmic contact to monolayer MoS2 by van der Waals bonded Co/h-BN electrodes. Nano Lett. 17, 4781–4786 (2017).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  15.
+Liu, Y., Stradins, P. & Wei, S.-H. Van der Waals metal–semiconductor junction: weak Fermi level pinning enables effective tuning of Schottky barrier. Sci. Adv. 2, e1600069 (2016).
+ADS
+  PubMed
+  PubMed Central
+  Google Scholar
+  16.
+Liu, Y. et al. Approaching the Schottky–Mott limit in van der Waals metal–semiconductor junctions. Nature 557, 696–700 (2018).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  17.
+Kim, C. et al. Fermi level pinning at electrical metal contacts of monolayer molybdenum dichalcogenides. ACS Nano 11, 1588–1596 (2017).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  18.
+English, C. D., Shine, G., Dorgan, V. E., Saraswat, K. C. & Pop, E. Improved contacts to MoS2 transistors by ultra-high vacuum metal deposition. Nano Lett. 16, 3824–3830 (2016).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  19.
+Chee, S. S. et al. Lowering the Schottky barrier height by graphene/Ag electrodes for high‐mobility MoS2 field‐effect transistors. Adv. Mater. 31, 1804422 (2019).
+Google Scholar
+  20.
+Cao, Z., Lin, F., Gong, G., Chen, H. & Martin, J. Low Schottky barrier contacts to 2H-MoS2 by Sn electrodes. Appl. Phys. Lett. 116, 022101 (2020).
+ADS
+  Google Scholar
+  21.
+Das, S., Chen, H.-Y., Penumatcha, A. V. & Appenzeller, J. High performance multilayer MoS2 transistors with scandium contacts. Nano Lett. 13, 100–105 (2013).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  22.
+Smithe, K. K., English, C. D., Suryavanshi, S. V. & Pop, E. Intrinsic electrical transport and performance projections of synthetic monolayer MoS2 devices. 2D Mater. 4, 011009 (2016).
+Google Scholar
+  23.
+Qian, X., Liu, J., Fu, L. & Li, J. Quantum spin Hall effect in two-dimensional transition metal dichalcogenides. Science 346, 1344–1347 (2014).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  24.
+Nagao, T. et al. Nanofilm allotrope and phase transformation of ultrathin Bi film on Si(111)−7 × 7. Phys. Rev. Lett. 93, 105501 (2004).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  25.
+Zhong, H. et al. Interfacial properties of monolayer and bilayer MoS2 contacts with metals: beyond the energy band calculations. Sci. Rep. 6, 21786 (2016).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  26.
+Kang, J., Liu, W., Sarkar, D., Jena, D. & Banerjee, K. Computational study of metal contacts to monolayer transition-metal dichalcogenide semiconductors. Phys. Rev. X 4, 031005 (2014).
+CAS
+  Google Scholar
+  27.
+Chakraborty, B. et al. Symmetry-dependent phonon renormalization in monolayer MoS2 transistor. Phys. Rev. B 85, 161403 (2012).
+ADS
+  Google Scholar
+  28.
+Michail, A., Delikoukos, N., Parthenios, J., Galiotis, C. & Papagelis, K. Optical detection of strain and doping inhomogeneities in single layer MoS2. Appl. Phys. Lett. 108, 173102 (2016).
+ADS
+  Google Scholar
+  29.
+Moe, Y. A., Sun, Y., Ye, H., Liu, K. & Wang, R. Probing evolution of local strain at MoS2–metal boundaries by surface-enhanced Raman scattering. ACS Appl. Mater. Interfaces 10, 40246–40254 (2018).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  30.
+Yang, L. et al. Chloride molecular doping technique on 2D materials: WS2 and MoS2. Nano Lett. 14, 6275–6280 (2014).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  31.
+Liu, W. et al. Role of metal contacts in designing high-performance monolayer n-type WSe2 field effect transistors. Nano Lett. 13, 1983–1990 (2013).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  32.
+Yeh, C.-H., Cao, W., Pal, A., Parto, K. & Banerjee, K. in 2019 IEEE International Electron Devices Meeting (IEDM) 23.24.21–23.24.24 (IEEE, 2019); https://ieeexplore.ieee.org/abstract/document/8993600.
+33.
+English, C. D., Smithe, K. K., Xu, R. L. & Pop, E. in 2016 IEEE International Electron Devices Meeting (IEDM) 5.6.1–5.6.4 (IEEE, 2016); https://ieeexplore.ieee.org/abstract/document/7838355.
+34.
+McClellan, C. J., Yalon, E., Smithe, K. K., Suryavanshi, S. V. & Pop, E. High current density in monolayer MoS2 doped by AlOx. ACS Nano 15, 1587–1596 (2021).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  35.
+Kwon, J. et al. Thickness-dependent Schottky barrier height of MoS2 field-effect transistors. Nanoscale 9, 6151–6157 (2017).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  36.
+Li, S.-L. et al. Thickness scaling effect on interfacial barrier and electrical contact to two-dimensional MoS2 layers. ACS Nano 8, 12836–12842 (2014).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  37.
+Wang, Q., Shao, Y., Gong, P. & Shi, X. Metal–2D multilayered semiconductor junctions: layer-number-dependent Fermi-level pinning. J. Mater. Chem. C 8, 3113–3119 (2020).
+CAS
+  Google Scholar
+  38.
+Badaroglu, M. et al. More Moore. In International Roadmap for Devices and Systems 2017 https://irds.ieee.org/images/files/pdf/2017/2017IRDS_MM.pdf (IEEE, 2017).
+39.
+Ghani, T. et al. A 90-nm high volume manufacturing logic technology featuring novel 45-nm gate length strained silicon CMOS transistors. In IEEE International Electron Devices Meeting 2003 11.16.11–11.16.13 (IEEE, 2003); https://ieeexplore.ieee.org/abstract/document/1269442.
+40.
+Thompson, S. et al. A 90-nm logic technology featuring 50-nm strained silicon channel transistors, 7 layers of Cu interconnects, low-k ILD, and 1 μm2 SRAM cell. In International Electron Devices Meeting 2002 61–64 (IEEE, 2002); https://ieeexplore.ieee.org/abstract/document/1175779.
+41.
+Kim, S. et al. High-mobility and low-power thin-film transistors based on multilayer MoS2 crystals. Nat. Commun. 3, 1011 (2012).
+ADS
+  PubMed
+  PubMed Central
+  Google Scholar
+  42.
+Liu, Y. et al. Pushing the performance limit of sub-100-nm molybdenum disulfide transistors. Nano Lett. 16, 6337–6342 (2016).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  43.
+Nourbakhsh, A. et al. MoS2 field-effect transistor with sub-10-nm channel length. Nano Lett. 16, 7798–7806 (2016).
+ADS
+  CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  44.
+Yang, L., Lee, R., Rao, S. P., Tsai, W. & Ye, P. in 2015 73rd Annual Device Research Conference (DRC) 237–238 (IEEE, 2015).
+45.
+Jung, Y. et al. Transferred via contacts as a platform for ideal two-dimensional transistors. Nature Electron. 2, 187–194 (2019).
+Google Scholar
+  46.
+Nguyen, L. D., Tasker, P. J., Radulescu, D. C. & Eastman, L. F. Characterization of ultra-high-speed pseudomorphic AlGaAs/InGaAs (on GaAs) MODFETs. IEEE Trans. Electron Dev. 36, 2243–2248 (1989).
+ADS
+  Google Scholar
+  47.
+Smithe, K. K., Suryavanshi, S. V., Muñoz Rojo, M., Tedjarati, A. D. & Pop, E. Low variability in synthetic monolayer MoS2 devices. ACS Nano 11, 8456–8463 (2017).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  48.
+Yue, D., Kim, C., Lee, K. Y. & Yoo, W. J. Ohmic contact in 2D semiconductors via the formation of a benzyl viologen interlayer. Adv. Funct. Mater. 29, 1807338 (2019).
+Google Scholar
+  49.
+Guimarães, M. H. et al. Atomically thin ohmic edge contacts between two-dimensional materials. ACS Nano 10, 6392–6399 (2016).
+PubMed
+  PubMed Central
+  Google Scholar
+  50.
+Smets, Q. et al. Ultra-scaled MOCVD MoS2 MOSFETs with 42 nm contact pitch and 250 µA/µm drain current. In 2019 IEEE International Electron Devices Meeting (IEDM) 23.2.21–23.2.24 (IEEE, 2019).
+51.
+Gao, J. et al. Transition‐metal substitution doping in synthetic atomically thin semiconductors. Adv. Mater. 28, 9735–9743 (2016).
+CAS
+  PubMed
+  PubMed Central
+  Google Scholar
+  52.
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method. Phys. Rev. B 59, 1758 (1999).
+ADS
+  CAS
+  Article
+  Google Scholar
+  53.
+Simmons, J. G. Generalized formula for the electric tunnel effect between similar electrodes separated by a thin insulating film. J. Appl. Phys. 34, 1793–1803 (1963).
+ADS
+  Google Scholar
+  54.
+Simmons, J. G. Electric tunnel effect between dissimilar electrodes separated by a thin insulating film. J. Appl. Phys. 34, 2581–2590 (1963).
+ADS
+  MATH
+  Google Scholar
+  55.
+Fiori, G., Szafranek, B. N., Iannaccone, G. & Neumaier, D. Velocity saturation in few-layer MoS2 transistor. Appl. Phys. Lett. 103, 233509 (2013).
+ADS
+  Google Scholar
+  56.
+Kim, J. J. et al. Intrinsic time zero dielectric breakdown characteristics of HfAlO alloys. IEEE Trans. Electron Dev. 60, 3683–3689 (2013).
+ADS
+  CAS
+  Google Scholar
+  Download references
+Acknowledgements
+P.-C.S., J.B. and J.K. acknowledge financial support from the Center for Energy Efficient Electronics Science (NSF award no. 0939514), which provided funding for development of high-performance monolayer TMD transistors. P.-C.S., Y.L., J.-H.P., A.-Y.L., T.P. and J.K. acknowledge the US Army Research Office through the Institute for Soldier Nanotechnologies at MIT, under cooperative agreement no. W911NF-18-2-0048. C.S., J.-H.P., J.W. and J.K. acknowledge the support from the US Army Research Office (ARO) under grant no. W911NF-18-1-0431. C.S. is currently supported by the Kavli Energy NanoScience Institute/Heising–Simons Fellowship, Berkeley, California, USA. C.S. and A.Z. are supported by the Director, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division, of the US Department of Energy under contract no. DE-AC02-05-CH11231, within the sp2-Bonded Materials Program (KC2207), which provided for TEM characterizations. C.S. and A.Z. are further supported by the National Science Foundation under grant no. DMR-1807233, which provided funding for development of TEM image-processing methods. J.L. acknowledges support by the Office of Naval Research MURI through grant no. N00014-17-1-2661. Y.L. and J.B. acknowledge support by the Office of Naval Research MURI programme N00014-16-1-2921, and the NSF award RAISE TAQS under grant no. DMR-1839098. Y.L. and N.M. acknowledge support by the US Department of Energy (DOE), Office of Science, Basic Energy Sciences (BES) under award DE-SC0020042. A.-S.C. and C.-I.W. acknowledge support from the Ministry of Science and Technology of Taiwan (MOST 108-2622-8-002-016). J.W. and J.K. acknowledge support from the joint development project (JDP) from TSMC. V.T. and M.-H.C. are indebted to the support from the King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research (OSR) under award no: OSR-2018-CARF/CCF-3079. H.-L.T. acknowledges partial support from the Ministry of Science and Technology of Taiwan (MOST-108-2917-I-564-036). We acknowledge H.-S.P. Wong for guidance. We thank Y. Guo, E. Shi and H. Wang for technical assistance with materials characterizations, and Y.-T. Shao for discussions on SAED pattern simulation.
+Author information
+These authors contributed equally: Pin-Chun Shen, Cong Su, Yuxuan Lin, Ang-Sheng Chou
+Affiliations
+Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
+Pin-Chun Shen, Yuxuan Lin, Ji-Hoon Park, Ming-Hui Chiu, Ang-Yu Lu, Hao-Ling Tang, Mohammad Mahdi Tavakoli, Xiang Ji, Zhengyang Cai, Nannan Mao, Jiangtao Wang, Tomás Palacios & Jing Kong
+Kavli Energy NanoSciences Institute, University of California, Berkeley, CA, USA
+Cong Su & Alex Zettl
+Department of Physics, University of California, Berkeley, CA, USA
+Cong Su & Alex Zettl
+Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+Cong Su, Jeffrey Bokor & Alex Zettl
+Department of Nuclear Science and Engineering, Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
+Cong Su & Ju Li
+Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, CA, USA
+Yuxuan Lin & Jeffrey Bokor
+Corporate Research, Taiwan Semiconductor Manufacturing Company (TSMC), Hsinchu, Taiwan
+Ang-Sheng Chou, Chao-Ching Cheng & Lain-Jong Li
+Graduate Institute of Photonics and Optoelectronics, National Taiwan University, Taipei, Taiwan
+Ang-Sheng Chou & Chih-I Wu
+Physical Science and Engineering Division, King Abdullah University of Science & Technology (KAUST), Thuwal, Saudi Arabia
+Ming-Hui Chiu, Hao-Ling Tang & Vincent Tung
+Corporate Research, Taiwan Semiconductor Manufacturing Company (TSMC), San Jose, CA, USA
+Gregory Pitner
+Contributions
+J.K. and L.-J.L. supervised the project. P.-C.S. and J.K. proposed the project. P.-C.S., C.S., Y.L. and J.K. designed the experiments. P.-C.S. carried out the device fabrication. P.-C.S., H.-L.T. and Y.L. performed the electrical characterization supervised by T.P. C.S. carried out the TEM measurements and analysis and first-principles calculations supervised by A.Z. and J.L. P.-C.S., Y.L. and C.S. conducted the device modelling and data analysis. A.-S.C., C.-C.C. and G.P. carried out additional fabrication and characterization of the short-channel devices supervised by L.-J.L. The work of A.-S.C. is also co-supervised by C.-I.W. Y.L. and J.W. performed the SEM measurements. J.-H.P., P.-C.S., Z.C. and N.M. contributed to the growth, exfoliation and transfer of materials supervised by J.K. M.-H.C., A.-Y.L., M.M.T., and P.-C.S. carried out the materials characterizations. P.-C.S., C.S., Y.L. and J.K. wrote the manuscript. All authors discussed the results and provided constructive comments on the manuscript.
+Corresponding authors
+Correspondence to Pin-Chun Shen or Lain-Jong Li or Jing Kong.
+Ethics declarations
+Competing interests
+P.-C.S. and J.K. are co-inventors on a patent application (provisional filling number US 63/024,141) related to the research presented in this paper.
+Additional information
+Peer review information Nature thanks Hyeon-Jin Shin and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tables
+Extended Data Fig. 1 Temperature-dependent electrical characteristics.
+a, b, Typical IDS–VDS curves at 150 K (a) and 77 K (b) for the Bi–MoS2 FET. The device exhibits linear output characteristics at all the temperatures measured. c, Schottky barrier height (ΦSB) extraction for the Bi–MoS2 FET, showing a negligible contact barrier. Inset, logarithmic plot of the IDS–VDS curve at 77 K and n2D ≈ 4 × 1012 cm−2, demonstrating ohmic contact in the Bi–MoS2 FETs. d, e, Typical IDS–VDS curves at room temperature (d) and 77 K (e) for the Ni–MoS2 FET. The nonlinear output characteristics at low temperatures suggest the existence of a Schottky barrier at the Ni–MoS2 junction. f, Schottky barrier (Φ﻿SB) extracted by equation (3) as a function of the gate voltage for the Ni–MoS2 FET. Φ﻿SB is around 100 meV at the flatband voltage (the elbow of the curve)2. g, Typical IDS–VGS curves of the Ti–MoS2 FET. h, Typical IDS–VDS curves at 77 K for the Ti–MoS2 FET. Similar to the Ni–MoS2 device, the Ti–MoS2 FET exhibits both drain–current suppression and obviously nonlinear output characteristics at low temperatures, owing to the presence of a Schottky barrier at the Ti–MoS2 interface. i, Extracted Φ﻿SB for the Ti–MoS2 FET as a function of the gate voltage, which is around 150 meV at the flatband voltage.
+Extended Data Fig. 2 Arrhenius plots and extraction of contact resistance.
+a, b, Arrhenius plots of Ni-contacted (a) and Bi-contacted (b) monolayer (1L) MoS2 FETs. The two transistors yield opposite slopes derived from equation (3), reflecting different metal–semiconductor junction configurations. The good agreement between the data extracted from the Ni–MoS2 FET and the thermionic emission model suggests that there is thermally activated electronic transport at an energy barrier, that is, a Schottky barrier at the Ni–MoS2 interface. By contrast, the deviation from the thermionic emission model and nearly saturated slopes at low temperatures observed in the Bi–MoS2 FET indicate the disappearance of an energy barrier for electron injection. The light blue curve represents the off state of the Bi–MoS2 FET biased at a negative gate voltage of −60 V. The device at this condition shows a negative slope in the Arrhenius plot and the effective barrier height is extracted to be ~130 meV. This barrier originates from the energy difference between the Fermi level of the degenerate MoS2 underneath Bi and the conduction band minimum of the depleted MoS2 channel. c, Transfer characteristics, IDS–VGS, of Bi-contacted monolayer MoS2 FETs on 100-nm-thick SiNx with various channel lengths (LCH) at a VDS of 0.5 V for the TLM study. d, Plots of total device resistance RTOT (normalized by width) versus LCH for the Bi–MoS2 FETs at various carrier densities, from which the total contact resistance (2RC) can be extracted from the y-axis intercepts. Symbols are experimental data and lines are linear fits in a and d.
+Extended Data Fig. 3 SAED patterns of the freestanding Au/Bi/monolayer–MoS2 and Au/Bi/amorphous carbon.
+a, e, Schematics of the Au/Bi layer deposited directly on the monolayer (1L) MoS2 (a) and amorphous carbon (a-carbon; e) in the TEM grid. b–d, SAED patterns of Au/Bi/1L–MoS2 at three different locations. The [0001] zone axis of Bi is always observed in parallel to the electron beam throughout the whole sample. The diffraction spots of MoS2 at 3.6 nm−1 can be clearly identified. The in-plane rotations of MoS2 with respect to the Bi (0001) plane are 30° (b), 4° (to the nearest Bi diffraction spots; c), and 8° (d). For most of the areas, Bi demonstrates homogeneous orientation, as shown in b and d, but polycrystalline areas can also be found, as shown in c. The selected-area aperture is 1 μm. f–h, The diffraction ring located at 3.0 nm−1 is identified to be from Bi2O3 polycrystal, as confirmed from the atomic structure of Bi2O3 viewing at zone axes [110] (g), and its simulated diffraction pattern (h), demonstrating the diffraction pattern at 3.0 nm−1.
+Extended Data Fig. 4 DFT results for Sb–MoS2, Bi–MoS2 with sulfur vacancy and Bi–WS2.
+a, PLDOS of MoS2 before (upper) and after (lower) contact with Sb. The valence band (VB) is shaded in light blue and conduction band (CB) in light red. The Fermi level (EF) is shifted from the valence band maximum inside the gap (before Bi contact) into the conduction band (after Bi contact). b, c, LDOS of MoS2 with a sulfur vacancy (b) and WS2 (c) when in contact with Bi. The Fermi level is pinned at the sulfur vacancy defect state inside the bandgap. This implies that a high-quality TMD crystal with a low defect density is critical to form ohmic contact to Bi. The result of LDOS of WS2 in contact with Bi, predicting that ohmic contact can also be formed at the Bi–WS2 interface owing to gap-state saturation.
+Extended Data Fig. 5 Characterization of transition metal dichalcogenide monolayers.
+a, Raman characterization of MOCVD-grown monolayer MoS2 (blue) and mechanically exfoliated WS2 (green) and WSe2 (red) monolayers for device fabrication. b, Raman characterization of Ni–MoS2 and Au–MoS2 interfaces. Samples are prepared using the mechanically tape-assisted exfoliation. No substantial shifts in A1g are observed for Ni and Au contacts. The shift in E12g is prevalently observed in the metal–MoS2 system, probably originating from the strain induced at the metal–MoS2 boundary. c, Deconvolution of the XPS spectra of S 2p and Bi 4f for pristine monolayer MoS2 and Bi-contacted MoS2. The blueshifted core-level binding energies for the Bi-contacted MoS2 indicate the upward shift of its Fermi level induced by the Bi contact, which is in good agreement with the DFT calculation and the Raman spectroscopy analysis. Moreover, the absence of characteristic peaks for Bi2O3 suggest that the Bi contact is free of oxidation when in contact with MoS2, which is consistent with the TEM results (Fig. 3b and Extended Data Fig. 3).
+Extended Data Fig. 6 Transfer characteristics of monolayer WS2 and WSe2 FETs with Bi contacts.
+a, b, Typical transfer characteristics of Bi–WS2 (a) and Bi–WSe2 (b) FETs on 100-nm SiNx at room temperature. Both transistors exhibit n-type conduction with a high ION/IOFF ratio of >107.
+Extended Data Fig. 7 Monolayer MoS2 transistors with very high ION.
+a, Transfer characteristics of a 35-nm LCH Bi–MoS2 FET. b, c, Transfer and output characteristics of a 50-nm LCH Bi–MoS2 FET. d, Output characteristics of a 120-nm LCH Bi–MoS2 FET. The excellent current-delivery capacities represent, to our knowledge, new records for monolayer MoS2 at these device dimensions, outperform thicker TMD devices, and are comparable to three-dimensional semiconductor devices such as 90-nm node-strained Si and AlGaAs/InGaAs HEMT transistors with similar channel lengths39,40,46. Note that the required drain voltage for the ohmic Bi–monolayer MoS2 FET to achieve a high ION is relatively small compared to previously reported high-performance TMD transistors (that is, typically VDS > 2 V with a thicker channel thickness)18,22,30,31,32,33,34,42,43,44,45. Inset, optical microscopic image of the device. e, Semi-logarithmic plot of the transfer characteristic of a different Bi–MoS2 FET showing an excellent ION/IOFF ratio of 108. Insets, SEM image of a representative 150-nm LCH Bi-contacted monolayer MoS2 FET on 100-nm-thick SiNx and its channel region. f, Output characteristics of the same Bi–MoS2 transistor as in e. The drain current saturates at a VDS of ~1.5 V and scales linearly with the gate voltage, which suggests that the electrons travelling in the monolayer MoS2 channel reach its saturation velocity. The gate dielectrics of devices presented in this figure are 100-nm SiNx.
+Extended Data Fig. 8 Effects of TMD quality on the output characteristics.
+a, b, Sample-quality-dependent contact performance for the case of monolayer MoS2. The room-temperature output characteristics of the Bi–MoS2 transistors fabricated with a CVD-grown defective MoS2 monolayer (a) and MOCVD-grown MoS2 monolayer (b). Inset to a, optical image of a typical low-quality MoS2 crystal with a non-clean surface and curved edges; scale bar, 5 μm. Inset to b, optical image of a typical high-quality MoS2 crystal with a clean surface; scale bar, 10 μm. c, d, Output characteristics of Bi-contact transistors fabricated with fresh CVD-grown monolayer WS2 (c) and monolayer WSe2 (d) FETs, showing that the proposed gap-state-saturation-induced ohmic contact can also be formed on high-quality WS2 and WSe2 CVD samples. e, f, Room-temperature output characteristics (e) and transfer curves (f) of the Bi–WSe2 transistors fabricated with an aged CVD-grown WSe2 monolayer (low quality). Scale bar, 10 μm. g, h, Room-temperature output characteristics (g) and transfer curves (h) of the Bi–WSe2 transistors fabricated with a fresh CVD-grown WSe2 monolayer (medium quality). Scale bar, 10 μm. i, j, Room-temperature output characteristics (i) and transfer curves (j) of the Bi–WSe2 transistors fabricated with a mechanically exfoliated WSe2 monolayer (high quality). Scale bar, 5 μm. The results show a clear evolution from p-type conduction to enhanced n-type conduction with the sample quality improvement. These variations could be attributed to the gap-state pinning effect induced by the chalcogen vacancies (Extended Data Fig. 4b). Insets to f, h and j are the optical images of a typical low-quality CVD WSe2 crystal with an obviously defective surface (f), a medium-quality CVD WSe2 with an irregular crystal shape (h), and a high-quality, freshly exfoliated WSe2 with a clean surface (j).
+Extended Data Fig. 9 Performance projection of Bi–monolayer TMD technology.
+a, Fraction of channel resistance (RCH, green line) and total contact resistance (2RC, blue line) with respect to the total device resistance (RTOT = RCH + 2RC) in Bi–MoS2 FETs as a function of the channel length (LCH) at room temperature based on the device and material parameters extracted from Fig. 2c. The dashed lines show the quantum limit, representing the minimum RC that can be achieved in a transistor. The quantum limit RC is πh/(4q2kF) ≈ 0.036(n2D)−0.5 kΩ μm, which is determined by the quantum resistance (h/2q2 ≈ 12.9 kΩ) and the number of conducting modes per channel width (kF/π), which is related to the 2D sheet carrier density (n2D, in units of 1013 cm–2)2. b, Projection of 2RC as a function of the contact length (LC) in monolayer TMD transistors based on the transmission line model with various metal contacts at room temperature. The vertical dashed line represents the current transfer length (LT) for each metal contact. The results are calculated based on the data extracted from previously reported TLM results13,47. As can be seen, RC increases as LC becomes comparable to LT, owing to the current-crowding effect (equation (4))18. Note that In, hexagonal boron nitride (hBN)/Co, Ni and high-vacuum Au contacts to monolayer MoS2 exhibit similar values of RC (~3–6 kΩ μm) and ρC (~10−6–10−5 Ω cm2)13,14,18,50. c, Required minimum VDS for Bi-contacted monolayer TMD transistors to work in the velocity saturation regime using our best RC of 123 Ω μm and a theoretical FC of 1.15 × 105 V cm−1. The VDD required by IRDS is also plotted. d, The required VDS to bias monolayer MoS2 transistors in the velocity-saturation regime for different contact technologies.
+Extended Data Table 1 Key performance metrics of representative devices
+Full size table
+Supplementary information
+Peer Review File
+Rights and permissions
+Reprints and Permissions
+About this article
+Cite this article
+Shen, PC., Su, C., Lin, Y. et al. Ultralow contact resistance between semimetal and monolayer semiconductors. Nature 593, 211–217 (2021). https://doi.org/10.1038/s41586-021-03472-9
+Download citation
+Received
+01 July 2020
+Accepted
+18 March 2021
+Published
+12 May 2021
+Issue Date
+13 May 2021
+DOI
+https://doi.org/10.1038/s41586-021-03472-9
+Subjects
+Electronic devices
+Two-dimensional materials
+Comments
+By submitting a comment you agree to abide by our Terms and Community Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+Access through your institution
+Buy or subscribe
+Advertisement
+Nature (Nature) ISSN 1476-4687 (online) ISSN 0028-0836 (print)
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+Nano
+Protocol Exchange
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded content
+Career development
+Nature Careers
+Nature
+Conferences
+Nature
+events
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+Legal & Privacy
+Privacy Policy
+Use of cookies
+Manage cookies/Do not sell my data
+Legal notice
+Accessibility statement
+Terms & Conditions
+California Privacy Statement
+© 2021 Springer Nature Limited
+Close banner
+Close
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+Your privacy
+We use cookies to make sure that our website works properly, as well as some "optional" cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage Settings", where you can also find more information about how your personal data is processed.View our privacy policy
+Manage Settings Accept All Cookies

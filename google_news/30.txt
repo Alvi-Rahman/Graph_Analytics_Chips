@@ -1,0 +1,202 @@
+BREAKING NEWS
+In face of pandemic, child care centers struggle to find employees
+86°
+Sunny
+Your News. Your Voice. Your Times.
+Newsletter
+Facebook
+Twitter
+YouTube
+Instagram
+Toggle navigation
+Menu
+Contact Us
+Subscribe
+Login
+E-Paper
+Local Events
+Celebrations
+Obituaries
+Lifting The Veil
+Live Story
+Public Notices
+AP
+Alpha and Omega Semiconductor Unveils Wireless Charging Transmitter Solutions
+9 hrs ago
+AOZ32033AQI Coil Driver Achieves Highly Integrated and Efficient Solution in Thermally Enhanced QFN 3 x 3 Package
+SUNNYVALE, Calif.--(BUSINESS WIRE)--Sep 30, 2021--
+Alpha and Omega Semiconductor Limited (AOS) (Nasdaq: AOSL), a designer, developer, and global supplier of a broad range of power semiconductors, power ICs, and digital power products, today announced a new family of Coil Drivers. The initial product, AOZ32033AQI, offers 30V, 11mOhm in a QFN3x3 package. AOZ32033AQI is an integrated half-bridge gate driver capable of driving high-side and low-side N-channel MOSFETs. It features SRC (Slew Rate Control) to adjust sink/source current and provide the ideal trade-off between efficiency and EMI optimization in the design of Wireless Charging Transmitter (TX) circuits. The device is ideally suited to the design of Wireless Charging TX circuits used in cordless power tools, vacuum cleaners, drones, and other consumers’ electronic equipment composed of full-bridge topology with a resonant tank circuit to get the best power conversion efficiency.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20210930005196/en/
+AOZ32033AQI Coil Driver Achieves Highly Integrated and Efficient Solution in Thermally Enhanced QFN 3 x 3 Package (Graphic: Business Wire)
+With a highly integrated package, the AOZ32033AQI offers a part count reduction of up to 40% compared to traditional approaches. The new device enables PCB space savings and higher performance in wireless transmitter circuits with high wattage of up to 30W. Moreover, the AOZ32033AQI has multiple protection functions such as high side and low side UVLO and over-temperature protection (OTP) to make the design more robust. The device can be used for a wide range of input voltages from 4V to 28V.
+“Wireless charging is offered at increasingly higher power levels as the benefits of eliminating physical connectors and cables are being realized by more end applications. AOS’s Coil Driver products provide an efficient, power-dense, and cost-effective solution for wireless charging TX circuits. The integrated approach offers protection features not possible by using a discrete approach while reducing engineering design cycles and complexities,” said Colin Huang, Power IC Marketing Manager at AOS.
+Technical Highlights
+Integrated 30V Half-Bridge Power Stage with wide Vin range enables reduced PCB size
+Low RDS(ON) internal N-FETs for both HS/LS supports TX circuit designs of up to 30W
+Integrated bootstrap diode
+Adjustable gate drive sink/source current control SRC (Slew Rate Control) for EMI and efficiency improvement
+Several protections (OTP, VCC UVLO, Bootstrap UVLO)
+Thermally enhanced QFN3x3
+Pricing and Availability
+The AOZ32033AQI is immediately available in production quantities with a lead-time of 12 weeks. The unit price in 1,000piece quantities is $0.75 for AOZ32033AQI.
+About AOS
+Alpha and Omega Semiconductor Limited, or AOS, is a designer, developer, and global supplier of a broad range of power semiconductors, including a wide portfolio of Power MOSFET, IGBT, IPM, TVS, HVIC, SiC/GaN, Power IC, and Digital Power products. AOS has developed extensive intellectual property and technical knowledge that encompasses the latest advancements in the power semiconductor industry, which enables us to introduce innovative products to address the increasingly complex power requirements of advanced electronics. AOS differentiates itself by integrating its Discrete and IC semiconductor process technology, product design, and advanced packaging know-how to develop high-performance power management solutions. AOS’s portfolio of products targets high-volume applications, including portable computers, flat-panel TVs, LED lighting, smartphones, battery packs, consumer and industrial motor controls, automotive electronics, and power supplies for TVs, computers, servers, and telecommunications equipment. For more information, please visit www.aosmd.com.
+Forward-Looking Statements
+This press release contains forward-looking statements based on current expectations, estimates, forecasts, and projections of future performance based on management’s judgment, beliefs, current trends, and anticipated product performance. These forward-looking statements include, without limitation, references to the efficiency and capability of new products and the potential to expand into new markets. Forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from those contained in the forward-looking statements. These factors include, but are not limited to, the actual product performance in volume production, the quality and reliability of the product, our ability to achieve design wins, the general business and economic conditions, the state of the semiconductor industry, and other risks as described in the Company’s annual report and other filings with the U.S. Securities and Exchange Commission. Although the Company believes that the expectations reflected in the forward-looking statements are reasonable, it cannot guarantee future results, level of activity, performance, or achievements. You should not place undue reliance on these forward-looking statements. All information provided in this press release is as of today’s date unless otherwise stated, and AOS undertakes no duty to update such information, except as required under applicable law.
+View source version on businesswire.com:https://www.businesswire.com/news/home/20210930005196/en/
+CONTACT: Mina Galvan
+408.789.3233
+mina.galvan@aosmd.com
+KEYWORD: UNITED STATES NORTH AMERICA CALIFORNIA
+INDUSTRY KEYWORD: SEMICONDUCTOR CONSUMER ELECTRONICS COMMUNICATIONS TECHNOLOGY MOBILE/WIRELESS HARDWARE PUBLIC RELATIONS/INVESTOR RELATIONS
+SOURCE: Alpha and Omega Semiconductor Limited
+Copyright Business Wire 2021.
+PUB: 09/30/2021 08:00 AM/DISC: 09/30/2021 08:03 AM
+http://www.businesswire.com/news/home/20210930005196/en
+Support local journalism.
+We are making critical coverage of the coronavirus available for free. Please consider subscribing so we can continue to bring you the latest news and information on this developing story.
+Subscribe Today
+Copyright Business Wire 2021.
+React to this story:
+Tags
+Information Technology Computer Hardware Manufacturing Semiconductor Device Manufacturing Industrial Products And Services Electronic Parts Manufacturing Business Corporate News Products And Services New Products And Services
+TRENDING VIDEO
+Homemade Creamy Alfredo Sauce
+RECOMMENDED FOR YOU
++7
+NATIONAL SPORTS
+Rookie Carlson homers twice, Cardinals beat Brewers 4-3
+BUSINESS
+Kentucky seeks action against WVa gov's coal companies
++2
+BUSINESS
+New Survey Reveals Top Opportunities for Construction Project Cost Management
+BUSINESS
+The St. Joe Community Foundation Creates the “No Ordinary JOE Scholarship” Benefiting Students Throughout Bay and Walton Counties
+Tweets by TheVDT
+TRENDING RECIPES
+Homemade Breakfast Sausage
+Grandma Maybee's Koo Koo Bread
+Poor Man's Apple Cobbler
+ONLINE POLL
+What is your favorite part about fall?
+Decorating home
+Having cooler weather
+Celebrating fall holidays
+Vote View Results
+COUPON DEALS
+NEWSPAPER ADS
+Abundant Life CHURCH OF GOD
+ACE Electric, Inc.
+Advanced Dental Care
+BAYTREE ANIMAL HOSPITAL
+BLINDS UNLIMITED
+Boone Funeral Home, Inc
+BRINSON, WILLIAMS & GROOMES INSURANCE
+CARTER HEATING & AIR
+CBC BANK
+CHANCY DRUGS
+CITIZENS COMMUNITY BANK (2)
+City of Hahira
+CITY OF VALDOSTA
+Coleman| Talley ATTORNEYS
+COLONY MORTGAGE
+COLQUITT EMC
+COOMBS Heating and Air Conditioning, Inc.
+COPELAND MUSEUM
+COWART Electrical & Industrial Contractors, Inc.
+CROWN PRODUCE
+DEEP SOUTH SANITATION
+EASTMAN'S GUN SHOW (2)
+ellianos
+ETHERIDGE ELECTRIC COMPANY, INC
+FARMER BROWNS
+Gateway Pines
+GEORGIA Beer Co.
+Georgia Christian School
+Georgia Department of Public Health
+Georgia Power
+GRIFOLS
+Hahira Automotive Service
+Hahira Nursery, Inc.
+Hahira Veterinary Clinic
+Hargray
+HOBBY LOBBY
+honey pot
+HUDDLE HOUSE
+Kelly Insurance Agency
+Lowndes County Board of Commissioners
+Lowndes County Board of Elections
+Lt. Shannon Kingston and Sgt Douglas Robinson
+McLane FUNERAL SERVICES
+Miss Mothers Kiddie Care & Preschool, Inc.
+MONKEY BRITCHES
+Mr. B's MARKET IGA (2)
+Music FUNERAL SERVICES
+PACKAGING CORPORATION OF AMERICA
+Pauline Baptist Church
+RAY NORTON TIRE & AUTO CENTER
+REAMES CONCRETE COMPANY
+RENASANT BANK
+Ritter's
+Rossman Apiaries
+Sew Blessed
+SORRELL TERMITE & PEST CONTROL
+SOUTHERN FIBERNE CORP
+SOUTHERN FIBERNET CORP.
+Southern OB/GYN
+SOUTHERN TRACTOR & OUTDOORS
+South Georgia Scales
+SOUTHWELL
+STANLEY STEEMER
+SWEET DEAL WAREHOUSE
+Synovus Bank
+THE HERNDON COMPANY (3)
+The Scruggs Company
+Urban Revival Salon
+VILLAGE METALWORKS, INC
+WALLER Heating & Air Conditioning
+Weeks LANDSCAPING & IRRIGATION LLC
+WHAT'S TRENDING
+Articles
+Police: Man dies in Valdosta shooting
+BREAKING: Former Valdosta coach Propst hospitalized
+Teen injured in drive-by shooting
+Vikings blank 'Cats for fifth straight Winnersville win
+$1K bonus available to public safety employees across Georgia
+A Classic Encounter: Valdosta, Lowndes face off for 60th time
+Lowndes High construction delayed
+Families, witnesses detail toxic conditions at Georgia prisons
+Six arrested in Echols drug raid
+Valdosta police seek murder suspect
+THIS WEEK'S CIRCULARS
+Marketplace Marquee
+Advertise here for as little as $5/day. 229-244-1880
+Wish Someone a Happy Birthday here for just $10 per day. 229-244-1880
+First Amendment: Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+CONTACT INFORMATION
+valdostadailytimes.com
+201 N. Troup St
+Valdosta, GA 31601
+Phone: 229-244-1880
+SERVICES
+About Us
+Contact Us
+Advertise with Us
+Staff Information
+Subscriber Services
+Submission Forms
+Add Search Toolbar
+California Privacy Policy
+California Collection Notice
+Do Not Sell My Info
+SECTIONS
+News
+Comics
+Puzzles
+Sports
+Other Products
+Opinion
+Obituaries
+© Copyright 2021 Valdosta Daily Times, 201 N. Troup St Valdosta, GA | Terms of Use | Privacy Policy
+Powered by BLOX Content Management System from TownNews.com.

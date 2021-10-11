@@ -1,0 +1,63 @@
+    Electropages uses cookies to give you the best experience.
+I'm fine with this
+Read less
+Electropages uses cookies to store information on your computer. Some of these cookies are essential to make our site work and others help us to improve the website experience by giving us some insight into how the site is being used.
+By using our site you accept the terms of our Cookie Policy.
+
+Home
+Insights
+Product News
+NPI Channels
+Researchers develop a method for creating unique IDs in chips
+04-10-2021 |   |  By Robin Mitchell
+Researchers from the National Institute of Standards and Technology have recently developed a unique doping technology for creating unique IDs on semiconductors. What challenges do electronic supply chains face, what did the researchers developed, and will unique IDs catch on?
+
+What challenges do electronic supply chains face?
+
+Developing an electronic product for use by the general public is no small feat. The product in question will most likely be required to meet a series of strict regulations, have a minimum level of reliability, and be reproducible (i.e. for the sake of production). It is these many factors that make every decision involved with electronics design equally important, and this includes the component selection stage.
+For example, a circuit in the automotive industry must handle a level of vibration and shock not usually experienced by other markets (such as the home and office). To ensure this, components used in automotive designs need to be automotive-grade, which can withstand environments commonly found in automotive applications.
+Component selection is not the only challenge faced by engineers; component sourcing is also a critical step. Costs of electronic designs are often susceptible, and choosing one resistor over another for a fraction of a penny can translate to thousands of pounds when mass-produced. However, simply selecting a component supplier because it offers lower prices is not always a good idea, and can, in fact, lead to disaster.
+Many components on the market being offered at low prices are counterfeit parts and/or unreliable stock. This is a common problem in the IC industry where rejected dies are put into the packaging and sold as new, older ICs are rebranded as a newer part, or ICs that outright don’t work are marketed as being functional. Suppose these parts find their way into the supply chain. In that case, manufacturers can face significant challenges as entire batches of products can be scrapped, or worse, lawsuits from customers who may have relied on their design for critical applications.
+Therefore, ensuring that components are legitimate from authorised sellers is an essential part of the production process, but trying to check that the suppliers are authentic and their sources is a challenging task.
+
+
+Researchers develop doping method for semiconductor IDs1
+
+Recently, researchers from the National Institute of Standards and Technology (NIST) in the US have developed a new method for creating unique IDs for semiconductors that could allow for supply chain management and tracking.
+Currently, ICs can have unique IDs (UIDs) embedded into their memory or etched onto their casing. Still, these methods can be defeated with the use of programmers or laser engraving systems. Furthermore, the use of the programmed method does not work on ICs that do not integrate processors (such as analogue ICs).
+The researchers used an atomic force microscope to dope silicon dies with a unique pattern of atoms into the silicon structure to combat this. While this method could be achieved by doping the entire wafer during production, using an atomic force microscope is cheaper and allows each IC to be uniquely identified.
+Reading the stored UID is done using a directed radio wave; upon being exposed to radio waves, the IC emits a unique radio frequency pattern. Any changes to the arrangement of the dopants will change the resultant radio wave, making it next to impossible to be cloned in a counterfeit device.
+
+Will unique IDs become more popular?
+
+There is no doubt that as technology improves and the costs to implement UIDs decrease, UIDs will become more popular. Their ability to create chains of trust will help to produce products whose integrity can be assured. Furthermore, the use of open databases that store each parts signature can allow manufacturers to check if a part has been used in another circuit previously.
+UIDs can also help with the fight against e-waste by ensuring that those who own electrical devices properly recycle them. For example, a chip with a UID can be tracked from fabrication to the end device. If this device is found in the trash, the device owner can be found. Furthermore, the company who manufactured the device could be handed back the device for proper recycling. Online documentation could be tied to such devices on their contents and how best to recycle them.
+Of course, such UIDs will most likely be limited to high-end semiconductors and expensive, bulky components; components such as resistors and capacitors will be far too cheap to tag. But this may become irrelevant as preamble hardware becomes more popular and the dependency on external components is reduced.
+By Robin Mitchell
+Robin Mitchell is an electronic engineer who has been involved in electronics since the age of 13. After completing a BEng at the University of Warwick, Robin moved into the field of online content creation developing articles, news pieces, and projects aimed at professionals and makers alike. Currently, Robin runs a small electronics business, MitchElectronics, which produces educational kits and resources.
+Related articles
+Exploration & production industry turns to digital technology
+By Nnamdi Anyadike | 27-11-2018
+Wearable Sensors and Coronavirus
+By Robin Mitchell | 20-05-2020
+How IoT has flourished during COVID-19?
+By Robin Mitchell | 08-10-2020
+If you found this article interesting, you’ll also enjoy the Electropages newsletters.
+Sign up to the Electropages newsletter of your choice.
+Join Us
+Information
+Contact Us
+About
+Archive
+Submit PR
+Advertise
+Manage newsletter
+Subscribe
+Manage Subscription
+RSS feeds
+Our apps
+Social profiles
+All news & general enquiries:
++44 (0)1202 237137 info@electropages.com
+Copyright © 2021 EPM (Electropages Media Ltd)
+Cookie Policy | Privacy Policy

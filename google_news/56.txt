@@ -1,0 +1,77 @@
+SCIENCE
+TECH
+DIY
+REVIEWS
+SUBSCRIBER LOGIN
+Understanding the global chip shortage, a big crisis involving tiny components
+Semiconductors help power everything from your phone to your car. Here's what to know about the major supply chain problem.
+BY SHIRA FEDER | UPDATED AUG 9, 2021 10:21 AM
+TECHNOLOGY
+A modern Intel chip. The company's CEO has said he thinks the industry needs one or two years before the shortage resolves. Intel
+SHARE
+There are chips in nearly everything electric you own, from your phone to your computer to your car. There are even chips in items you wouldn’t expect, such as your washing machine, electric toothbrush, and refrigerator. But these tiny parts that power so much of our lives are now in critically short supply. 
+Top Articles
+READ MORE
+“Right now we have a global supply chain in crisis,” says Patrick Penfield, a professor of supply chain practice at Syracuse University. “We’ve just never ever seen anything of this magnitude impact us before.”
+Nissan said it will be making 500,000 less vehicles due to the chip shortage. General Motors has had to interrupt some of its pickup truck production due to lack of semiconductor chips and has even been parking thousands of vehicles that are completed but still don’t have the needed chips. Apple CEO Tim Cook warned the public in July that chip shortages would affect sales of its phones and tablets.
+Intel chief Pat Gelsinger predicts it will be a year or two before supply can meet demand, and experts say holiday shopping may not offer the variety and options we’re used to.
+Here’s how the chip shortage happened—and when it might be over.
+What are these chips?
+The chips, often called semiconductors, sometimes called microchips, function as the brains of our electronics. They’re tiny technological marvels, hosting billions of transistors within them, though the size of the chip can vary. (Those transistors are like tiny little gates, allowing electrons to pass through them or not.) Their construction involves multiple steps, days, and experts on hand. For example, IBM’s newest chip packs 50 billion transistors into a two nanometer, fingernail-sized space.
+“I imagine there are more than 100 billion chips in daily use around the world,” says Matteo Rinaldi, a professor of electrical and computer engineering at Northeastern University. “So think about how many transistors and semiconductors we use in our lives everyday.” 
+These chips are the lifeblood of modern society, but even before the pandemic, demand for them exceeded supply. This year, economist Rory Green called semiconductors “the new oil,” pointing out that Taiwan and Korea control the lion’s share of chip production today. But while these chips were an American invention, the number of US manufacturers currently creating them has declined severely. In 1990, 37 percent of chips were made in America, says James Lewis, senior vice president and director of CSIS’s Strategic Technologies Program. By 2020, that number was only 12 percent.
+[Related: Here’s the simple law behind your shrinking gadgets]
+For decades, the tech industry has been driven by a prediction made by Intel cofounder Gordon Moore in 1965; it held that “the number of transistors incorporated in a chip will approximately double every 24 months.” And building a factory that can create these chips, which have been consistently shrinking over the years, can cost $10 billion, a price that is prohibitive to most companies. “These are multibillion dollar facilities at the cutting edge of science,” says Lewis.
+What is the chip shortage? 
+As the world shut down because of the COVID-19 pandemic, many factories closed with it, making the supplies needed for chip manufacturing unavailable for months. Increased demand for consumer electronics caused shifts that rippled up the supply chain. Orders began to pile up as manufacturers struggled to create enough chips to meet the new levels of demand. A backlog began to grow and grow and grow.
+Car companies, like Ford, have to predict the amount of chips they will need to produce their cars and order them in advance from one of the chip manufacturers. As of now, it can take at least half of a year for a chip order to come in, says Penfield. The current demand for chips is so great that manufacturers can’t make enough chips to meet it at this time, meaning consumers will soon be seeing higher prices for less goods.
+[Related: Intel’s new chip puts a teraflop in your desktop. Here’s what that means]
+But the issue wasn’t just with manufacturing. As COVID made its way through Asia, ports shut down, sometimes for months. Some 90 percent of the world’s electronics go through China’s Yantian port, and it was recently closed, leaving hundreds of container ships waiting to dock. 
+Once the ports reopened, bottlenecks emerged because of the buildup of items waiting to be shipped. Many parts of the transportation supply chain don’t have the capacity to handle this buildup, or the labor shortages that have been occurring, plunging the supply chain into further crisis. 
+What caused the chip shortage?
+“Bad decisions, bad luck, and then increased demand. Put those three together and you got a shortage,” says Lewis. The pandemic caused an explosive surge in demand for devices. People were at home, using more tablets, phones and other streaming devices than ever before, and the need skyrocketed beyond what manufacturers could provide.
+Bad decisions by the auto industry also added to the shortage. When COVID started, many companies canceled their orders for chips because they assumed the economy was about to take a lengthy hit, says Lewis. Car companies in particular cancelled orders, so chip companies switched to making chips for consumer products, attempting to meet the explosive demand caused by the pandemic. Having retooled their plants to make chips for consumer goods instead of cars, a shortage of car chips ensued.
+[Related: This supercomputer will perform 1,000,000,000,000,000,000 operations per second]
+There aren’t many chip manufacturing plants in the world, and the few that were running during the pandemic were subject to a series of unlucky weather events that delayed the manufacturing process further. Japan’s Renesas plant, which creates almost one-third of the chips used in cars around the world, was severely damaged by a fire, while winter storms in Texas forced some of America’s only chip plants to halt production. Producing these chips also requires a lot of water, and severe drought in Taiwan has also affected production.
+Does China play a role?
+While geopolitical concerns are not the main cause of this chip shortage, one ongoing concern is Taiwan’s tense relationship with China. Taiwan is the world’s leading chip producer, and the theoretical possibility of war between China and Taiwan puts American access to the chip industry in potential jeopardy, and could be catastrophic for many industries that would be unable to get the chips they rely on. “China is deeply tempted to just seize Taiwan,” says Lewis. “The Chinese are desperate to have their own chip industry. It’s become a focal point for the competition between the US and China.”
+President Joe Biden is making a push to invest in American chip manufacturing, asking for a $50 billion investment in the chip industry. The Senate has passed a bill offering tax credits and other incentives for chip manufacturers.
+[Related: A 10-million-pound undersea cable just set an internet speed record]
+American chip manufacturer Intel has announced plans to scale up their chip production, while Taiwan Semiconductor Manufacturing Co and Samsung eye locations for the American factories they plan to build. But while these plans are promising, it will take years before these factories can ramp up their production levels.
+What are the effects of the shortage? 
+“Prices are definitely going to be higher for a lot of devices that require a semiconductor,” says David Yoffie, a Harvard Business School professor who spent almost three decades serving on the board of Intel. “Some products are literally not going to ship, or they’re going to be delayed.” 
+The auto industry is getting hit hard, with estimates saying US manufacturers will make at least 1.5 to 5 million less cars this year. Ford and General Motors have already limited production. Tesla revised its own software to support alternative chips to maintain its production levels.
+And while consumer electronics companies like Apple and Samsung began stockpiling chips early on, saving them from the immense delays the auto industry is facing, Apple recently announced that the chip shortage is expected to delay iPhone production and is already impacting sales of iPads and Macs. Xboxes and Playstations are also in short supply. 
+“It’s gonna be a tough holiday season,” says Penfield. “One thing I would caution consumers on is you probably won’t see the variety that you’re accustomed to. If you can buy before the holiday season really gets going, I think you’re going to be in good shape.”
+When will the issue be resolved?
+Opinions on when the shortage will end vary. The CEO of chipmaker STMicro estimated that the shortage will end by early 2023. The CEO of automaker Stellantis said that the shortage “is going to drag into ’22, easy.” Intel CEO Patrick Gelsinger said the shortage could last two more years. 
+“We’ve probably got about nine, 10 months of this to live through,” says Lewis. “If you can afford to wait, prices will go down.”
+Yoffie’s expectation is that some of the demand will begin to slow down over the next 6 to 12 months. But he estimates that it will likely be two years before supply catches up with demand and equilibrium is reached. 
+“When you get down to three nanometers and two nanometers, which are the levels that we’re talking about for next-generation technology, it’s rocket science, and rocket science is something that doesn’t get solved in a nanosecond,” says Yoffie. “You have to be patient.”
+CHIP SHORTAGE
+CHIPS
+GADGETS
+MICROCHIPS
+SEMICONDUCTOR SHORTAGE
+MORE TO READ
+RELATED
+How to create burner email accounts with iOS 15
+Apple has expanded Hide My Email for certain users.
+READ NOW
+RELATED
+Why DARPA’s new hypersonic weapon could pack such a devastating punch
+Here's how hypersonics—objects that travel faster than Mach...
+RELATED
+Google’s about to get better at understanding complex questions
+Here are all the new ways you can...
+Like science, tech, and DIY projects?
+Sign up to receive Popular Science's emails and get the highlights.
+LET'S GO
+LINKS
+Home Newsletter Sign-up Contact Privacy Policy Terms of Use Masthead Sitemap DepositPhotos Subscriber Login
+Do Not Sell My Personal Information
+FOLLOW US
+DISCLAIMER(S)
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+© 2021 Recurrent. All rights reserved.

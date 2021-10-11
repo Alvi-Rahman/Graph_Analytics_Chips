@@ -1,0 +1,158 @@
+TABOR NETWORK:
+DATANAMI
+ENTERPRISEAI
+HPCWIRE JAPAN
+HPC & AI WALL STREET
+Toggle navigation
+Search the site
+Go
+Quantum Monte Carlo at Exascale Could Be Key to Finding New Semiconductor Materials
+By Linda Barney
+September 27, 2021
+Researchers are urgently trying to identify possible materials to replace silicon-based semiconductors. The processing power in modern computers continues to increase even as the size of the silicon on which components are placed shrinks. The silicon chip size continues to decrease from 14 nanometers (nm) to 10nm, to 7nm and even smaller. The laws of physics suggest that there is a limit to the number of transistors that can fit on silicon-based chips. As this limit is reached, processing gains will decrease and there will be electron interactions between the components on the chip.
+This is one of the research challenges being pursued by scientists preparing for the upcoming Intel-HPE exascale supercomputer, Aurora, which will be housed at the U.S. Department of Energy’s (DOE) Argonne National Laboratory. Supported by the Argonne Leadership Computing Facility’s (ALCF) Aurora Early Science Program, an Argonne team is performing Quantum Monte Carlo research to help locate a new material that could replace silicon-based semiconductors. ALCF computational scientist Anouar Benali is the Primary Investigator on the project.
+Anouar Benali
+Benali explains, “The search for the next semiconductor material will require high-performance computers (HPC) at exascale. Simulations can only be done on very small prototypes of semiconductor materials with current supercomputers. Using an exascale supercomputer, such as the future Aurora system, will allow us to expand simulations of more materials to help find a viable semiconductor material. Our team is also working with ALCF and the Intel Parallel Computing Center in modifying codes to run on the Aurora supercomputer. We have already seen a 20x processing speedup on the ALCF’s Theta supercomputer, which will allow us to run larger and more realistic compounds in our search for a new semiconductor material.”
+What is Quantum Monte Carlo?
+The Quantum Monte Carlo (QMC) calculation is a quantum calculation that provides some of the most accurate solutions to quantum mechanical problems. QMC provides theoretical predictions for many problems at the forefront of research—from materials science to complex biological systems. The main power of the QMC method is that instead of trying to solve analytically the Schrödinger equation, describing and predicting all interactions in nature, QMC generates millions of random solutions. QMC then accepts all the solutions that solve the equation or rejects all the ones that don’t to save research time and improve prediction accuracy.
+
+Semiconductor Quantum Chemistry Research
+Predicting the properties of materials, or designing materials based on desired properties, is one of the most important goals of material science simulations. Benali states, “Most of the phenomena driving these properties occur at very small scales that are ruled by the laws of quantum mechanics.” For example, knowing if a material will be a good semiconductor or fine tuning the composition of a material to generate the perfect semiconductor requires solving the many-body problem of interacting particles in a quantum system. Researchers often use density functional theory (DFT) equations for organic molecules to determine the properties of a many-electron system. DFT simulations are less computationally expensive than QMC, but the predictions are not as accurate.
+Benali’s team developed the open-source simulation code QMCPACK, software which contains Monte Carlo algorithms and uses the Schrödinger equation in calculations. Benali explains, “By solving the Schrödinger equation using statistical methods, large and complex systems can be studied to unprecedented accuracy—including systems where other electronic structure methods have difficulty. The Schrödinger equation can predict all behavior of almost everything in the universe. However, solving the equation for a system as small as a hydrogen molecule is impossible without a significant number of approximations using computer simulations. When simulating properties of more complex materials such as semiconductors, the number of approximations becomes significant, with a tradeoff of a loss of accuracy.”
+“The team can significantly reduce the number of quantum approximations that can be simulated using an exascale system such as the future Aurora supercomputer. Using an exascale system will allow us to run calculations on larger systems as well as increase the accuracy of the simulation result to help identify a new semiconductor material to replace silicon-based semiconductors,” states Benali.
+Scientific Case Study
+The team’s research involves searching for a substitute for silicon (Si) complementary metal-oxide-semiconductor (CMOS) based computing materials. In locating a suitable material to replace silicon, the team must address a fundamental materials problem that current can leak through a hafnium(IV) oxide (HfO2) gate dielectric. Hafnium is used in optical coatings, and as a high-κ dielectric in Dynamic Random-Access Memory (DRAM) capacitors and in advanced metal-oxide-semiconductor devices. Researchers have found evidence that impurities like nitrogen and fluorine are able to reduce leakage currents. However, current computational studies are limited to DFT which do not provide the necessary accuracy to test this theory.
+The team is using QMCPACK software to study the energetics of point defects near a HfO2 interface. QMCPACK is funded by the DOE Exascale Comupting Project. Due to the large number of electrons in these simulations, calculations can only be made possible by the large aggregate memory and performance offered by an exascale system such as the future Aurora supercomputer. Benali states, “Our research seeks to prove that adding the right amount of the right impurities can enable the properties we are looking for in the next generation of semiconductors. But mostly, our research is trying to demonstrate that with enough computer power, quantum simulations can be fully predictive and provide significant support to experimental research.”
+HfO2 semiconductor (Hf in blue, Oxygen in red) between Pt connectors (white) Courtesy of Dr. Benali, Argonne National Laboratory.
+Reducing Calculations with Future Exascale Supercomputers
+Increased compute power enables the research team to use QMC to significantly reduce the number of approximations in the resolution of the Schrödinger equation. “The more solutions we try, the more accurate our results become. The greatest value of using the Monte Carlo approach resides in the fact that each random solution is independent from another, meaning that the resolution can be distributed on as many processing units as are available,” indicates Benali.
+How Long Does Semiconductor Research Take?
+If the accuracy of the answer requires simulating one million random solutions and simulating one solution takes one second on one processing unit, the team’s simulation will end in one million seconds (277 days). However, because the evaluations of the random solutions are independent, on a machine like Argonne’s Theta supercomputer, the evaluation takes about 3.55 seconds. In a more realistic simulation, some operations of initialization and collection of data cannot be parallelized and increase the cost of the computation, but overall the method remains extremely parallel.
+
+Updating QMCPACK Software: Exascale Systems Require a New Approach to Software
+The open-source QMCPACK code used by the team in their in the semiconductor research is maintained by Argonne National Laboratory, Oak Ridge National Laboratory, Lawrence Livermore National Laboratory and several universities. Benali is one of the co-owners and co-developers of QMCPACK. Intel has been working with this group since 2016 and provides access to multiple experimental computer systems along with tools such as the Intel Math Kernel Library (MKL) and Intel compilers. The ALCF team maintains the software and code stacks on test machines. In addition, ALCF staff aids researchers in creating or modifying code so that it performs the desired chemistry functions and is designed to run on the future Aurora exascale system.
+Coding software for an exascale system requires a new approach to software design and coding. Hardware on an exascale system is not a heterogenous system. In an exascale system, there is not one single Central Processing Unit (CPU) but many components such as CPUs, Graphic Processing Units (GPUs), Field Programmable Gate Arrays (FPGAs), or expanded memory that performs different tasks. The team is breaking the program functions into various modules that perform calculations for a component such as a CPU, multiple CPUs, a GPU as well as calculations based on memory. Coding for an exascale system requires that the programmer is more aware of the varied architecture of the system when writing code. In addition, the team’s semiconductor research can do millions of simulations that are running completely separately. So modifying QMCPACK code to optimize running on GPUs is a priority.
+Challenges for Future Quantum Materials Research
+“In our current research, our team uses quantum material science simulations to try to predict the behavior and structure of materials to help locate a suitable material to replace silicon in semiconductors. Our team uses QMCPACK on large scale HPC in our quantum chemistry research. “With the advent of the exascale era, a machine like Aurora will allow simulating more realistic and complex materials, replicating what experimentalists do in-situ. Such leaps will allow to orders of magnitude speed up in the pace of discoveries” indicates Benali.
+The ALCF is a DOE Office of Science User Facility. Primary support for QMCPACK is via the U.S. Department of Energy, Office of Science, Basic Energy Sciences, Materials Sciences and Engineering Division, as part of the Computational Materials Sciences Program and Center for Predictive Simulation of Functional Materials, and also the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.
+References
+“QMCPACK: Advances in the development, efficiency, and application of auxiliary field and real-space variational and diffusion quantum Monte Carlo” , P. R.C. Kent, A Annaberdiyev, A Benali et. al. J. Chem. Phys. 152 (17), 174105 (2020)
+”Defect energetics of cubic hafnia from quantum Monte Carlo simulations”, Raghuveer Chimata, Hyeondeok Shin, Anouar Benali, and Olle Heinonen, Phys. Rev. Materials 3, 075005 – (2019)
+“Zirconia and hafnia polymorphs: Ground-state structural properties from diffusion Monte Carlo” H. Shin, A. Benali, Y. Luo, E. Crabb, A. Lopez-Bezanilla, L.E. Ratcliff, A. M. Jokisaari and O. Heinonen, Phys Rev. Mat 2 (7), 075001 (2018)
+“QMCPACK : An open source ab initio Quantum Monte Carlo package for the electronic structure of atoms, molecules, and solids”, J. Kim, A. Baczewski , T. D. Beaudet, A. Benali , M C. Bennett, M. A Berrill , N. S Blun, M. Casula, D. M Ceperley, S. Chiesa, B. K Clark, R. C Clay III, K. T Delaney, M. Dewing, K. P Esler, H. Hao, O. Heinonen, P. R C Kent, J. T Krogel, I. Kylänpää, Y. Wai Li, M G. Lopez, Y. Luo, R. M Martin, A. Mathuriya, J. McMinis, C. A Melton, L. Mitas, M. A Morales, E. Neuscamman, W. D Parker, S. D Pineda Flores, N. A Romero, B. M Rubenstein, J. A R Shea, H. Shin, L. Shulenburger, A. Tillack, J. P Towsend, N. M. Tubman, B. Van Der Goetz, J. E Vincent, S. Zhang, L. Zhao, Y. Yang. J. Phys. Cond. Mat. 30 195901 (2018)
+Linda Barney is the founder and owner of Barney and Associates, a technical/marketing writing, training, and web design firm in Beaverton, Ore.
+Leading Solution Providers
+Off The Wire
+Industry Headlines
+October 1, 2021
+Recap: Texas Advanced Computing Center Marks Two Decades of Powering Discoveries
+DOE Announces up to $400M Open Call Funding for Basic Research to Advance Science
+SC21 Updates COVID Safety Protocols, Proof of Vaccination Process
+BIG Quantum Hackathon: GENCI Supports Quantum Computing’s Uptake in France
+Energy Secretary Granholm Visits ORNL in Virtual Tour of World-Class Science Facilities
+Fermilab Searches for a New Building Block of Matter and Quantum Computing Power
+Judith Olson, Senior Physicist at ColdQuanta, Named Next Generation Leader of the Year at Women in IT Awards
+Australian National University Sets World Record with Supercomputer for Quantum Chemical Calculations
+Kathy Yelick Named as Next UC Berkeley Vice Chancellor for Research
+IonQ Becomes First Publicly Traded, Pure-Play Quantum Computing Company
+Fujitsu and Osaka University Deepen Collaborative Research and Development for Fault-Tolerant Quantum Computers
+September 30, 2021
+ATPESC: Attendees Worldwide Learn Supercomputing Skills at Annual Argonne Training Program
+Annual Data Mining Conference Honors Best Papers on COVID-19, Disaster Work Zones, More
+Exascale Computing Project to Resume HPC Best Practices Webinar Series on Oct. 13
+NSF Awards U of Michigan $1.8M to Develop Room Temperature, Controllable Quantum Nanomaterials
+Nita Patel Elected IEEE Computer Society 2023 President
+Hyperion Research Invites Submissions for HPC Innovation Excellence Awards
+HPC-AI Advisory Council and ISC Group Open Student Cluster 2022 Competition Submissions
+Google Cloud Leverages 3rd Gen Intel Xeons in New N2 VMs
+SEMI Applauds European Chips Act, Aimed at Boosting Semiconductor R&D and Manufacturing
+More Off The Wire
+Subscribe to HPCwire's Weekly Update!
+Be the most informed person in the room! Stay ahead of the tech trends with industy updates delivered to you every week!
+THE LATEST EDITOR’S PICKS MOST POPULAR
+Between ‘COVID Cabinets’ and Consortia, Summit Isn’t Done with Pandemic Research
+October 1, 2021
+Last year, Summit was one of the first major supercomputing deployments in the fight against COVID-19, heralding a deluge that crescendoed with the cumulative efforts of virtually every research system in the world. While news around COVID-oriented supercomputing research... Read more…
+HPC Career Notes: October 2021 Edition
+October 1, 2021
+In this monthly feature, we’ll keep you up-to-date on the latest career developments for individuals in the high-performance computing community. Whether it’s a promotion, new company hire, or even an accolade, we’ Read more…
+Intel Unveils Loihi 2, Its Second-Generation Neuromorphic Chip
+September 30, 2021
+Four years after the introduction of Loihi, Intel’s first neuromorphic chip, the company is introducing its successor. According to Intel, the second-generation chip will provide faster processing, higher resource density and greater energy efficiency. Intel is also introducing Lava, a software framework for neuromorphic computing. Read more…
+US Closes in on Exascale: Frontier Installation Is Underway
+September 29, 2021
+At the Advanced Scientific Computing Advisory Committee (ASCAC) meeting, held by Zoom this week (Sept. 29-30), it was revealed that the Frontier supercomputer is currently being installed at Oak Ridge National Laboratory in Oak Ridge, Tenn. The staff at the Oak Ridge Leadership... Read more…
+NCAR Prepares for Derecho, Its Third-Generation Weather and Climate Supercomputer
+September 29, 2021
+Derechos, the namesake of the new supercomputer coming to the National Center for Atmospheric Research (NCAR), are fast-moving, widespread bands of thunderstorms. Indeed, NCAR itself is moving quickly and ambitiously wit Read more…
+AWS Solution Channel
+High Burst CPU Compute for Monte Carlo Simulations on AWS
+Playtech is a leading supplier of online gaming and casino products. As part of the GPAS (Gaming Platform as A Service) Developer Programme Playtech provides game design and development tooling including the Ryota Maths Editor. Read more…
+Visit the
+Previous:
+Introducing AWS ParallelCluster 3
+Supporting Climate Model Simulations to Accelerate Climate Science
+Genomics England Develops Genomic and Health Information Platform on AWS
+Help Wanted: QED-C Survey Spotlights Skills Sought by Quantum Industry
+September 28, 2021
+Developing an adequate workforce for the young but fast-growing quantum information sciences industry is seen as a critical element for success. Just what that means in terms of skillsets and positions is becoming cleare Read more…
+Leading Solution Providers
+Contributors
+Tiffany Trader
+Managing Editor
+John Russell
+Editor
+Oliver Peckham
+Editor
+Mariana Iriarte
+Contributing Editor
+Todd R. Weiss
+Contributing Editor
+Addison Snell
+Contributing Editor
+Alex Woodie
+Contributing Editor
+
+
+NNSA Selects Dell for $40M CTS-2 Commodity Computing Contract
+September 28, 2021
+In support of the Department of Energy’s National Nuclear Security Administration (NNSA), the Tri-Lab CTS-2 system contract award was announced last week. The NNSA TriLab partnership – comprising Livermore, Los Alamos and Sandia national labs – awarded Dell Technologies... Read more…
+Pittsburgh Supercomputer Powers Machine Learning Analysis of Rare East Asian Stamps
+September 27, 2021
+Setting aside the relatively recent rise of electronic signatures, personalized stamps have been a popular form of identification for formal documents in East Asia. These identifiers – easily forged, but culturally ubi Read more…
+Purdue Researchers Peer into the ‘Fog of the Machine Learning Accelerator War’
+September 27, 2021
+Making sense of ML performance and benchmark data is an ongoing challenge. In light of last week’s release of the most recent MLPerf (v1.1) inference results, now is perhaps a good time to review how valuable (or not) such ML benchmarks are and the challenges they face. Two researchers... Read more…
+Quantum Monte Carlo at Exascale Could Be Key to Finding New Semiconductor Materials
+September 27, 2021
+Researchers are urgently trying to identify possible materials to replace silicon-based semiconductors. The processing power in modern computers continues to increase even as the size of the silicon on which components a Read more…
+The Case for an Edge-Driven Future for Supercomputing
+September 24, 2021
+“Exascale only becomes valuable when it’s creating and using data that we care about,” said Pete Beckman, co-director of the Northwestern-Argonne Institute of Science and Engineering (NAISE), at the most recent HPC User Forum. Beckman, head of an Argonne National Laboratory edge... Read more…
+Three Universities Team for NSF-Funded ‘ACES’ Reconfigurable Supercomputer Prototype
+September 23, 2021
+As Moore’s law slows, HPC developers are increasingly looking for speed gains in specialized code and specialized hardware – but this specialization, in turn, can make testing and deploying code trickier than ever. Now, researchers from Texas A&M University, the University of Illinois at Urbana... Read more…
+Qubit Stream: Monte Carlo Advance, Infosys Joins the Fray, D-Wave Meeting Plans, and More
+September 23, 2021
+It seems the stream of quantum computing reports never ceases. This week – IonQ and Goldman Sachs tackle Monte Carlo on quantum hardware, Cambridge Quantum pushes chemistry calculations forward, D-Wave prepares for its Read more…
+Asetek Announces It Is Exiting HPC to Protect Future Profitability
+September 22, 2021
+Liquid cooling specialist Asetek, well-known in HPC circles for its direct-to-chip cooling technology that is inside some of the fastest supercomputers in the world, announced today that it is exiting the HPC space amid multiple supply chain issues related to the pandemic. Although pandemic supply chain... Read more…
+TACC Supercomputer Delves Into Protein Interactions
+September 22, 2021
+Adenosine triphosphate (ATP) is a compound used to funnel energy from mitochondria to other parts of the cell, enabling energy-driven functions like muscle contractions. For ATP to flow, though, the interaction between the hexokinase-II (HKII)... Read more…
+The Latest MLPerf Inference Results: Nvidia GPUs Hold Sway but Here Come CPUs and Intel
+September 22, 2021
+The latest round of MLPerf inference benchmark (v 1.1) results was released today and Nvidia again dominated, sweeping the top spots in the closed (apples-to-apples) datacenter and edge categories. Perhaps more interesti Read more…
+Click Here for More Headlines
+Technologies:
+Applications Cloud Developer Tools Interconnects Middleware Networks Processors Storage Systems Visualization
+Sectors:
+Academia & Research Business Entertainment Financial Services Government Life Sciences Manufacturing Oil & Gas Retail
+  Exascale Multimedia Events Organizations and Affiliations Editorial Submissions Subscribe About HPCwire Contact Us Sitemap Reprints
+The Information Nexus of Advanced Computing and Data systems for a High Performance World
+TCI Home Our Publications Solutions Live Events Press Privacy Policy Cookie Policy About Tabor Communications Update Subscription Preferences California Consumers
+© 2021 HPCwire. All Rights Reserved. A Tabor Communications Publication
+HPCwire is a registered trademark of Tabor Communications, Inc. Use of this site is governed by our Terms of Use and Privacy Policy.
+Reproduction in whole or in part in any form or medium without express written permission of Tabor Communications, Inc. is prohibited.
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Reject Read More

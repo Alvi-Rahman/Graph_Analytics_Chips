@@ -1,0 +1,62 @@
+MENU
+September 3, 2021
+CFIUS Prepares To Block Semiconductor Sale To Chinese Entity
+Jonathan Babcock, Panagiotis Bayz, Joseph Benkert, Charles Capito, Brandon Van Grack, Nicholas Spiliotes
+Morrison & Foerster LLP
++ Follow Contact
+LinkedIn
+Facebook
+Twitter
+Send
+Embed
+As close observers of the Committee on Foreign Investment in the United States (“CFIUS” or “Committee”) are aware, the Committee has the authority to recommend that the President of the United States block a transaction on national security grounds. Although it is extraordinarily rare for CFIUS to make such a recommendation, that is exactly what occurred this week to Magnachip Semiconductor Corporation (“Magnachip”), a South Korean chip manufacturer. The Committee’s aggressive action signals that companies operating overseas with even a limited nexus to the United States need to undertake CFIUS due diligence before engaging in a transaction in sectors—like semiconductors—that implicate the U.S. government’s core national security concerns.
+Deal Background
+In March 2021, Chinese private equity firm Wise Road Capital agreed to acquire Magnachip in a deal valued at $1.4 billion. Magnachip is a semiconductor company founded and headquartered in South Korea, but publicly traded in the United States (NYSE: MX) and incorporated in Delaware. The company designs and manufactures analog and mixed signal semiconductors, with revenues of over $500 million in 2020. While publicly traded in the United States, Magnachip has very little, if any, operations within the United States. According to the company’s 8-K submitted to the SEC in May 2021, all of its research and development activities take place outside the United States, primarily in South Korea, and its sales activities take place in South Korea, China, Hong Kong, Taiwan, Japan, and Germany. Magnachip does not have any employees, tangible assets, or IT systems in the United States.
+CFIUS Asserts Jurisdiction
+After the parties announced the transaction in March 2021 without submitting a filing to CFIUS, the Committee reached out to the parties in June 2021 requesting that they submit a filing, which they did. In a rare move, CFIUS then issued an interim order preventing closing of the transaction until it completed its review of the case. 
+CFIUS Blocks Transaction
+On August 27, 2021, Magnachip disclosed in a filing with the Securities and Exchange Commission (“SEC”) that the parties recently received a letter from the U.S. Department of the Treasury, the agency that chairs CFIUS. Pursuant to the letter, the parties were made aware that “CFIUS has identified risks to the national security of the United States arising as a result of the [transaction],” and no “mitigation measures, including those proposed jointly by [the parties]” were considered by CFIUS to “adequately mitigate the identified risks.” Importantly, the letter notes that “absent new information arising during the investigation period that alters CFIUS’s assessment of the national security risks, CFIUS anticipates that it will refer the matter to the President for a decision.”
+In layman’s terms, CFIUS thinks this transaction, no matter how many mitigating controls are put in place, poses a threat to U.S. national security, and it is therefore recommending that President Biden block it. By law, only the president has the authority to prohibit a transaction. In practice, it is rare for CFIUS to send a transaction to the president for action, because parties in most cases agree to abandon or unwind a transaction that CFIUS would otherwise send to the president to avoid a public Presidential Order blocking the transaction. For illustration, CFIUS data published on its website shows that from 2016 through 2020, five cases were sent to the president for decision, while in the same period, 62 cases were withdrawn and transactions abandoned in light of CFIUS-related national security concerns.
+Takeaways
+Expanding jurisdiction. CFIUS applies to foreign acquisitions of and investments in a U.S. business, defined as an entity engaged in interstate commerce in the United States. CFIUS is willing to assert itself in sensitive transactions even where there is a very limited nexus to an actual business in the United States. Ostensibly, it was Magnachip’s public listing on the NYSE, its Delaware incorporation, and a Delaware LLC subsidiary that afforded CFIUS the jurisdictional hook, but all of the elements of the business— management, sales, production, research and development—are located outside the United States.
+Past is not prologue. Despite the rarity of blocking actions and limited jurisdictional nexus, CFIUS did not hesitate to inject itself in a transaction it perceived to raise national security issues. The action signals historical CFIUS patterns and practices should not be given significant weight. If the Committee perceives an avenue to protect perceived national security concerns, it will take it. 
+Scrutiny on the chip industry. CFIUS’s decision to recommend blocking the transaction further evidences the heightened scrutiny the U.S. government applies to the chip sector, particularly to sales to Chinese entities.
+You can’t hide. As detailed above, Magnachip and Wise Road Capital did not make a voluntary filing with CFIUS. Instead, the Committee’s non-notified team reached out to them after the deal was publicly announced to request a filing. This is a prime example of CFIUS’s expanded investigative capabilities. The Committee has been building up its non‑notified team to search for transactions that may pose national security risks but were not voluntarily notified to CFIUS. We discussed this point in our recent article on the 2020 CFIUS Annual report, which indicated that CFIUS evaluated 117 transactions through its non-notified process in 2020 and requested a filing for 17 of those transactions.
+[View source.]
+Send Print Report
+RELATED POSTS
+CFIUS By The Numbers: Key Takeaways From The 2020 Annual Report
+New Rules For Mandatory CFIUS Filings Take Effect On October 15
+Proposed Changes To CFIUS Mandatory Filing Requirements Highlight The Critical Role Of U.S. Export Controls
+LATEST POSTS
+Hong Kong SPACs: Five Things You Need To Know
+SEC Staff Highlights Comments On Climate Change Disclosure
+See more »
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+© Morrison & Foerster LLP 2021 | Attorney Advertising
+WRITTEN BY:
+Morrison & Foerster LLP
+Contact + Follow
+Jonathan Babcock + Follow
+Panagiotis Bayz + Follow
+Joseph Benkert + Follow
+Charles Capito + Follow
+Brandon Van Grack + Follow
+Nicholas Spiliotes + Follow
+PUBLISHED IN:
+CFIUS + Follow
+Jurisdiction + Follow
+National Security + Follow
+Popular + Follow
+Semiconductors + Follow
+U.S. Treasury + Follow
+Administrative Agency + Follow
+Finance & Banking + Follow
+International Trade + Follow
+MORRISON & FOERSTER LLP ON:
+This website uses cookies to improve user experience, track anonymous site usage, store authorization tokens and permit sharing on social media networks. By continuing to browse this website you accept the use of cookies. Click here to read more about how we use cookies.
+Continue
+Back to Top
+Home What Is JD Supra? Subscribe Leverage Your Thought Leadership Privacy Policy Terms & Conditions Contact Team
+Explore 2021 Readers' Choice Awards
+Copyright © 2021 JD Supra, LLC

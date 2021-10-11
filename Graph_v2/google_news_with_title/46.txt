@@ -1,0 +1,54 @@
+Join Our Newsletter - Get important industry news and analysis sent to your inbox – sign up to our e-Newsletter here
+X
+Menu
+ Search
+Sign in
+DIGITAL DISRUPTION
+Global chip shortage: Supply chain hoarding now a factor, says TSMC chief
+Robert Scammell
+5th October 2021 (Last Updated October 5th, 2021 17:06)
+Bloomberg / Getty Images
+Share Article
+The chairman of massive semiconductor manufacturer TSMC has suggested that the global chip shortage is now being exacerbated by dealers stockpiling chips “who-knows-where in the supply chain”.
+Mark Liu told TIME that he was forced to assess the data to establish which TSMC customers were stockpiling.
+Because more chips were being sent to customers than were being sold on in products, such as smartphones and games consoles, TSMC data indicated to Liu that “there are people definitely accumulating chips who-knows-where in the supply chain”.
+Liu said that TSMC has rerouted semiconductors to customers that were truly in need of them.
+“Sometimes [customers] may not be satisfied, but we just have to do what’s best for the industry,” Liu said.
+The semiconductor shortage began to affect industries in earnest in early 2021 but it traces its origins back to 2020. Chinese companies had begun stockpiling semiconductors over fears that they would end up on a US trade blacklist, as happened to Shenzhen-headquartered Huawei.
+The networking vendor has been ostracised by much of the West because of its ties to the Chinese state and accusations that it assists Beijing’s intelligence agencies with espionage.
+Following the outbreak of the West-vs-China trade wars, at the end of 2020 carmakers found themselves at the back of the queue for chips after cancelling orders due to slumping sales at the onset of the pandemic. Severe weather and factory fires compounded the chip shortage at a time when demand for consumer electronics was going up.
+Nearly all major automakers have been forced into sporadic production line closures over the past ten months because they could not source enough semiconductors.
+According to Liu, car companies blamed TSMC for the shortage.
+“But I told them, ‘You are my customer’s customer’s customer. How could I [prioritise others] and not give you chips?’” Liu said.
+He added: “We are learning too, because we didn’t have to do this before.”
+With semiconductor supply issues widely expected to continue into 2022, there have been calls from industry players for a fresh approach to supply chains.
+General Motors will make “some pretty substantial shifts” in its supply chain, the US automaker’s CEO recently said.
+In May, the CEO of chip-manufacturing equipment supplier Applied Materials said the shortfalls showed just-in-time models “may not be the most effective strategy going forward”.
+The month prior Jensen Huang, CEO of GPU maker Nvidia, called for a simplification of supply chains in the automotive sector.
+TSMC, or Taiwan Semiconductor Manufacturing Company, is the dominant player in global chip production. Its fabrication plants build more than half the world’s made-to-order semiconductors, with chip designers such as AMD and Nvidia among its customers.
+TSMC’s dominant position in manufacture – and its close proximity to China – has sparked political reactions in the US and the European Union. Earlier this year US President Joe Biden allocated $50bn to improve American chipmaking capabilities, and the EU has created a semiconductor alliance to improve competitiveness and “increase Europe’s digital sovereignty”.
+But with fabrication plants, or fabs, taking years to construct and costing hundreds of billions of dollars, it is unlikely that TSMC’s supremacy will be challenged by such investment in the short term.
+According to a GlobalData report, the semiconductor industry is “at the start of a 10-year reset in the wake of the pandemic, geopolitical turmoil, and the resulting global shortage”.
+China too has invested billions of dollars into building chipmaking capacity – with mixed results.
+Liu added that a softening of trade tensions between the US and China could help ease the chip problem: “The US and China need to understand that they may not be friends, but they are not enemies either. “We need common rules to … give people some expectation about how to do business.”
+Join Our Newsletter
+Get important industry news and analysis sent to your inbox – sign up to our e-Newsletter here
+Register
+Linkedin
+Twitter
+Facebook
+Decrypting the latest technology news
+Receive our newsletter
+Sign up to our e-Newsletter here
+About Us
+Editorial Standards
+Contact Us
+Verdict Network
+Privacy Policy
+Terms and Conditions
+© Copyright 2021 Verdict Media Limited.
+Powered by
+Verdict is using cookies
+We use them to give you the best experience. If you continue using our website, we'll assume that you are happy to receive all cookies on this website.
+ContinueLearn more
+x

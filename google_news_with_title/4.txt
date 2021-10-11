@@ -1,0 +1,97 @@
+Week's top
+Latest news
+Unread news
+Subscribe
+Nanotechnology
+Physics
+Earth
+Astronomy & Space
+Technology
+Chemistry
+Biology
+Other Sciences
+283
+31
+Share
+Email
+Home
+Physics
+Optics & Photonics
+AUGUST 12, 2021
+New semiconductor device possibilities using black phosphorous
+by William Schulz, University of California - Berkeley
+Wavelength-tunable infrared light-emitting diode consists of black phosphorus and molybdenum disulfide (MoS2) heterostructure on flexible polyimide substrate. Credit: Hyungjin Kim/UC Berkeley
+Stress and strain, applied in just the right manner, can sometimes produce amazing results.
+That is what researchers, led by a team at UC Berkeley's Department of Electrical Engineering and Computer Sciences, discovered about an emerging semiconductor material—black phosphorous (BP)—used to make two types of optoelectronic devices: light emitting diodes (LEDs) and photodetectors.
+Under mechanical strain, BP can be induced to emit or detect infrared (IR) light in a range of desirable wavelengths—2.3 to 5.5 micrometers, which spans the short- to mid-wave IR—and to do so reversibly at room temperature, according to study authors Ali Javey, Lam Research Distinguished Chair in Semiconductor Processing and professor of electrical engineering, and postdoctoral fellow Hyungjin Kim. Javey is also a faculty senior scientist at the Lawrence Berkeley National Laboratory.
+Their findings are significant not only for the ability to reach these wavelengths, Javey and Kim said, but to do so tunably and in one device. Current technology would require multiple bulky devices and differing semiconductor materials to achieve similar results.
+They described their findings in Nature.
+Javey and Kim said that the ability to use a broader range of the IR spectrum, tunable within one device, could help meet the growing demand for applications in optical communications, thermal imaging, health monitoring, spectroscopy, chemical sensing and more. To demonstrate this flexibility, the researchers used one of their new devices to detect multiple gases.
+Black phosphorus on top of flexible substrate is strained when the substrate is bent. Credit: Hyungjin Kim/UC Berkeley
+The Berkeley-led team found that using thin layers of BP in optoelectronic devices and subjecting them to varying degrees of strain results in reversibly tunable output wavelengths over an unexpectedly large range. The output wavelength of BP and other semiconductor materials is a property known as bandgap.
+The spectral range over which an optoelectronic device can operate is largely determined by the bandgap of its semiconductor material. Different approaches can be used to achieve the desired operating wavelength for a given application. For example, alloys—materials of varying composition—and strain can be used to tune the bandgap. While these approaches are indeed effective, they result in devices with fixed operating wavelengths.
+"In our work, we can actively change the bandgap of the black phosphorous such that a single photodetector or LED can change its operating wavelengths within, roughly, the two- to five- micrometer range," Kim said.
+"We can go back and forth as many times as we want," Kim said of the reversibly tunable wavelengths of BP based devices. They exploit BP's "magical" properties, he said, specifically, its bandgap change under strain, which is much larger than those observed with conventional semiconductor materials.
+"There is innovation in the device itself," Javey said, "but the material that we are using, black phosphorus, also has inherently unique properties [bandgap and sensitivity to strain], and we're combining those two key characteristics."
+Black phosphorous is a two-dimensional material like graphene. In a process called exfoliation, researchers use Scotch tape to lift nanometer-thin layers of the material, which is then transferred to a flexible polymer substrate, in this case polyethylene terephthalate glycol (PETG).
+Application of strain can actively and reversibly modulate the wavelength and photon energy of electromagnetic wave emitted from black phosphorus. Credit: Hyungjin Kim/UC Berkeley
+"Because it's mechanically flexible, we can bend it to a desired radius and controllably apply strain to BP," Kim said. That is, bending becomes an effective knob to modulate the BP bandgap.
+Indeed, due to its puckered lattice structure, Kim said, BP shows unique strain-dependent properties which, in addition to bandgap, include tunable van der Waals interaction and piezoelectricity. Strain can be applied to BP in a reversible manner due to its thin membrane nature, he said.
+In one application, the researchers used a technique called non-dispersive IR gas sensing. Because each gas has its own absorption band—that is, the amount of light it absorbs at a specific wavelength—a tunable IR LED of sufficient output wavelength range could detect, for example, carbon dioxide expelled by human breathing. That's because the gas absorbs light at around 4.3 micrometers, within the 2.3 to 5.5 micrometer device range. Other gases detectible with tunable BP LEDs include methane and water.
+An application for BP photodetectors could be thermal imaging. It could be used, for example, in night vision goggles to detect any exothermic heat source like human bodies. Such tunable photodetectors would be capable of selective thermal imaging over a range of IR wavelengths.
+From the materials point of view, there is a lot of interest in identifying new semiconductors that are more efficient in this wavelength range, Javey said. "That's when we started to look at black phosphorus because it was known already to have a bandgap that overlaps with the mid-wavelength IR. From there we looked at how we can build efficient devices like LEDs and photodetectors using this material. But what is new here is tunability—that you can actively tune the device with strain over a large wavelength range."
+Moving forward, Javey said, "I think this device concept can be applied to other parts of the spectrum, perhaps even making devices that could operate in the visible regime. That could enable new types of displays, for example, if these concepts and materials can be incorporated in a manufacturable, scalable way, with miniaturized electromechanical devices."
+Explore further
+Strainoptronics: A new way to control photons
+More information: Hyungjin Kim et al, Actively variable-spectrum optoelectronics with black phosphorus, Nature (2021). DOI: 10.1038/s41586-021-03701-1
+Journal information: Nature
+Provided by University of California - Berkeley
+314 shares
+Facebook
+Twitter
+Email
+Feedback to editors
+1
+2
+Related Stories
+Strainoptronics: A new way to control photons
+JUN 22, 2020
+Researchers demonstrate the bandgap engineering of 2D C₃N bilayers
+AUG 10, 2021
+Engineers bend light to enhance wavelength conversion
+JUL 30, 2021
+Breaking the absorption limit of silicon toward the short-wavelength infrared wavelength range via strain engineering
+AUG 05, 2020
+Closing in on state-of-the-art semiconductor solar cells
+MAY 04, 2021
+Broad spectrum: Novel hybrid material proves an efficient photodetector
+APR 09, 2020
+Load comments (0)
+Medical Xpress
+Medical research advances and health news
+Tech Xplore
+The latest engineering, electronics and technology advances
+Science X
+The most comprehensive sci-tech news coverage on the web
+Newsletters
+Subscribe
+Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+Follow us
+Top
+Home
+Search
+Mobile version
+Help
+FAQ
+About
+Contact
+Science X Account
+Sponsored Account
+Archive
+News wire
+Android app
+iOS app
+RSS feeds
+Push notification
+© Phys.org 2003 - 2021 powered by Science X Network
+Privacy policy Terms of use

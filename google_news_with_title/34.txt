@@ -1,0 +1,132 @@
+Skip to content ↓
+Massachusetts Institute of Technology
+Education
+Research
+Innovation
+Admissions + Aid
+More ↓
+Search MIT
+MIT News | Massachusetts Institute of Technology
+SUBSCRIBE
+TO MIT NEWS NEWSLETTER
+SEARCH NEWS
+A peculiar state of matter in layers of semiconductors
+In a study that could benefit quantum computing, researchers show a superlattice embedded with nanodots may be immune from dissipating energy to the environment.
+Matthew Hutson | Department of Nuclear Science and Engineering
+Publication Date
+August 19, 2021
+PRESS INQUIRIES
+The setup for the milli-electronvolt inelastic X-ray scattering that probes the many-body localization in the disordered superlattice system
+Image courtesy of the researchers
+Scientists around the world are developing new hardware for quantum computers, a new type of device that could accelerate drug design, financial modeling, and weather prediction. These computers rely on qubits, bits of matter that can represent some combination of 1 and 0 simultaneously. The problem is that qubits are fickle, degrading into regular bits when interactions with surrounding matter interfere. But new research at MIT suggests a way to protect their states, using a phenomenon called many-body localization (MBL).
+MBL is a peculiar phase of matter, proposed decades ago, that is unlike solid or liquid. Typically, matter comes to thermal equilibrium with its environment. That’s why soup cools and ice cubes melt. But in MBL, an object consisting of many strongly interacting bodies, such as atoms, never reaches such equilibrium. Heat, like sound, consists of collective atomic vibrations and can travel in waves; an object always has such heat waves internally. But when there’s enough disorder and enough interaction in the way its atoms are arranged, the waves can become trapped, thus preventing the object from reaching equilibrium.
+MBL had been demonstrated in “optical lattices,” arrangements of atoms at very cold temperatures held in place using lasers. But such setups are impractical. MBL had also arguably been shown in solid systems, but only with very slow temporal dynamics, in which the phase’s existence is hard to prove because equilibrium might be reached if researchers could wait long enough. The MIT research found a signatures of MBL in a “solid-state” system — one made of semiconductors — that would otherwise have reached equilibrium in the time it was watched.
+“It could open a new chapter in the study of quantum dynamics,” says Rahul Nandkishore, a physicist at the University of Colorado at Boulder, who was not involved in the work.
+Mingda Li, the Norman C Rasmussen Assistant Professor Nuclear Science and Engineering at MIT, led the new study, published in a recent issue of Nano Letters. The researchers built a system containing alternating semiconductor layers, creating a microscopic lasagna — aluminum arsenide, followed by gallium arsenide, and so on, for 600 layers, each 3 nanometers (millionths of a millimeter) thick. Between the layers they dispersed “nanodots,” 2-nanometer particles of erbium arsenide, to create disorder. The lasagna, or “superlattice,” came in three recipes: one with no nanodots, one in which nanodots covered 8 percent of each layer’s area, and one in which they covered 25 percent.
+According to Li, the team used layers of material, instead of a bulk material, to simplify the system so dissipation of heat across the planes was essentially one-dimensional. And they used nanodots, instead of mere chemical impurities, to crank up the disorder.
+To measure whether these disordered systems are still staying in equilibrium, the researchers measured them with X-rays. Using the Advanced Photon Source at Argonne National Lab, they shot beams of radiation at an energy of more than 20,000 electron volts, and to resolve the energy difference between the incoming X-ray and after its reflection off the sample’s surface, with an energy resolution less than one one-thousandth of an electron volt. To avoid penetrating the superlattice and hitting the underlying substrate, they shot it at an angle of just half a degree from parallel.
+Just as light can be measured as waves or particles, so too can heat. The collective atomic vibration for heat in the form of a heat-carrying unit is called a phonon. X-rays interact with these phonons, and by measuring how X-rays reflect off the sample, the experimenters can determine if it is in equilibrium.
+The researchers found that when the superlattice was cold — 30 kelvin, about -400 degrees Fahrenheit — and it contained nanodots, its phonons at certain frequencies remained were not in equilibrium.
+More work remains to prove conclusively that MBL has been achieved, but “this new quantum phase can open up a whole new platform to explore quantum phenomena,” Li says, “with many potential applications, from thermal storage to quantum computing.”
+To create qubits, some quantum computers employ specks of matter called quantum dots. Li says quantum dots similar to Li’s nanodots could act as qubits. Magnets could read or write their quantum states, while the many-body localization would keep them insulated from heat and other environmental factors.
+In terms of thermal storage, such a superlattice might switch in and out of an MBL phase by magnetically controlling the nanodots. It could insulate computer parts from heat at one moment, then allow parts to disperse heat when it won’t cause damage. Or it could allow heat to build up and be harnessed later for generating electricity.
+Conveniently, superlattices with nanodots can be constructed using traditional techniques for fabricating semiconductors, alongside other elements of computer chips. According to Li, “It’s a much larger design space than with chemical doping, and there are numerous applications.”
+“I am excited to see that signatures of MBL can now also be found in real material systems," says Immanuel Bloch, scientific director at the Max-Planck-Institute of Quantum Optics, of the new work. “I believe this will help us to better understand the conditions under which MBL can be observed in different quantum many-body systems and how possible coupling to the environment affects the stability of the system. These are fundamental and important questions and the MIT experiment is an important step helping us to answer them.”
+Funding was provided by the U.S. Department of Energy’s Basic Energy Sciences program’s Neutron Scattering Program.
+SHARE
+THIS NEWS ARTICLE ON:
+Twitter
+Facebook
+LinkedIn
+Reddit
+Print
+PAPER
+Paper: "Signature of Many-Body Localization of Phonons in Strongly Disordered Superlattices"
+RELATED LINKS
+Mingda Li
+Quantum Measurement Group
+Department of Nuclear Science and Engineering
+School of Engineering
+RELATED TOPICS
+School of Engineering
+Nuclear science and engineering
+Quantum computing
+Research
+Semiconductors
+Quantum Dots
+Heat
+Energy
+RELATED ARTICLES
+Previous item
+Next item
+More MIT News
+Ana Pantelic appointed executive director of MIT D-Lab
+An international development practitioner, academic researcher, and social entrepreneur, Pantelic will help guide D-Lab into its third decade.
+→
+MIT economist Nancy Rose receives the Carolyn Shaw Bell Award
+The prestigious prize honors leadership in advancing the status of women in the economics field through example, scholarship, achievements, and mentoring.
+→
+Professor Emeritus Frederick Frey, a leader in the field of geochemistry, dies at 83
+Over a career spanning five decades, Frey pioneered the use of new techniques to study the Earth’s mantle.
+→
+MIT Welcome Center opens in Kendall Square
+New center provides information and services to MIT visitors, while the adjacent open space offers community-building events and activities.
+→
+Budding coders create apps aimed at real-world impact
+MIT App Inventor’s “Appathon” joins programmers from around the world to imagine a better future and start building it one app at a time.
+→
+MIT brings Campaign for a Better World to a successful finish
+The effort raised more than $6 billion to spark innovation on global challenges.
+→
+More news on MIT News homepage →
+More about MIT News at Massachusetts Institute of Technology
+This website is managed by the MIT News Office, part of the MIT Office of Communications.
+News by Schools/College:
+School of Architecture and Planning
+School of Engineering
+School of Humanities, Arts, and Social Sciences
+MIT Sloan School of Management
+School of Science
+MIT Schwarzman College of Computing
+Resources:
+About the MIT News Office
+MIT News Press Center
+Terms of Use
+Press Inquiries
+Filming Guidelines
+RSS Feeds
+Tools:
+Subscribe to MIT Daily/Weekly
+Subscribe to press releases
+Submit campus news
+Massachusetts Institute of Technology
+MIT Top Level Links:
+Education
+Research
+Innovation
+Admissions + Aid
+Campus Life
+News
+Alumni
+About MIT
+Join us in building a better world.
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, Cambridge, MA, USA
+Recommended Links:
+Visit
+Map
+(opens in new window)
+Events
+(opens in new window)
+People
+(opens in new window)
+Careers
+(opens in new window)
+Contact
+Privacy
+Accessibility
+Social Media Hub
+MIT on Twitter
+MIT on Facebook
+MIT on YouTube
+MIT on Instagram

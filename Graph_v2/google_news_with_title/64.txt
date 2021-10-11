@@ -1,0 +1,148 @@
+SIGN IN
+SUBSCRIBE
+SPOTLIGHT STORY INSIDE A U.S. ARMY BASE HOUSING AFGHAN REFUGEES
+TIME 2030
+Video
+TIME100 Talks
+TIMEPieces
+The TIME Vault
+TIME for Health
+TIME for Kids
+TIME Edge
+Red Border: Branded Content by TIME
+JOIN US
+Newsletters
+Subscribe
+Give a Gift
+Shop the TIME Store
+Connect Wallet
+CUSTOMER CARE
+US & Canada
+Global Help Center
+REACH OUT
+Careers
+Press Room
+Contact the Editors
+Reprints and Permissions
+MORE
+Privacy Policy
+Your California Privacy Rights
+Terms of Use
+Site Map
+CONNECT WITH US
+BACK TO HOME
+Inside the Taiwan Firm That Makes the World’s Tech Run
+A worker enters a “clean room” at chipmaker TSMC’s headquarters in Hsinchu, Taiwan, on Sept. 10 Billy H.C. Kwok for TIME
+BY CHARLIE CAMPBELL
+OCTOBER 1, 2021 6:30 AM EDT
+O
+n the northwest coast of Taiwan, nestled between mudflats teeming with fiddler crabs and sweet-scented persimmon orchards, sits the world’s most important company that you’ve probably never heard of. Taiwan Semiconductor Manufacturing Co., or TSMC, is the world’s largest contract manufacturer of the semiconductor chips—otherwise known as integrated circuits, or just chips—that power our phones, laptops, cars, watches, refrigerators and more. Its clients include Apple, Intel, Qualcomm, AMD and Nvidia.
+Inside its boxy off-white headquarters in sleepy Hsinchu County, technicians in brightly hued protective suits—white and blue for employees, green for contractors and pink for pregnant women—push polished metal carts under a sallow protective light. Above their heads, “claw machines”—nicknamed after the classic arcade game—haul 9-kg plastic containers containing 25 individual slices, or “wafers,” of silicon on rails among hundreds of manufacturing stations, where they are extracted one by one for processing, much like a jukebox selecting a record. Only after six to eight weeks of painstaking etching and testing can each wafer be carved up into individual chips to be dispatched around the planet.
+“We always say that it’s like building a high-rise,” one TSMC section manager tells TIME, pointing to how his technicians diligently follow instructions dictated to them via tablet. “You can only build one story at a time.”
+The $550 billion firm today controls more than half the global market for made-to-order chips and has an even tighter stranglehold on the most advanced processors, with more than 90% of market share by some estimates.
+PAID PARTNER CONTENT
+Combating cell stress: The human health breakthrough you’ve never heard of
+BY MITOQ
+TSMC workers in the “clean room” where fabrication of chips takes place in the company’s Hsinchu headquarters Billy H.C. Kwok for TIME
+“TSMC is just absolutely critical,” says Peter Hanbury, a semiconductor specialist at the Bain & Co. consulting firm. “They basically control the most complicated part of the semiconductor ecosystem, and they’re a near monopoly at the bleeding edge.”
+The importance of semiconductor chips has grown exponentially over the past half century. In 1969, the Apollo lunar module sent tens of thousands of transistors with a combined weight of 70 lb. to the moon; today, an Apple MacBook crams 16 billion transistors within its total weight of just 3 lb. The prevalence of chips will keep rising alongside the spread of mobile devices, the Internet of things (IOT), 5G and 6G networks and a growth in demand for computing power. Global chip sales were $440 billion in 2020 and are projected to grow over 5% annually. President Joe Biden calls them “critical products” whose “supply-chain disruptions can put Americans’ lives and livelihoods at risk,” while the governments of Japan and South Korea compare the importance of semiconductors to “rice.”
+TSMC’s success in cornering this vital market has become a geostrategic migraine. The Pentagon is pressing the Biden Administration to invest more in advanced chipmaking, so its missiles and fighter jets are not dependent on a self-ruling island that China’s strongman President Xi Jinping believes is a breakaway province and has repeatedly threatened to invade. More immediately, a global chip shortage has impacted a staggering 169 industries, according to Goldman Sachs analysis, from steel and ready-mix concrete to air-conditioning units and breweries. Most drastically, automakers across America, Japan and Europe were forced to slow and even halt production, meaning 3.9 million fewer cars will roll into world showrooms this year than last.
+Car companies “immediately pointed the finger at TSMC” for the shortage, TSMC chairman Mark Liu tells TIME in an exclusive interview. “But I told them, ‘You are my customer’s customer’s customer. How could I [prioritize others] and not give you chips?’”
+The scarcity of chips has thrust TSMC from a largely anonymous services company to the center of a global tussle over the future of technology; the firm will play an outsize role in determining what the world looks like at the end of this decade. Some foresee an emerging dystopia, driven by a worsening climate crisis and rising geopolitical tensions between China and the U.S. Liu’s more optimistic scenario is that widespread adoption of artificial intelligence (AI) by 2030 will help mitigate the ravages of climate change through granular weather prediction, make more accurate cancer diagnoses possible earlier, and even fight fake news through automated fact-checking of social media. “With COVID-19, everybody feels the future has been sped up,” says Liu. From his perspective, what it will look like “is much clearer than, say, two years ago.”
+The semiconductor-chip shortage first got boardrooms sweating around February, when average order-to-delivery times for chips stretched to an unprecedented 15 weeks because of a confluence of factors: a pandemic-induced economic slump prompted carmakers to prematurely slash chip orders, which soon rebounded as chips were hoarded by firms that feared being embroiled in the U.S.-China trade and technology war. Amid what was described as a global chip shortage, more chips were being sent to factories than were leaving them in products, meaning “there are people definitely accumulating chips who-knows-where in the supply chain,” says Liu.
+A silicon wafer on display before being sliced into chips Billy H.C. Kwok for TIME
+TSMC chairman Mark Liu Billy H.C. Kwok for TIME
+To fix things, Liu ordered his team to triangulate different data points to decipher which customers were truly in need and which were stockpiling. “We are learning too, because we didn’t have to do this before,” says Liu. It forced him into tough decisions to delay orders for valued clients whose immediate need was judged to be less acute. “Sometimes [customers] may not be satisfied, but we just have to do what’s best for the industry.”
+The crisis sharpened focus on access to technology that the U.S. invented and still designs better than anyone else but doesn’t manufacture at scale anymore. Biden’s $2 trillion plan to fix American infrastructure included $50 billion to boost semiconductor competitiveness. That was on top of $52 billion committed under the U.S. Innovation and Competition Act, which was passed by the Senate in June and is aimed squarely at competing with China in all areas of technology. Yet TSMC alone is investing $100 billion in new capacity over the next three years. It’s a staggering sum, though for Liu, “the more I look at it, it’s not going to be enough.”
+The semiconductor industry has contracted even as the chips themselves have grown more prevalent and pivotal. Other than TSMC, the only firm capable of commercially producing today’s most advanced 5-nanometer (nm) chips is South Korea’s Samsung Electronics. However, TSMC is building a new fabrication plant—or “fab”—across 22 football fields of land in southern Taiwan to produce groundbreaking 3-nm chips, expected to be up to 15% faster and use far less power. This latest generation of chip manufacture, or “node,” will leave U.S. firms like Intel and GlobalFoundries at least two generations behind. “That’s disgraceful for Intel,” says Daniel Nenni, co-author of Fabless: The Transformation of the Semiconductor Industry. “It’s just very disappointing that they lost leadership.”
+Read More: From Cars to Toasters, America’s Semiconductor Shortage Is Wreaking Havoc on Our Lives. Can We Fix It?
+At the outset of the modern computing industry, pioneers like Intel designed and built chips in-house. But American firms began to struggle against Japanese competitors in the 1980s and, to remain competitive, outsourced the fabricating sides of their businesses, instead concentrating on the more profitable design aspect. Fabs were expensive, with low margins, so offsetting that capital investment and risk made a lot of sense.
+The “fabless” trend was foreseen by a canny Chinese-born engineer named Morris Chang, who founded TSMC in 1987 after studying at Harvard, Stanford and MIT and working for 25 years at Texas Instruments. Among his many breakthroughs, Chang pioneered the tactic of initially pricing chips at a loss, in the expectation that gaining an early market share would increase scale to the point when reduced costs would generate a profit. As the technology advanced, the cost of new fabs soared, pushing more chipmakers to outsource and TSMC’s market share to increase. “It was doing work that nobody else wanted to do,” says Willy Shih, a professor at Harvard Business School.
+Workers and visitors must don dust-proof clothing before entering the clean room Billy H.C. Kwok for TIME
+In June 2018, at the age of 86, Chang finally handed over the reins of TSMC to Liu and CEO C.C. Wei. What might have been a difficult transition instead proved a springboard for a more aggressive business philosophy that enabled TSMC to pull clear of rivals. Apart from the billions invested in locking down technological primacy, it is embarking on “a geographic diversification that would not have happened under Morris Chang,” says Shih. While Wei was the more technically focused of the new leadership team, he was perfectly complemented by the polished and business-oriented Liu, whose idea of fun is kicking back with a global-affairs periodical and a classical-music stream on YouTube.
+In many ways, Liu’s career path traces that of his mentor, Chang. A native of Taipei, Liu earned his Ph.D. at the University of California, Berkeley, before taking a job at Intel, where he helped launch the transformative i386 processor that fueled the personal-computer revolution of the late 1980s. After leaving Intel, he spent six years conducting research at AT&T Bell Laboratories in New Jersey before joining TSMC in 1993. One of his first roles was to get his “hands wet” in fab construction, he says, as the founder took him under his wing. “Morris gave me a huge trail of experience, from operations to planning, sales, marketing and R&D,” says Liu. “That’s why I ask our people to get out of their comfort zone to learn things and not just feel satisfied getting a good performance review from your boss.”
+TSMC’s more recent run of success has been linked to one client in particular: Apple. The Cupertino behemoth outsourced the manufacturing of its chips to Samsung for the first six generations of iPhones. But after Samsung launched its own competing Galaxy smartphones, Apple in 2011 brought a lawsuit over IP theft, which was ultimately settled with an award of $539 million to the American firm. That dispute was a boon to TSMC as Apple sought to extricate its supply chains from Samsung and avoid any partnerships that could burnish a potential rival. It was reassuring that TSMC was a dedicated foundry business that wouldn’t stray from its lane. Apple remains TSMC’s biggest client today. “It is a trust business,” says Liu. “We do not compete with our customers.”
+Apple was also pivotal to TSMC’s emergence as undisputed technology leader. Computing has been long governed by Moore’s Law, named after Intel co-founder Gordon Moore, which is better described as an “observation” that processing power doubles every two or so years. The tendency of the industry was to prioritize a new semiconductor node to fit that time frame.
+However, Apple insisted that it wanted a new node for each iteration of iPhone. Because Apple prides itself on never missing a launch of its crown jewel, TSMC was under enormous pressure to come up with constant advances. So instead of combining lots of new technologies to double power every two years, it pioneered small advances annually. “People made fun of TSMC, saying, ‘Oh, that’s not a real node,’” says Nenni. “But taking these baby steps helped them learn these new technologies. And they laughed all the way to the bank.”
+Still, leadership brings different challenges. Chips may be ubiquitous today, but uses for the most advanced variety remain limited. (Toasters and traffic lights can use far less advanced nodes.) As TSMC’s pool of customers has shrunk, the risk of one of them being caught up in political turbulence has swelled; TSMC last year stopped supplying Chinese telecom giant Huawei, for example, after U.S. intelligence agencies accused it—without presenting hard evidence—of being a proxy for the Chinese state. Finding the required resources to keep pushing boundaries is also becoming tougher on an island of just 23 million, where a recent severe drought put the water-intensive semiconductor industry in jeopardy. “The future is more and more challenging,” says Dan Wang, an industry and technology analyst at Gavekal Dragonomics. “When you’re at the top, the only direction is down.”
+Read more: Inside the Controversial Company Helping China Control the Future of the Internet
+TSMC’s dominance is such that its chief rivals are not companies but governments. The auto-industry shortage was a wake-up call for policymakers already reeling from the pandemic and trade war. The European Commission has unveiled a public-private semiconductor alliance aimed at increasing its share of global production to 20% by 2030. South Korea’s government is offering incentives to drive a $450 billion investment by chipmakers through 2030.
+Wafer before being sliced into chips Billy H.C. Kwok for TIME
+China, meanwhile, has been throwing billions at the semiconductor problem, with limited success and some eye-catching failures. Although it will likely soon become the biggest producer of chips by volume, they are not of the latest design. Its top firm is Shanghai-based SMIC, but despite $300 million in government grants in 2019, the best chip it can produce is about five years behind TSMC’s, with little hope of catching up. Meanwhile, at least six multibillion-dollar Chinese chip firms have gone bust over the past two years, including Wuhan Hongxin Semiconductor Manufacturing Co., which turned out to be a $20 billion scam perpetrated by tricksters with no industry experience.
+Beijing’s efforts to catch up have also been hampered by Washington’s repeatedly blocking its attempts to buy foreign chip firms outright, as well as the specialized equipment needed for cutting-edge fabs. This presents a quandary for Beijing, which aspires to the enhanced geopolitical clout that global technological leadership brings. Xi has regularly highlighted the critical importance of “indigenous R&D,” creating “secure and controllable supply chains” and achieving breakthroughs on “choke-point technologies.”
+The situation also presents a quandary to Taiwan and the U.S. While American firms account for 65% of all TSMC sales, China is the biggest end destination by virtue of its role as the world’s factory, importing around $350 billion worth of chips in 2020 alone. Boston Consulting Group estimates that “decoupling” the U.S. and Chinese tech sectors would trim U.S. chip-company revenues by $80 billion, while competition with Beijing would cost those same firms $10 billion to $15 billion.
+Liu echoes many business executives when he says that the current enmity between the U.S. and China benefits no one. Many Chinese firms are stockpiling chips lest they find themselves targeted as Huawei has been. “The U.S. and China need to understand that they may not be friends, but they are not enemies either,” says Liu. “We need common rules to … give people some expectation about how to do business.”
+If TSMC is caught in the middle of a tug-of-war between Washington and Beijing, then so too is the island on which it sits—with far more dangerous potential consequences. On Sept. 16, senior U.S. and Australian officials vowed to “strengthen ties” with Taiwan just a day after both nations, with the U.K., unveiled a new security alliance, dubbed AUKUS, to contain China. Beijing is already sending air and naval sorties close to Taiwan territory with alarming frequency.
+Strategists say Taiwan is protected by an effective “silicon shield,” given what the disruption to chip supply chains in the event of an invasion would mean for China’s economy. However, as tensions and the importance of chips rise in tandem, some analysts are reassessing this viewpoint. Oriana Skylar Mastro, a specialist on China’s military at Stanford University’s Freeman Spogli Institute for International Studies, says the prospect of gaining effective control of the world’s chip supply may make Taiwan more, not less, vulnerable, because a prize that big means Beijing could effectively dictate peace terms: “I think it gives China an upper hand.”
+Liu disagrees, insisting the threat of invasion by Beijing is “overblown.” “Taiwan definitely would not create actions to trigger a war,” he says, acknowledging that the cross-strait relationship is no longer dictated solely by the island. “It is really the U.S.-China relationship.”
+Despite America’s dominance of chip design, its lack of manufacturing capability remains worrisome for policymakers, who are trying to bring more fabs onshore. While remaining a TSMC customer, Intel is revamping its foundry business, building two new fabs in Arizona at a cost of $20 billion. Last year, TSMC committed to building a $12 billion fab, also in the Grand Canyon State. It is also exploring more plants in mainland China, Japan and Europe.
+Liu is candid about the reasons for that U.S. investment and its limitations. It was prompted by “political nudges on our customers,” he says, insisting that “semiconductor localization will not increase supply-chain resilience.” He says it may even “degrade resilience.”
+Read More: Why Is Everything More Expensive Right Now? Let This Stuffed Giraffe Explain
+Making chips is so unbelievably complex and specialized that diversifying the location of fabs will make it more difficult to maintain quality. The transistor in a 3-nm node is just 1/20,000th the width of a human hair. Were you to enlarge a foot-long wafer of semiconductor to the size of the continental U.S., the required patterning for these chips would still be only the width of a thumbnail. The key component may only be silicon—or purified sand—but the magic happens in how it is processed and manipulated. “It’s like baking bread,” says the TSMC section manager. “The ingredients are pretty much the same, but how long should you bake it, what temperature should it be, that’s what matters.”
+A FOUP (Front Opening Unified Pod) waiting to be picked up from the stocker Billy H.C. Kwok for TIME
+For this reason, TSMC’s foundry is meticulously controlled. All visitors must don head covers, dust-free jackets, pants and shoes before passing through an “air shower” to remove errant particles. The extreme ultraviolet lithography machines that TSMC uses each cost around $175 million. Larger fabs will have 20 of them. Creating a chip takes around 1,500 steps, each with 100 to 500 variables. Even if each step’s success rate is 99.9%, that means less than a quarter of the final output is usable. “Is there something slightly different in the water or the air or the chemicals in Arizona?” asks Hanbury. “The R&D team is not going to be a bullet train away to solve these problems.”
+While TSMC founder Chang praised “cheap land and electricity” in the U.S. in a recent speech, he also grumbled that “we had to try hard to scout out competent technicians and workers.” Liu notes that costs in the U.S. have turned out to be “much higher” than TSMC expected.
+It all points to a localization craze driven by politics rather than by science or business. After all, opening a fab in the U.S. affects only one small part of the manufacturing process. Today, semiconductors are typically designed in the U.S., fabricated in Taiwan or South Korea, tested and assembled in Southeast Asia, and then installed into products in China. It is already incredibly specialized: as much as TSMC dominates foundry services, only the Dutch firm ASML produces those advanced lithography machines that all its fabs rely on.
+If a chain is only as strong as its weakest link, opening fabs in the U.S. won’t strengthen much. U.S. competitiveness may be boosted only incrementally. The new TSMC plant in Arizona, for one, will produce 5-nm chips, which, though cutting edge today, will be a couple of nodes behind the fastest when mass production begins in 2024. Meanwhile, TSMC’s headquarters will be moving ahead with next-generation 3-D integrated circuits, which, Liu says, “will unleash the innovation of semiconductor architectures.”
+These technologies are so advanced that it’s impossible to catch up without pumping in vast sums of money. Even then, nothing is guaranteed. After all, the $100 billion investment that TSMC unveiled does not stand alone. It is combined with and augmented by the deep R&D pockets of Apple, Nvidia and all TSMC’s other close partners to create a “budget that is 100 times what you will see on their financials,” says Nenni. “It’s just impossible for any company or country to catch up to this huge ecosystem that’s moving forward like a freight train.”
+What would make more sense, says Liu, is for the U.S. to ensure it stands at the frontier of the next great advance. Its lifesaving prowess in mRNA COVID-19 vaccines, for example, exists only because of huge investments in genomics and biotechnology over the past 40 years. Instead of futilely chasing and localizing aspects of the semiconductor supply chain, Liu suggests plowing that same money into developing the next great leap.
+“The U.S. should focus on their strengths: system design, AI, quantum computing, those forward-looking things,” says Liu. TSMC may already have won 2030, but the decade after is still up for grabs. —With reporting by Gladys Tsai/Hsinchu and Alejandro de la Garza/New York
+MORE MUST-READ STORIES FROM TIME
+Fixing Facebook's Algorithm Could Help Teens—and Democracy
+New York's Vaccine Mandate Is Working, But Hospitals Are Struggling With the Fallout
+Inside a Wisconsin Army Base Where Nearly 13,000 Afghans Await an Uncertain Future
+Atlanta’s First Black Female District Attorney Is at the Center of America's Converging Crises
+How Seinfeld Became One of TV's Great Moneymakers
+Men Are Now More Likely to Be Single Than Women. It's Not a Good Sign
+El Salvador Is Betting on Bitcoin to Rebrand the Country—and Strengthen the President's Grip
+Subscribe to TIME
+WRITE TO CHARLIE CAMPBELL AT CHARLIE.CAMPBELL@TIME.COM.
+SHARE THIS STORY
+READ MORE FROM TIME
+ENTERTAINMENT
+Reggaeton Is So Much More Than Party Music. This Podcast Breaks Down Its Political Roots
+Over the past few months, the Spotify podcast "Loud" been revealing the aspects of the genre’s history too often overlooked: its working class roots, its anti-government impulses, its tenuous relationship with major labels.
+U.S.
+The DOJ Is Getting Involved as Educators Face Violent Threats
+POLITICS
+During the COVID-19 Meltdown, Execs Pocketed Millions in Bonuses While Their Companies Went Bankrupt
+ENTERTAINMENT
+Squid Game’s Jung Ho-yeon on the Scene That Shook Her to Her Core
+IDEAS
+What Americans Don’t Know About the Purdue Pharma Bankruptcy Hurts All of Us
+Thank you for reading TIME. You have a limited number of free articles.
+SUBSCRIBE NOW
+Home
+U.S.
+Politics
+World
+Health
+Personal Finance by NextAdvisor
+Business
+Tech
+Entertainment
+Ideas
+Science
+History
+Newsfeed
+Sports
+Magazine
+The TIME Vault
+TIME For Kids
+TIME Edge
+Video
+Masthead
+Newsletters
+Subscribe
+Give a Gift
+Shop the TIME Store
+Careers
+Press Room
+Contact the Editors
+U.S. & Canada Customer Care
+Global Help Center
+Reprints and Permissions
+Site Map
+© 2021 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Service, Privacy Policy (Your California Privacy Rights), Do Not Sell My Personal Information and TIMEPieces Terms and Conditions.
+TIME may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+This site is protected by reCAPTCHA and the Google Privacy Policy Terms of Service apply.

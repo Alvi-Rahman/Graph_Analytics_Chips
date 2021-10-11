@@ -1,0 +1,45 @@
+NEWS
+TESLA
+SPACEX
+ELON MUSK
+MARKETPLACE
+NEWS
+General Motors secures supply for silicon carbide chips for its next-gen EVs
+(CREDIT: GENERAL MOTORS)
+By
+Maria Merano
+Posted on October 5, 2021
+General Motors (GM) announced an agreement with semiconductor company Wolfspeed Inc., securing its chip supply for the company’s future electric vehicle lineup. Wolfspeed will develop and provide silicon carbide (SiC) power solutions for GM’s electric vehicles.
+GM plans to use Wolfspeed chips in its new Ultium Drive units, which will power the OEM’s electric vehicle lineup. Tesla and Chinese EV manufacturer NIO use SiC chips in their vehicles. Tesla became one of the most notable automakers to use SiC chips for mass-produced vehicles by incorporating it into the Model 3.
+(Mohawk Valley Fab Render
+Credit: Wolfspeed)
+SiC power solutions feature several benefits. They cut energy loss by more than half compared to traditional silicon wafers, and they also dissipate heat well. Silicon carbide is also the world’s third-hardest substance.
+Wolfspeed is based in North Carolina and produces Silicon Carbide (SiC) chips. As per its agreement with GM, Wolfspeed plans to produce “silicon carbide power device solutions” at its 200mm-capable Mohawk Valley Fab in Marcy, New York.
+Last fall, the company announced its plans to establish a Silicon Carbide corridor along the East Coast of the United States. Wolfspeed is still constructing Mohawk Valley Fab, which it claims will be the world’s largest Silicon Carbide fabrication facility that would be “automotive-qualified” and 200mm-capable. The Mohawk Valley Fab facility is expected to go online in early 2022.
+“Our agreement with Wolfspeed represents another step forward in our transition to an all-electric future,” said Shilpan Amin, GM vice president, Global Purchasing and Supply Chain. “Customers of EVs are looking for greater range, and we see silicon carbide as an essential material in the design of our power electronics to meet customer demand. Working with Wolfspeed will help ensure we can deliver on our vision of an all-electric future.”
+GM will also participate in the Wolfspeed Assurance of Supply Program (WS AoSP). As part of the Ws AoSP, GM secures its silicon carbide chip supply for future EV production. GM recently reported a decrease in third-quarter sales, citing the semiconductor shortage as the cause. ARK Invest Cathie Wood pointed out that EVs require more chips per vehicle, so GM securing its chips supply with Wolfspeed might be a step in the right direction.
+The Teslarati team would appreciate hearing from you. If you have any tips, reach out to me at maria@teslarati.com or via Twitter @Writer_01001101.
+SPONSORED CONTENT
+The Penny Hoarder Issues “Urgent” Alert: 6 Companies Are Overcharging You
+By The Penny Hoarder
+How many times have we fallen for this?
+RECENT MOST POPULAR
+LIFESTYLE
+Tesla captures harrowing footage of Model X hunted and attacked by enraged driver
+NEWS
+Tesla Model S Plaid controversial steering yoke wins over critic
+NEWS
+SpaceX snags launch contract from Arianespace after Vega rocket fails twice
+NEWS
+Lucid begins production of Air sedan, expects October for first deliveries
+NEWS
+Tesla’s Elon Musk shares FSD Beta rollout strategy, V10.2 release date
+?
+HOME
+ABOUT US
+CONTACT US
+ADVERTISE WITH US
+TERMS
+PRIVACY
+Copyright © TESLARATI. All rights reserved.
+TO TOP

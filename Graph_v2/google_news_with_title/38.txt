@@ -1,0 +1,32 @@
+Skip to content
+News
+Virtual Reality
+Science
+Reviews
+Games
+Hardware
+Finance
+Cloud Computing
+TSMC says chip shortage is a myth, companies have built up inventories
+October 6, 2021 by David
+According to an article in TIME magazine, in the current chip shortage situation, part of the shortage may have been artificially created by one or more companies in the chip supply chain. The article looks at TSMC’s role in the global chip manufacturing industry.
+TIME interviewed TSMC President Mark Liu, who works in the industry, among others.
+When asked about the automakers’ complaints, they were among the first to suggest TSMC was one of the problems. Because of the various allegations against TSMC, Liu had a team collect data to find out what was going on and which customers were truly out of stock and which customers might be hoarding inventory.
+There are definitely people stockpiling chips in the supply chain. The result was that TSMC decided to reallocate some production to customers it felt were running low on product, while those who had inventory reduced their allocation of new wafers. Obviously, this was not a popular decision, but given the current situation, it seems fair.
+Liu said, “There are definitely people hoarding chips in the supply chain,” suggesting that it is not TSMC customers who are the problem, but the middlemen and distributors who are hoarding chips and driving up prices.
+Related Posts
+AMD: Chip shortage will be resolved in the second half of 2022
+Apple warns chip shortage will affect iPad and Mac in current quarter
+Detu MAX, 3D, 8K and 360º Virtual Reality camera with built-in AI chip
+Global chip shortage expected by 2022: NVIDIA and AMD graphics cards still out of stock
+TSMC and Intel, 5nm node will be built in Foundry after Xe-HPG
+RELATED:   New app developed to detect bullying and harassment on social networks
+Post navigation
+AMD RX 6600, the performance would be on par with the RTX 3060
+About Us
+Contact Us
+Legal Information
+Privacy Policy
+Twitter
+Facebook
+© 2021 OptoCrypto. All rights reserved.

@@ -1,0 +1,108 @@
+ADVERTISE
+CONTACT US
+ABOUT US
+SUPPLIER DIRECTORY
+SCB YOUTUBE
+LOGIN
+SUBSCRIBE
+CORONAVIRUS
+LOGISTICS
+TECHNOLOGY
+GENERAL SCM
+WAREHOUSING
+INDUSTRIES
+REGIONS
+THINK TANK
+WEBINARS
+PODCASTS
+VIDEOS
+WHITEPAPERS
+What Will Replace Silicon Chips in the Next Generation of EVs?
+An employee displays a 300mm silicon-carbide wafer. Photo: Bloomberg.
+September 30, 2021
+Bloomberg
+As automakers scramble to make electric vehicles with longer ranges and speedier charging times, the chip industry has a message for them: You’re doing it wrong.
+Semiconductor companies are urging EV makers to ditch traditional silicon chips and embrace materials that will make cars more efficient, helping ease consumers’ “range anxiety” and someday making recharges as quick as a gas-station fill-up. But there isn’t an agreement yet on which approach to use. Silicon carbide is the front-runner, with gallium nitride emerging as a key contender.
+What are these new materials? Well, silicon carbide — as the name suggests — is a combination of two elements, silicon and carbon. And it does a better job as a power converter, meaning chips using the material can move energy around with less of it getting lost along the way. The same is true of gallium nitride, which is made of gallium and nitrogen and — like silicon carbide — has a distinct edge over traditional silicon. Proponents say it could cut charging time in half. 
+Choosing the right technology has especially high stakes as the auto industry undergoes its biggest transformation in more than a century. Manufacturers around the world are racing to ditch internal combustion engines, and even icons of the gasoline age like Ford Motor Co.’s Mustang and the GMC Hummer are getting versions with batteries.
+Along the way, chips have become ever more critical to how a vehicle works, spanning everything from the powertrain to the airbags. That’s become painfully apparent this year as carmakers have had to limit production and leave dealer lots empty because they can’t find enough silicon. But getting automakers on board with the newer technologies is critical to raising EVs to the next level. 
+“It’s a big learning curve for the carmakers,” said Jean-Christophe Eloy, head of Yole Développement, a semiconductor analysis firm in France. “A good battery, a good inverter and a good electric motor doesn’t give you a good electric car.”
+The good news, Eloy says, is that Tesla Inc. — a company that prodded the industry to embrace EVs in the first place — could help spur this transition as well. 
+Tesla is one of the first major adopters of silicon-carbide chips, supplied by STMicroelectronics NV, Eloy said. And Chief Executive Officer Elon Musk has touted the technology as a key advantage of his cars.
+With silicon carbide, watts of power can be crammed into the battery much more quickly, cutting charge times. And it provides for longer ranges because there’s less leakage — wasted power — as a car taps the energy needed to drive motors. Infineon Technologies AG, the biggest maker of automotive chips, expects silicon carbide to exceed more than 30% of the market in electric-vehicle power chips by 2025.
+“Silicon carbide can bring a significant advantage, literally a 5% to 10% improvement in range,” according to Stephan Zizala, the head of Infineon’s automotive high-power solutions group.
+The typical reaction at the time: “Why would I do that? It’s crazy.”
+Some manufacturers are already sold on the concept. General Motors Co. is using silicon-carbide devices in its Ultium EV battery platform, the basis of all of its future electric vehicles. Toyota Motor Corp., which pioneered hybrid vehicles with the Prius, uses silicon carbide in the hydrogen-powered Toyota Mirai, and its supplier Denso Corp. has built the chips into other vehicle lines.
+Stellantis NV, formed from the merger of Fiat Chrysler Automobiles NV and French rival PSA Group earlier this year, said recently that it may use silicon carbide in power inverters that will be key to mass manufacturing a new generation of electric vehicles globally.
+But some companies, such as GM, are hedging their bets. They’re also looking at gallium nitride, or GaN, for future use. 
+Gallium nitride is a newer entrant — and it’s not yet clear what role it will play. Infineon expects it to complement other technologies. Others are positioning it as more of a rival to silicon carbide. BMW AG earlier this month signed a deal to secure $250 million of such chips from GaN Systems Inc.
+Gallium-nitride chips can cut the time it typically takes to charge a car to 4.7 hours from 11.3 hours, saving 70% on energy in the process. It also could boost the vehicle’s range by 5% and use fewer batteries. That’s according to startup Navitas Semiconductor Inc., which is telling investors that gallium-nitride chips will account for 16% of the power semiconductor market by 2026, up from less than 1% last year.
+Carmakers have taken years to warm up to the new technologies. When silicon carbide was first offered to auto manufacturers more than a decade ago, they shunned it as “horribly expensive,” said Michael Duhaime, vice president of JJE North America, a Chinese-owned maker of electric drivetrains in Troy, Michigan.
+The typical reaction at the time: “Why would I do that? It’s crazy,” he said. Now it’s making its way into premium vehicles, where cost is outweighed by the performance benefits. 
+There are still some painful trade-offs, though. Traditional silicon-based chips are made in the billions each year, and the technology’s 50 years of dominance has created a massive global infrastructure to produce it. That’s brought costs down. Silicon-carbide wafers, the basic material on which the new chips are built, are produced by only a few companies, such as Cree Inc., in a process that’s still difficult and expensive.
+One obstacle is the material itself, which has to be grown from seed crystals in a chemical process. There are relatively few crystals available that will produce the purity required. Any impurities can result in wafers and chips that are less efficient. In a sign of how scarce the materials are, Cree rival On Semiconductor Corp. agreed to pay $415 million last month for GT Advanced Technologies, acquiring its supplier of silicon carbide. That deal lets it secure access to the raw material.
+Silicon-carbide components could add an extra $200 to the cost of a vehicle, according to an estimate by Cree. But boosters of the new technology say the cost will quickly be recouped because cars won’t need as many batteries.
+And that speaks to the need for carmakers to put more thought into the chips they use, Eloy said.
+“If you want to save costs, if you want to increase range, if you want to do all of this optimization, you need to have your hands in the semiconductors,” he said.
+RELATED CONTENT
+RELATED VIDEOS
+SOURCING/PROCUREMENT/SRMDATA MANAGEMENT (BIG DATA/IOT/BLOCKCHAIN)TECHNOLOGYAUTOMOTIVEHIGH-TECH/ELECTRONICS
+Related Articles
+Will Emerging Tech Drive Next Generation of Supply Chain Success?
+Tight Battery Market Is the Next Test for EVs After Chip Crisis
+Next-Gen Asset Tracking Technology Could Replace RFID in Coming Years
+BLOOMBERG
+High Quits Rates, Poaching: U.S. Firms Are Plagued by Turnover
+MORE FROM THIS AUTHOR
+Wake up to Coronavirus Updates and the latest Supply Chain News!
+
+Subscribe to our Daily Newsletter
+Timely, incisive articles delivered directly to your inbox.
+Popular Stories
+Christmas at Risk as Supply Chain ‘Disaster’ Only Gets Worse
+Logistics
+Can a VMT Tax Solve the Infrastructure Funding Dilemma?
+Transportation & Distribution
+What Will Replace Silicon Chips in the Next Generation of EVs?
+Sourcing/Procurement/SRM
+Podcast | Why Supply Chains Are Critical to the Success of Brands
+Logistics
+High Quits Rates, Poaching: U.S. Firms Are Plagued by Turnover
+HR & Labor Management
+Digital Edition
+100 Great Supply Chain Partners of 2021
+VIEW THE LATEST ISSUE
+Case Studies
+E-Commerce Company Cuts Order Fulfillment Time by 40%
+Fashion Retailer Halves Fulfillment Time With Omichannel Automation
+Distributor Scales Business by Integrating Warehouse Automaton Software
+Fast-Growing Fashion Brand Scales E-Commerce Fulfillment With Whiplash
+Global Manufacturer Cuts Costs, Improves 5S Organization With Seegrid AMRs
+Visit Our Sponsors
+More From SCB
+FEATURED CONTENT
+VIDEO LIBRARY
+THINK TANK BLOG
+SUPPLYCHAINBRAIN PODCAST
+WHITEPAPERS
+WEBINARS
+Digital Offerings
+DIGITAL ISSUE
+SUBSCRIBE
+MANAGE YOUR SUBSCRIPTION
+NEWSLETTERS
+Resources
+EVENTS CALENDAR
+SCB'S GREAT SUPPLY CHAIN PARTNERS
+SUPPLIER DIRECTORY
+CASE STUDY SHOWCASE
+SUPPLY CHAIN INNOVATION AWARDS
+100 GREAT PARTNERS FORM
+SCB Corporate
+ADVERTISE ON SCB.COM
+ABOUT US
+PRIVACY POLICY
+CONTACT US
+DATA SHARING OPT-OUT
+All content copyright ©2021 Keller International Publishing Corp All rights reserved. No reproduction, transmission or display is permitted without the written permissions of Keller International Publishing Corp
+Design, CMS, Hosting & Web Development :: ePublishing

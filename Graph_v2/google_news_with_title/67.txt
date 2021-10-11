@@ -1,0 +1,83 @@
+SKIP TO CONTENT
+RANKINGS
+MAGAZINE
+NEWSLETTERS
+PODCASTS
+COVID-19
+MORE
+SEARCH
+SIGN IN
+Subscribe Now
+Most Popular
+The Shiba Inu cryptocurrency is now the world’s 20th-biggest after surging 216% over the past week
+PAID CONTENT
+See how to transform your operations with data
+FROM DELOITTE
+Is this the sound of a stock market bubble popping?
+‘It’s going to be less than that.’ Biden cuts $3.5 trillion signature bill to save support from moderates
+TECHCHIP MANUFACTURING
+Shares of this obscure chip component supplier have surged by over 1200% in the past three years
+BY 
+DEBBY WU
+, 
+TAKASHI MOCHIZUKI
+, AND 
+BLOOMBERG
+September 16, 2021 10:37 AM GMT+6
+Subscribe to Data Sheet, a daily brief on the business of tech, delivered free to your inbox.
+Nan Ya Printed Circuit Board Corp. is hardly a household name in the tech industry. But the obscure Taiwanese company makes an essential component for chipmaking that has become the latest bottleneck for automakers and electronics companies suffering from semiconductor shortages.
+PAID CONTENT
+The connected future of audio
+FROM HARMAN
+The component goes by the unwieldy name of Ajinomoto build-up film (ABF) substrate and it’s one of the least glamorous niches in the chips industry. It’s part of the packaging that protects the handful of chips needed to power your computer or car and allows communication among them.
+Many of the world’s most advanced semiconductors can’t run without the substrates. So while giants like Intel Corp. and Taiwan Semiconductor Manufacturing Co. spend hundreds of billions trying to alleviate chip shortages, the lack of that single component could hinder production for years. Supplies are likely to remain constrained until at least 2025 due to limited capacity, according to people familiar with the matter. 
+Top executives from Intel, Nvidia Corp. and Advanced Micro Devices Inc. have all warned about shortages in recent months. Broadcom Corp. recently told customers the lead time for its main router chips is going up from 63 weeks to 70 weeks due to a lack of substrates, according to one person, who asked not to be named as the information is not public.
+The crunch shows how vulnerable global supply chains remain to disruptions almost two years into the COVID-19 pandemic. Companies and investors have almost no visibility into where the next shock could come from.
+“This crisis caught a number players off guard,” said Peter Hanbury, a partner at Bain & Co. “As demand for PCs, gaming cards and cloud services increased with COVID-19 and working from home, this critical component suddenly became a real bottleneck for many players such as AMD and Nvidia.”
+The squeeze is turning low-profile companies like Nan Ya into stock market stars. Its shares have soared 1,219% in the past three years through Wednesday, and analysts project more to come. ABF substrate makers such as Unimicron Technology Corp., Kinsus Interconnect Technology Corp., and Ibiden Co. have all seen their stocks climb too.
+“Profits at these companies are expected to keep soaring for years to come as shipment quantities skyrocket,” said Hideki Yasuda, an analyst at Ace Research Institute.
+Nan Ya rose as much as 3.2% Thursday, while Unimicron gained 3.9% and Kinsus added 2.7%.
+ABF substrate is a relatively new component, pioneered by Intel in the late 1990s as it developed more powerful microprocessors. It takes its name from Ajinomoto Co., a Japanese company that produces the substrate’s film-like insulation. The material was first adopted as the preferred packaging technology for central processing units in personal computers and servers because it facilitates speedy computations by high-end chips. 
+Sales of ABF substrates surged in the early 2000s with the Internet boom, then took a hit as smartphones began replacing PCs in the late 2000s. Substrate makers’ fortunes started to recover around 2018 as countries began to roll out fifth-generation wireless services, which led companies like Broadcom that make networking chips to adopt the material for use in routers, base stations and related applications. The advent of 5G also boosted demand for more powerful server chips to handle cloud computing, artificial intelligence and smart-driving technologies. The cost of ABF substrate, usually quoted per chip, starts at about 50 cents a chip and tops $20 for premium server CPUs.
+Major semiconductors companies like Intel, AMD and Nvidia now all depend on ABF substrates to produce the most powerful chips in the world. But substrate makers have been reluctant to invest aggressively in capacity because of money-losing slumps in the past. Supply is expected to rise at a compound annual growth rate of 16% through 2024, while demand is estimated to climb 18% to 19%, Citigroup Inc. analysts Grant Chi and Takayuki Naito forecast in early July. 
+Owen Cheng, an analyst at President Capital Management Corp., wrote in a note this month that the gap between demand and supply will rise as much as 33% next year compared to this year because of growth in technologies like high-performance computing and artificial intelligence. That will probably benefit the likes of Nan Ya and Unimicron.
+“Nan Ya could raise its ABF substrates price by 35% in 2022,” Cheng wrote.
+The ABF situation adds to a series of bottlenecks in the chip industry that have hampered the global recovery from COVID-19, hitting even giants like Toyota Motor Corp. and Apple Inc. Companies around the world are struggling to produce enough to meet demand.
+Intel warned in July that revenue in its client computing group will decline sequentially due to constraints from substrates and other components. Broadcom, which sells to companies like Apple and Cisco Systems Inc., declined to comment on its wait times.
+Some customers are taking matters into their own hands. AMD Chief Executive Officer Lisa Su told analysts in April that the chipmaker would put its own money into increasing capacity at suppliers. 
+“On the substrate side, in particular, I think there has been under-investment in the industry,” she said. “And so we’ve taken the opportunity to invest in some substrate capacity dedicated to AMD, and that will be something that we continue to do going forward.”
+Auto chip suppliers will use more ABF substrates as vehicles grow increasingly electrified and digitized. They are, however, struggling to get top priority among substrate makers because they lack the bargaining power of major semiconductor companies like Intel, people familiar with the situation said. That could mean more direct investment in substrate producers or the entry of new ABF substrate players.
+“Going forward, I expect we’ll see more players change their approach to this segment with a more careful plan to monitor capacity and more efforts to reserve capacity in advance,” said Hanbury of Bain. 
+Nan Ya is stepping up investment. The company is spending at least NT$8 billion ($289 million) in capital expenditure this year and even more in 2022. The company will boost ABF substrate production capacity 40% from its 2020 level by 2023, according to company spokesman Jack Lu. Even that won’t be enough for customers.
+“Demand will continue to outpace supply until 2023,” Lu said.
+Unimicron said in July that most of the company’s ABF substrate capacity has been allocated to various customers up until 2025.
+The tightness is pushing up profits throughout the industry. Nan Ya is projected to see operating profit almost triple this year as revenue rises 33%, according to analyst estimates compiled by Bloomberg. Citigroup analysts Chi and Naito raised their price targets for all the major ABF substrate makers, including Unimicron, Nan Ya, Kinsus and Ibiden. 
+Cheng of President Capital Management recently bumped his price target for Nan Ya to NT$570. That’s 27% higher than its current price.
+Related Articles
+AUTO
+‘We want to be in control’: Frustrated carmakers upend industry after chip shortage shatters their faith in suppliers
+September 24, 2021
+BY 
+CHRISTIAAN HETZNER
+AUTO
+Sit tight, chip shortage likely to last to 2023, says top supplier to auto industry
+May 4, 2021
+BY 
+CHRISTIAAN HETZNER
+TECH
+Semiconductor equipment supplier ASML is profiting big time from continued global chip shortage
+April 21, 2021
+BY 
+CHRISTIAAN HETZNER
+TECH
+Texas power failures shut down chip factories, which could send shock waves up the supply chain
+February 17, 2021
+BY 
+IAN KING
+ AND 
+BLOOMBERG
+INTERNATIONAL
+Supply chain delays are bad—China’s rolling power outages will make them worse
+September 28, 2021
+BY 
+EAMON BARRETT
